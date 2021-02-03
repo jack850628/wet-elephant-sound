@@ -161,7 +161,7 @@
                         <v-expansion-panel>
                             <v-expansion-panel-header>{{audioGroup.name}}</v-expansion-panel-header>
                             <v-expansion-panel-content>
-                                <v-btn elevation="3" class="button" v-for="(item, k) in audioGroup.datas" :key="k" @click="preview(item)" v-show="!searchString | item.name.indexOf(searchString) != -1">{{item.name}}</v-btn>
+                                <v-btn elevation="3" class="button" v-for="(item, k) in audioGroup.datas" :key="k" @click="preview(item)" v-show="item.name.indexOf(searchString) > -1">{{item.name}}</v-btn>
                             </v-expansion-panel-content>
                         </v-expansion-panel>
                     </template>
