@@ -1,0 +1,219 @@
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>大濕之音</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+    <style>
+        html, body, #app{
+            width: 100%;
+            height: 100%;
+            margin: 0px;
+            background-color: #272727;
+            color: #FFFFFF;
+        }
+        .button{
+            margin: 2px;
+        }
+        .play-item.v-btn.v-btn--disabled.v-btn--has-bg{
+            background-color: orange !important;
+            color: white !important;
+        }
+    </style>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.8.4/Sortable.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.20.0/vuedraggable.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+    <script src="./audios.js"></script>
+    <script>
+        const SEARCH_PARAMS_1 = 'q';
+        window.onload = function(){
+            var searchParams = new URLSearchParams(location.search);
+            var app = new Vue({
+                el: '#app',
+                vuetify: new Vuetify(),
+                components: {
+                    vuedraggable,
+                },
+                data: {
+                    audios: audios,
+                    about: false,
+                    timeoutId: null,
+                    playing: false,
+                    playIndex: -1,
+                    audioPlayQueue: [
+
+                    ],
+                    searchString: '',
+
+                    share: false,
+                    shareLink: '',
+                },
+                methods: {
+                    audioStop(){
+                        if(this.playing && this.playIndex < this.audioPlayQueue.length){
+                            this.play(this.audioPlayQueue[this.playIndex++].url);
+                        }else{
+                            this.playing = false;
+                            this.playIndex = -1;
+                        }
+                    },
+                    play(url){
+                        audio.src = `https://www.myinstants.com${url}`;
+                        audio.play();
+                    },
+                    playButton(){
+                        if(this.audioPlayQueue.length > 0){
+                            this.playing = true;
+                            this.playIndex = 0;
+                            this.play(this.audioPlayQueue[this.playIndex++].url);
+                        }
+                    },
+                    stopButton(){
+                        this.playing = false;
+                        this.playIndex = -1;
+                        audio.pause();
+                    },
+                    clearButton(){
+                        this.audioPlayQueue.splice(0, this.audioPlayQueue.length);
+                    },
+                    shareButton(){
+                        this.shareLink = `${location.origin}${location.pathname}?${SEARCH_PARAMS_1}=${btoa(JSON.stringify(this.audioPlayQueue.map(i => i.id)))}`;
+                        this.share = true;
+                    },
+                    removeQueueItem(index){
+                        this.audioPlayQueue.splice(index, 1);
+                    },
+                    preview(audioData){
+                        if(this.timeoutId == null){
+                            this.timeoutId = setTimeout(() => {
+                                this.timeoutId = null;
+                                this.play(audioData.url);
+                            }, 500);
+                        }else{
+                            clearTimeout(this.timeoutId);
+                            this.timeoutId = null;
+                            this.audioPlayQueue.push(audioData);
+                        }
+                    },
+                    copyLink(){
+                        shareLink.select();
+                        document.execCommand("copy");
+                    }
+                }
+            });
+            if(searchParams.get(SEARCH_PARAMS_1)){
+                let array = JSON.parse(atob(searchParams.get(SEARCH_PARAMS_1)));
+                let audioList = audios.flatMap(i => i.datas);
+                app.$data.audioPlayQueue = array.map(id => audioList.find(i => i.id == id));
+            }
+        }
+    </script>
+</head>
+<body>
+    <div id="app">
+        <v-app>
+            <v-app-bar color="#666666" dark app>
+                <v-toolbar-title>大濕之音</v-toolbar-title>
+                <v-spacer></v-spacer>
+                <v-tooltip bottom>
+                    <template v-slot:activator="{ on, attrs }">
+                        <v-btn icon @click="about = true" v-bind="attrs" v-on="on">
+                            <v-icon>mdi-information-outline</v-icon>
+                        </v-btn>
+                    </template>
+                    <span>關於</span>
+                </v-tooltip>
+            </v-app-bar>
+            <v-main>
+                <audio id="audio" @ended="audioStop"></audio>
+                <p>提示：拖曳可以排序，點一下可以移除。</p>
+                <draggable v-model="audioPlayQueue" style="margin-top: 15px; margin-bottom: 15px;">
+                    <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="['button', (k == playIndex - 1)? 'play-item' : '']" @click="removeQueueItem(k)" :disabled="playing">{{item.name}}</v-btn>
+                 </draggable>
+                 <div style="margin-bottom: 15px;">
+                    <v-btn dark elevation="3" @click="playButton">
+                        <v-icon>mdi-play</v-icon>
+                        <span>播放</span>
+                    </v-btn>
+                    <v-btn dark elevation="3" @click="stopButton">
+                        <v-icon>mdi-stop</v-icon>
+                        <span>停止</span>
+                    </v-btn>
+                    <v-btn dark elevation="3" @click="clearButton" :disabled="playing">
+                        <v-icon>mdi-delete</v-icon>
+                        <span>清空</span>
+                    </v-btn>
+                    <v-btn dark elevation="3" @click="shareButton">
+                        <v-icon>mdi-share</v-icon>
+                        <span>分享</span>
+                    </v-btn>
+                 </div>
+
+                <v-text-field dark v-model="searchString" label="搜尋"></v-text-field>
+                <p>提示：點一下可以預覽，點兩下可以加入至播放序列。</p>
+                <v-expansion-panels dark focusable>
+                    <template v-for="audioGroup in audios">
+                        <v-expansion-panel>
+                            <v-expansion-panel-header>{{audioGroup.name}}</v-expansion-panel-header>
+                            <v-expansion-panel-content>
+                                <v-btn elevation="3" class="button" v-for="(item, k) in audioGroup.datas" :key="k" @click="preview(item)" v-show="!searchString | item.name.indexOf(searchString) != -1">{{item.name}}</v-btn>
+                            </v-expansion-panel-content>
+                        </v-expansion-panel>
+                    </template>
+                </v-expansion-panels>
+
+                <v-dialog v-model="share" max-width="500px">
+                    <v-card>
+                        <v-card-title>
+                            分享
+                        </v-card-title>
+
+                        <v-text-field id="shareLink" v-model="shareLink" label="分享連結"></v-text-field>
+                        <v-card-actions>
+                            <v-spacer></v-spacer>
+                            <v-btn text @click="copyLink">
+                                <v-icon>mdi-content-copy</v-icon>
+                                <span>複製</span>
+                            </v-btn>
+                            <v-btn color="primary" text  @click="share = false">
+                                關閉
+                            </v-btn>
+                        </v-card-actions>
+                    </v-card>
+                </v-dialog>
+
+                <v-dialog v-model="about" max-width="500px">
+                    <v-card>
+                        <v-card-title>
+                            關於
+                        </v-card-title>
+                        <v-card-text>
+                            大濕之音 v1.0
+                            <br/>
+                            作者：jack850628
+                            <br/>
+                            聲音來源：
+                            <a href="https://www.twitch.tv/h804232006" target="_bloak">仙界大濕</a>
+                            <a href="https://www.twitch.tv/magicgadra3" target="_bloak">嘎抓</a>
+                        </v-card-text>
+                        <v-card-actions>
+                            <v-spacer></v-spacer>
+                            <v-btn color="primary" text  @click="about = false">
+                                關閉
+                            </v-btn>
+                        </v-card-actions>
+                    </v-card>
+                </v-dialog>
+            </v-main>
+          
+            <!-- <v-footer app>
+            </v-footer> -->
+        </v-app>
+    </div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+/node_modules
+/package-lock.json
+/staticserver.js
+/dist
+
+.DS_Store
