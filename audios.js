@@ -528,7 +528,7 @@ var audios = [
             "id":98
          },
          {
-            "name":"一見鐘䞍",
+            "name":"一見鐘情",
             "url":"/media/sounds/.mp3_3iMr8BA",
             "id":99
          },
@@ -546,6 +546,11 @@ var audios = [
             "name":"いたい いたい",
             "url":"/media/sounds/.mp3_2v23bZN",
             "id":102
+         },
+         {
+            "name":"屁眼",
+            "url":"/media/sounds/.mp3_hD5HaDb",
+            "id":165
          }
       ]
    },
@@ -861,11 +866,6 @@ var audios = [
             "name":"哭啊",
             "url":"/media/sounds/.mp3_0GIqxTc",
             "id":164
-         },
-         {
-            "name":"屁眼",
-            "url":"/media/sounds/.mp3_hD5HaDb",
-            "id":165
          },
          {
             "name":"打開",
