@@ -66,6 +66,21 @@ var audios = [
             "name":"邱建祥",
             "url":"/media/sounds/.mp3_s27gO7E",
             "id":12
+         },
+         {
+            "name":"懶貓子的右拳",
+            "url":"/media/sounds/.mp3_xzhhnX4",
+            "id":303
+         },
+         {
+            "name":"野獸先輩",
+            "url":"/media/sounds/.mp3_MSlgXCM",
+            "id":305
+         },
+         {
+            "name":"仙界大濕",
+            "url":"/media/sounds/.mp3_YB1mUiu",
+            "id":306
          }
       ]
    },
@@ -236,6 +251,21 @@ var audios = [
             "name":"儀式結束啦",
             "url":"/media/sounds/.mp3_HxbXTWg",
             "id":300
+         },
+         {
+            "name":"永遠將他放在心裡面左邊的口袋",
+            "url":"/media/sounds/.mp3_IedXkri",
+            "id":301
+         },
+         {
+            "name":"禮畢",
+            "url":"/media/sounds/.mp3_KFQ7abU",
+            "id":302
+         },
+         {
+            "name":"升旗完畢",
+            "url":"/media/sounds/.mp3_7EaSqXV",
+            "id":304
          }
       ]
    },
@@ -626,6 +656,11 @@ var audios = [
             "name":"屁眼",
             "url":"/media/sounds/.mp3_hD5HaDb",
             "id":165
+         },
+         {
+            "name":"幹下去",
+            "url":"/media/sounds/.mp3_unAGHUQ",
+            "id":308
          }
       ]
    },
@@ -1351,6 +1386,21 @@ var audios = [
             "name":"這麼牛逼的嗎？",
             "url":"/media/sounds/.mp3_FYwiWr9",
             "id":247
+         },
+         {
+            "name":"把",
+            "url":"/media/sounds/.mp3_ym1NvBp",
+            "id":307
+         },
+         {
+            "name":"這什麼鬼東西啊？",
+            "url":"/media/sounds/.mp3_pqVCbPO",
+            "id":309
+         },
+         {
+            "name":"太可怕了吧",
+            "url":"/media/sounds/.mp3_wEaxE9L",
+            "id":310
          }
       ]
    },
