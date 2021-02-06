@@ -81,6 +81,11 @@ var audios = [
             "name":"仙界大濕",
             "url":"/media/sounds/.mp3_YB1mUiu",
             "id":306
+         },
+         {
+            "name":"蟑螂子",
+            "url":"/media/sounds/.mp3_PSt4frp",
+            "id":315
          }
       ]
    },
@@ -266,6 +271,21 @@ var audios = [
             "name":"升旗完畢",
             "url":"/media/sounds/.mp3_7EaSqXV",
             "id":304
+         },
+         {
+            "name":"拿去火化",
+            "url":"/media/sounds/.mp3_B5ove9S",
+            "id":335
+         },
+         {
+            "name":"請歸位",
+            "url":"/media/sounds/.mp3_adLNXhs",
+            "id":356
+         },
+         {
+            "name":"非常安詳",
+            "url":"/media/sounds/.mp3_wZVkfzE",
+            "id":357
          }
       ]
    },
@@ -338,7 +358,7 @@ var audios = [
             "id":43
          },
          {
-            "name":"幹你娘G8",
+            "name":"幹你娘機掰",
             "url":"/media/sounds/g8.mp3",
             "id":44
          },
@@ -366,6 +386,56 @@ var audios = [
             "name":"操你媽你叫誰啊",
             "url":"/media/sounds/.mp3_k7tgJCg",
             "id":49
+         },
+         {
+            "name":"你怎麼死這麼慘？",
+            "url":"/media/sounds/.mp3_V2jHYfc",
+            "id":311
+         },
+         {
+            "name":"你怎麼變成這樣？",
+            "url":"/media/sounds/.mp3_ZuGwVEc",
+            "id":312
+         },
+         {
+            "name":"你怎麼變得像屎啊？",
+            "url":"/media/sounds/.mp3_NiPntCg",
+            "id":313
+         },
+         {
+            "name":"你在嗆三小？",
+            "url":"/media/sounds/.mp3_mDzJINu",
+            "id":319
+         },
+         {
+            "name":"屌嗆你一波",
+            "url":"/media/sounds/.mp3_SmvJbIV",
+            "id":320
+         },
+         {
+            "name":"嗆你祖宗十八代",
+            "url":"/media/sounds/.mp3_xNvLqTH",
+            "id":321
+         },
+         {
+            "name":"嗆到你爸媽認不出你是誰",
+            "url":"/media/sounds/.mp3_ruxFmG4",
+            "id":322
+         },
+         {
+            "name":"機掰",
+            "url":"/media/sounds/.mp3_SKfvLn4",
+            "id":323
+         },
+         {
+            "name":"你是不是真的想被我送下去？",
+            "url":"/media/sounds/.mp3_P1ONGPc",
+            "id":316
+         },
+         {
+            "name":"欠我插是不是啊？",
+            "url":"/media/sounds/.mp3_iE3179c",
+            "id":361
          }
       ]
    },
@@ -661,6 +731,86 @@ var audios = [
             "name":"幹下去",
             "url":"/media/sounds/.mp3_unAGHUQ",
             "id":308
+         },
+         {
+            "name":"沒穿褲子",
+            "url":"/media/sounds/.mp3_lzS6h3R",
+            "id":318
+         },
+         {
+            "name":"放閃",
+            "url":"/media/sounds/.mp3_2TPDG2I",
+            "id":326
+         },
+         {
+            "name":"結婚",
+            "url":"/media/sounds/.mp3_EyKmg91",
+            "id":327
+         },
+         {
+            "name":"老婆",
+            "url":"/media/sounds/.mp3_DZLy6Rt",
+            "id":330
+         },
+         {
+            "name":"跟你回家吧",
+            "url":"/media/sounds/.mp3_Nm8yMqM",
+            "id":332
+         },
+         {
+            "name":"我肛你",
+            "url":"/media/sounds/.mp3_eZTwbId",
+            "id":333
+         },
+         {
+            "name":"你給我肛",
+            "url":"/media/sounds/.mp3_IacAC2X",
+            "id":334
+         },
+         {
+            "name":"肉便器",
+            "url":"/media/sounds/.mp3_0xnrHH9",
+            "id":337
+         },
+         {
+            "name":"你怎麼那麼喜歡找我？",
+            "url":"/media/sounds/.mp3_o6IKokN",
+            "id":338
+         },
+         {
+            "name":"我就再也不會感到寂寞了",
+            "url":"/media/sounds/.mp3_QmkZchP",
+            "id":339
+         },
+         {
+            "name":"就只有你能讓我滿足",
+            "url":"/media/sounds/.mp3_tjsjuE2",
+            "id":340
+         },
+         {
+            "name":"來一發",
+            "url":"/media/sounds/.mp3_88EkzCX",
+            "id":349
+         },
+         {
+            "name":"褲子掉了",
+            "url":"/media/sounds/.mp3_hbC2zKz",
+            "id":350
+         },
+         {
+            "name":"白白又濃又稠",
+            "url":"/media/sounds/.mp3_0TtTqCJ",
+            "id":351
+         },
+         {
+            "name":"積了很久",
+            "url":"/media/sounds/.mp3_I5kV9JX",
+            "id":352
+         },
+         {
+            "name":"整個被弄到壞掉",
+            "url":"/media/sounds/.mp3_YUmUUGd",
+            "id":358
          }
       ]
    },
@@ -1401,6 +1551,111 @@ var audios = [
             "name":"太可怕了吧",
             "url":"/media/sounds/.mp3_wEaxE9L",
             "id":310
+         },
+         {
+            "name":"好了沒啊？",
+            "url":"/media/sounds/.mp3_BW6tyTT",
+            "id":314
+         },
+         {
+            "name":"上新聞囉",
+            "url":"/media/sounds/.mp3_gPPcUjD",
+            "id":317
+         },
+         {
+            "name":"什麼時候",
+            "url":"/media/sounds/.mp3_ObQ0FfC",
+            "id":324
+         },
+         {
+            "name":"尷尬",
+            "url":"/media/sounds/.mp3_HklRQsG",
+            "id":325
+         },
+         {
+            "name":"怎麼辦啊？",
+            "url":"/media/sounds/.mp3_qlgqmfn",
+            "id":328
+         },
+         {
+            "name":"是",
+            "url":"/media/sounds/.mp3_IqIZ9bz",
+            "id":329
+         },
+         {
+            "name":"爺",
+            "url":"/media/sounds/.mp3_7sy1Afj",
+            "id":331
+         },
+         {
+            "name":"happy",
+            "url":"/media/sounds/happy_spBjEL2.mp3",
+            "id":336
+         },
+         {
+            "name":"你怎麼又來啦？",
+            "url":"/media/sounds/.mp3_TnSzYq3",
+            "id":341
+         },
+         {
+            "name":"不懂",
+            "url":"/media/sounds/.mp3_Fr1tQKO",
+            "id":342
+         },
+         {
+            "name":"有你",
+            "url":"/media/sounds/.mp3_LzB3kFN",
+            "id":343
+         },
+         {
+            "name":"我又來啦",
+            "url":"/media/sounds/.mp3_JF61IwS",
+            "id":344
+         },
+         {
+            "name":"還是你",
+            "url":"/media/sounds/.mp3_AA0DJBc",
+            "id":345
+         },
+         {
+            "name":"你",
+            "url":"/media/sounds/.mp3_9dQkvUH",
+            "id":346
+         },
+         {
+            "name":"我",
+            "url":"/media/sounds/.mp3_Kr32z4I",
+            "id":347
+         },
+         {
+            "name":"哎呀",
+            "url":"/media/sounds/.mp3_Bxmlmwg",
+            "id":348
+         },
+         {
+            "name":"你怎麼頭斷掉了？",
+            "url":"/media/sounds/.mp3_ujPdEAK",
+            "id":353
+         },
+         {
+            "name":"你不是說好要陪我一輩子？",
+            "url":"/media/sounds/.mp3_Mhj70or",
+            "id":354
+         },
+         {
+            "name":"渣男",
+            "url":"/media/sounds/.mp3_tYBNpfT",
+            "id":355
+         },
+         {
+            "name":"灰飛煙滅",
+            "url":"/media/sounds/.mp3_IR2CtHE",
+            "id":359
+         },
+         {
+            "name":"太慘烈的吧",
+            "url":"/media/sounds/.mp3_sLiZBX2",
+            "id":360
          }
       ]
    },
