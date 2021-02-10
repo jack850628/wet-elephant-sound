@@ -86,6 +86,11 @@ var audios = [
             "name":"蟑螂子",
             "url":"/media/sounds/.mp3_PSt4frp",
             "id":315
+         },
+         {
+            "name":"張公兆元",
+            "url":"/media/sounds/.mp3_rRT2ll1",
+            "id":362
          }
       ]
    },
@@ -286,6 +291,71 @@ var audios = [
             "name":"非常安詳",
             "url":"/media/sounds/.mp3_wZVkfzE",
             "id":357
+         },
+         {
+            "name":"禮畢2",
+            "url":"/media/sounds/2_AL5dGY6.mp3",
+            "id":366
+         },
+         {
+            "name":"感謝",
+            "url":"/media/sounds/.mp3_7UcT0RN",
+            "id":367
+         },
+         {
+            "name":"各位",
+            "url":"/media/sounds/.mp3_o7Tn5pX",
+            "id":368
+         },
+         {
+            "name":"的奉獻",
+            "url":"/media/sounds/.mp3_t0Wj6D3",
+            "id":369
+         },
+         {
+            "name":"的付出",
+            "url":"/media/sounds/.mp3_ES48Y37",
+            "id":370
+         },
+         {
+            "name":"咱們",
+            "url":"/media/sounds/.mp3_ilfwhjQ",
+            "id":371
+         },
+         {
+            "name":"黨的",
+            "url":"/media/sounds/.mp3_A6XgSee",
+            "id":372
+         },
+         {
+            "name":"同志",
+            "url":"/media/sounds/.mp3_Oilmle4",
+            "id":373
+         },
+         {
+            "name":"同胞",
+            "url":"/media/sounds/.mp3_XyO9OTf",
+            "id":374
+         },
+         {
+            "name":"最後一程",
+            "url":"/media/sounds/.mp3_7KDA4IB",
+            "id":375
+         },
+         {
+            "name":"謝謝各位",
+            "url":"/media/sounds/.mp3_UucCKNd",
+            "id":376
+         },
+         {
+            "name":"升旗典禮",
+            "url":"/media/sounds/.mp3_h3lW66W",
+            "id":377
+         },
+         {
+            "name":"舉行完畢",
+            "url":"/media/sounds/.mp3_epkipUo",
+            "id":378
          }
       ]
    },
@@ -516,6 +586,11 @@ var audios = [
             "name":"诶嘿～",
             "url":"/media/sounds/.mp3_LnaCDvj",
             "id":64
+         },
+         {
+            "name":"嘿嘿",
+            "url":"/media/sounds/.mp3_WfYbRzx",
+            "id":363
          }
       ]
    },
@@ -1656,6 +1731,26 @@ var audios = [
             "name":"太慘烈的吧",
             "url":"/media/sounds/.mp3_sLiZBX2",
             "id":360
+         },
+         {
+            "name":"你要幹嗎？",
+            "url":"/media/sounds/.mp3_bydkG1V",
+            "id":364
+         },
+         {
+            "name":"先生",
+            "url":"/media/sounds/.mp3_AeW95MZ",
+            "id":365
+         },
+         {
+            "name":"新年快樂",
+            "url":"/media/sounds/.mp3_MbsrVzY",
+            "id":379
+         },
+         {
+            "name":"咱們要統一啦",
+            "url":"/media/sounds/.mp3_QgCdCyg",
+            "id":380
          }
       ]
    },
