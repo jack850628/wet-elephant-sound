@@ -591,6 +591,16 @@ var audios = [
             "name":"嘿嘿",
             "url":"/media/sounds/.mp3_WfYbRzx",
             "id":363
+         },
+         {
+            "name":"啊！啊！啊！",
+            "url":"/media/sounds/.mp3_xFi72qk",
+            "id":381
+         },
+         {
+            "name":"兆元不明叫聲3",
+            "url":"/media/sounds/3_4qRaYw2.mp3",
+            "id":382
          }
       ]
    },
@@ -1751,6 +1761,16 @@ var audios = [
             "name":"咱們要統一啦",
             "url":"/media/sounds/.mp3_QgCdCyg",
             "id":380
+         },
+         {
+            "name":"不要",
+            "url":"/media/sounds/.mp3_IHsU4pG",
+            "id":383
+         },
+         {
+            "name":"你不要靠近我蟑螂我錯了",
+            "url":"/media/sounds/.mp3_mrrAtl3",
+            "id":384
          }
       ]
    },
