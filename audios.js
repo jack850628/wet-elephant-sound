@@ -1,5 +1,20 @@
 var audios = [
    {
+      "name":"延遲",
+      "datas":[
+         {
+            "name":"『0.5秒』",
+            "second":500,
+            "id":431
+         },
+         {
+            "name":"『1秒』",
+            "second":1000,
+            "id":432
+         },
+      ]
+   },
+   {
       "name":"人名",
       "datas":[
          {
@@ -91,6 +106,21 @@ var audios = [
             "name":"張公兆元",
             "url":"/media/sounds/.mp3_rRT2ll1",
             "id":362
+         },
+         {
+            "name":"右拳",
+            "url":"/media/sounds/.mp3_KonCMu6",
+            "id":392
+         },
+         {
+            "name":"顯妣陳媽卓孝宣",
+            "url":"/media/sounds/.mp3_wKUdZpL",
+            "id":406
+         },
+         {
+            "name":"卓公孝宣",
+            "url":"/media/sounds/.mp3_0jzYhrs",
+            "id":429
          }
       ]
    },
@@ -356,6 +386,111 @@ var audios = [
             "name":"舉行完畢",
             "url":"/media/sounds/.mp3_epkipUo",
             "id":378
+         },
+         {
+            "name":"公祭儀式",
+            "url":"/media/sounds/.mp3_FiHVGWJ",
+            "id":407
+         },
+         {
+            "name":"在儀式的舉行過程中",
+            "url":"/media/sounds/.mp3_5rGr11k",
+            "id":408
+         },
+         {
+            "name":"請各位",
+            "url":"/media/sounds/.mp3_IcZfwvo",
+            "id":409
+         },
+         {
+            "name":"勿喧嘩",
+            "url":"/media/sounds/.mp3_uoaKFdm",
+            "id":410
+         },
+         {
+            "name":"勿吵鬧",
+            "url":"/media/sounds/.mp3_X8u5RxF",
+            "id":411
+         },
+         {
+            "name":"勿移動",
+            "url":"/media/sounds/.mp3_WDu3MHl",
+            "id":412
+         },
+         {
+            "name":"上香",
+            "url":"/media/sounds/.mp3_QPbJgDB",
+            "id":413
+         },
+         {
+            "name":"中華民族",
+            "url":"/media/sounds/.mp3_WQ31RDz",
+            "id":414
+         },
+         {
+            "name":"他是",
+            "url":"/media/sounds/.mp3_XeekGVc",
+            "id":415
+         },
+         {
+            "name":"咱們的",
+            "url":"/media/sounds/.mp3_MGkR6yA",
+            "id":416
+         },
+         {
+            "name":"他的",
+            "url":"/media/sounds/.mp3_JNP1XTV",
+            "id":417
+         },
+         {
+            "name":"英勇奉獻",
+            "url":"/media/sounds/.mp3_QIajtsq",
+            "id":418
+         },
+         {
+            "name":"請出外面大堂的時候",
+            "url":"/media/sounds/.mp3_4Asl1dj",
+            "id":419
+         },
+         {
+            "name":"用淨水浮水洗達一下身心",
+            "url":"/media/sounds/.mp3_dIzQWMo",
+            "id":420
+         },
+         {
+            "name":"請復帽",
+            "url":"/media/sounds/.mp3_ntZpA4K",
+            "id":421
+         },
+         {
+            "name":"謝謝各位的到來",
+            "url":"/media/sounds/.mp3_5A3tknn",
+            "id":422
+         },
+         {
+            "name":"廁所在左邊",
+            "url":"/media/sounds/.mp3_eFaSeeq",
+            "id":423
+         },
+         {
+            "name":"入口在右邊",
+            "url":"/media/sounds/.mp3_RbLWqkr",
+            "id":424
+         },
+         {
+            "name":"停車場在中間",
+            "url":"/media/sounds/.mp3_F02ZqDm",
+            "id":425
+         },
+         {
+            "name":"記得要過檻",
+            "url":"/media/sounds/.mp3_DVZbptz",
+            "id":426
+         },
+         {
+            "name":"祝他",
+            "url":"/media/sounds/.mp3_rjt52Ne",
+            "id":430
          }
       ]
    },
@@ -896,6 +1031,31 @@ var audios = [
             "name":"整個被弄到壞掉",
             "url":"/media/sounds/.mp3_YUmUUGd",
             "id":358
+         },
+         {
+            "name":"Gay",
+            "url":"/media/sounds/gay_TuQLa0l.mp3",
+            "id":400
+         },
+         {
+            "name":"兆元的形狀",
+            "url":"/media/sounds/.mp3_aW0aCSa",
+            "id":402
+         },
+         {
+            "name":"肉便器2",
+            "url":"/media/sounds/2_ypisYig.mp3",
+            "id":405
+         },
+         {
+            "name":"肉便器3",
+            "url":"/media/sounds/3_W6JFew9.mp3",
+            "id":427
+         },
+         {
+            "name":"節操",
+            "url":"/media/sounds/.mp3_6UzYNIf",
+            "id":428
          }
       ]
    },
@@ -1709,7 +1869,7 @@ var audios = [
          },
          {
             "name":"我",
-            "url":"/media/sounds/.mp3_Kr32z4I",
+            "url":"/media/sounds/.mp3_sogc0gA",
             "id":347
          },
          {
@@ -1771,6 +1931,91 @@ var audios = [
             "name":"你不要靠近我蟑螂我錯了",
             "url":"/media/sounds/.mp3_mrrAtl3",
             "id":384
+         },
+         {
+            "name":"是2",
+            "url":"/media/sounds/.mp3_5nCbp4v",
+            "id":385
+         },
+         {
+            "name":"大便",
+            "url":"/media/sounds/.mp3_4G0urzv",
+            "id":386
+         },
+         {
+            "name":"你他媽",
+            "url":"/media/sounds/.mp3_XPCFXuS",
+            "id":387
+         },
+         {
+            "name":"不得了了",
+            "url":"/media/sounds/.mp3_Qn9pWYR",
+            "id":388
+         },
+         {
+            "name":"出大事了",
+            "url":"/media/sounds/.mp3_9YPR0ov",
+            "id":389
+         },
+         {
+            "name":"一模一樣",
+            "url":"/media/sounds/.mp3_kk7WSG5",
+            "id":390
+         },
+         {
+            "name":"超可怕的",
+            "url":"/media/sounds/.mp3_0kGDWLR",
+            "id":391
+         },
+         {
+            "name":"中華民國萬歲",
+            "url":"/media/sounds/.mp3_ZmHJ10j",
+            "id":393
+         },
+         {
+            "name":"這什麼啊？",
+            "url":"/media/sounds/.mp3_1HRKVPW",
+            "id":394
+         },
+         {
+            "name":"哇靠！",
+            "url":"/media/sounds/.mp3_aJHSwOW",
+            "id":395
+         },
+         {
+            "name":"太屌了吧！",
+            "url":"/media/sounds/.mp3_Omn0ZtX",
+            "id":396
+         },
+         {
+            "name":"這三小啊？",
+            "url":"/media/sounds/.mp3_k8konf2",
+            "id":397
+         },
+         {
+            "name":"出事了",
+            "url":"/media/sounds/.mp3_3Ro8AvH",
+            "id":398
+         },
+         {
+            "name":"阿伯",
+            "url":"/media/sounds/.mp3_ps6pmDv",
+            "id":399
+         },
+         {
+            "name":"深入淺出",
+            "url":"/media/sounds/.mp3_FDcfxNo",
+            "id":401
+         },
+         {
+            "name":"生產順利",
+            "url":"/media/sounds/.mp3_cxwzayb",
+            "id":403
+         },
+         {
+            "name":"急救一下",
+            "url":"/media/sounds/.mp3_1Z1Xnfm",
+            "id":404
          }
       ]
    },
