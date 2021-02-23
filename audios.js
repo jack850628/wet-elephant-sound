@@ -121,6 +121,16 @@ var audios = [
             "name":"卓公孝宣",
             "url":"/media/sounds/.mp3_0jzYhrs",
             "id":429
+         },
+         {
+            "name":"阿嚕桑",
+            "url":"/media/sounds/.mp3_4TySudY",
+            "id":436
+         },
+         {
+            "name":"陳正義",
+            "url":"/media/sounds/.mp3_giNgQMt",
+            "id":449
          }
       ]
    },
@@ -781,6 +791,11 @@ var audios = [
             "name":"如果喜歡歡迎來我的頻道",
             "url":"/media/sounds/.mp3_BbdP5Vn",
             "id":70
+         },
+         {
+            "name":"大家好，我是小安2",
+            "url":"/media/sounds/2_I1PIf8z.mp3",
+            "id":443
          }
       ]
    },
@@ -1061,6 +1076,66 @@ var audios = [
             "name":"節操",
             "url":"/media/sounds/.mp3_6UzYNIf",
             "id":428
+         },
+         {
+            "name":"わかてる",
+            "url":"/media/sounds/.mp3_qEO8MmK",
+            "id":439
+         },
+         {
+            "name":"愛してる",
+            "url":"/media/sounds/.mp3_4GsYrdL",
+            "id":440
+         },
+         {
+            "name":"大大大大好き",
+            "url":"/media/sounds/.mp3_wCSPVHP",
+            "id":441
+         },
+         {
+            "name":"あいくいくいくいく",
+            "url":"/media/sounds/.mp3_X6NzJKZ",
+            "id":442
+         },
+         {
+            "name":"通馬桶",
+            "url":"/media/sounds/.mp3_ik2Pghw",
+            "id":446
+         },
+         {
+            "name":"通屁眼",
+            "url":"/media/sounds/.mp3_ayEIcv8",
+            "id":447
+         },
+         {
+            "name":"跟我通看看",
+            "url":"/media/sounds/.mp3_0JW37R0",
+            "id":448
+         },
+         {
+            "name":"喇舌",
+            "url":"/media/sounds/.mp3_VZ89Gnn",
+            "id":451
+         },
+         {
+            "name":"屁眼夾緊",
+            "url":"/media/sounds/.mp3_Royf3tZ",
+            "id":453
+         },
+         {
+            "name":"屁眼都爛了",
+            "url":"/media/sounds/.mp3_qaclwLx",
+            "id":454
+         },
+         {
+            "name":"吸允聲",
+            "url":"/media/sounds/.mp3_xHrVmhx",
+            "id":455
+         },
+         {
+            "name":"真會吸啊",
+            "url":"/media/sounds/.mp3_PB9SoMc",
+            "id":456
          }
       ]
    },
@@ -2021,6 +2096,86 @@ var audios = [
             "name":"急救一下",
             "url":"/media/sounds/.mp3_1Z1Xnfm",
             "id":404
+         },
+         {
+            "name":"台北",
+            "url":"/media/sounds/.mp3_Y494UYs",
+            "id":434
+         },
+         {
+            "name":"忠孝東路",
+            "url":"/media/sounds/.mp3_LBXz6uL",
+            "id":435
+         },
+         {
+            "name":"結果",
+            "url":"/media/sounds/.mp3_RU5oqMj",
+            "id":437
+         },
+         {
+            "name":"說",
+            "url":"/media/sounds/.mp3_BpwjgNO",
+            "id":438
+         },
+         {
+            "name":"觀落陰",
+            "url":"/media/sounds/.mp3_TvwyYhR",
+            "id":444
+         },
+         {
+            "name":"通靈",
+            "url":"/media/sounds/.mp3_qSlqUFK",
+            "id":445
+         },
+         {
+            "name":"在",
+            "url":"/media/sounds/.mp3_qQgFOBk",
+            "id":450
+         },
+         {
+            "name":"你吐啊",
+            "url":"/media/sounds/.mp3_zG1BCka",
+            "id":452
+         },
+         {
+            "name":"蹦",
+            "url":"/media/sounds/.mp3_XMzQuxK",
+            "id":457
+         },
+         {
+            "name":"決鬥",
+            "url":"/media/sounds/.mp3_pWOhlpL",
+            "id":458
+         },
+         {
+            "name":"三十五塊",
+            "url":"/media/sounds/.mp3_rHctmOg",
+            "id":459
+         },
+         {
+            "name":"水蜜桃",
+            "url":"/media/sounds/.mp3_OSS7bvz",
+            "id":460
+         },
+         {
+            "name":"三百塊",
+            "url":"/media/sounds/.mp3_pFTJkxN",
+            "id":461
+         },
+         {
+            "name":"芭樂",
+            "url":"/media/sounds/.mp3_YzwyywO",
+            "id":462
+         },
+         {
+            "name":"三十塊",
+            "url":"/media/sounds/.mp3_QGiK44J",
+            "id":463
+         },
+         {
+            "name":"謀啦～2",
+            "url":"/media/sounds/2_oZvzslY.mp3",
+            "id":464
          }
       ]
    },
