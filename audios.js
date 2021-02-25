@@ -506,6 +506,61 @@ var audios = [
             "name":"我們即將舉行",
             "url":"/media/sounds/.mp3_SeGYdC7",
             "id":433
+         },
+         {
+            "name":"你下去的真是漂亮",
+            "url":"/media/sounds/.mp3_AHZqWTc",
+            "id":465
+         },
+         {
+            "name":"一路好走",
+            "url":"/media/sounds/.mp3_jC8Fgjv",
+            "id":466
+         },
+         {
+            "name":"不要亂跑亂跳",
+            "url":"/media/sounds/.mp3_8rHVlwF",
+            "id":467
+         },
+         {
+            "name":"火化完成",
+            "url":"/media/sounds/.mp3_zH58kiP",
+            "id":468
+         },
+         {
+            "name":"他的灰有點臭",
+            "url":"/media/sounds/.mp3_93fNFe9",
+            "id":469
+         },
+         {
+            "name":"我們現在即將舉行懲罰典禮",
+            "url":"/media/sounds/.mp3_71rKymJ",
+            "id":470
+         },
+         {
+            "name":"典禮即將開始",
+            "url":"/media/sounds/.mp3_APHhRNE",
+            "id":471
+         },
+         {
+            "name":"畢竟本人就很臭",
+            "url":"/media/sounds/.mp3_vnNZtdC",
+            "id":472
+         },
+         {
+            "name":"準備2",
+            "url":"/media/sounds/2_AK5O24Y.mp3",
+            "id":473
+         },
+         {
+            "name":"請家屬來認領",
+            "url":"/media/sounds/.mp3_Mw5TSle",
+            "id":474
+         },
+         {
+            "name":"請豎立",
+            "url":"/media/sounds/.mp3_RrGctTm",
+            "id":475
          }
       ]
    },
@@ -656,6 +711,11 @@ var audios = [
             "name":"欠我插是不是啊？",
             "url":"/media/sounds/.mp3_iE3179c",
             "id":361
+         },
+         {
+            "name":"媽的哩",
+            "url":"/media/sounds/.mp3_oMrTqx3",
+            "id":493
          }
       ]
    },
@@ -948,11 +1008,6 @@ var audios = [
             "id":99
          },
          {
-            "name":"你是我的屁眼～",
-            "url":"/media/sounds/.mp3_YlLzldc",
-            "id":100
-         },
-         {
             "name":"怎麼有東西黏黏的？",
             "url":"/media/sounds/.mp3_fXLtaS5",
             "id":101
@@ -1136,8 +1191,103 @@ var audios = [
             "name":"真會吸啊",
             "url":"/media/sounds/.mp3_PB9SoMc",
             "id":456
+         },
+         {
+            "name":"Gay片",
+            "url":"/media/sounds/gay_kYnGpBO.mp3",
+            "id":476
+         },
+         {
+            "name":"又大",
+            "url":"/media/sounds/.mp3_uT0r28i",
+            "id":477
+         },
+         {
+            "name":"又粗",
+            "url":"/media/sounds/.mp3_9XjJVOm",
+            "id":478
+         },
+         {
+            "name":"又硬",
+            "url":"/media/sounds/.mp3_uW2x0TF",
+            "id":479
+         },
+         {
+            "name":"在我後面",
+            "url":"/media/sounds/.mp3_zfX9nH0",
+            "id":480
+         },
+         {
+            "name":"含自己的",
+            "url":"/media/sounds/.mp3_tqGvcI8",
+            "id":481
+         },
+         {
+            "name":"我都是被肛的",
+            "url":"/media/sounds/.mp3_QPuJiEx",
+            "id":482
+         },
+         {
+            "name":"男的我更愛",
+            "url":"/media/sounds/.mp3_ZIhlFOG",
+            "id":483
+         },
+         {
+            "name":"啪著我",
+            "url":"/media/sounds/.mp3_VYwWyzU",
+            "id":484
+         },
+         {
+            "name":"您打啊",
+            "url":"/media/sounds/.mp3_SZTuA0H",
+            "id":485
+         },
+         {
+            "name":"粗粗的",
+            "url":"/media/sounds/.mp3_LLyXTTv",
+            "id":486
+         },
+         {
+            "name":"軟軟的",
+            "url":"/media/sounds/.mp3_HUFgdAn",
+            "id":487
+         },
+         {
+            "name":"短短的",
+            "url":"/media/sounds/.mp3_QtmhloI",
+            "id":488
+         },
+         {
+            "name":"幫你含",
+            "url":"/media/sounds/.mp3_ltn4eAc",
+            "id":489
          }
       ]
+   },
+   {
+      "name":"你是我的屁眼",
+      "datas":[
+         {
+            "name":"你是我的屁眼～",
+            "url":"/media/sounds/.mp3_YlLzldc",
+            "id":100
+         },
+         {
+            "name":"你是我的屁眼2",
+            "url":"/media/sounds/2_0l7Ur8W.mp3",
+            "id":490
+         },
+         {
+            "name":"帶我穿越右拳的直腸",
+            "url":"/media/sounds/.mp3_9ceA49V",
+            "id":491
+         },
+         {
+            "name":"帶我領略四季的建祥",
+            "url":"/media/sounds/.mp3_u28yOko",
+            "id":492
+         }
+      ],
    },
    {
       "name":"其他",
@@ -1909,7 +2059,7 @@ var audios = [
          },
          {
             "name":"爺",
-            "url":"/media/sounds/.mp3_7sy1Afj",
+            "url":"/media/sounds/.mp3_U8MulLt",
             "id":331
          },
          {
@@ -2176,6 +2326,16 @@ var audios = [
             "name":"謀啦～2",
             "url":"/media/sounds/2_oZvzslY.mp3",
             "id":464
+         },
+         {
+            "name":"拳頭",
+            "url":"/media/sounds/.mp3_QlUfR8t",
+            "id":494
+         },
+         {
+            "name":"爸爸",
+            "url":"/media/sounds/.mp3_wpFdGs2",
+            "id":495
          }
       ]
    },
