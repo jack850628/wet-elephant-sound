@@ -5,6 +5,8 @@
     <title>大濕之音</title>
 
     <link rel="manifest" href="./manifest.json">
+    <link rel="icon" href="./images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
@@ -159,6 +161,7 @@
     <div id="app">
         <v-app>
             <v-app-bar color="#666666" dark app>
+                <v-img src="./images/兆元192.png" max-height="40" max-width="40"></v-img>
                 <v-toolbar-title>大濕之音</v-toolbar-title>
                 <v-spacer></v-spacer>
                 <v-tooltip bottom>
@@ -237,6 +240,7 @@
                 <v-dialog v-model="about" max-width="500px">
                     <v-card>
                         <v-card-title>
+                            <v-img src="./images/兆元192.png" max-height="40" max-width="40"></v-img>
                             關於
                         </v-card-title>
                         <v-card-text>
