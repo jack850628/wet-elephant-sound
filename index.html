@@ -140,8 +140,6 @@
             window.addEventListener('beforeinstallprompt', (e) => {
                 e.preventDefault();
                 vApp.$data.deferredPrompt = e;
-                showInstallPromotion();
-                console.log(`'beforeinstallprompt' event was fired.`);
             });
         }
         if ('serviceWorker' in navigator) {
