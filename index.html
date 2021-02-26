@@ -4,6 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>大濕之音</title>
 
+    <link rel="manifest" href="./manifest.json">
+
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
@@ -124,6 +126,15 @@
                 let audioList = audios.flatMap(i => i.datas);
                 app.$data.audioPlayQueue = array.map(id => audioList.find(i => i.id == id));
             }
+        }
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('./sw.js', { scope: '/wet-elephant-sound/' });
+            // .then(function(reg) {
+            //     console.log('Registration succeeded. Scope is ' + reg.scope);
+            // }).catch(function(error) {
+            //     // registration failed
+            //     console.log('Registration failed with ' + error);
+            // });
         }
     </script>
 </head>

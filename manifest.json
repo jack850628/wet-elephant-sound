@@ -1,0 +1,26 @@
+{
+    "short_name": "大濕之音",
+    "name": "仙界大濕語音集合",
+    "icons": [
+        {
+            "src": "./images/兆元192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "./images/兆元512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "./",
+    "background_color": "#272727",
+    "display": "standalone",
+    "scope": "./",
+    "theme_color": "#272727",
+    "shortcuts": [
+    ],
+    "description": "仙界大濕語音集合",
+    "screenshots": [
+    ]
+}
