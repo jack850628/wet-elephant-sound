@@ -17,21 +17,26 @@ self.addEventListener('install', function(event) {
   });
   
   self.addEventListener('fetch', function(event) {
-    event.respondWith(caches.match(event.request).then(function(response) {
-      if (response !== undefined) {
-        return response;
-      } else {
-        return fetch(event.request).then(function (response) {
-          let responseClone = response.clone();
-          
-          caches.open('v1').then(function (cache) {
-            cache.put(event.request, responseClone);
-          });
+    // console.log(event);
+    if(event.request.url.match(/^http/)){
+      event.respondWith(caches.match(event.request).then(function(response) {
+        if (response !== undefined) {
           return response;
-        })
-        // .catch(function () {
-        //   return caches.match('/sw-test/gallery/myLittleVader.jpg');
-        // });
-      }
-    }));
+        } else {
+          return fetch(event.request).then(function (response) {
+            let responseClone = response.clone();
+            
+            caches.open('v1').then(function (cache) {
+              cache.put(event.request, responseClone);
+            }).catch((e) => {
+              console.error(e);
+            });
+            return response;
+          });
+          // .catch(function () {
+          //   return caches.match('/sw-test/gallery/myLittleVader.jpg');
+          // });
+        }
+      }));
+    }
   });
