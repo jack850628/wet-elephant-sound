@@ -33,9 +33,10 @@
     <script src="./audios.js"></script>
     <script>
         const SEARCH_PARAMS_1 = 'q';
+
         window.onload = function(){
             var searchParams = new URLSearchParams(location.search);
-            window.app = new Vue({
+            vApp = new Vue({
                 el: '#app',
                 vuetify: new Vuetify(),
                 components: {
@@ -55,6 +56,8 @@
 
                     share: false,
                     shareLink: '',
+
+                    deferredPrompt: null
                 },
                 methods: {
                     checkAudioPlayQueue(){
@@ -118,6 +121,11 @@
                     copyLink(){
                         shareLink.select();
                         document.execCommand("copy");
+                    },
+                    async install(){
+                        this.deferredPrompt.prompt();
+                        const { outcome } = await this.deferredPrompt.userChoice;
+                        console.log(`User response to the install prompt: ${outcome}`);
                     }
                 }
             });
@@ -126,15 +134,24 @@
                 let audioList = audios.flatMap(i => i.datas);
                 app.$data.audioPlayQueue = array.map(id => audioList.find(i => i.id == id));
             }
+
+            window.addEventListener('beforeinstallprompt', (e) => {
+                e.preventDefault();
+                vApp.$data.deferredPrompt = e;
+                showInstallPromotion();
+                console.log(`'beforeinstallprompt' event was fired.`);
+            });
         }
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('./sw.js', { scope: '/wet-elephant-sound/' });
+            navigator.serviceWorker.register('./sw.js', { scope: './' });
             // .then(function(reg) {
             //     console.log('Registration succeeded. Scope is ' + reg.scope);
             // }).catch(function(error) {
             //     // registration failed
             //     console.log('Registration failed with ' + error);
             // });
+
+
         }
     </script>
 </head>
@@ -144,6 +161,14 @@
             <v-app-bar color="#666666" dark app>
                 <v-toolbar-title>大濕之音</v-toolbar-title>
                 <v-spacer></v-spacer>
+                <v-tooltip bottom>
+                    <template v-slot:activator="{ on, attrs }">
+                        <v-btn icon @click="install" v-bind="attrs" v-on="on" v-show="deferredPrompt != null">
+                            <v-icon>mdi-download</v-icon>
+                        </v-btn>
+                    </template>
+                    <span>安裝</span>
+                </v-tooltip>
                 <v-tooltip bottom>
                     <template v-slot:activator="{ on, attrs }">
                         <v-btn icon @click="about = true" v-bind="attrs" v-on="on">
