@@ -134,7 +134,7 @@
             if(searchParams.get(SEARCH_PARAMS_1)){
                 let array = JSON.parse(atob(searchParams.get(SEARCH_PARAMS_1)));
                 let audioList = audios.flatMap(i => i.datas);
-                app.$data.audioPlayQueue = array.map(id => audioList.find(i => i.id == id));
+                vApp.$data.audioPlayQueue = array.map(id => audioList.find(i => i.id == id));
             }
 
             window.addEventListener('beforeinstallprompt', (e) => {
