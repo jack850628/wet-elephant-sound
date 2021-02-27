@@ -2336,6 +2336,41 @@ var audios = [
             "name":"爸爸",
             "url":"/media/sounds/.mp3_wpFdGs2",
             "id":495
+         },
+         {
+            "name":"公仔",
+            "url":"/media/sounds/.mp3_e9j61JF",
+            "id":496
+         },
+         {
+            "name":"跟著",
+            "url":"/media/sounds/.mp3_3e6ZBYm",
+            "id":497
+         },
+         {
+            "name":"那我會",
+            "url":"/media/sounds/.mp3_gmArQb2",
+            "id":498
+         },
+         {
+            "name":"去夢裡面",
+            "url":"/media/sounds/.mp3_coh49O5",
+            "id":499
+         },
+         {
+            "name":"讓你知道",
+            "url":"/media/sounds/.mp3_gAdXc3U",
+            "id":500
+         },
+         {
+            "name":"誰才是",
+            "url":"/media/sounds/.mp3_JkcDmRO",
+            "id":501
+         },
+         {
+            "name":"老大",
+            "url":"/media/sounds/.mp3_Trwe1qB",
+            "id":502
          }
       ]
    },
