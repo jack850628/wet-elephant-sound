@@ -848,11 +848,6 @@ var audios = [
             "id":506
          },
          {
-            "name":"立刻蓋起來",
-            "url":"/media/sounds/.mp3_t56tmEh",
-            "id":525
-         },
-         {
             "name":"兆元的不明叫聲_3",
             "url":"/media/sounds/3_HAC0gaA.mp3",
             "id":526
@@ -2596,6 +2591,11 @@ var audios = [
             "name":"確定沒有犯法嗎？",
             "url":"/media/sounds/.mp3_zRwZaph",
             "id":548
+         },
+         {
+            "name":"立刻蓋起來",
+            "url":"/media/sounds/.mp3_t56tmEh",
+            "id":525
          }
       ]
    },
