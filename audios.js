@@ -716,6 +716,36 @@ var audios = [
             "name":"媽的哩",
             "url":"/media/sounds/.mp3_oMrTqx3",
             "id":493
+         },
+         {
+            "name":"你們年輕人就是不講武德",
+            "url":"/media/sounds/.mp3_xpUtvMt",
+            "id":543
+         },
+         {
+            "name":"在幹是不是啦？",
+            "url":"/media/sounds/.mp3_lmo4Xmf",
+            "id":539
+         },
+         {
+            "name":"好知為知",
+            "url":"/media/sounds/.mp3_llcFJNR",
+            "id":540
+         },
+         {
+            "name":"你怎麼便這個樣子啊？",
+            "url":"/media/sounds/.mp3_Ntdd2ui",
+            "id":542
+         },
+         {
+            "name":"屁洨子",
+            "url":"/media/sounds/.mp3_Egu8RfP",
+            "id":544
+         },
+         {
+            "name":"真的素質很差ㄟ",
+            "url":"/media/sounds/.mp3_G6iOj9g",
+            "id":545
          }
       ]
    },
@@ -811,6 +841,31 @@ var audios = [
             "name":"兆元不明叫聲3",
             "url":"/media/sounds/3_4qRaYw2.mp3",
             "id":382
+         },
+         {
+            "name":"啊～～～啊～",
+            "url":"/media/sounds/.mp3_oU3I1FX",
+            "id":506
+         },
+         {
+            "name":"立刻蓋起來",
+            "url":"/media/sounds/.mp3_t56tmEh",
+            "id":525
+         },
+         {
+            "name":"兆元的不明叫聲_3",
+            "url":"/media/sounds/3_HAC0gaA.mp3",
+            "id":526
+         },
+         {
+            "name":"臭臭花",
+            "url":"/media/sounds/.mp3_wtkBfy9",
+            "id":529
+         },
+         {
+            "name":"嘿➚～～～",
+            "url":"/media/sounds/.mp3_7c6jBmc",
+            "id":531
          }
       ]
    },
@@ -1261,6 +1316,51 @@ var audios = [
             "name":"幫你含",
             "url":"/media/sounds/.mp3_ltn4eAc",
             "id":489
+         },
+         {
+            "name":"やらないか？",
+            "url":"/media/sounds/.mp3_D77nr3n",
+            "id":519
+         },
+         {
+            "name":"你的屁眼已經被我用壞了",
+            "url":"/media/sounds/.mp3_WXxhmm0",
+            "id":521
+         },
+         {
+            "name":"肛們重建手術",
+            "url":"/media/sounds/.mp3_rUil38K",
+            "id":523
+         },
+         {
+            "name":"臭甲會互相吸引",
+            "url":"/media/sounds/.mp3_xaW34Pn",
+            "id":524
+         },
+         {
+            "name":"射爆",
+            "url":"/media/sounds/.mp3_EA2HHVA",
+            "id":527
+         },
+         {
+            "name":"馬眼",
+            "url":"/media/sounds/.mp3_DkCxuIU",
+            "id":530
+         },
+         {
+            "name":"雞眼",
+            "url":"/media/sounds/.mp3_cYNAmTx",
+            "id":532
+         },
+         {
+            "name":"やらないか？2",
+            "url":"/media/sounds/2_GrHdMLW.mp3",
+            "id":533
+         },
+         {
+            "name":"幹死你幹死你邱建祥被幹",
+            "url":"/media/sounds/.mp3_68OzxcH",
+            "id":547
          }
       ]
    },
@@ -2371,6 +2471,131 @@ var audios = [
             "name":"老大",
             "url":"/media/sounds/.mp3_Trwe1qB",
             "id":502
+         },
+         {
+            "name":"聲音辭海",
+            "url":"/media/sounds/.mp3_oK2AKJm",
+            "id":504
+         },
+         {
+            "name":"葬禮適用出殯也婚禮也能使用",
+            "url":"/media/sounds/.mp3_yVRRyIg",
+            "id":505
+         },
+         {
+            "name":"閃電五連鞭",
+            "url":"/media/sounds/.mp3_ANair1M",
+            "id":507
+         },
+         {
+            "name":"阿彌陀佛",
+            "url":"/media/sounds/.mp3_RNTotDi",
+            "id":508
+         },
+         {
+            "name":"我沒說過",
+            "url":"/media/sounds/.mp3_IbfsJib",
+            "id":509
+         },
+         {
+            "name":"我打一個",
+            "url":"/media/sounds/.mp3_IMjxpBS",
+            "id":510
+         },
+         {
+            "name":"收入五千五百萬種特色語音",
+            "url":"/media/sounds/.mp3_REJwSob",
+            "id":511
+         },
+         {
+            "name":"多沖個幾次",
+            "url":"/media/sounds/.mp3_5obcH16",
+            "id":512
+         },
+         {
+            "name":"佛說八大人覺經",
+            "url":"/media/sounds/.mp3_Nh5s5nL",
+            "id":513
+         },
+         {
+            "name":"為佛弟子，常見建祥",
+            "url":"/media/sounds/.mp3_lsrpYTD",
+            "id":514
+         },
+         {
+            "name":"如有建祥，你應該是重了邪，又看了鬼",
+            "url":"/media/sounds/.mp3_vVBVG9E",
+            "id":515
+         },
+         {
+            "name":"請至南天宮報到",
+            "url":"/media/sounds/.mp3_cmeIU90",
+            "id":516
+         },
+         {
+            "name":"仙界大濕聲音大辭典",
+            "url":"/media/sounds/.mp3_a4l8UFs",
+            "id":517
+         },
+         {
+            "name":"仙界大濕伴你入眠",
+            "url":"/media/sounds/.mp3_7j6SqnM",
+            "id":518
+         },
+         {
+            "name":"太帥了吧",
+            "url":"/media/sounds/.mp3_oA6BPed",
+            "id":520
+         },
+         {
+            "name":"即將去",
+            "url":"/media/sounds/.mp3_qdCcstz",
+            "id":522
+         },
+         {
+            "name":"臭味撲鼻",
+            "url":"/media/sounds/.mp3_xjz04XI",
+            "id":528
+         },
+         {
+            "name":"一鞭",
+            "url":"/media/sounds/.mp3_S3ngdnX",
+            "id":534
+         },
+         {
+            "name":"二鞭",
+            "url":"/media/sounds/.mp3_4ApgoJb",
+            "id":535
+         },
+         {
+            "name":"三鞭",
+            "url":"/media/sounds/.mp3_YnmXOEi",
+            "id":536
+         },
+         {
+            "name":"四鞭",
+            "url":"/media/sounds/.mp3_3gwizmb",
+            "id":537
+         },
+         {
+            "name":"五鞭",
+            "url":"/media/sounds/.mp3_uYwwcNT",
+            "id":538
+         },
+         {
+            "name":"老淚縱橫",
+            "url":"/media/sounds/.mp3_r0dgDnU",
+            "id":541
+         },
+         {
+            "name":"閃電五連鞭2",
+            "url":"/media/sounds/2_4pXdDgA.mp3",
+            "id":546
+         },
+         {
+            "name":"確定沒有犯法嗎？",
+            "url":"/media/sounds/.mp3_zRwZaph",
+            "id":548
          }
       ]
    },
@@ -2571,6 +2796,46 @@ var audios = [
             "name":"嘎抓：『垃圾』",
             "url":"/media/sounds/.mp3_EMoDSJy",
             "id":503
+         },
+         {
+            "name":"嘎抓：『啊！幹！』",
+            "url":"/media/sounds/.mp3_O0s09Ru",
+            "id":549
+         },
+         {
+            "name":"嘎抓：『啊！啊！啊！』",
+            "url":"/media/sounds/.mp3_bU2gkF3",
+            "id":550
+         },
+         {
+            "name":"嘎抓：『诶？』",
+            "url":"/media/sounds/.mp3_Qj2YkPF",
+            "id":551
+         },
+         {
+            "name":"嘎抓：『你下去的真是漂亮』",
+            "url":"/media/sounds/.mp3_25ly9vF",
+            "id":552
+         },
+         {
+            "name":"嘎抓：『打蟑螂』",
+            "url":"/media/sounds/.mp3_ziikFw2",
+            "id":553
+         },
+         {
+            "name":"嘎抓：『只許州官放屁，不許百姓拉屎』",
+            "url":"/media/sounds/.mp3_KyG5jKq",
+            "id":554
+         },
+         {
+            "name":"嘎抓：『只許州官放火，不許百姓殺人』",
+            "url":"/media/sounds/.mp3_D3mWm96",
+            "id":555
+         },
+         {
+            "name":"嘎抓：『あ～いたい いたい』",
+            "url":"/media/sounds/.mp3_oL2hvhg",
+            "id":556
          }
       ]
    }
