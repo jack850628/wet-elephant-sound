@@ -2836,6 +2836,51 @@ var audios = [
             "name":"嘎抓：『あ～いたい いたい』",
             "url":"/media/sounds/.mp3_oL2hvhg",
             "id":556
+         },
+         {
+            "name":"嘎抓：『今天很嗆是吧』",
+            "url":"/media/sounds/.mp3_Xb58ltQ",
+            "id":557
+         },
+         {
+            "name":"嘎抓：『如果喜歡我的直播的話』",
+            "url":"/media/sounds/.mp3_Uh5FsGP",
+            "id":558
+         },
+         {
+            "name":"嘎抓：『我喜歡喝酒抽菸和打老婆喔』",
+            "url":"/media/sounds/.mp3_f6Q8Xta",
+            "id":559
+         },
+         {
+            "name":"嘎抓：『唉呦』",
+            "url":"/media/sounds/.mp3_rbBZn4L",
+            "id":560
+         },
+         {
+            "name":"嘎抓：『啊！！！』",
+            "url":"/media/sounds/.mp3_n0eu4XH",
+            "id":561
+         },
+         {
+            "name":"嘎抓：『嗯嗯哈哈嘿嘿嘿』",
+            "url":"/media/sounds/.mp3_BxC9U4v",
+            "id":562
+         },
+         {
+            "name":"嘎抓：『嘎抓』",
+            "url":"/media/sounds/.mp3_jxNF9B1",
+            "id":563
+         },
+         {
+            "name":"嘎抓：『喵喵喵』",
+            "url":"/media/sounds/.mp3_kpQnvxL",
+            "id":564
+         },
+         {
+            "name":"嘎抓：『嘎抓賣屁眼』",
+            "url":"/media/sounds/.mp3_KIvkqBi",
+            "id":565
          }
       ]
    }
