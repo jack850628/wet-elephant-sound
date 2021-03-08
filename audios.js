@@ -561,6 +561,41 @@ var audios = [
             "name":"請豎立",
             "url":"/media/sounds/.mp3_RrGctTm",
             "id":475
+         },
+         {
+            "name":"大殮蓋棺～",
+            "url":"/media/sounds/.mp3_Q30Jp3o",
+            "id":598
+         },
+         {
+            "name":"同志們3",
+            "url":"/media/sounds/3_O8mRhF3.mp3",
+            "id":599
+         },
+         {
+            "name":"即將",
+            "url":"/media/sounds/.mp3_erevNwd",
+            "id":600
+         },
+         {
+            "name":"良辰吉時已到",
+            "url":"/media/sounds/.mp3_dB3frZs",
+            "id":601
+         },
+         {
+            "name":"做法～",
+            "url":"/media/sounds/.mp3_hCnyuTc",
+            "id":602
+         },
+         {
+            "name":"請法師",
+            "url":"/media/sounds/.mp3_HfTqLZy",
+            "id":603
+         },
+         {
+            "name":"請面向外面",
+            "url":"/media/sounds/.mp3_WUFQuOp",
+            "id":604
          }
       ]
    },
@@ -881,6 +916,11 @@ var audios = [
             "name":"嗚嗚嗚嗚嗚",
             "url":"/media/sounds/.mp3_62LU6K6",
             "id":67
+         },
+         {
+            "name":"被肛的哭聲",
+            "url":"/media/sounds/.mp3_SRlXiF4",
+            "id":605
          }
       ]
    },
@@ -906,6 +946,21 @@ var audios = [
             "name":"大家好，我是小安2",
             "url":"/media/sounds/2_I1PIf8z.mp3",
             "id":443
+         },
+         {
+            "name":"我喜歡拉小提琴跳舞還有唱歌喔",
+            "url":"/media/sounds/.mp3_rMQh92z",
+            "id":593
+         },
+         {
+            "name":"歡迎來到我的頻道",
+            "url":"/media/sounds/.mp3_Pdrhf9r",
+            "id":594
+         },
+         {
+            "name":"耶～",
+            "url":"/media/sounds/.mp3_XO9oT9k",
+            "id":595
          }
       ]
    },
@@ -1356,6 +1411,21 @@ var audios = [
             "name":"幹死你幹死你邱建祥被幹",
             "url":"/media/sounds/.mp3_68OzxcH",
             "id":547
+         },
+         {
+            "name":"又大又舒服",
+            "url":"/media/sounds/.mp3_QKHjB1P",
+            "id":590
+         },
+         {
+            "name":"屁眼就張開了",
+            "url":"/media/sounds/.mp3_kirzEA0",
+            "id":591
+         },
+         {
+            "name":"肛了",
+            "url":"/media/sounds/.mp3_sw7dlkm",
+            "id":592
          }
       ]
    },
@@ -1381,6 +1451,16 @@ var audios = [
             "name":"帶我領略四季的建祥",
             "url":"/media/sounds/.mp3_u28yOko",
             "id":492
+         },
+         {
+            "name":"你是我的雞眼",
+            "url":"/media/sounds/.mp3_aqfbWSr",
+            "id":596
+         },
+         {
+            "name":"讓我看見春哥的",
+            "url":"/media/sounds/.mp3_BSVQcGE",
+            "id":597
          }
       ],
    },
@@ -2596,6 +2676,126 @@ var audios = [
             "name":"立刻蓋起來",
             "url":"/media/sounds/.mp3_t56tmEh",
             "id":525
+         },
+         {
+            "name":"一聽到",
+            "url":"/media/sounds/.mp3_NDTZOJT",
+            "id":566
+         },
+         {
+            "name":"八千塊",
+            "url":"/media/sounds/.mp3_ftC8h4k",
+            "id":567
+         },
+         {
+            "name":"三千塊",
+            "url":"/media/sounds/.mp3_IiMA7ns",
+            "id":568
+         },
+         {
+            "name":"不講武德啊",
+            "url":"/media/sounds/.mp3_zsc0GnM",
+            "id":569
+         },
+         {
+            "name":"六千塊",
+            "url":"/media/sounds/.mp3_WLeEzdd",
+            "id":570
+         },
+         {
+            "name":"太爛",
+            "url":"/media/sounds/.mp3_rUSTCz4",
+            "id":571
+         },
+         {
+            "name":"半磅三千",
+            "url":"/media/sounds/.mp3_51LDAWN",
+            "id":572
+         },
+         {
+            "name":"去",
+            "url":"/media/sounds/.mp3_zsvHuFH",
+            "id":573
+         },
+         {
+            "name":"吃起來有甘嗎？",
+            "url":"/media/sounds/.mp3_ukqFQJy",
+            "id":574
+         },
+         {
+            "name":"因為",
+            "url":"/media/sounds/.mp3_uZi0XYT",
+            "id":575
+         },
+         {
+            "name":"年紀輕輕的小夥子",
+            "url":"/media/sounds/.mp3_izc4zCT",
+            "id":576
+         },
+         {
+            "name":"你們幾個年輕人",
+            "url":"/media/sounds/.mp3_jghDD4A",
+            "id":577
+         },
+         {
+            "name":"我2",
+            "url":"/media/sounds/2_ZwRvPdc.mp3",
+            "id":578
+         },
+         {
+            "name":"怎麼",
+            "url":"/media/sounds/.mp3_YwpA8ZQ",
+            "id":579
+         },
+         {
+            "name":"是不是",
+            "url":"/media/sounds/.mp3_acsoX3f",
+            "id":580
+         },
+         {
+            "name":"特別",
+            "url":"/media/sounds/.mp3_IYAHDAa",
+            "id":581
+         },
+         {
+            "name":"笑死",
+            "url":"/media/sounds/.mp3_gulctfL",
+            "id":582
+         },
+         {
+            "name":"做",
+            "url":"/media/sounds/.mp3_TkyFlzJ",
+            "id":583
+         },
+         {
+            "name":"偷襲",
+            "url":"/media/sounds/.mp3_kopdWbG",
+            "id":584
+         },
+         {
+            "name":"被",
+            "url":"/media/sounds/.mp3_eV0gPff",
+            "id":585
+         },
+         {
+            "name":"這次",
+            "url":"/media/sounds/.mp3_RskWt24",
+            "id":586
+         },
+         {
+            "name":"痛",
+            "url":"/media/sounds/.mp3_C3W3g14",
+            "id":587
+         },
+         {
+            "name":"買茶",
+            "url":"/media/sounds/.mp3_kBVav2s",
+            "id":588
+         },
+         {
+            "name":"關西",
+            "url":"/media/sounds/.mp3_Vytg84V",
+            "id":589
          }
       ]
    },
@@ -2773,7 +2973,7 @@ var audios = [
             "id":281
          },
          {
-            "name":"嘎抓：『襙你嗎的』",
+            "name":"嘎抓：『操你嗎的』",
             "url":"/media/sounds/.mp3_AkIrk09",
             "id":282
          },
@@ -2881,6 +3081,16 @@ var audios = [
             "name":"嘎抓：『嘎抓賣屁眼』",
             "url":"/media/sounds/.mp3_KIvkqBi",
             "id":565
+         },
+         {
+            "name":"嘎抓：『我愛的只有兆元』",
+            "url":"/media/sounds/.mp3_mAbeB2o",
+            "id":606
+         },
+         {
+            "name":"嘎抓：『皮卡屁只能算是我的砲友』",
+            "url":"/media/sounds/.mp3_RY20OHb",
+            "id":607
          }
       ]
    }
