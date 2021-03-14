@@ -596,6 +596,111 @@ var audios = [
             "name":"請面向外面",
             "url":"/media/sounds/.mp3_WUFQuOp",
             "id":604
+         },
+         {
+            "name":"一炷香",
+            "url":"/media/sounds/.mp3_b20dDsp",
+            "id":645
+         },
+         {
+            "name":"三柱清香～",
+            "url":"/media/sounds/.mp3_KkqlpIi",
+            "id":646
+         },
+         {
+            "name":"口渴的時候記得喝個罐頭塔保平安",
+            "url":"/media/sounds/.mp3_PN7o4vk",
+            "id":647
+         },
+         {
+            "name":"主席2",
+            "url":"/media/sounds/2_rLlN1rH.mp3",
+            "id":648
+         },
+         {
+            "name":"再一炷香",
+            "url":"/media/sounds/.mp3_w8UglXQ",
+            "id":649
+         },
+         {
+            "name":"同志大關",
+            "url":"/media/sounds/.mp3_JQnGxDZ",
+            "id":650
+         },
+         {
+            "name":"在脫帽的同時",
+            "url":"/media/sounds/.mp3_FLOBhyA",
+            "id":651
+         },
+         {
+            "name":"免費的罐頭塔讓各位自取",
+            "url":"/media/sounds/.mp3_XDYOxoO",
+            "id":652
+         },
+         {
+            "name":"我們外面",
+            "url":"/media/sounds/.mp3_GDnOUnI",
+            "id":653
+         },
+         {
+            "name":"復帽完畢",
+            "url":"/media/sounds/.mp3_aFPCUPt",
+            "id":654
+         },
+         {
+            "name":"準備鞠躬",
+            "url":"/media/sounds/.mp3_KdPg2FC",
+            "id":655
+         },
+         {
+            "name":"請脫帽",
+            "url":"/media/sounds/.mp3_wFhL5gn",
+            "id":656
+         },
+         {
+            "name":"請肅靜",
+            "url":"/media/sounds/.mp3_SUNSJ0G",
+            "id":657
+         },
+         {
+            "name":"舉行儀式開始啦",
+            "url":"/media/sounds/.mp3_b3hL7Za",
+            "id":658
+         },
+         {
+            "name":"謝謝各位的參與",
+            "url":"/media/sounds/.mp3_CBUQ9Ut",
+            "id":659
+         },
+         {
+            "name":"還有",
+            "url":"/media/sounds/.mp3_23O0k5R",
+            "id":660
+         },
+         {
+            "name":"獻果",
+            "url":"/media/sounds/.mp3_ZBgscMX",
+            "id":661
+         },
+         {
+            "name":"獻花",
+            "url":"/media/sounds/.mp3_e2ifSbq",
+            "id":662
+         },
+         {
+            "name":"獻爵",
+            "url":"/media/sounds/.mp3_xwvk53H",
+            "id":663
+         },
+         {
+            "name":"讓各位一起",
+            "url":"/media/sounds/.mp3_UBBPcET",
+            "id":664
+         },
+         {
+            "name":"進入2",
+            "url":"/media/sounds/2_VQGIbmb.mp3",
+            "id":665
          }
       ]
    },
@@ -753,19 +858,9 @@ var audios = [
             "id":493
          },
          {
-            "name":"你們年輕人就是不講武德",
-            "url":"/media/sounds/.mp3_xpUtvMt",
-            "id":543
-         },
-         {
             "name":"在幹是不是啦？",
             "url":"/media/sounds/.mp3_lmo4Xmf",
             "id":539
-         },
-         {
-            "name":"好知為知",
-            "url":"/media/sounds/.mp3_llcFJNR",
-            "id":540
          },
          {
             "name":"你怎麼便這個樣子啊？",
@@ -781,6 +876,26 @@ var audios = [
             "name":"真的素質很差ㄟ",
             "url":"/media/sounds/.mp3_G6iOj9g",
             "id":545
+         },
+         {
+            "name":"如果能幹死那王八蛋該有多好",
+            "url":"/media/sounds/.mp3_3lS6A2E",
+            "id":666
+         },
+         {
+            "name":"媽的幹死你！",
+            "url":"/media/sounds/.mp3_4a7ufbr",
+            "id":667
+         },
+         {
+            "name":"想被我幹是不是啊？",
+            "url":"/media/sounds/.mp3_2qM4CWV",
+            "id":668
+         },
+         {
+            "name":"龜啦！",
+            "url":"/media/sounds/.mp3_mwdIiud",
+            "id":669
          }
       ]
    },
@@ -896,6 +1011,11 @@ var audios = [
             "name":"嘿➚～～～",
             "url":"/media/sounds/.mp3_7c6jBmc",
             "id":531
+         },
+         {
+            "name":"唉呦唉唉いた",
+            "url":"/media/sounds/.mp3_ftk1GXo",
+            "id":670
          }
       ]
    },
@@ -1404,7 +1524,7 @@ var audios = [
          },
          {
             "name":"やらないか？2",
-            "url":"/media/sounds/2_GrHdMLW.mp3",
+            "url":"/media/sounds/2_BYwcgDK.mp3",
             "id":533
          },
          {
@@ -1426,8 +1546,193 @@ var audios = [
             "name":"肛了",
             "url":"/media/sounds/.mp3_sw7dlkm",
             "id":592
+         },
+         {
+            "name":"可以教你轉大人喔",
+            "url":"/media/sounds/.mp3_9ccWoPq",
+            "id":627
+         },
+         {
+            "name":"你的屁股怎麼那麼大？",
+            "url":"/media/sounds/.mp3_3fB7qxH",
+            "id":628
+         },
+         {
+            "name":"夾著屁股跑掉了",
+            "url":"/media/sounds/.mp3_4AvreDs",
+            "id":629
+         },
+         {
+            "name":"屁過屌過",
+            "url":"/media/sounds/.mp3_ejK7S8k",
+            "id":630
+         },
+         {
+            "name":"我就是被人家幹才變成這樣啦？",
+            "url":"/media/sounds/.mp3_w0q9jAF",
+            "id":631
+         },
+         {
+            "name":"我就是衛浴設備",
+            "url":"/media/sounds/.mp3_4cw76Xn",
+            "id":632
+         },
+         {
+            "name":"把你插在那邊給人家拜",
+            "url":"/media/sounds/.mp3_cAILaPR",
+            "id":633
+         },
+         {
+            "name":"那些年錯過的屁眼",
+            "url":"/media/sounds/.mp3_he5pHgK",
+            "id":634
+         },
+         {
+            "name":"原來香爐是這種感覺",
+            "url":"/media/sounds/.mp3_k4wTSyb",
+            "id":635
+         },
+         {
+            "name":"哭著回家",
+            "url":"/media/sounds/.mp3_RGffiZH",
+            "id":636
+         },
+         {
+            "name":"留下白白的一片以示敬意",
+            "url":"/media/sounds/.mp3_XtAFRD1",
+            "id":637
+         },
+         {
+            "name":"廁所內",
+            "url":"/media/sounds/.mp3_kY5VvS3",
+            "id":638
+         },
+         {
+            "name":"緊緊抱著你",
+            "url":"/media/sounds/.mp3_WlR9mNM",
+            "id":639
+         },
+         {
+            "name":"讓你變成北港香爐",
+            "url":"/media/sounds/.mp3_bz6N2KB",
+            "id":640
          }
       ]
+   },
+   {
+      "name":"共",
+      "datas":[
+         {
+            "name":"下去了",
+            "url":"/media/sounds/.mp3_yUHhn23",
+            "id":671
+         },
+         {
+            "name":"不同意的請舉手",
+            "url":"/media/sounds/.mp3_A8AbMhT",
+            "id":672
+         },
+         {
+            "name":"政治鬥爭",
+            "url":"/media/sounds/.mp3_DxQGQX4",
+            "id":673
+         },
+         {
+            "name":"鬥",
+            "url":"/media/sounds/.mp3_7IgsVdn",
+            "id":674
+         },
+         {
+            "name":"誰反對阿？",
+            "url":"/media/sounds/.mp3_gqRwnjt",
+            "id":675
+         },
+         {
+            "name":"誰贊成？",
+            "url":"/media/sounds/.mp3_gZ1FPgK",
+            "id":676
+         }
+      ]
+   },
+   {
+      "name":"閃電五連鞭",
+      "datas":[
+         {
+            "name":"大意啊我沒有閃",
+            "url":"/media/sounds/.mp3_46M8nub",
+            "id":641
+         },
+         {
+            "name":"好知為知2",
+            "url":"/media/sounds/2_Jmiw42l.mp3",
+            "id":642
+         },
+         {
+            "name":"我奉勸你們年輕人",
+            "url":"/media/sounds/.mp3_3jjAUo9",
+            "id":643
+         },
+         {
+            "name":"這個年輕人真是不講武德",
+            "url":"/media/sounds/.mp3_PdQKJh1",
+            "id":644
+         },
+         {
+            "name":"不講武德啊",
+            "url":"/media/sounds/.mp3_zsc0GnM",
+            "id":569
+         },
+         {
+            "name":"一鞭",
+            "url":"/media/sounds/.mp3_S3ngdnX",
+            "id":534
+         },
+         {
+            "name":"二鞭",
+            "url":"/media/sounds/.mp3_4ApgoJb",
+            "id":535
+         },
+         {
+            "name":"三鞭",
+            "url":"/media/sounds/.mp3_YnmXOEi",
+            "id":536
+         },
+         {
+            "name":"四鞭",
+            "url":"/media/sounds/.mp3_3gwizmb",
+            "id":537
+         },
+         {
+            "name":"五鞭",
+            "url":"/media/sounds/.mp3_uYwwcNT",
+            "id":538
+         },
+         {
+            "name":"閃電五連鞭2",
+            "url":"/media/sounds/2_4pXdDgA.mp3",
+            "id":546
+         },
+         {
+            "name":"閃電五連鞭",
+            "url":"/media/sounds/.mp3_ANair1M",
+            "id":507
+         },
+         {
+            "name":"我打一個",
+            "url":"/media/sounds/.mp3_IMjxpBS",
+            "id":510
+         },
+         {
+            "name":"你們年輕人就是不講武德",
+            "url":"/media/sounds/.mp3_xpUtvMt",
+            "id":543
+         },
+         {
+            "name":"好知為知",
+            "url":"/media/sounds/.mp3_llcFJNR",
+            "id":540
+         }
+      ],
    },
    {
       "name":"你是我的屁眼",
@@ -2558,11 +2863,6 @@ var audios = [
             "id":505
          },
          {
-            "name":"閃電五連鞭",
-            "url":"/media/sounds/.mp3_ANair1M",
-            "id":507
-         },
-         {
             "name":"阿彌陀佛",
             "url":"/media/sounds/.mp3_RNTotDi",
             "id":508
@@ -2571,11 +2871,6 @@ var audios = [
             "name":"我沒說過",
             "url":"/media/sounds/.mp3_IbfsJib",
             "id":509
-         },
-         {
-            "name":"我打一個",
-            "url":"/media/sounds/.mp3_IMjxpBS",
-            "id":510
          },
          {
             "name":"收入五千五百萬種特色語音",
@@ -2633,39 +2928,9 @@ var audios = [
             "id":528
          },
          {
-            "name":"一鞭",
-            "url":"/media/sounds/.mp3_S3ngdnX",
-            "id":534
-         },
-         {
-            "name":"二鞭",
-            "url":"/media/sounds/.mp3_4ApgoJb",
-            "id":535
-         },
-         {
-            "name":"三鞭",
-            "url":"/media/sounds/.mp3_YnmXOEi",
-            "id":536
-         },
-         {
-            "name":"四鞭",
-            "url":"/media/sounds/.mp3_3gwizmb",
-            "id":537
-         },
-         {
-            "name":"五鞭",
-            "url":"/media/sounds/.mp3_uYwwcNT",
-            "id":538
-         },
-         {
             "name":"老淚縱橫",
             "url":"/media/sounds/.mp3_r0dgDnU",
             "id":541
-         },
-         {
-            "name":"閃電五連鞭2",
-            "url":"/media/sounds/2_4pXdDgA.mp3",
-            "id":546
          },
          {
             "name":"確定沒有犯法嗎？",
@@ -2691,11 +2956,6 @@ var audios = [
             "name":"三千塊",
             "url":"/media/sounds/.mp3_IiMA7ns",
             "id":568
-         },
-         {
-            "name":"不講武德啊",
-            "url":"/media/sounds/.mp3_zsc0GnM",
-            "id":569
          },
          {
             "name":"六千塊",
@@ -2796,6 +3056,101 @@ var audios = [
             "name":"關西",
             "url":"/media/sounds/.mp3_Vytg84V",
             "id":589
+         },
+         {
+            "name":"山珍海味",
+            "url":"/media/sounds/.mp3_M0Aewny",
+            "id":608
+         },
+         {
+            "name":"工商",
+            "url":"/media/sounds/.mp3_YdEtjrG",
+            "id":609
+         },
+         {
+            "name":"不要這樣啦",
+            "url":"/media/sounds/.mp3_nRY76B1",
+            "id":610
+         },
+         {
+            "name":"主委加碼",
+            "url":"/media/sounds/.mp3_Xyc555G",
+            "id":611
+         },
+         {
+            "name":"他的那些",
+            "url":"/media/sounds/.mp3_bit51Wj",
+            "id":612
+         },
+         {
+            "name":"失禮啦",
+            "url":"/media/sounds/.mp3_pL5UWgo",
+            "id":613
+         },
+         {
+            "name":"別這樣啦",
+            "url":"/media/sounds/.mp3_bzWfuvs",
+            "id":614
+         },
+         {
+            "name":"沒有人",
+            "url":"/media/sounds/.mp3_DNHQyec",
+            "id":615
+         },
+         {
+            "name":"享用",
+            "url":"/media/sounds/.mp3_184cdlf",
+            "id":616
+         },
+         {
+            "name":"空手而歸",
+            "url":"/media/sounds/.mp3_yH0TAuF",
+            "id":617
+         },
+         {
+            "name":"哇",
+            "url":"/media/sounds/.mp3_PT5CzVd",
+            "id":618
+         },
+         {
+            "name":"客觀",
+            "url":"/media/sounds/.mp3_q53YMCG",
+            "id":619
+         },
+         {
+            "name":"怎麼樣",
+            "url":"/media/sounds/.mp3_qpITar3",
+            "id":620
+         },
+         {
+            "name":"這不是我的錯",
+            "url":"/media/sounds/.mp3_rGSToni",
+            "id":621
+         },
+         {
+            "name":"滿載而來",
+            "url":"/media/sounds/.mp3_PJZJ4mE",
+            "id":622
+         },
+         {
+            "name":"綠了",
+            "url":"/media/sounds/.mp3_91YUbDu",
+            "id":623
+         },
+         {
+            "name":"請坐下",
+            "url":"/media/sounds/.mp3_k8Txpas",
+            "id":624
+         },
+         {
+            "name":"謀啦～3",
+            "url":"/media/sounds/3_32V1XGs.mp3",
+            "id":625
+         },
+         {
+            "name":"讚",
+            "url":"/media/sounds/.mp3_BgObUZO",
+            "id":626
          }
       ]
    },
@@ -3091,6 +3446,121 @@ var audios = [
             "name":"嘎抓：『皮卡屁只能算是我的砲友』",
             "url":"/media/sounds/.mp3_RY20OHb",
             "id":607
+         },
+         {
+            "name":"嘎抓：『讓我們』",
+            "url":"/media/sounds/.mp3_oOMes03",
+            "id":677
+         },
+         {
+            "name":"嘎抓：『願他在天之靈』",
+            "url":"/media/sounds/.mp3_wJoAlDF",
+            "id":678
+         },
+         {
+            "name":"嘎抓：『禮成』",
+            "url":"/media/sounds/.mp3_7G0dPKx",
+            "id":679
+         },
+         {
+            "name":"嘎抓：『嘎抓還想舔2』",
+            "url":"/media/sounds/2_qqxrN32.mp3",
+            "id":680
+         },
+         {
+            "name":"嘎抓：『嘎抓還想舔』",
+            "url":"/media/sounds/.mp3_UM017JE",
+            "id":681
+         },
+         {
+            "name":"嘎抓：『感謝各位今日的到場』",
+            "url":"/media/sounds/.mp3_xxxSLJE",
+            "id":682
+         },
+         {
+            "name":"嘎抓：『最後一程』",
+            "url":"/media/sounds/.mp3_NebAuLg",
+            "id":683
+         },
+         {
+            "name":"嘎抓：『陪他走完』",
+            "url":"/media/sounds/.mp3_QVjwyFP",
+            "id":684
+         },
+         {
+            "name":"嘎抓：『參加我們』",
+            "url":"/media/sounds/.mp3_vXXspCm",
+            "id":685
+         },
+         {
+            "name":"嘎抓：『奏樂』",
+            "url":"/media/sounds/.mp3_9jGdakv",
+            "id":686
+         },
+         {
+            "name":"嘎抓：『的』",
+            "url":"/media/sounds/.mp3_rnv868F",
+            "id":687
+         },
+         {
+            "name":"嘎抓：『所有人』",
+            "url":"/media/sounds/.mp3_jVgcFSj",
+            "id":688
+         },
+         {
+            "name":"嘎抓：『我們懷念他』",
+            "url":"/media/sounds/.mp3_FCju4u7",
+            "id":689
+         },
+         {
+            "name":"嘎抓：『我們曉得他』",
+            "url":"/media/sounds/.mp3_SY398Cl",
+            "id":690
+         },
+         {
+            "name":"嘎抓：『告別儀式』",
+            "url":"/media/sounds/.mp3_BZJAgxF",
+            "id":691
+         },
+         {
+            "name":"嘎抓：『好香』",
+            "url":"/media/sounds/.mp3_uueSK1S",
+            "id":692
+         },
+         {
+            "name":"嘎抓：『好好的』",
+            "url":"/media/sounds/.mp3_JAbAERA",
+            "id":693
+         },
+         {
+            "name":"嘎抓：『在上香』",
+            "url":"/media/sounds/.mp3_Ila6uHf",
+            "id":694
+         },
+         {
+            "name":"嘎抓：『王公銘森哈鮭企鵝』",
+            "url":"/media/sounds/.mp3_G698Ar0",
+            "id":695
+         },
+         {
+            "name":"嘎抓：『也能夠保佑』",
+            "url":"/media/sounds/.mp3_Wu0pq2q",
+            "id":696
+         },
+         {
+            "name":"嘎抓：『三上香』",
+            "url":"/media/sounds/.mp3_Ik43Ya7",
+            "id":697
+         },
+         {
+            "name":"嘎抓：『人生的』",
+            "url":"/media/sounds/.mp3_DC9PC5J",
+            "id":698
+         },
+         {
+            "name":"嘎抓：『一炷清香』",
+            "url":"/media/sounds/.mp3_3We9b0r",
+            "id":699
          }
       ]
    }
