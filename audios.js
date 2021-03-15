@@ -1489,7 +1489,7 @@ var audios = [
          },
          {
             "name":"やらないか？",
-            "url":"/media/sounds/.mp3_D77nr3n",
+            "url":"/media/sounds/.mp3_ZXsE4Uq",
             "id":519
          },
          {
@@ -1524,7 +1524,7 @@ var audios = [
          },
          {
             "name":"やらないか？2",
-            "url":"/media/sounds/2_BYwcgDK.mp3",
+            "url":"/media/sounds/2_NXhsmxC.mp3",
             "id":533
          },
          {
