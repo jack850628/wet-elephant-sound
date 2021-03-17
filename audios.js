@@ -701,6 +701,171 @@ var audios = [
             "name":"進入2",
             "url":"/media/sounds/2_VQGIbmb.mp3",
             "id":665
+         },
+         {
+            "name":"也不要讓他難過",
+            "url":"/media/sounds/.mp3_87lA0Zh",
+            "id":701
+         },
+         {
+            "name":"不要再彈出來了",
+            "url":"/media/sounds/.mp3_awugVsm",
+            "id":702
+         },
+         {
+            "name":"火化的過程中",
+            "url":"/media/sounds/.mp3_ODse2GW",
+            "id":703
+         },
+         {
+            "name":"火化儀式",
+            "url":"/media/sounds/.mp3_zJET9vo",
+            "id":704
+         },
+         {
+            "name":"他已經剩粉了",
+            "url":"/media/sounds/.mp3_SgrbPHh",
+            "id":705
+         },
+         {
+            "name":"他在那最後的時刻",
+            "url":"/media/sounds/.mp3_bEJkKvd",
+            "id":706
+         },
+         {
+            "name":"再也沒辦法",
+            "url":"/media/sounds/.mp3_TVrqpJp",
+            "id":707
+         },
+         {
+            "name":"再次懷念",
+            "url":"/media/sounds/.mp3_s3QVAg8",
+            "id":708
+         },
+         {
+            "name":"各位2",
+            "url":"/media/sounds/2_uHOxrcq.mp3",
+            "id":709
+         },
+         {
+            "name":"因為2",
+            "url":"/media/sounds/2_psCOa9I.mp3",
+            "id":710
+         },
+         {
+            "name":"在火化的同時",
+            "url":"/media/sounds/.mp3_jUazjxL",
+            "id":711
+         },
+         {
+            "name":"好的",
+            "url":"/media/sounds/.mp3_Lwx1RRb",
+            "id":712
+         },
+         {
+            "name":"有火呦",
+            "url":"/media/sounds/.mp3_opZ0xLz",
+            "id":713
+         },
+         {
+            "name":"至旁間的小房間領取他的灰",
+            "url":"/media/sounds/.mp3_fpIkl8k",
+            "id":714
+         },
+         {
+            "name":"告別典禮",
+            "url":"/media/sounds/.mp3_JE7gOJ1",
+            "id":715
+         },
+         {
+            "name":"快跑啊",
+            "url":"/media/sounds/.mp3_4dnRBRN",
+            "id":716
+         },
+         {
+            "name":"我們一定要永遠記得他",
+            "url":"/media/sounds/.mp3_eG9QFp2",
+            "id":717
+         },
+         {
+            "name":"我們一定要懷念他",
+            "url":"/media/sounds/.mp3_JmlAcYp",
+            "id":718
+         },
+         {
+            "name":"我們永遠將他放在我們肉便器的名單上面",
+            "url":"/media/sounds/.mp3_8slCksb",
+            "id":719
+         },
+         {
+            "name":"我們真的很懷念他",
+            "url":"/media/sounds/.mp3_ZZUsTat",
+            "id":720
+         },
+         {
+            "name":"我棺材已經蓋起來了",
+            "url":"/media/sounds/.mp3_aIDKMzo",
+            "id":721
+         },
+         {
+            "name":"典禮開始",
+            "url":"/media/sounds/.mp3_7oAjtZz",
+            "id":722
+         },
+         {
+            "name":"拔刀典禮",
+            "url":"/media/sounds/.mp3_tC0RTRS",
+            "id":723
+         },
+         {
+            "name":"要推進去了",
+            "url":"/media/sounds/.mp3_Ti7Eh6d",
+            "id":724
+         },
+         {
+            "name":"要跑喔",
+            "url":"/media/sounds/.mp3_Pi7uqLK",
+            "id":725
+         },
+         {
+            "name":"旁邊燒的那個叫",
+            "url":"/media/sounds/.mp3_iOKOCIB",
+            "id":726
+         },
+         {
+            "name":"進行",
+            "url":"/media/sounds/.mp3_yU2gaYY",
+            "id":727
+         },
+         {
+            "name":"請各位觀眾與家屬",
+            "url":"/media/sounds/.mp3_Gf2l5rq",
+            "id":728
+         },
+         {
+            "name":"請記得大喊",
+            "url":"/media/sounds/.mp3_8dwFUGP",
+            "id":729
+         },
+         {
+            "name":"謝謝你",
+            "url":"/media/sounds/.mp3_3NqmYE3",
+            "id":730
+         },
+         {
+            "name":"聽到沒？",
+            "url":"/media/sounds/.mp3_cAEyHsL",
+            "id":731
+         },
+         {
+            "name":"讓我們紀念",
+            "url":"/media/sounds/.mp3_wj5AGsw",
+            "id":732
+         },
+         {
+            "name":"火要來啦",
+            "url":"/media/sounds/.mp3_lg0MX9N",
+            "id":733
          }
       ]
    },
@@ -896,6 +1061,21 @@ var audios = [
             "name":"龜啦！",
             "url":"/media/sounds/.mp3_mwdIiud",
             "id":669
+         },
+         {
+            "name":"幹！",
+            "url":"/media/sounds/.mp3_W3GrziI",
+            "id":753
+         },
+         {
+            "name":"幹！2",
+            "url":"/media/sounds/2_uiVuIwY.mp3",
+            "id":754
+         },
+         {
+            "name":"靠夭",
+            "url":"/media/sounds/.mp3_DLFxpa7",
+            "id":755
          }
       ]
    },
@@ -1016,6 +1196,16 @@ var audios = [
             "name":"唉呦唉唉いた",
             "url":"/media/sounds/.mp3_ftk1GXo",
             "id":670
+         },
+         {
+            "name":"大濕引擎聲",
+            "url":"/media/sounds/.mp3_dFpdXx8",
+            "id":747
+         },
+         {
+            "name":"爆炸聲",
+            "url":"/media/sounds/.mp3_1Y5VyhW",
+            "id":748
          }
       ]
    },
@@ -1073,7 +1263,7 @@ var audios = [
             "id":593
          },
          {
-            "name":"歡迎來到我的頻道",
+            "name":"歡迎來到我的頻道訂閱我喔～YA～",
             "url":"/media/sounds/.mp3_Pdrhf9r",
             "id":594
          },
@@ -1081,6 +1271,11 @@ var audios = [
             "name":"耶～",
             "url":"/media/sounds/.mp3_XO9oT9k",
             "id":595
+         },
+         {
+            "name":"你給我八千我就幫你畫喔",
+            "url":"/media/sounds/.mp3_8cs9LES",
+            "id":756
          }
       ]
    },
@@ -1616,6 +1811,26 @@ var audios = [
             "name":"讓你變成北港香爐",
             "url":"/media/sounds/.mp3_bz6N2KB",
             "id":640
+         },
+         {
+            "name":"屁股痛",
+            "url":"/media/sounds/.mp3_x0QjoKQ",
+            "id":749
+         },
+         {
+            "name":"唉唷你臉紅啦",
+            "url":"/media/sounds/.mp3_s0CJsK1",
+            "id":750
+         },
+         {
+            "name":"掰到哪去了",
+            "url":"/media/sounds/.mp3_GsT2JPU",
+            "id":751
+         },
+         {
+            "name":"硬把他撐開",
+            "url":"/media/sounds/.mp3_8IifmV1",
+            "id":752
          }
       ]
    },
@@ -3151,6 +3366,76 @@ var audios = [
             "name":"讚",
             "url":"/media/sounds/.mp3_BgObUZO",
             "id":626
+         },
+         {
+            "name":"大濕：『Da ja vu』",
+            "url":"/media/sounds/da-ja-vu.mp3",
+            "id":734
+         },
+         {
+            "name":"他讓你",
+            "url":"/media/sounds/.mp3_ZjVFsgY",
+            "id":735
+         },
+         {
+            "name":"好棒喔三點了",
+            "url":"/media/sounds/.mp3_exQlL7P",
+            "id":736
+         },
+         {
+            "name":"你怎麼那麼多",
+            "url":"/media/sounds/.mp3_J2fQcLY",
+            "id":737
+         },
+         {
+            "name":"我就爛",
+            "url":"/media/sounds/.mp3_2yFrajR",
+            "id":738
+         },
+         {
+            "name":"來",
+            "url":"/media/sounds/.mp3_YdrXb3Y",
+            "id":739
+         },
+         {
+            "name":"來讓你看個好康的",
+            "url":"/media/sounds/.mp3_RlpDSkH",
+            "id":740
+         },
+         {
+            "name":"直接ALL IN",
+            "url":"/media/sounds/all-in_JUQUenb.mp3",
+            "id":741
+         },
+         {
+            "name":"非常的壯觀",
+            "url":"/media/sounds/.mp3_h7jzc65",
+            "id":742
+         },
+         {
+            "name":"哀，這沒什麼",
+            "url":"/media/sounds/.mp3_IiIVFwE",
+            "id":743
+         },
+         {
+            "name":"炸掉",
+            "url":"/media/sounds/.mp3_pawQ9G2",
+            "id":744
+         },
+         {
+            "name":"開花結果",
+            "url":"/media/sounds/.mp3_RA0rkSv",
+            "id":745
+         },
+         {
+            "name":"濕爸爸變魔術啦",
+            "url":"/media/sounds/.mp3_i5fRKtx",
+            "id":746
+         },
+         {
+            "name":"對不起",
+            "url":"/media/sounds/.mp3_ifNe5gc",
+            "id":757
          }
       ]
    },
