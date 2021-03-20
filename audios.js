@@ -876,6 +876,106 @@ var audios = [
             "name":"火要來啦",
             "url":"/media/sounds/.mp3_lg0MX9N",
             "id":733
+         },
+         {
+            "name":"88",
+            "url":"/media/sounds/88.mp3",
+            "id":906
+         },
+         {
+            "name":"下去囉～",
+            "url":"/media/sounds/.mp3_TWPRgh0",
+            "id":907
+         },
+         {
+            "name":"千萬不要懷念我們",
+            "url":"/media/sounds/.mp3_bnGioTc",
+            "id":908
+         },
+         {
+            "name":"不愧是",
+            "url":"/media/sounds/.mp3_T6kjR7r",
+            "id":909
+         },
+         {
+            "name":"他走的非常非常的痛",
+            "url":"/media/sounds/.mp3_RLbOkmx",
+            "id":910
+         },
+         {
+            "name":"共產之力",
+            "url":"/media/sounds/.mp3_CLTnQOE",
+            "id":911
+         },
+         {
+            "name":"共產黨的兒子",
+            "url":"/media/sounds/.mp3_sinoWCT",
+            "id":912
+         },
+         {
+            "name":"在下去的同時",
+            "url":"/media/sounds/.mp3_kkKxind",
+            "id":913
+         },
+         {
+            "name":"在送的過程",
+            "url":"/media/sounds/.mp3_d0LnklD",
+            "id":914
+         },
+         {
+            "name":"我不送你下去，誰送你下去？",
+            "url":"/media/sounds/.mp3_eEJr9CW",
+            "id":915
+         },
+         {
+            "name":"我們為了體現",
+            "url":"/media/sounds/.mp3_5Ex4g5k",
+            "id":916
+         },
+         {
+            "name":"我們懷念你",
+            "url":"/media/sounds/.mp3_oPVOny4",
+            "id":917
+         },
+         {
+            "name":"為民所苦",
+            "url":"/media/sounds/.mp3_8hevkDa",
+            "id":919
+         },
+         {
+            "name":"苦民所苦",
+            "url":"/media/sounds/.mp3_rgFoyJC",
+            "id":920
+         },
+         {
+            "name":"記得",
+            "url":"/media/sounds/.mp3_j0uvcct",
+            "id":922
+         },
+         {
+            "name":"貢獻了那",
+            "url":"/media/sounds/.mp3_jaS0ZwV",
+            "id":923
+         },
+         {
+            "name":"做事情也如此共產",
+            "url":"/media/sounds/.mp3_fCd9Zwi",
+            "id":924
+         },
+         {
+            "name":"講話就是這麼的共產",
+            "url":"/media/sounds/.mp3_AxHeymy",
+            "id":925
+         },
+         {
+            "name":"謝謝你2",
+            "url":"/media/sounds/2_5fb6UL9.mp3",
+            "id":926
+         },
+         {
+            "name":"黨的意志準備送",
+            "url":"/media/sounds/.mp3_LfQiJ3v",
+            "id":927
          }
       ]
    },
@@ -1436,6 +1536,16 @@ var audios = [
             "name":"噗嘿嘿",
             "url":"/media/sounds/.mp3_KOMvNlO",
             "id":880
+         },
+         {
+            "name":"哇！～",
+            "url":"/media/sounds/.mp3_jTUXmSU",
+            "id":918
+         },
+         {
+            "name":"唉呦～",
+            "url":"/media/sounds/.mp3_aaUiH6M",
+            "id":921
          }
       ]
    },
