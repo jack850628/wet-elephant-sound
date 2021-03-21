@@ -1291,6 +1291,11 @@ var audios = [
             "name":"還要媽媽陪",
             "url":"/media/sounds/.mp3_CZMUMbB",
             "id":901
+         },
+         {
+            "name":"開外掛是不是啦？",
+            "url":"/media/sounds/.mp3_y79H1RX",
+            "id":948
          }
       ]
    },
@@ -1546,6 +1551,11 @@ var audios = [
             "name":"唉呦～",
             "url":"/media/sounds/.mp3_aaUiH6M",
             "id":921
+         },
+         {
+            "name":"啵啵啵啵啵～",
+            "url":"/media/sounds/.mp3_x3SlS3S",
+            "id":947
          }
       ]
    },
@@ -2286,6 +2296,11 @@ var audios = [
             "name":"騙我大便的地方",
             "url":"/media/sounds/.mp3_fEis1Rg",
             "id":857
+         },
+         {
+            "name":"ああいくいくいくいく",
+            "url":"/media/sounds/.mp3_UG0VACr",
+            "id":946
          }
       ]
    },
@@ -2446,6 +2461,46 @@ var audios = [
             "name":"讓我看見春哥的",
             "url":"/media/sounds/.mp3_BSVQcGE",
             "id":597
+         }
+      ],
+   },
+   {
+      "name":"吉娃娃",
+      "datas":[
+         {
+            "name":"右拳右～拳",
+            "url":"/media/sounds/.mp3_irhfRCL",
+            "id":939
+         },
+         {
+            "name":"吉娃娃",
+            "url":"/media/sounds/.mp3_lyue242",
+            "id":940
+         },
+         {
+            "name":"吉娃娃2",
+            "url":"/media/sounds/2_ifkfJNf.mp3",
+            "id":941
+         },
+         {
+            "name":"吉娃娃娃",
+            "url":"/media/sounds/.mp3_QUkPEel",
+            "id":942
+         },
+         {
+            "name":"我們來去找右拳",
+            "url":"/media/sounds/.mp3_b8HiVd5",
+            "id":943
+         },
+         {
+            "name":"屌你老母2",
+            "url":"/media/sounds/2_e0UqHS4.mp3",
+            "id":944
+         },
+         {
+            "name":"豎起來～",
+            "url":"/media/sounds/.mp3_ooAbmpE",
+            "id":945
          }
       ],
    },
@@ -4281,6 +4336,66 @@ var audios = [
             "name":"轟隆隆隆隆衝衝衝衝拉風",
             "url":"/media/sounds/.mp3_CFypoCS",
             "id":834
+         },
+         {
+            "name":"不管了不管了",
+            "url":"/media/sounds/.mp3_QAMEgp4",
+            "id":928
+         },
+         {
+            "name":"奶子正義",
+            "url":"/media/sounds/.mp3_iQWzbYr",
+            "id":929
+         },
+         {
+            "name":"打倒獨裁",
+            "url":"/media/sounds/.mp3_VFqJZrI",
+            "id":930
+         },
+         {
+            "name":"好難喔",
+            "url":"/media/sounds/.mp3_gvy3bdV",
+            "id":931
+         },
+         {
+            "name":"我要當破狗了",
+            "url":"/media/sounds/.mp3_017drPw",
+            "id":932
+         },
+         {
+            "name":"見證了奇蹟",
+            "url":"/media/sounds/.mp3_zgJcjTu",
+            "id":933
+         },
+         {
+            "name":"來囉來囉來囉",
+            "url":"/media/sounds/.mp3_a6fR0en",
+            "id":934
+         },
+         {
+            "name":"思想限制",
+            "url":"/media/sounds/.mp3_dluNCj9",
+            "id":935
+         },
+         {
+            "name":"畫家革命",
+            "url":"/media/sounds/.mp3_ab4plLM",
+            "id":936
+         },
+         {
+            "name":"幹這壓力太大了吧",
+            "url":"/media/sounds/.mp3_TR3DK7s",
+            "id":937
+         },
+         {
+            "name":"靠～",
+            "url":"/media/sounds/.mp3_HFicZpB",
+            "id":938
+         },
+         {
+            "name":"資本主義的勝利",
+            "url":"/media/sounds/.mp3_rKcT20S",
+            "id":949
          }
       ]
    },
@@ -4706,7 +4821,21 @@ var audios = [
             "name":"桑尤姆：『顯考張公兆元仙界大濕』",
             "url":"/media/sounds/.mp3_iTqCx0m",
             "id":700
+         },{
+            "name":"桑尤姆：『あああいたいいたいいたい』",
+            "url":"/media/sounds/.mp3_dUWEo0c",
+            "id":950
          },
+         {
+            "name":"桑尤姆：『叮～』",
+            "url":"/media/sounds/.mp3_ZP7ektG",
+            "id":951
+         },
+         {
+            "name":"桑尤姆：『叮～2』",
+            "url":"/media/sounds/2_9L7U7qW.mp3",
+            "id":952
+         }
       ]
    }
 ];
