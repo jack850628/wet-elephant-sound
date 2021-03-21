@@ -2406,6 +2406,11 @@ var audios = [
             "name":"我打一個你們看看啊",
             "url":"/media/sounds/.mp3_fFJHomk",
             "id":902
+         },
+         {
+            "name":"偷襲",
+            "url":"/media/sounds/.mp3_kopdWbG",
+            "id":584
          }
       ],
    },
@@ -3701,11 +3706,6 @@ var audios = [
             "name":"做",
             "url":"/media/sounds/.mp3_TkyFlzJ",
             "id":583
-         },
-         {
-            "name":"偷襲",
-            "url":"/media/sounds/.mp3_kopdWbG",
-            "id":584
          },
          {
             "name":"被",
