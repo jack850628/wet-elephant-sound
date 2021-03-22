@@ -4811,6 +4811,36 @@ var audios = [
             "name":"嘎抓：『嘿嘿』",
             "url":"/media/sounds/.mp3_VxknlZb",
             "id":905
+         },
+         {
+            "name":"嘎抓：『哭～啊～』",
+            "url":"/media/sounds/.mp3_9vmJeA3",
+            "id":953
+         },
+         {
+            "name":"嘎抓：『打噴嚏』",
+            "url":"/media/sounds/.mp3_w0gG2CH",
+            "id":954
+         },
+         {
+            "name":"嘎抓：『where are you live~』",
+            "url":"/media/sounds/where-are-you-live.mp3",
+            "id":955
+         },
+         {
+            "name":"嘎抓：『靠杯』",
+            "url":"/media/sounds/.mp3_3hPt8BQ",
+            "id":956
+         },
+         {
+            "name":"嘎抓：『幹拎剌阿勒』",
+            "url":"/media/sounds/.mp3_7K86vtR",
+            "id":957
+         },
+         {
+            "name":"嘎抓：『當我是沒有的人就對了』",
+            "url":"/media/sounds/.mp3_5CD9kfQ",
+            "id":958
          }
       ]
    },
