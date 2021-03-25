@@ -976,6 +976,11 @@ var audios = [
             "name":"黨的意志準備送",
             "url":"/media/sounds/.mp3_LfQiJ3v",
             "id":927
+         },
+         {
+            "name":"蘇聯國歌開頭",
+            "url":"/media/sounds/.mp3_9TAnQOd",
+            "id":1015
          }
       ]
    },
@@ -1296,6 +1301,11 @@ var audios = [
             "name":"開外掛是不是啦？",
             "url":"/media/sounds/.mp3_y79H1RX",
             "id":948
+         },
+         {
+            "name":"媽了個B",
+            "url":"/media/sounds/b_GGAKH3r.mp3",
+            "id":1017
          }
       ]
    },
@@ -1556,6 +1566,11 @@ var audios = [
             "name":"啵啵啵啵啵～",
             "url":"/media/sounds/.mp3_x3SlS3S",
             "id":947
+         },
+         {
+            "name":"欸！",
+            "url":"/media/sounds/.mp3_8nuhSCA",
+            "id":1016
          }
       ]
    },
@@ -2301,6 +2316,21 @@ var audios = [
             "name":"ああいくいくいくいく",
             "url":"/media/sounds/.mp3_UG0VACr",
             "id":946
+         },
+         {
+            "name":"啊懶覺讓我摸一下好不好",
+            "url":"/media/sounds/.mp3_QD5lbrA",
+            "id":1012
+         },
+         {
+            "name":"摸人家",
+            "url":"/media/sounds/.mp3_HFhm0Vp",
+            "id":1013
+         },
+         {
+            "name":"懶覺讓我摸一下",
+            "url":"/media/sounds/.mp3_h7JWE7k",
+            "id":1014
          }
       ]
    },
@@ -2336,6 +2366,141 @@ var audios = [
             "name":"誰贊成？",
             "url":"/media/sounds/.mp3_gZ1FPgK",
             "id":676
+         },
+         {
+            "name":"不好意思",
+            "url":"/media/sounds/.mp3_tHjsjSN",
+            "id":985
+         },
+         {
+            "name":"不是",
+            "url":"/media/sounds/.mp3_Z6VHm1x",
+            "id":986
+         },
+         {
+            "name":"中你妹啊",
+            "url":"/media/sounds/.mp3_rif7wgH",
+            "id":987
+         },
+         {
+            "name":"中國",
+            "url":"/media/sounds/.mp3_uGkGhdu",
+            "id":988
+         },
+         {
+            "name":"中華人民共和國",
+            "url":"/media/sounds/.mp3_j1Pjf75",
+            "id":989
+         },
+         {
+            "name":"中華民國",
+            "url":"/media/sounds/.mp3_x84ZA7B",
+            "id":990
+         },
+         {
+            "name":"北京",
+            "url":"/media/sounds/.mp3_oqNBVy4",
+            "id":991
+         },
+         {
+            "name":"台北市",
+            "url":"/media/sounds/.mp3_uqOhnwg",
+            "id":992
+         },
+         {
+            "name":"台灣",
+            "url":"/media/sounds/.mp3_nfFB65o",
+            "id":993
+         },
+         {
+            "name":"奶子",
+            "url":"/media/sounds/.mp3_wtswqh9",
+            "id":994
+         },
+         {
+            "name":"全部都是",
+            "url":"/media/sounds/.mp3_Ww7DuEw",
+            "id":995
+         },
+         {
+            "name":"同鄉",
+            "url":"/media/sounds/.mp3_7jE0eua",
+            "id":996
+         },
+         {
+            "name":"在2",
+            "url":"/media/sounds/2_7siMnPp.mp3",
+            "id":997
+         },
+         {
+            "name":"自己人",
+            "url":"/media/sounds/.mp3_fR3px60",
+            "id":998
+         },
+         {
+            "name":"我們有",
+            "url":"/media/sounds/.mp3_myfEXs3",
+            "id":999
+         },
+         {
+            "name":"我送你",
+            "url":"/media/sounds/.mp3_BezCU89",
+            "id":1000
+         },
+         {
+            "name":"沒事沒事2",
+            "url":"/media/sounds/2_zfw7WSv.mp3",
+            "id":1001
+         },
+         {
+            "name":"咱們3",
+            "url":"/media/sounds/3_Ktq8ruK.mp3",
+            "id":1002
+         },
+         {
+            "name":"咱們的黨",
+            "url":"/media/sounds/.mp3_2QV9gmy",
+            "id":1003
+         },
+         {
+            "name":"咱們是一家人",
+            "url":"/media/sounds/.mp3_66tNuSU",
+            "id":1004
+         },
+         {
+            "name":"很多的",
+            "url":"/media/sounds/.mp3_VPjR4Yp",
+            "id":1005
+         },
+         {
+            "name":"是3",
+            "url":"/media/sounds/3_MlqI3Pv.mp3",
+            "id":1006
+         },
+         {
+            "name":"首都",
+            "url":"/media/sounds/.mp3_yLhVPUg",
+            "id":1007
+         },
+         {
+            "name":"俺",
+            "url":"/media/sounds/.mp3_qqgckrD",
+            "id":1008
+         },
+         {
+            "name":"祖國",
+            "url":"/media/sounds/.mp3_pLg2Xb6",
+            "id":1009
+         },
+         {
+            "name":"常常發生",
+            "url":"/media/sounds/.mp3_eBq5PYV",
+            "id":1010
+         },
+         {
+            "name":"懂嗎？",
+            "url":"/media/sounds/.mp3_I7ayweQ",
+            "id":1011
          }
       ]
    },
@@ -2871,11 +3036,6 @@ var audios = [
             "name":"救我！",
             "url":"/media/sounds/.mp3_FpU85TY",
             "id":176
-         },
-         {
-            "name":"龍潭廁所子",
-            "url":"/media/sounds/.mp3_XBxAuQE",
-            "id":177
          },
          {
             "name":"因該不會上車吧？",
@@ -4396,6 +4556,136 @@ var audios = [
             "name":"資本主義的勝利",
             "url":"/media/sounds/.mp3_rKcT20S",
             "id":949
+         },
+         {
+            "name":"一百塊",
+            "url":"/media/sounds/.mp3_YMRwMIR",
+            "id":959
+         },
+         {
+            "name":"元元子與正義舌吻，然後邱少爺在旁邊戴綠帽",
+            "url":"/media/sounds/.mp3_ZgWH7mX",
+            "id":960
+         },
+         {
+            "name":"心神感應",
+            "url":"/media/sounds/.mp3_Gozqh8f",
+            "id":961
+         },
+         {
+            "name":"出來了",
+            "url":"/media/sounds/.mp3_YFw4e5i",
+            "id":962
+         },
+         {
+            "name":"包容",
+            "url":"/media/sounds/.mp3_kUdmecj",
+            "id":963
+         },
+         {
+            "name":"好吃",
+            "url":"/media/sounds/.mp3_SkoT47V",
+            "id":964
+         },
+         {
+            "name":"年輕人啊",
+            "url":"/media/sounds/.mp3_c8unnOZ",
+            "id":965
+         },
+         {
+            "name":"有沒有",
+            "url":"/media/sounds/.mp3_pgd8oQB",
+            "id":966
+         },
+         {
+            "name":"有看到嗎？",
+            "url":"/media/sounds/.mp3_WSeX8be",
+            "id":967
+         },
+         {
+            "name":"完蛋了啦",
+            "url":"/media/sounds/.mp3_3FhhLf2",
+            "id":968
+         },
+         {
+            "name":"我請你吃",
+            "url":"/media/sounds/.mp3_kVq3o09",
+            "id":969
+         },
+         {
+            "name":"抱枕",
+            "url":"/media/sounds/.mp3_jW3V7gH",
+            "id":970
+         },
+         {
+            "name":"矽膠娃娃",
+            "url":"/media/sounds/.mp3_YoDTMe4",
+            "id":971
+         },
+         {
+            "name":"剃掉",
+            "url":"/media/sounds/.mp3_Paua5ks",
+            "id":972
+         },
+         {
+            "name":"咱們2",
+            "url":"/media/sounds/2_BFjh2yj.mp3",
+            "id":973
+         },
+         {
+            "name":"根深蒂固了",
+            "url":"/media/sounds/.mp3_MxBR7E6",
+            "id":974
+         },
+         {
+            "name":"格子襯衫",
+            "url":"/media/sounds/.mp3_79qxHGP",
+            "id":975
+         },
+         {
+            "name":"烤布蕾",
+            "url":"/media/sounds/.mp3_YXS3lWQ",
+            "id":976
+         },
+         {
+            "name":"國家",
+            "url":"/media/sounds/.mp3_9i6hphH",
+            "id":977
+         },
+         {
+            "name":"國家元首",
+            "url":"/media/sounds/.mp3_HUjw43P",
+            "id":978
+         },
+         {
+            "name":"就是",
+            "url":"/media/sounds/.mp3_7fU2JpE",
+            "id":979
+         },
+         {
+            "name":"愛",
+            "url":"/media/sounds/.mp3_X1SxloJ",
+            "id":980
+         },
+         {
+            "name":"綁",
+            "url":"/media/sounds/.mp3_GEN1EWa",
+            "id":981
+         },
+         {
+            "name":"對岸的",
+            "url":"/media/sounds/.mp3_nZXvJfn",
+            "id":982
+         },
+         {
+            "name":"雙馬尾",
+            "url":"/media/sounds/.mp3_8MsXTsi",
+            "id":983
+         },
+         {
+            "name":"爆屁",
+            "url":"/media/sounds/.mp3_M8a9JSy",
+            "id":984
          }
       ]
    },
@@ -4841,6 +5131,166 @@ var audios = [
             "name":"嘎抓：『當我是沒有的人就對了』",
             "url":"/media/sounds/.mp3_5CD9kfQ",
             "id":958
+         },
+         {
+            "name":"嘎抓：『聽奶哭的聲音』",
+            "url":"/media/sounds/.mp3_CBYbfoa",
+            "id":1018
+         },
+         {
+            "name":"嘎抓：『操你嗎』",
+            "url":"/media/sounds/.mp3_FLBnv1r",
+            "id":1019
+         },
+         {
+            "name":"嘎抓：『賢者模式』",
+            "url":"/media/sounds/.mp3_IWOIZHA",
+            "id":1020
+         },
+         {
+            "name":"嘎抓：『過來一下你過來一下』",
+            "url":"/media/sounds/.mp3_k0ZdchU",
+            "id":1021
+         },
+         {
+            "name":"嘎抓：『嗚啊～～』",
+            "url":"/media/sounds/.mp3_WqZ3u3e",
+            "id":1022
+         },
+         {
+            "name":"嘎抓：『啊嗚叫聲』",
+            "url":"/media/sounds/.mp3_cqdngk0",
+            "id":1023
+         },
+         {
+            "name":"嘎抓：『啊➚～啊～啊～啊～』",
+            "url":"/media/sounds/.mp3_UbIRM3B",
+            "id":1024
+         },
+         {
+            "name":"嘎抓：『啊➚！』",
+            "url":"/media/sounds/.mp3_hD2JRoH",
+            "id":1025
+         },
+         {
+            "name":"嘎抓：『啊～～～』",
+            "url":"/media/sounds/.mp3_Oue0KXt",
+            "id":1026
+         },
+         {
+            "name":"嘎抓：『臭味都飄過來了』",
+            "url":"/media/sounds/.mp3_KUMd8qO",
+            "id":1027
+         },
+         {
+            "name":"嘎抓：『臭甲元元子』",
+            "url":"/media/sounds/.mp3_etVDTZK",
+            "id":1028
+         },
+         {
+            "name":"嘎抓：『真的超級臭啊』",
+            "url":"/media/sounds/.mp3_mtbFoRK",
+            "id":1029
+         },
+         {
+            "name":"嘎抓：『真的是很過分啊』",
+            "url":"/media/sounds/.mp3_0m3EK1S",
+            "id":1030
+         },
+         {
+            "name":"嘎抓：『哈喵～』",
+            "url":"/media/sounds/.mp3_fAV4C1A",
+            "id":1031
+         },
+         {
+            "name":"嘎抓：『哈哈哈哈～笑死』",
+            "url":"/media/sounds/.mp3_0d9qnAM",
+            "id":1032
+         },
+         {
+            "name":"嘎抓：『哇～靠～』",
+            "url":"/media/sounds/.mp3_VAXt5sF",
+            "id":1033
+         },
+         {
+            "name":"嘎抓：『哇～』",
+            "url":"/media/sounds/.mp3_8LJJI0n",
+            "id":1034
+         },
+         {
+            "name":"嘎抓：『把你骨灰都給你揚囉』",
+            "url":"/media/sounds/.mp3_UVZkYb8",
+            "id":1035
+         },
+         {
+            "name":"嘎抓：『我要跟習近平做愛』",
+            "url":"/media/sounds/.mp3_ZzdOr6X",
+            "id":1036
+         },
+         {
+            "name":"嘎抓：『我它嗎的怎麼會知道』",
+            "url":"/media/sounds/.mp3_cJIb2eg",
+            "id":1037
+         },
+         {
+            "name":"嘎抓：『你過來一下』",
+            "url":"/media/sounds/.mp3_yWE9HRG",
+            "id":1038
+         },
+         {
+            "name":"嘎抓：『你媽了個臭B』",
+            "url":"/media/sounds/b_rHqhtaV.mp3",
+            "id":1039
+         },
+         {
+            "name":"嘎抓：『行行行！夠大了！』",
+            "url":"/media/sounds/.mp3_Bpv8hNT",
+            "id":1040
+         },
+         {
+            "name":"嘎抓：『兆元』",
+            "url":"/media/sounds/.mp3_TW7AR8X",
+            "id":1041
+         },
+         {
+            "name":"嘎抓：『打完之後』",
+            "url":"/media/sounds/.mp3_SnOZl4B",
+            "id":1042
+         },
+         {
+            "name":"嘎抓：『仙界大濕』",
+            "url":"/media/sounds/.mp3_IexvzCX",
+            "id":1043
+         },
+         {
+            "name":"嘎抓：『太屌了吧～』",
+            "url":"/media/sounds/.mp3_qSoNyqP",
+            "id":1044
+         },
+         {
+            "name":"嘎抓：『チッチッチッチ おっぱい ぼいんぼい～ん』",
+            "url":"/media/sounds/.mp3_GntcKQ3",
+            "id":1045
+         },
+         {
+            "name":"嘎抓：『すげえ』",
+            "url":"/media/sounds/.mp3_LAZXChY",
+            "id":1046
+         },
+         {
+            "name":"嘎抓：『いく』",
+            "url":"/media/sounds/.mp3_B4nY3dM",
+            "id":1047
+         },
+         {
+            "name":"嘎抓：『U～毛～病～』",
+            "url":"/media/sounds/u_JCvAXzg.mp3",
+            "id":1048
+         },
+         {
+            "name":"嘎抓：『ahoy』",
+            "url":"/media/sounds/ahoy_Bq63q7x.mp3",
+            "id":1049
          }
       ]
    },
@@ -4865,6 +5315,31 @@ var audios = [
             "name":"桑尤姆：『叮～2』",
             "url":"/media/sounds/2_9L7U7qW.mp3",
             "id":952
+         }
+      ]
+   },
+   {
+      "name":"皮卡屁",
+      "datas":[
+         {
+            "name":"皮卡屁：『一代一代一代』",
+            "url":"/media/sounds/.mp3_yVb7ffZ",
+            "id":1050
+         },
+         {
+            "name":"皮卡屁：『大家好，我是小祥』",
+            "url":"/media/sounds/.mp3_B86Zb2z",
+            "id":1051
+         },
+         {
+            "name":"皮卡屁：『哀哀哀哀哀』",
+            "url":"/media/sounds/.mp3_UIKol5n",
+            "id":1052
+         },
+         {
+            "name":"龍潭廁所子",
+            "url":"/media/sounds/.mp3_XBxAuQE",
+            "id":177
          }
       ]
    }
