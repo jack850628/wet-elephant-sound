@@ -36,7 +36,7 @@
     <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.8.4/Sortable.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.20.0/vuedraggable.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
-    <script src="./audios.js?v=1.5.0326"></script>
+    <script src="./audios.js?v=1.6.0326"></script>
     <script>
         const SEARCH_PARAMS_1 = 'q';
 
@@ -239,7 +239,7 @@
                     <v-expansion-panel v-for="audioGroup in audios">
                         <v-expansion-panel-header>{{audioGroup.name}}</v-expansion-panel-header>
                         <v-expansion-panel-content>
-                            <v-btn elevation="3" class="button" v-for="(item, k) in audioGroup.datas" :key="k" @click="preview(item)" v-show="item.name.indexOf(searchString) > -1">{{item.name}}</v-btn>
+                            <v-btn elevation="3" class="button text-truncate" style="max-width: 300px;" v-for="(item, k) in audioGroup.datas" :key="k" @click="preview(item)" v-show="item.name.indexOf(searchString) > -1">{{item.name}}</v-btn>
                         </v-expansion-panel-content>
                     </v-expansion-panel>
                 </v-expansion-panels>
@@ -271,7 +271,7 @@
                             關於
                         </v-card-title>
                         <v-card-text>
-                            大濕之音 v1.5.0326
+                            大濕之音 v1.6.0326
                             <br/>
                             作者：jack850628
                             <br/>
