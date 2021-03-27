@@ -141,6 +141,11 @@ var audios = [
             "name":"張兆元2",
             "url":"/media/sounds/2_9crgMvP.mp3",
             "id":904
+         },
+         {
+            "name":"蟑螂",
+            "url":"/media/sounds/.mp3_VKXPPEc",
+            "id":1110
          }
       ]
    },
@@ -538,11 +543,6 @@ var audios = [
             "id":468
          },
          {
-            "name":"他的灰有點臭",
-            "url":"/media/sounds/.mp3_93fNFe9",
-            "id":469
-         },
-         {
             "name":"我們現在即將舉行懲罰典禮",
             "url":"/media/sounds/.mp3_71rKymJ",
             "id":470
@@ -551,11 +551,6 @@ var audios = [
             "name":"典禮即將開始",
             "url":"/media/sounds/.mp3_APHhRNE",
             "id":471
-         },
-         {
-            "name":"畢竟本人就很臭",
-            "url":"/media/sounds/.mp3_vnNZtdC",
-            "id":472
          },
          {
             "name":"準備2",
@@ -981,6 +976,11 @@ var audios = [
             "name":"蘇聯國歌開頭",
             "url":"/media/sounds/.mp3_9TAnQOd",
             "id":1015
+         },
+         {
+            "name":"蟑螂，正義來了！",
+            "url":"/media/sounds/.mp3_1jVyddO",
+            "id":1111
          }
       ]
    },
@@ -1306,6 +1306,16 @@ var audios = [
             "name":"媽了個B",
             "url":"/media/sounds/b_GGAKH3r.mp3",
             "id":1017
+         },
+         {
+            "name":"我他媽的哪知道",
+            "url":"/media/sounds/.mp3_Z7TFE0a",
+            "id":1101
+         },
+         {
+            "name":"沒有禮貌ㄟ",
+            "url":"/media/sounds/.mp3_Id0u2YK",
+            "id":1102
          }
       ]
    },
@@ -1411,11 +1421,6 @@ var audios = [
             "name":"兆元的不明叫聲4",
             "url":"/media/sounds/3_HAC0gaA.mp3",
             "id":526
-         },
-         {
-            "name":"臭臭花",
-            "url":"/media/sounds/.mp3_wtkBfy9",
-            "id":529
          },
          {
             "name":"嘿➚～～～",
@@ -1571,6 +1576,16 @@ var audios = [
             "name":"欸！",
             "url":"/media/sounds/.mp3_8nuhSCA",
             "id":1016
+         },
+         {
+            "name":"兆元的不明叫聲6",
+            "url":"/media/sounds/6_lmkt38e.mp3",
+            "id":1103
+         },
+         {
+            "name":"啪啪啪啪",
+            "url":"/media/sounds/.mp3_LqLadXI",
+            "id":1104
          }
       ]
    },
@@ -1596,6 +1611,16 @@ var audios = [
             "name":"被肛的哭聲",
             "url":"/media/sounds/.mp3_SRlXiF4",
             "id":605
+         },
+         {
+            "name":"被肛的哭聲2",
+            "url":"/media/sounds/2_rSmnOrK.mp3",
+            "id":1105
+         },
+         {
+            "name":"嗚～～",
+            "url":"/media/sounds/.mp3_39DWnof",
+            "id":1106
          }
       ]
    },
@@ -2331,6 +2356,16 @@ var audios = [
             "name":"懶覺讓我摸一下",
             "url":"/media/sounds/.mp3_h7JWE7k",
             "id":1014
+         },
+         {
+            "name":"いく～",
+            "url":"/media/sounds/.mp3_hEmxSoR",
+            "id":1107
+         },
+         {
+            "name":"好痛喔",
+            "url":"/media/sounds/.mp3_BF3v6lO",
+            "id":1108
          }
       ]
    },
@@ -2668,6 +2703,56 @@ var audios = [
             "id":945
          }
       ],
+   },
+   {
+      "name":"臭",
+      "datas":[
+         {
+            "name":"好臭啊",
+            "url":"/media/sounds/.mp3_3wkcs4t",
+            "id":1112
+         },
+         {
+            "name":"我要放屁囉～",
+            "url":"/media/sounds/.mp3_kHbune3",
+            "id":1113
+         },
+         {
+            "name":"臭臭",
+            "url":"/media/sounds/.mp3_5qwqMB8",
+            "id":1114
+         },
+         {
+            "name":"臭臭花",
+            "url":"/media/sounds/.mp3_wtkBfy9",
+            "id":529
+         },
+         {
+            "name":"畢竟本人就很臭",
+            "url":"/media/sounds/.mp3_vnNZtdC",
+            "id":472
+         },
+         {
+            "name":"他的灰有點臭",
+            "url":"/media/sounds/.mp3_93fNFe9",
+            "id":469
+         },
+         {
+            "name":"臭味撲鼻",
+            "url":"/media/sounds/.mp3_xjz04XI",
+            "id":528
+         },
+         {
+            "name":"怎麼那麼臭啊？",
+            "url":"/media/sounds/.mp3_Bk1XvKF",
+            "id":197
+         },
+         {
+            "name":"我要放屁了喔！",
+            "url":"/media/sounds/.mp3_BodBvvP",
+            "id":199
+         }
+      ]
    },
    {
       "name":"其他",
@@ -3133,19 +3218,9 @@ var audios = [
             "id":196
          },
          {
-            "name":"怎麼那麼臭啊？",
-            "url":"/media/sounds/.mp3_Bk1XvKF",
-            "id":197
-         },
-         {
             "name":"我有這麼爛嗎？",
             "url":"/media/sounds/.mp3_EouyLCw",
             "id":198
-         },
-         {
-            "name":"我要放屁了喔！",
-            "url":"/media/sounds/.mp3_BodBvvP",
-            "id":199
          },
          {
             "name":"盤子們",
@@ -3816,11 +3891,6 @@ var audios = [
             "name":"即將去",
             "url":"/media/sounds/.mp3_qdCcstz",
             "id":522
-         },
-         {
-            "name":"臭味撲鼻",
-            "url":"/media/sounds/.mp3_xjz04XI",
-            "id":528
          },
          {
             "name":"老淚縱橫",
@@ -4686,6 +4756,251 @@ var audios = [
             "name":"爆屁",
             "url":"/media/sounds/.mp3_M8a9JSy",
             "id":984
+         },
+         {
+            "name":"七生不幸",
+            "url":"/media/sounds/.mp3_IiuT44Z",
+            "id":1053
+         },
+         {
+            "name":"又我～",
+            "url":"/media/sounds/.mp3_vJgzbIn",
+            "id":1054
+         },
+         {
+            "name":"三生有幸",
+            "url":"/media/sounds/.mp3_WcYTKD5",
+            "id":1055
+         },
+         {
+            "name":"加",
+            "url":"/media/sounds/.mp3_uOGU1eJ",
+            "id":1056
+         },
+         {
+            "name":"正義來了啊！",
+            "url":"/media/sounds/.mp3_nxcXtc7",
+            "id":1057
+         },
+         {
+            "name":"好吃2",
+            "url":"/media/sounds/2_KvTO3H9.mp3",
+            "id":1058
+         },
+         {
+            "name":"兇",
+            "url":"/media/sounds/.mp3_AqCY48A",
+            "id":1059
+         },
+         {
+            "name":"好棒棒喔",
+            "url":"/media/sounds/.mp3_ymWCkGN",
+            "id":1060
+         },
+         {
+            "name":"好厲害好厲害",
+            "url":"/media/sounds/.mp3_q9Rcjma",
+            "id":1061
+         },
+         {
+            "name":"你想表達什麼？",
+            "url":"/media/sounds/.mp3_6J0Rz4q",
+            "id":1062
+         },
+         {
+            "name":"別人",
+            "url":"/media/sounds/.mp3_Hnl3X7s",
+            "id":1063
+         },
+         {
+            "name":"快跑啊！",
+            "url":"/media/sounds/.mp3_P09Swmn",
+            "id":1064
+         },
+         {
+            "name":"我跟你們講",
+            "url":"/media/sounds/.mp3_SXcvVg7",
+            "id":1065
+         },
+         {
+            "name":"沒有",
+            "url":"/media/sounds/.mp3_hlncsxu",
+            "id":1066
+         },
+         {
+            "name":"拆一下啦",
+            "url":"/media/sounds/.mp3_87UmbmZ",
+            "id":1067
+         },
+         {
+            "name":"拆你家算了",
+            "url":"/media/sounds/.mp3_C7ydOLT",
+            "id":1068
+         },
+         {
+            "name":"拆妳妹啦",
+            "url":"/media/sounds/.mp3_h5lSHKS",
+            "id":1069
+         },
+         {
+            "name":"直播",
+            "url":"/media/sounds/.mp3_9UGDWAd",
+            "id":1070
+         },
+         {
+            "name":"空幹王",
+            "url":"/media/sounds/.mp3_jShux0D",
+            "id":1071
+         },
+         {
+            "name":"金項鍊",
+            "url":"/media/sounds/.mp3_ZOnSgje",
+            "id":1072
+         },
+         {
+            "name":"怎麼那麼厲害啊？",
+            "url":"/media/sounds/.mp3_4HiBkrW",
+            "id":1073
+         },
+         {
+            "name":"恨不得",
+            "url":"/media/sounds/.mp3_6ZJWAt2",
+            "id":1074
+         },
+         {
+            "name":"拜託拜託啦",
+            "url":"/media/sounds/.mp3_OjJW7PI",
+            "id":1075
+         },
+         {
+            "name":"訂閱",
+            "url":"/media/sounds/.mp3_A10A2h0",
+            "id":1076
+         },
+         {
+            "name":"唉唉呦幹你娘",
+            "url":"/media/sounds/.mp3_QaX8Afq",
+            "id":1077
+         },
+         {
+            "name":"真是",
+            "url":"/media/sounds/.mp3_ohzeNfs",
+            "id":1078
+         },
+         {
+            "name":"能",
+            "url":"/media/sounds/.mp3_QoBI2b7",
+            "id":1079
+         },
+         {
+            "name":"國立社會大學",
+            "url":"/media/sounds/.mp3_xiLP9G7",
+            "id":1080
+         },
+         {
+            "name":"這招有用",
+            "url":"/media/sounds/.mp3_gUegILY",
+            "id":1081
+         },
+         {
+            "name":"然後勒？",
+            "url":"/media/sounds/.mp3_sVaoegu",
+            "id":1082
+         },
+         {
+            "name":"結束啦",
+            "url":"/media/sounds/.mp3_Isk7h0K",
+            "id":1083
+         },
+         {
+            "name":"進",
+            "url":"/media/sounds/.mp3_UXSJaN8",
+            "id":1084
+         },
+         {
+            "name":"開山刀",
+            "url":"/media/sounds/.mp3_pJixGh2",
+            "id":1085
+         },
+         {
+            "name":"順便吧我的褲子拆一下",
+            "url":"/media/sounds/.mp3_KCNI8Da",
+            "id":1086
+         },
+         {
+            "name":"認識",
+            "url":"/media/sounds/.mp3_i3msb2Y",
+            "id":1087
+         },
+         {
+            "name":"衝",
+            "url":"/media/sounds/.mp3_oE36ZHk",
+            "id":1088
+         },
+         {
+            "name":"學生",
+            "url":"/media/sounds/.mp3_yjcbvre",
+            "id":1089
+         },
+         {
+            "name":"應該",
+            "url":"/media/sounds/.mp3_qGHMTwb",
+            "id":1090
+         },
+         {
+            "name":"觀眾",
+            "url":"/media/sounds/.mp3_rg2HP9l",
+            "id":1091
+         },
+         {
+            "name":"what is love~",
+            "url":"/media/sounds/what-is-love_xvxGaho.mp3",
+            "id":1092
+         },
+         {
+            "name":"だめだね～",
+            "url":"/media/sounds/.mp3_ExPjtug",
+            "id":1093
+         },
+         {
+            "name":"だめよ～",
+            "url":"/media/sounds/.mp3_TTj81tr",
+            "id":1094
+         },
+         {
+            "name":"だめ幹你娘",
+            "url":"/media/sounds/.mp3_skIInl6",
+            "id":1095
+         },
+         {
+            "name":"大濕的笑聲",
+            "url":"/media/sounds/.mp3_1nT09Bz",
+            "id":1096
+         },
+         {
+            "name":"不可能",
+            "url":"/media/sounds/.mp3_aI2T5Fi",
+            "id":1097
+         },
+         {
+            "name":"太簡單了吧",
+            "url":"/media/sounds/.mp3_Y1v7aeF",
+            "id":1098
+         },
+         {
+            "name":"到底",
+            "url":"/media/sounds/.mp3_YL3dsVS",
+            "id":1099
+         },
+         {
+            "name":"發生什麼事",
+            "url":"/media/sounds/.mp3_QNCeIVc",
+            "id":1100
+         },
+         {
+            "name":"消費",
+            "url":"/media/sounds/.mp3_ZrW2qsy",
+            "id":1109
          }
       ]
    },
