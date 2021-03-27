@@ -144,7 +144,7 @@ var audios = [
          },
          {
             "name":"蟑螂",
-            "url":"/media/sounds/.mp3_VKXPPEc",
+            "url":"/media/sounds/.mp3_zuSR5sY",
             "id":1110
          }
       ]
@@ -979,7 +979,7 @@ var audios = [
          },
          {
             "name":"蟑螂，正義來了！",
-            "url":"/media/sounds/.mp3_1jVyddO",
+            "url":"/media/sounds/.mp3_kO5e6EE",
             "id":1111
          }
       ]
@@ -4779,12 +4779,12 @@ var audios = [
          },
          {
             "name":"正義來了啊！",
-            "url":"/media/sounds/.mp3_nxcXtc7",
+            "url":"/media/sounds/.mp3_7ZfQEYp",
             "id":1057
          },
          {
             "name":"好吃2",
-            "url":"/media/sounds/2_KvTO3H9.mp3",
+            "url":"/media/sounds/2_DCwHGBt.mp3",
             "id":1058
          },
          {
@@ -4814,7 +4814,7 @@ var audios = [
          },
          {
             "name":"快跑啊！",
-            "url":"/media/sounds/.mp3_P09Swmn",
+            "url":"/media/sounds/.mp3_zotPpin",
             "id":1064
          },
          {
@@ -4909,7 +4909,7 @@ var audios = [
          },
          {
             "name":"結束啦",
-            "url":"/media/sounds/.mp3_Isk7h0K",
+            "url":"/media/sounds/.mp3_fey5UEn",
             "id":1083
          },
          {
@@ -4959,17 +4959,17 @@ var audios = [
          },
          {
             "name":"だめだね～",
-            "url":"/media/sounds/.mp3_ExPjtug",
+            "url":"/media/sounds/.mp3_9I41r0W",
             "id":1093
          },
          {
             "name":"だめよ～",
-            "url":"/media/sounds/.mp3_TTj81tr",
+            "url":"/media/sounds/.mp3_CmFveR7",
             "id":1094
          },
          {
             "name":"だめ幹你娘",
-            "url":"/media/sounds/.mp3_skIInl6",
+            "url":"/media/sounds/.mp3_lm4HSGb",
             "id":1095
          },
          {
