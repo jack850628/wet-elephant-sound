@@ -146,6 +146,11 @@ var audios = [
             "name":"蟑螂",
             "url":"/media/sounds/.mp3_zuSR5sY",
             "id":1110
+         },
+         {
+            "name":"建祥",
+            "url":"/media/sounds/.mp3_0zVT3VN",
+            "id":1144
          }
       ]
    },
@@ -981,6 +986,86 @@ var audios = [
             "name":"蟑螂，正義來了！",
             "url":"/media/sounds/.mp3_kO5e6EE",
             "id":1111
+         },
+         {
+            "name":"一路好走2",
+            "url":"/media/sounds/2_IzuIXX6.mp3",
+            "id":1115
+         },
+         {
+            "name":"中",
+            "url":"/media/sounds/.mp3_d9wqQxT",
+            "id":1116
+         },
+         {
+            "name":"永遠記得",
+            "url":"/media/sounds/.mp3_kvGHtrD",
+            "id":1117
+         },
+         {
+            "name":"生命",
+            "url":"/media/sounds/.mp3_G6LE124",
+            "id":1118
+         },
+         {
+            "name":"在這個時刻",
+            "url":"/media/sounds/.mp3_8ScMaPh",
+            "id":1119
+         },
+         {
+            "name":"有您真好",
+            "url":"/media/sounds/.mp3_LzUeE8G",
+            "id":1120
+         },
+         {
+            "name":"我們希望",
+            "url":"/media/sounds/.mp3_6Ct1USU",
+            "id":1121
+         },
+         {
+            "name":"能夠",
+            "url":"/media/sounds/.mp3_u46fVEq",
+            "id":1122
+         },
+         {
+            "name":"深刻深刻",
+            "url":"/media/sounds/.mp3_8zBORut",
+            "id":1123
+         },
+         {
+            "name":"這麼多快樂",
+            "url":"/media/sounds/.mp3_kVbQ9pd",
+            "id":1124
+         },
+         {
+            "name":"這麼多的人生回憶",
+            "url":"/media/sounds/.mp3_VeTU7hX",
+            "id":1125
+         },
+         {
+            "name":"這麼多歡樂",
+            "url":"/media/sounds/.mp3_570IOA1",
+            "id":1126
+         },
+         {
+            "name":"感謝他為我們帶來",
+            "url":"/media/sounds/.mp3_0cM7FjN",
+            "id":1127
+         },
+         {
+            "name":"謝謝",
+            "url":"/media/sounds/.mp3_1kunA7X",
+            "id":1128
+         },
+         {
+            "name":"謝謝各位2",
+            "url":"/media/sounds/2_IFG4ry6.mp3",
+            "id":1129
+         },
+         {
+            "name":"還有2",
+            "url":"/media/sounds/2_7gL3Mbp.mp3",
+            "id":1130
          }
       ]
    },
@@ -1316,6 +1401,26 @@ var audios = [
             "name":"沒有禮貌ㄟ",
             "url":"/media/sounds/.mp3_Id0u2YK",
             "id":1102
+         },
+         {
+            "name":"信不信我把這把槍塞你屁眼？",
+            "url":"/media/sounds/.mp3_uyemLUz",
+            "id":1136
+         },
+         {
+            "name":"塞到他屁眼裡面",
+            "url":"/media/sounds/.mp3_iClyd07",
+            "id":1137
+         },
+         {
+            "name":"幹他媽你在射試看看",
+            "url":"/media/sounds/.mp3_2qi3ddB",
+            "id":1138
+         },
+         {
+            "name":"幹你娘",
+            "url":"/media/sounds/.mp3_m4OZTUW",
+            "id":1139
          }
       ]
    },
@@ -1586,6 +1691,26 @@ var audios = [
             "name":"啪啪啪啪",
             "url":"/media/sounds/.mp3_LqLadXI",
             "id":1104
+         },
+         {
+            "name":"大濕引擎6",
+            "url":"/media/sounds/6_yWyKjO0.mp3",
+            "id":1140
+         },
+         {
+            "name":"答答答答答",
+            "url":"/media/sounds/.mp3_gy1i8m0",
+            "id":1141
+         },
+         {
+            "name":"濕吼聲",
+            "url":"/media/sounds/.mp3_wA84XeH",
+            "id":1142
+         },
+         {
+            "name":"斷裂聲",
+            "url":"/media/sounds/.mp3_bmva5J2",
+            "id":1143
          }
       ]
    },
@@ -2366,6 +2491,31 @@ var audios = [
             "name":"好痛喔",
             "url":"/media/sounds/.mp3_BF3v6lO",
             "id":1108
+         },
+         {
+            "name":"我的屁眼下在一大堆人覬覦",
+            "url":"/media/sounds/.mp3_qeySRnK",
+            "id":1131
+         },
+         {
+            "name":"俐落又靈活的手指",
+            "url":"/media/sounds/.mp3_KQaoJWQ",
+            "id":1132
+         },
+         {
+            "name":"旋轉跳躍我幹你屁眼",
+            "url":"/media/sounds/.mp3_lJMPWqr",
+            "id":1133
+         },
+         {
+            "name":"撥弄",
+            "url":"/media/sounds/.mp3_8fdT6rp",
+            "id":1134
+         },
+         {
+            "name":"顧我們的屁股啊",
+            "url":"/media/sounds/.mp3_S0z4Q8c",
+            "id":1135
          }
       ]
    },
@@ -5001,6 +5151,101 @@ var audios = [
             "name":"消費",
             "url":"/media/sounds/.mp3_ZrW2qsy",
             "id":1109
+         },
+         {
+            "name":"不要靠近我",
+            "url":"/media/sounds/.mp3_e0PAoEH",
+            "id":1145
+         },
+         {
+            "name":"他",
+            "url":"/media/sounds/.mp3_FFuannN",
+            "id":1146
+         },
+         {
+            "name":"好好",
+            "url":"/media/sounds/.mp3_jzU4Us4",
+            "id":1147
+         },
+         {
+            "name":"你怎麼知道我要講什麼？",
+            "url":"/media/sounds/.mp3_0QysJdz",
+            "id":1148
+         },
+         {
+            "name":"你是我屁眼的蟲是不是？",
+            "url":"/media/sounds/.mp3_o3pdcxD",
+            "id":1149
+         },
+         {
+            "name":"我找一下啊",
+            "url":"/media/sounds/.mp3_Ro5kL5F",
+            "id":1150
+         },
+         {
+            "name":"我很害怕",
+            "url":"/media/sounds/.mp3_aihrupI",
+            "id":1151
+         },
+         {
+            "name":"走開",
+            "url":"/media/sounds/.mp3_if8Onww",
+            "id":1152
+         },
+         {
+            "name":"那個",
+            "url":"/media/sounds/.mp3_rSxEhr5",
+            "id":1153
+         },
+         {
+            "name":"來我的",
+            "url":"/media/sounds/.mp3_69mRcuW",
+            "id":1154
+         },
+         {
+            "name":"風塵僕僕",
+            "url":"/media/sounds/.mp3_BfBj0rg",
+            "id":1155
+         },
+         {
+            "name":"脫了",
+            "url":"/media/sounds/.mp3_AZb0MCE",
+            "id":1156
+         },
+         {
+            "name":"被2",
+            "url":"/media/sounds/2_8nvxUb5.mp3",
+            "id":1157
+         },
+         {
+            "name":"等我一下",
+            "url":"/media/sounds/.mp3_vtc0OK0",
+            "id":1158
+         },
+         {
+            "name":"開",
+            "url":"/media/sounds/.mp3_gXFeRN1",
+            "id":1159
+         },
+         {
+            "name":"樂器店",
+            "url":"/media/sounds/.mp3_5lHYCgR",
+            "id":1160
+         },
+         {
+            "name":"爛",
+            "url":"/media/sounds/.mp3_dlyLRoN",
+            "id":1161
+         },
+         {
+            "name":"讓",
+            "url":"/media/sounds/.mp3_eccV7UZ",
+            "id":1162
+         },
+         {
+            "name":"讓我",
+            "url":"/media/sounds/.mp3_fm8cyma",
+            "id":1163
          }
       ]
    },
