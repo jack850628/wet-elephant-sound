@@ -1066,6 +1066,116 @@ var audios = [
             "name":"還有2",
             "url":"/media/sounds/2_7gL3Mbp.mp3",
             "id":1130
+         },
+         {
+            "name":"大慈大悲",
+            "url":"/media/sounds/.mp3_loMfspi",
+            "id":1186
+         },
+         {
+            "name":"不再回首",
+            "url":"/media/sounds/.mp3_La8XCXI",
+            "id":1187
+         },
+         {
+            "name":"天妒英才",
+            "url":"/media/sounds/.mp3_yzFM53U",
+            "id":1188
+         },
+         {
+            "name":"他還沒死啦",
+            "url":"/media/sounds/.mp3_nQnFQh1",
+            "id":1189
+         },
+         {
+            "name":"平安",
+            "url":"/media/sounds/.mp3_5TBFPdc",
+            "id":1190
+         },
+         {
+            "name":"本該綻放花火大放異彩的人生",
+            "url":"/media/sounds/.mp3_Al79zN3",
+            "id":1191
+         },
+         {
+            "name":"在這混亂的下水道",
+            "url":"/media/sounds/.mp3_4aWURbA",
+            "id":1192
+         },
+         {
+            "name":"年紀輕輕",
+            "url":"/media/sounds/.mp3_9c8kpJZ",
+            "id":1193
+         },
+         {
+            "name":"受苦",
+            "url":"/media/sounds/.mp3_YLWlcrn",
+            "id":1194
+         },
+         {
+            "name":"受難",
+            "url":"/media/sounds/.mp3_WMA1t6l",
+            "id":1195
+         },
+         {
+            "name":"阿彌陀佛2",
+            "url":"/media/sounds/.mp3_QkKm3Sy",
+            "id":1196
+         },
+         {
+            "name":"紅塵渺渺",
+            "url":"/media/sounds/.mp3_u6pImUf",
+            "id":1197
+         },
+         {
+            "name":"負荊前行",
+            "url":"/media/sounds/.mp3_ifVJMeK",
+            "id":1198
+         },
+         {
+            "name":"祝福您再前往彩虹橋的路上",
+            "url":"/media/sounds/.mp3_rPWXvOQ",
+            "id":1199
+         },
+         {
+            "name":"能2",
+            "url":"/media/sounds/.mp3_uT89BWs",
+            "id":1200
+         },
+         {
+            "name":"您不用再",
+            "url":"/media/sounds/.mp3_F9KR96R",
+            "id":1201
+         },
+         {
+            "name":"就此提前落幕",
+            "url":"/media/sounds/.mp3_A1CGFrC",
+            "id":1202
+         },
+         {
+            "name":"就遭遇不測",
+            "url":"/media/sounds/.mp3_bWxWoJ3",
+            "id":1203
+         },
+         {
+            "name":"圓滿",
+            "url":"/media/sounds/.mp3_HjyVtNm",
+            "id":1204
+         },
+         {
+            "name":"撿骨",
+            "url":"/media/sounds/.mp3_W1qJr8w",
+            "id":1205
+         },
+         {
+            "name":"親愛的",
+            "url":"/media/sounds/.mp3_0sbGoDG",
+            "id":1206
+         },
+         {
+            "name":"願您一切好走",
+            "url":"/media/sounds/.mp3_7sxWzeI",
+            "id":1207
          }
       ]
    },
@@ -1421,6 +1531,16 @@ var audios = [
             "name":"幹你娘",
             "url":"/media/sounds/.mp3_m4OZTUW",
             "id":1139
+         },
+         {
+            "name":"你娘機掰",
+            "url":"/media/sounds/.mp3_35mX5x3",
+            "id":1216
+         },
+         {
+            "name":"衝殺挖溝小",
+            "url":"/media/sounds/.mp3_KpUZpHZ",
+            "id":1217
          }
       ]
    },
@@ -1711,6 +1831,71 @@ var audios = [
             "name":"斷裂聲",
             "url":"/media/sounds/.mp3_bmva5J2",
             "id":1143
+         },
+         {
+            "name":"咦？",
+            "url":"/media/sounds/.mp3_8Y1Gn4h",
+            "id":1218
+         },
+         {
+            "name":"哀～",
+            "url":"/media/sounds/.mp3_nMkenrU",
+            "id":1219
+         },
+         {
+            "name":"哈～",
+            "url":"/media/sounds/.mp3_f7RFkXo",
+            "id":1220
+         },
+         {
+            "name":"啊～",
+            "url":"/media/sounds/.mp3_bj2VeHX",
+            "id":1221
+         },
+         {
+            "name":"啪↘！",
+            "url":"/media/sounds/.mp3_GLe8eSx",
+            "id":1222
+         },
+         {
+            "name":"喔",
+            "url":"/media/sounds/.mp3_3yDno4Q",
+            "id":1223
+         },
+         {
+            "name":"惡臭叫聲",
+            "url":"/media/sounds/.mp3_CpRUuDd",
+            "id":1224
+         },
+         {
+            "name":"嗯↘～",
+            "url":"/media/sounds/.mp3_16HAZVU",
+            "id":1225
+         },
+         {
+            "name":"幹～～",
+            "url":"/media/sounds/.mp3_1JhSVq4",
+            "id":1226
+         },
+         {
+            "name":"噓～",
+            "url":"/media/sounds/.mp3_If5o466",
+            "id":1227
+         },
+         {
+            "name":"噗阿～",
+            "url":"/media/sounds/.mp3_ITpwG36",
+            "id":1228
+         },
+         {
+            "name":"噗阿～2",
+            "url":"/media/sounds/2_pebBBEQ.mp3",
+            "id":1229
+         },
+         {
+            "name":"喔～～～",
+            "url":"/media/sounds/.mp3_FPdqOr7",
+            "id":1230
          }
       ]
    },
@@ -2516,6 +2701,26 @@ var audios = [
             "name":"顧我們的屁股啊",
             "url":"/media/sounds/.mp3_S0z4Q8c",
             "id":1135
+         },
+         {
+            "name":"屁眼太大",
+            "url":"/media/sounds/.mp3_QJQFLjc",
+            "id":1212
+         },
+         {
+            "name":"屁眼太緊",
+            "url":"/media/sounds/.mp3_8bQr17U",
+            "id":1213
+         },
+         {
+            "name":"事後菸",
+            "url":"/media/sounds/.mp3_VqTVisy",
+            "id":1214
+         },
+         {
+            "name":"抽",
+            "url":"/media/sounds/.mp3_UJSzHTV",
+            "id":1215
          }
       ]
    },
@@ -2901,6 +3106,31 @@ var audios = [
             "name":"我要放屁了喔！",
             "url":"/media/sounds/.mp3_BodBvvP",
             "id":199
+         }
+      ]
+   },
+   {
+      "name":"上知天文下知地理",
+      "datas":[
+         {
+            "name":"上知天文",
+            "url":"/media/sounds/.mp3_QtSnsWI",
+            "id":1208
+         },
+         {
+            "name":"下知地理",
+            "url":"/media/sounds/.mp3_K2GGI52",
+            "id":1209
+         },
+         {
+            "name":"後知屁眼",
+            "url":"/media/sounds/.mp3_p1AIy32",
+            "id":1210
+         },
+         {
+            "name":"前知皮卡屁",
+            "url":"/media/sounds/.mp3_8jwnSZi",
+            "id":1211
          }
       ]
    },
@@ -5246,6 +5476,116 @@ var audios = [
             "name":"讓我",
             "url":"/media/sounds/.mp3_fm8cyma",
             "id":1163
+         },
+         {
+            "name":"一坨",
+            "url":"/media/sounds/.mp3_0N84fY1",
+            "id":1164
+         },
+         {
+            "name":"又回到最初的起點",
+            "url":"/media/sounds/.mp3_g2oTX4t",
+            "id":1165
+         },
+         {
+            "name":"不要急呀",
+            "url":"/media/sounds/.mp3_WxyP1Vh",
+            "id":1166
+         },
+         {
+            "name":"不確定",
+            "url":"/media/sounds/.mp3_LX4snnI",
+            "id":1167
+         },
+         {
+            "name":"五萬",
+            "url":"/media/sounds/.mp3_CoeOXE0",
+            "id":1168
+         },
+         {
+            "name":"太累了",
+            "url":"/media/sounds/.mp3_7DhE52h",
+            "id":1169
+         },
+         {
+            "name":"太難了吧",
+            "url":"/media/sounds/.mp3_hpJSzdw",
+            "id":1170
+         },
+         {
+            "name":"光頭",
+            "url":"/media/sounds/.mp3_RAcGOZa",
+            "id":1171
+         },
+         {
+            "name":"好了啦",
+            "url":"/media/sounds/.mp3_mbYzS8k",
+            "id":1172
+         },
+         {
+            "name":"好大喔",
+            "url":"/media/sounds/.mp3_YUnbHQU",
+            "id":1173
+         },
+         {
+            "name":"好累喔",
+            "url":"/media/sounds/.mp3_kZsoiGo",
+            "id":1174
+         },
+         {
+            "name":"是的",
+            "url":"/media/sounds/.mp3_ogaKn33",
+            "id":1175
+         },
+         {
+            "name":"看到了",
+            "url":"/media/sounds/.mp3_XxXUuVC",
+            "id":1176
+         },
+         {
+            "name":"看看那黑洞的屁眼",
+            "url":"/media/sounds/.mp3_XnqiE1Y",
+            "id":1177
+         },
+         {
+            "name":"哭得唏哩花啦",
+            "url":"/media/sounds/.mp3_Iv3NSP3",
+            "id":1178
+         },
+         {
+            "name":"真的狂哭啊",
+            "url":"/media/sounds/.mp3_yxJ7PSW",
+            "id":1179
+         },
+         {
+            "name":"麻煩的要死",
+            "url":"/media/sounds/.mp3_agDimNq",
+            "id":1180
+         },
+         {
+            "name":"唾液",
+            "url":"/media/sounds/.mp3_ZCBMQfs",
+            "id":1181
+         },
+         {
+            "name":"喔幹",
+            "url":"/media/sounds/.mp3_VdSqSjx",
+            "id":1182
+         },
+         {
+            "name":"超大隻的",
+            "url":"/media/sounds/.mp3_6Xtd4hO",
+            "id":1183
+         },
+         {
+            "name":"慢慢來啦",
+            "url":"/media/sounds/.mp3_sLZmUWc",
+            "id":1184
+         },
+         {
+            "name":"離我那麼進",
+            "url":"/media/sounds/.mp3_t1Brfjj",
+            "id":1185
          }
       ]
    },

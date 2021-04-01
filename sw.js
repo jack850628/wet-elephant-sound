@@ -1,6 +1,6 @@
 self.addEventListener('install', function(event) {
     event.waitUntil(
-      caches.open('v1.6.0330').then(function(cache) {
+      caches.open('v1.6.0401').then(function(cache) {
         return cache.addAll([
           './',
           './index.html',
