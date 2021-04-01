@@ -1176,6 +1176,11 @@ var audios = [
             "name":"願您一切好走",
             "url":"/media/sounds/.mp3_7sxWzeI",
             "id":1207
+         },
+         {
+            "name":"先生",
+            "url":"/media/sounds/.mp3_AeW95MZ",
+            "id":365
          }
       ]
    },
@@ -3966,11 +3971,6 @@ var audios = [
             "name":"你要幹嗎？",
             "url":"/media/sounds/.mp3_bydkG1V",
             "id":364
-         },
-         {
-            "name":"先生",
-            "url":"/media/sounds/.mp3_AeW95MZ",
-            "id":365
          },
          {
             "name":"新年快樂",
