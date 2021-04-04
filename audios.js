@@ -151,6 +151,16 @@ var audios = [
             "name":"建祥",
             "url":"/media/sounds/.mp3_0zVT3VN",
             "id":1144
+         },
+         {
+            "name":"傑哥",
+            "url":"/media/sounds/.mp3_lFSJoeM",
+            "id":1302
+         },
+         {
+            "name":"傑..傑哥",
+            "url":"/media/sounds/.mp3_55b0hvf",
+            "id":1301
          }
       ]
    },
@@ -1181,6 +1191,26 @@ var audios = [
             "name":"先生",
             "url":"/media/sounds/.mp3_AeW95MZ",
             "id":365
+         },
+         {
+            "name":"主席3",
+            "url":"/media/sounds/3_O2vJN3T.mp3",
+            "id":1293
+         },
+         {
+            "name":"往生了",
+            "url":"/media/sounds/.mp3_YAiaL8N",
+            "id":1294
+         },
+         {
+            "name":"渡化",
+            "url":"/media/sounds/.mp3_VERPWxy",
+            "id":1295
+         },
+         {
+            "name":"禮畢～",
+            "url":"/media/sounds/.mp3_3POVftu",
+            "id":1296
          }
       ]
    },
@@ -1546,6 +1576,26 @@ var audios = [
             "name":"衝殺挖溝小",
             "url":"/media/sounds/.mp3_KpUZpHZ",
             "id":1217
+         },
+         {
+            "name":"真的皮ㄟ",
+            "url":"/media/sounds/.mp3_6zKUVox",
+            "id":1289
+         },
+         {
+            "name":"缺德啊",
+            "url":"/media/sounds/.mp3_o4WiVEc",
+            "id":1290
+         },
+         {
+            "name":"噁心吶",
+            "url":"/media/sounds/.mp3_kOIcmFn",
+            "id":1291
+         },
+         {
+            "name":"還敢皮啊",
+            "url":"/media/sounds/.mp3_r2FGrbF",
+            "id":1292
          }
       ]
    },
@@ -1901,6 +1951,26 @@ var audios = [
             "name":"喔～～～",
             "url":"/media/sounds/.mp3_FPdqOr7",
             "id":1230
+         },
+         {
+            "name":"厄～",
+            "url":"/media/sounds/.mp3_pLFKxtk",
+            "id":1285
+         },
+         {
+            "name":"啊！",
+            "url":"/media/sounds/.mp3_TztzHUO",
+            "id":1286
+         },
+         {
+            "name":"啊～2",
+            "url":"/media/sounds/2_cVIGAqO.mp3",
+            "id":1287
+         },
+         {
+            "name":"噁～",
+            "url":"/media/sounds/.mp3_wTSkVqY",
+            "id":1288
          }
       ]
    },
@@ -2726,6 +2796,56 @@ var audios = [
             "name":"抽",
             "url":"/media/sounds/.mp3_UJSzHTV",
             "id":1215
+         },
+         {
+            "name":"あ我慢できないあいくい",
+            "url":"/media/sounds/.mp3_4mRmiLu",
+            "id":1275
+         },
+         {
+            "name":"いく！",
+            "url":"/media/sounds/.mp3_wH3Bax9",
+            "id":1276
+         },
+         {
+            "name":"尻完了",
+            "url":"/media/sounds/.mp3_rXRFAKK",
+            "id":1277
+         },
+         {
+            "name":"你屁眼洗乾淨啊",
+            "url":"/media/sounds/.mp3_qdPOAwu",
+            "id":1278
+         },
+         {
+            "name":"我已經被插到變形了",
+            "url":"/media/sounds/.mp3_hCKROqc",
+            "id":1279
+         },
+         {
+            "name":"要不要來跟我一場棒棒相爭啊？",
+            "url":"/media/sounds/.mp3_wuWlaFo",
+            "id":1280
+         },
+         {
+            "name":"射精",
+            "url":"/media/sounds/.mp3_NSQzF2w",
+            "id":1281
+         },
+         {
+            "name":"馬桶2",
+            "url":"/media/sounds/2_8zwy2E1.mp3",
+            "id":1282
+         },
+         {
+            "name":"給他插",
+            "url":"/media/sounds/.mp3_R5AsDHm",
+            "id":1283
+         },
+         {
+            "name":"給其他人插",
+            "url":"/media/sounds/.mp3_ROeNwE6",
+            "id":1284
          }
       ]
    },
@@ -2896,7 +3016,27 @@ var audios = [
             "name":"懂嗎？",
             "url":"/media/sounds/.mp3_I7ayweQ",
             "id":1011
-         }
+         },
+         {
+            "name":"五星旗",
+            "url":"/media/sounds/.mp3_hS8SO6u",
+            "id":1297
+         },
+         {
+            "name":"共產",
+            "url":"/media/sounds/.mp3_O6iZVvj",
+            "id":1298
+         },
+         {
+            "name":"拉清單",
+            "url":"/media/sounds/.mp3_CZbTdfM",
+            "id":1299
+         },
+         {
+            "name":"獨裁",
+            "url":"/media/sounds/.mp3_QNVhgPa",
+            "id":1300
+         }      
       ]
    },
    {
@@ -3111,7 +3251,13 @@ var audios = [
             "name":"我要放屁了喔！",
             "url":"/media/sounds/.mp3_BodBvvP",
             "id":199
+         },
+         {
+            "name":"平常做人這麼臭",
+            "url":"/media/sounds/.mp3_kQRf2jM",
+            "id":1303
          }
+
       ]
    },
    {
@@ -5586,6 +5732,226 @@ var audios = [
             "name":"離我那麼進",
             "url":"/media/sounds/.mp3_t1Brfjj",
             "id":1185
+         },
+         {
+            "name":"一根菸",
+            "url":"/media/sounds/.mp3_CMJAFPM",
+            "id":1231
+         },
+         {
+            "name":"大哥",
+            "url":"/media/sounds/.mp3_eVOj5Ax",
+            "id":1232
+         },
+         {
+            "name":"不要啦",
+            "url":"/media/sounds/.mp3_fngPRAE",
+            "id":1233
+         },
+         {
+            "name":"什麼好康的？",
+            "url":"/media/sounds/.mp3_ougvjp2",
+            "id":1234
+         },
+         {
+            "name":"內鬥內行",
+            "url":"/media/sounds/.mp3_9SALtv2",
+            "id":1235
+         },
+         {
+            "name":"外鬥外行",
+            "url":"/media/sounds/.mp3_Q5P0i3p",
+            "id":1236
+         },
+         {
+            "name":"好可憐喔",
+            "url":"/media/sounds/.mp3_AV2WEWM",
+            "id":1237
+         },
+         {
+            "name":"有",
+            "url":"/media/sounds/.mp3_Jsc9ZlE",
+            "id":1238
+         },
+         {
+            "name":"有話好說啦",
+            "url":"/media/sounds/.mp3_h1LEd5b",
+            "id":1239
+         },
+         {
+            "name":"我今天就是要大開殺戒",
+            "url":"/media/sounds/.mp3_X64f00v",
+            "id":1240
+         },
+         {
+            "name":"我手一捏",
+            "url":"/media/sounds/.mp3_I52Az26",
+            "id":1241
+         },
+         {
+            "name":"我是怎麼教你們的？",
+            "url":"/media/sounds/.mp3_dDOIdRF",
+            "id":1242
+         },
+         {
+            "name":"沒了",
+            "url":"/media/sounds/.mp3_w7G6bwo",
+            "id":1243
+         },
+         {
+            "name":"沒電",
+            "url":"/media/sounds/.mp3_n2J99FQ",
+            "id":1244
+         },
+         {
+            "name":"來一根啦",
+            "url":"/media/sounds/.mp3_Mus41XI",
+            "id":1245
+         },
+         {
+            "name":"抽菸",
+            "url":"/media/sounds/.mp3_ZkcIz6r",
+            "id":1246
+         },
+         {
+            "name":"炎上",
+            "url":"/media/sounds/.mp3_Qn3dD43",
+            "id":1247
+         },
+         {
+            "name":"的",
+            "url":"/media/sounds/.mp3_eDim9Z4",
+            "id":1248
+         },
+         {
+            "name":"知道嗎？",
+            "url":"/media/sounds/.mp3_hl4Ufrf",
+            "id":1249
+         },
+         {
+            "name":"保證你們都",
+            "url":"/media/sounds/.mp3_08J7OiO",
+            "id":1250
+         },
+         {
+            "name":"故事",
+            "url":"/media/sounds/.mp3_fiLWZmY",
+            "id":1251
+         },
+         {
+            "name":"紅水",
+            "url":"/media/sounds/.mp3_CHzkDrs",
+            "id":1252
+         },
+         {
+            "name":"胡搞瞎搞",
+            "url":"/media/sounds/.mp3_b0AvZuq",
+            "id":1253
+         },
+         {
+            "name":"要來一根嗎？",
+            "url":"/media/sounds/.mp3_5lVKv0A",
+            "id":1254
+         },
+         {
+            "name":"拿",
+            "url":"/media/sounds/.mp3_7jONWyd",
+            "id":1255
+         },
+         {
+            "name":"討債",
+            "url":"/media/sounds/.mp3_G7EBGTT",
+            "id":1256
+         },
+         {
+            "name":"商店",
+            "url":"/media/sounds/.mp3_AoK0gZ3",
+            "id":1257
+         },
+         {
+            "name":"帶",
+            "url":"/media/sounds/.mp3_dgL4m5D",
+            "id":1258
+         },
+         {
+            "name":"清流",
+            "url":"/media/sounds/.mp3_NdEzOfD",
+            "id":1259
+         },
+         {
+            "name":"現世報",
+            "url":"/media/sounds/.mp3_gZ5dD93",
+            "id":1260
+         },
+         {
+            "name":"這真的可以買嗎？",
+            "url":"/media/sounds/.mp3_XA686Zk",
+            "id":1261
+         },
+         {
+            "name":"等一下2",
+            "url":"/media/sounds/2_RomcNSS.mp3",
+            "id":1262
+         },
+         {
+            "name":"給",
+            "url":"/media/sounds/.mp3_EQlyjhC",
+            "id":1263
+         },
+         {
+            "name":"買...都買",
+            "url":"/media/sounds/.mp3_uHhV7MR",
+            "id":1264
+         },
+         {
+            "name":"買一些",
+            "url":"/media/sounds/.mp3_x1GeSNq",
+            "id":1265
+         },
+         {
+            "name":"懂嗎？2",
+            "url":"/media/sounds/2_t19xkWm.mp3",
+            "id":1266
+         },
+         {
+            "name":"藍水",
+            "url":"/media/sounds/.mp3_rGyfPG0",
+            "id":1267
+         },
+         {
+            "name":"壞掉了",
+            "url":"/media/sounds/.mp3_7J70HYt",
+            "id":1268
+         },
+         {
+            "name":"讓你",
+            "url":"/media/sounds/.mp3_EoGT8jm",
+            "id":1269
+         },
+         {
+            "name":"讓我看看哈",
+            "url":"/media/sounds/.mp3_u8NAv4Z",
+            "id":1270
+         },
+         {
+            "name":"準備囉",
+            "url":"/media/sounds/.mp3_HmjjWpl",
+            "id":1271
+         },
+         {
+            "name":"齊心向內",
+            "url":"/media/sounds/.mp3_s6VIaqo",
+            "id":1272
+         },
+         {
+            "name":"齊心向外",
+            "url":"/media/sounds/.mp3_hlbrsWZ",
+            "id":1273
+         },
+         {
+            "name":"賣啦",
+            "url":"/media/sounds/.mp3_iCPjVYV",
+            "id":1274
          }
       ]
    },
@@ -6191,6 +6557,21 @@ var audios = [
             "name":"嘎抓：『ahoy』",
             "url":"/media/sounds/ahoy_Bq63q7x.mp3",
             "id":1049
+         },
+         {
+            "name":"嘎抓：『你存在～嘎抓的屁眼裡～』",
+            "url":"/media/sounds/.mp3_9eNZ1mg",
+            "id":1304
+         },
+         {
+            "name":"嘎抓：『何必動屌動槍』",
+            "url":"/media/sounds/.mp3_YBV7VKQ",
+            "id":1305
+         },
+         {
+            "name":"嘎抓：『大家有話好說』",
+            "url":"/media/sounds/.mp3_WklR2Xb",
+            "id":1306
          }
       ]
    },
