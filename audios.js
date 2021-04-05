@@ -1971,6 +1971,36 @@ var audios = [
             "name":"噁～",
             "url":"/media/sounds/.mp3_wTSkVqY",
             "id":1288
+         },
+         {
+            "name":"ㄎㄧㄥ拎空巄",
+            "url":"/media/sounds/.mp3_J3BOfFX",
+            "id":1307
+         },
+         {
+            "name":"汪！汪汪汪！",
+            "url":"/media/sounds/.mp3_4i76MTh",
+            "id":1308
+         },
+         {
+            "name":"蛤～",
+            "url":"/media/sounds/.mp3_XuCnyDk",
+            "id":1309
+         },
+         {
+            "name":"蛤～～～",
+            "url":"/media/sounds/.mp3_YuLUKPd",
+            "id":1310
+         },
+         {
+            "name":"嗚啊～～～",
+            "url":"/media/sounds/.mp3_w4BTRho",
+            "id":1311
+         },
+         {
+            "name":"嗚喔～～～",
+            "url":"/media/sounds/.mp3_6ItO7gD",
+            "id":1312
          }
       ]
    },
@@ -2846,6 +2876,11 @@ var audios = [
             "name":"給其他人插",
             "url":"/media/sounds/.mp3_ROeNwE6",
             "id":1284
+         },
+         {
+            "name":"気持ちいい",
+            "url":"/media/sounds/.mp3_PlBPahv",
+            "id":1318
          }
       ]
    },
@@ -5952,6 +5987,31 @@ var audios = [
             "name":"賣啦",
             "url":"/media/sounds/.mp3_iCPjVYV",
             "id":1274
+         },
+         {
+            "name":"太可惡了",
+            "url":"/media/sounds/.mp3_nWzmAyo",
+            "id":1313
+         },
+         {
+            "name":"竜神の剣を喰らえ",
+            "url":"/media/sounds/.mp3_RycAE5s",
+            "id":1314
+         },
+         {
+            "name":"插一柱香",
+            "url":"/media/sounds/.mp3_hikWmqP",
+            "id":1315
+         },
+         {
+            "name":"跌倒",
+            "url":"/media/sounds/.mp3_4Xeg4pt",
+            "id":1316
+         },
+         {
+            "name":"騙我啊？",
+            "url":"/media/sounds/.mp3_D9EJ8bK",
+            "id":1317
          }
       ]
    },
