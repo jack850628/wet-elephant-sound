@@ -1,0 +1,236 @@
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>大濕之音-有聲圖</title>
+
+    <link rel="icon" href="./images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://xiaoan.tocas-ui.com/ts.xiaoan.min.css">
+    <style>
+        html, body, #app{
+            width: 100%;
+            height: 100%;
+            margin: 0px;
+            background-color: #272727;
+            color: #FFFFFF;
+        }
+        .button{
+            margin: 2px;
+        }
+        .play-item.v-btn.v-btn--disabled.v-btn--has-bg{
+            background-color: orange !important;
+            color: white !important;
+        }
+        .shake{
+            animation: shake 0.35s cubic-bezier(0, 0, 0.2, 1) infinite;
+        }
+    </style>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+    <script src="./audios.js?v=1.7.0411"></script>
+    <script>
+        const SEARCH_PARAMS_1 = 'q', SEARCH_PARAMS_2 = 'i', SEARCH_PARAMS_3 = 's';
+
+        Vue.component('w-icon', {
+            template: '#w-icon',
+            methods: {
+                doShake(){
+                    this.shake = true;
+                    this.tee.play();
+                }
+            },
+            data(){
+                return {
+                    shake: false,
+                    tee: null,
+                };
+            },
+            mounted(){
+                this.tee = new Audio('https://www.myinstants.com/media/sounds/.mp3_WfYbRzx');
+                this.tee.addEventListener('ended', () =>{
+                    this.shake = false;
+                });
+            }
+        });
+        
+        window.onload = function(){
+            var searchParams = new URLSearchParams(location.search);
+            vApp = new Vue({
+                el: '#app',
+                vuetify: new Vuetify(),
+                data: {
+                    audios: audios,
+                    about: false,
+                    delayId: null,
+                    playing: false,
+                    playIndex: -1,
+                    audioPlayQueue: [
+
+                    ],
+
+                    image: '',
+                    soundImageTitle: '',
+
+                    share: false,
+                    shareLink: '',
+                },
+                methods: {
+                    checkAudioPlayQueue(){
+                        if(this.playing && this.playIndex < this.audioPlayQueue.length){
+                            let audio = this.audioPlayQueue[this.playIndex];
+                            if(audio.url){
+                                this.play(audio.url);
+                            }else if(audio.second){
+                                this.delayId = setTimeout(() => {
+                                    this.delayId = null;
+                                    this.checkAudioPlayQueue();
+                                }, audio.second);
+                            }
+                            this.playIndex++;
+                        }else{
+                            this.stop();
+                        }
+                    },
+                    play(url){
+                        audio.src = `https://www.myinstants.com${url}`;
+                        audio.play();
+                    },
+                    playButton(){
+                        if(this.audioPlayQueue.length > 0){
+                            this.playing = true;
+                            this.playIndex = 0;
+                            this.checkAudioPlayQueue();
+                        }
+                    },
+                    stop(){
+                        this.playing = false;
+                        this.playIndex = -1;
+                        if(this.delayId){
+                            this.delayId = null;
+                            clearTimeout(this.delayId);
+                        }
+                        audio.pause();
+                    },
+                    shareButton(){
+                        this.shareLink = `${location.origin}${location.pathname}` + 
+                                        `?${SEARCH_PARAMS_1}=${btoa(JSON.stringify(this.audioPlayQueue.map(i => i.id)))}` + 
+                                        `&${SEARCH_PARAMS_2}=${this.image}` + 
+                                        `&${SEARCH_PARAMS_3}=${btoa(escape(this.soundImageTitle))}`//btoa不支援中文字編碼，因此先將文字用escape轉成%u開頭的形式後便可編碼。
+                        ;
+                        this.share = true;
+                    },
+                    copyLink(){
+                        shareLink.select();
+                        document.execCommand("copy");
+                    },
+                }
+            });
+            if(searchParams.get(SEARCH_PARAMS_1)){
+                let array = JSON.parse(atob(searchParams.get(SEARCH_PARAMS_1)));
+                let audioList = audios.flatMap(i => i.datas);
+                vApp.$data.audioPlayQueue = array.map(id => audioList.find(i => i.id == id));
+            }
+            if(searchParams.get(SEARCH_PARAMS_2)){
+                vApp.$data.image = searchParams.get(SEARCH_PARAMS_2);
+            }
+            if(searchParams.get(SEARCH_PARAMS_3)){
+                vApp.$data.soundImageTitle = unescape(atob(searchParams.get(SEARCH_PARAMS_3)));//btoa不支援中文字編碼，因此先將文字用escape轉成%u開頭的形式後便可編碼。
+            }
+        }
+    </script>
+    <script type="text/x-template" id="w-icon">
+        <v-img src="./images/兆元192.png" max-height="40" max-width="40" :class="{shake: shake}" @click="doShake"></v-img>
+    </script>      
+</head>
+<body>
+    <div id="app">
+        <v-app>
+            <v-main>
+                <audio id="audio" @ended="checkAudioPlayQueue"></audio>
+                <div style="display: flex; flex-direction: column; align-items: center;">
+                    <v-img :src="`https://i.imgur.com/${image}`" max-width="500"></v-img>
+                    <span style="margin: 3px 0px 3px 0px;">
+                        {{soundImageTitle}}
+                    </span>
+                </div>
+                <div style="margin-bottom: 15px; display: flex; justify-content: center;">
+                    <v-btn dark elevation="3" @click="playButton" :disabled="playing">
+                        <v-icon>mdi-play</v-icon>
+                        <span>播放</span>
+                    </v-btn>
+                    <v-btn dark elevation="3" @click="stop">
+                        <v-icon>mdi-stop</v-icon>
+                        <span>停止</span>
+                    </v-btn>
+                    <v-btn dark elevation="3" @click="shareButton">
+                        <v-icon>mdi-share</v-icon>
+                        <span>分享</span>
+                    </v-btn>
+                    <v-btn dark elevation="3" @click="about = true">
+                        <v-icon>mdi-information-outline</v-icon>
+                        <span>關於</span>
+                    </v-btn>
+                 </div>
+
+                <v-dialog v-model="share" max-width="500px">
+                    <v-card>
+                        <v-card-title>
+                            分享
+                        </v-card-title>
+
+                        <v-text-field id="shareLink" v-model="shareLink" label="分享連結"></v-text-field>
+                        <v-card-actions>
+                            <v-spacer></v-spacer>
+                            <v-btn text @click="copyLink">
+                                <v-icon>mdi-content-copy</v-icon>
+                                <span>複製</span>
+                            </v-btn>
+                            <v-btn color="primary" text  @click="share = false">
+                                關閉
+                            </v-btn>
+                        </v-card-actions>
+                    </v-card>
+                </v-dialog>
+
+                <v-dialog v-model="about" max-width="500px">
+                    <v-card>
+                        <v-card-title>
+                            <w-icon></w-icon>
+                            關於
+                        </v-card-title>
+                        <v-card-text>
+                            大濕之音 v1.7.0411
+                            <br/>
+                            作者：jack850628
+                            <br/>
+                            聲音來源：
+                            <a href="https://www.twitch.tv/h804232006" target="_bloak">仙界大濕</a>
+                            <a href="https://www.twitch.tv/magicgadra3" target="_bloak">嘎抓</a>
+                            <a href="https://www.twitch.tv/sum_91318" target="_bloak">桑尤姆</a>
+                            <a href="https://www.twitch.tv/jjg60205" target="_bloak">皮卡屁</a>
+                            <br/>
+                            原始碼:
+                            <a href="https://github.com/jack850628/wet-elephant-sound" target="_bloak">github</a>
+                        </v-card-text>
+                        <v-card-actions>
+                            <v-spacer></v-spacer>
+                            <v-btn color="primary" text  @click="about = false">
+                                關閉
+                            </v-btn>
+                        </v-card-actions>
+                    </v-card>
+                </v-dialog>
+            </v-main>
+          
+            <!-- <v-footer app>
+            </v-footer> -->
+        </v-app>
+    </div>
+</body>
+</html>
