@@ -1226,6 +1226,51 @@ var audios = [
             "name":"在這混亂的世道上",
             "url":"/media/sounds/.mp3_lxPYC4W",
             "id":1391
+         },
+         {
+            "name":"司儀",
+            "url":"/media/sounds/.mp3_7JOohwE",
+            "id":1498
+         },
+         {
+            "name":"香儀",
+            "url":"/media/sounds/.mp3_GDAIjg5",
+            "id":1499
+         },
+         {
+            "name":"真的很安詳",
+            "url":"/media/sounds/.mp3_QYyHBGs",
+            "id":1500
+         },
+         {
+            "name":"圓寂了",
+            "url":"/media/sounds/.mp3_VH8XeUd",
+            "id":1501
+         },
+         {
+            "name":"極樂世界",
+            "url":"/media/sounds/.mp3_9KpuRQR",
+            "id":1502
+         },
+         {
+            "name":"腳尾飯(台)",
+            "url":"/media/sounds/.mp3_c83UdKN",
+            "id":1503
+         },
+         {
+            "name":"腳尾錢",
+            "url":"/media/sounds/.mp3_n8l12Ap",
+            "id":1504
+         },
+         {
+            "name":"誦經",
+            "url":"/media/sounds/.mp3_zjfYenV",
+            "id":1505
+         },
+         {
+            "name":"樂隊",
+            "url":"/media/sounds/.mp3_8Px1nKD",
+            "id":1506
          }
       ]
    },
@@ -1631,6 +1676,66 @@ var audios = [
             "name":"要還不要啦？",
             "url":"/media/sounds/.mp3_EnW68lT",
             "id":1381
+         },
+         {
+            "name":"三小啦？～",
+            "url":"/media/sounds/.mp3_QDalOim",
+            "id":1469
+         },
+         {
+            "name":"工三小？",
+            "url":"/media/sounds/.mp3_105FZzg",
+            "id":1470
+         },
+         {
+            "name":"白目啊？",
+            "url":"/media/sounds/.mp3_DvPgndb",
+            "id":1471
+         },
+         {
+            "name":"怎樣？",
+            "url":"/media/sounds/.mp3_pgFqGqW",
+            "id":1472
+         },
+         {
+            "name":"怎樣啊？",
+            "url":"/media/sounds/.mp3_FCs3yxg",
+            "id":1473
+         },
+         {
+            "name":"耍我是不是？",
+            "url":"/media/sounds/.mp3_94I0fZ8",
+            "id":1474
+         },
+         {
+            "name":"畜生",
+            "url":"/media/sounds/.mp3_WspJiUg",
+            "id":1475
+         },
+         {
+            "name":"搞事仔",
+            "url":"/media/sounds/.mp3_z5nOGug",
+            "id":1476
+         },
+         {
+            "name":"講中文啦！",
+            "url":"/media/sounds/.mp3_lsorCwX",
+            "id":1477
+         },
+         {
+            "name":"聽話",
+            "url":"/media/sounds/.mp3_EKhHSpP",
+            "id":1478
+         },
+         {
+            "name":"讓我看看！",
+            "url":"/media/sounds/.mp3_zFyengd",
+            "id":1479
+         },
+         {
+            "name":"哭是不是啦？",
+            "url":"/media/sounds/.mp3_ygQcdLG",
+            "id":1480
          }
       ]
    },
@@ -2091,6 +2196,51 @@ var audios = [
             "name":"輝！",
             "url":"/media/sounds/.mp3_iJt2Mf1",
             "id":1377
+         },
+         {
+            "name":"汪汪汪",
+            "url":"/media/sounds/.mp3_ZOm0u8T",
+            "id":1481
+         },
+         {
+            "name":"汪汪汪汪",
+            "url":"/media/sounds/.mp3_llcdy0E",
+            "id":1482
+         },
+         {
+            "name":"哇↘！",
+            "url":"/media/sounds/.mp3_X0AECRN",
+            "id":1483
+         },
+         {
+            "name":"诶诶诶",
+            "url":"/media/sounds/.mp3_vsJUoNX",
+            "id":1484
+         },
+         {
+            "name":"啊➚～",
+            "url":"/media/sounds/.mp3_r857VwA",
+            "id":1485
+         },
+         {
+            "name":"啊➚～～",
+            "url":"/media/sounds/.mp3_aQ8D9RE",
+            "id":1486
+         },
+         {
+            "name":"啊嗚～～",
+            "url":"/media/sounds/.mp3_aG4TSSf",
+            "id":1487
+         },
+         {
+            "name":"嗚嗚～",
+            "url":"/media/sounds/.mp3_FeFozbb",
+            "id":1488
+         },
+         {
+            "name":"噢！",
+            "url":"/media/sounds/.mp3_GiOUigC",
+            "id":1489
          }
       ]
    },
@@ -2126,6 +2276,26 @@ var audios = [
             "name":"嗚～～",
             "url":"/media/sounds/.mp3_39DWnof",
             "id":1106
+         },
+         {
+            "name":"汪～",
+            "url":"/media/sounds/.mp3_ancmxXh",
+            "id":1507
+         },
+         {
+            "name":"嗚～",
+            "url":"/media/sounds/.mp3_73KtEjI",
+            "id":1508
+         },
+         {
+            "name":"嗚～2",
+            "url":"/media/sounds/2_p7j2HKc.mp3",
+            "id":1509
+         },
+         {
+            "name":"嗚↘～",
+            "url":"/media/sounds/.mp3_Vgf9zy0",
+            "id":1510
          }
       ]
    },
@@ -3036,6 +3206,46 @@ var audios = [
             "name":"幹壞了",
             "url":"/media/sounds/.mp3_SBj7u3n",
             "id":1366
+         },
+         {
+            "name":"小壞蛋",
+            "url":"/media/sounds/.mp3_7MRfgpE",
+            "id":1490
+         },
+         {
+            "name":"仙人跳",
+            "url":"/media/sounds/.mp3_fhuE9yg",
+            "id":1491
+         },
+         {
+            "name":"他被我舔到不要不要的",
+            "url":"/media/sounds/.mp3_mIX81xS",
+            "id":1492
+         },
+         {
+            "name":"吸麵聲",
+            "url":"/media/sounds/.mp3_0dS96vd",
+            "id":1493
+         },
+         {
+            "name":"我愛的人是邱建祥",
+            "url":"/media/sounds/.mp3_MKeExNQ",
+            "id":1494
+         },
+         {
+            "name":"嫁給你",
+            "url":"/media/sounds/.mp3_fYPDNmr",
+            "id":1495
+         },
+         {
+            "name":"想我是不是？～",
+            "url":"/media/sounds/.mp3_mWpBQPS",
+            "id":1496
+         },
+         {
+            "name":"辣府",
+            "url":"/media/sounds/.mp3_vz8xPMp",
+            "id":1497
          }
       ]
    },
@@ -3227,6 +3437,26 @@ var audios = [
             "url":"/media/sounds/.mp3_QNVhgPa",
             "id":1300
          }      
+      ]
+   },
+   {
+      "name":"道歉",
+      "datas":[
+         {
+            "name":"はい！はい！すみません！はい！はい！",
+            "url":"/media/sounds/.mp3_AicMvnW",
+            "id":1394
+         },
+         {
+            "name":"失禮啦",
+            "url":"/media/sounds/.mp3_pL5UWgo",
+            "id":613
+         },
+         {
+            "name":"對不起",
+            "url":"/media/sounds/.mp3_ifNe5gc",
+            "id":757
+         }
       ]
    },
    {
@@ -3502,6 +3732,31 @@ var audios = [
             "name":"有喔～(台)",
             "url":"/media/sounds/.mp3_w0jwiBi",
             "id":1388
+         }
+      ]
+   },
+   {
+      "name":"生日快樂歌",
+      "datas":[
+         {
+            "name":"祝你生日被幹",
+            "url":"/media/sounds/.mp3_8Uxiwdc",
+            "id":1511
+         },
+         {
+            "name":"祝你生日被幹2",
+            "url":"/media/sounds/2_viAsD5B.mp3",
+            "id":1512
+         },
+         {
+            "name":"祝你生日被幹_3",
+            "url":"/media/sounds/3_J4Np2qe.mp3",
+            "id":1513
+         },
+         {
+            "name":"祝你在生日路上遇到右拳",
+            "url":"/media/sounds/.mp3_IZ99VcW",
+            "id":1514
          }
       ]
    },
@@ -4789,11 +5044,6 @@ var audios = [
             "id":612
          },
          {
-            "name":"失禮啦",
-            "url":"/media/sounds/.mp3_pL5UWgo",
-            "id":613
-         },
-         {
             "name":"別這樣啦",
             "url":"/media/sounds/.mp3_bzWfuvs",
             "id":614
@@ -4922,11 +5172,6 @@ var audios = [
             "name":"濕爸爸變魔術啦",
             "url":"/media/sounds/.mp3_i5fRKtx",
             "id":746
-         },
-         {
-            "name":"對不起",
-            "url":"/media/sounds/.mp3_ifNe5gc",
-            "id":757
          },
          {
             "name":"は`～い",
@@ -6372,6 +6617,386 @@ var audios = [
             "name":"騙",
             "url":"/media/sounds/.mp3_eeyrNVq",
             "id":1353
+         },
+         {
+            "name":"DD",
+            "url":"/media/sounds/dd_K6RnmIF.mp3",
+            "id":1392
+         },
+         {
+            "name":"Gay Bar",
+            "url":"/media/sounds/gay-bar_a5Aaqk3.mp3",
+            "id":1393
+         },
+         {
+            "name":"ㄩㄇ",
+            "url":"/media/sounds/.mp3_f6eZp4H",
+            "id":1395
+         },
+         {
+            "name":"一決勝負",
+            "url":"/media/sounds/.mp3_Hl6NbKP",
+            "id":1396
+         },
+         {
+            "name":"一杯",
+            "url":"/media/sounds/.mp3_kfn7kmg",
+            "id":1397
+         },
+         {
+            "name":"大",
+            "url":"/media/sounds/.mp3_2RafV36",
+            "id":1398
+         },
+         {
+            "name":"大撒幣囉",
+            "url":"/media/sounds/.mp3_i6SETEL",
+            "id":1399
+         },
+         {
+            "name":"不好意思2",
+            "url":"/media/sounds/2_0cilvlS.mp3",
+            "id":1400
+         },
+         {
+            "name":"不要再打了",
+            "url":"/media/sounds/.mp3_nFbUlAy",
+            "id":1401
+         },
+         {
+            "name":"木瓜",
+            "url":"/media/sounds/.mp3_cmpbnqu",
+            "id":1402
+         },
+         {
+            "name":"牛奶",
+            "url":"/media/sounds/.mp3_6FFxIX8",
+            "id":1403
+         },
+         {
+            "name":"他只是贏了",
+            "url":"/media/sounds/.mp3_HGk86oU",
+            "id":1404
+         },
+         {
+            "name":"出來啊",
+            "url":"/media/sounds/.mp3_WgD6yxq",
+            "id":1405
+         },
+         {
+            "name":"去去原稿走",
+            "url":"/media/sounds/.mp3_CpJuEtZ",
+            "id":1406
+         },
+         {
+            "name":"去你們的家",
+            "url":"/media/sounds/.mp3_KPyA9Go",
+            "id":1407
+         },
+         {
+            "name":"台灣人",
+            "url":"/media/sounds/.mp3_wGXhlQY",
+            "id":1408
+         },
+         {
+            "name":"奶茶",
+            "url":"/media/sounds/.mp3_K4wE1rV",
+            "id":1409
+         },
+         {
+            "name":"生為一個",
+            "url":"/media/sounds/.mp3_nXpsu5q",
+            "id":1410
+         },
+         {
+            "name":"冰淇淋",
+            "url":"/media/sounds/.mp3_xsphCp0",
+            "id":1411
+         },
+         {
+            "name":"回去囉",
+            "url":"/media/sounds/.mp3_ZZ3sG3s",
+            "id":1412
+         },
+         {
+            "name":"好喔",
+            "url":"/media/sounds/.mp3_8h3iyHi",
+            "id":1413
+         },
+         {
+            "name":"好痛啊",
+            "url":"/media/sounds/.mp3_L9JvXvi",
+            "id":1414
+         },
+         {
+            "name":"好貴喔",
+            "url":"/media/sounds/.mp3_J5aKmT4",
+            "id":1415
+         },
+         {
+            "name":"如果您沒上車的話",
+            "url":"/media/sounds/.mp3_I2jEGww",
+            "id":1416
+         },
+         {
+            "name":"旨い",
+            "url":"/media/sounds/.mp3_DwuBngf",
+            "id":1417
+         },
+         {
+            "name":"有在嘛(台)",
+            "url":"/media/sounds/.mp3_WnYzTH7",
+            "id":1418
+         },
+         {
+            "name":"有空",
+            "url":"/media/sounds/.mp3_nBWxfpe",
+            "id":1419
+         },
+         {
+            "name":"竹墊",
+            "url":"/media/sounds/.mp3_k2gd34J",
+            "id":1420
+         },
+         {
+            "name":"自己投降",
+            "url":"/media/sounds/.mp3_DhNVJJ6",
+            "id":1421
+         },
+         {
+            "name":"住手",
+            "url":"/media/sounds/.mp3_HJlweh9",
+            "id":1422
+         },
+         {
+            "name":"你怎麼在這？",
+            "url":"/media/sounds/.mp3_1TwPSIc",
+            "id":1423
+         },
+         {
+            "name":"你要不要吃？",
+            "url":"/media/sounds/.mp3_QglRfME",
+            "id":1424
+         },
+         {
+            "name":"你要不要吃2",
+            "url":"/media/sounds/2_vQsDh0E.mp3",
+            "id":1425
+         },
+         {
+            "name":"你們",
+            "url":"/media/sounds/.mp3_x158etT",
+            "id":1426
+         },
+         {
+            "name":"我們的誠意",
+            "url":"/media/sounds/.mp3_YKmAAIS",
+            "id":1427
+         },
+         {
+            "name":"沒上車的旅客",
+            "url":"/media/sounds/.mp3_kA26c9s",
+            "id":1428
+         },
+         {
+            "name":"沒錢了",
+            "url":"/media/sounds/.mp3_mTi7QGS",
+            "id":1429
+         },
+         {
+            "name":"車要開了",
+            "url":"/media/sounds/.mp3_bJtmYtq",
+            "id":1430
+         },
+         {
+            "name":"那～",
+            "url":"/media/sounds/.mp3_3RnNMrc",
+            "id":1431
+         },
+         {
+            "name":"咖啡",
+            "url":"/media/sounds/.mp3_MbIJiNA",
+            "id":1432
+         },
+         {
+            "name":"削",
+            "url":"/media/sounds/.mp3_xEf8Jbn",
+            "id":1433
+         },
+         {
+            "name":"哈密哈",
+            "url":"/media/sounds/.mp3_PafirJy",
+            "id":1434
+         },
+         {
+            "name":"哈密哈2",
+            "url":"/media/sounds/2_DihbmLV.mp3",
+            "id":1435
+         },
+         {
+            "name":"怎麼啦？～",
+            "url":"/media/sounds/.mp3_8kMtHaY",
+            "id":1436
+         },
+         {
+            "name":"怎麼會這樣啊？(台)",
+            "url":"/media/sounds/.mp3_n6nyuyB",
+            "id":1437
+         },
+         {
+            "name":"是不是很好聽啊？",
+            "url":"/media/sounds/.mp3_Dy6BvmE",
+            "id":1438
+         },
+         {
+            "name":"看我沒有餒",
+            "url":"/media/sounds/.mp3_hgflMa6",
+            "id":1439
+         },
+         {
+            "name":"要打，去練舞室打",
+            "url":"/media/sounds/.mp3_Irnx8Ht",
+            "id":1440
+         },
+         {
+            "name":"香瓜",
+            "url":"/media/sounds/.mp3_BkaZp05",
+            "id":1441
+         },
+         {
+            "name":"香蕉",
+            "url":"/media/sounds/.mp3_hG02VPk",
+            "id":1442
+         },
+         {
+            "name":"拿過來",
+            "url":"/media/sounds/.mp3_cCEAHY9",
+            "id":1443
+         },
+         {
+            "name":"真面目",
+            "url":"/media/sounds/.mp3_llQ1L9O",
+            "id":1444
+         },
+         {
+            "name":"草蓆",
+            "url":"/media/sounds/.mp3_5DG80zg",
+            "id":1445
+         },
+         {
+            "name":"馬鈴薯",
+            "url":"/media/sounds/.mp3_XvUETfI",
+            "id":1446
+         },
+         {
+            "name":"啊人呢(台)",
+            "url":"/media/sounds/.mp3_lKVuZsb",
+            "id":1447
+         },
+         {
+            "name":"甜甜圈",
+            "url":"/media/sounds/.mp3_Go5RhAx",
+            "id":1448
+         },
+         {
+            "name":"統一布丁",
+            "url":"/media/sounds/.mp3_Lz91R8J",
+            "id":1449
+         },
+         {
+            "name":"被你發現了",
+            "url":"/media/sounds/.mp3_jw4twDJ",
+            "id":1450
+         },
+         {
+            "name":"結帳",
+            "url":"/media/sounds/.mp3_wTRTuyP",
+            "id":1451
+         },
+         {
+            "name":"開們！",
+            "url":"/media/sounds/.mp3_yacWKCp",
+            "id":1452
+         },
+         {
+            "name":"傳送～",
+            "url":"/media/sounds/.mp3_9RQUfhq",
+            "id":1453
+         },
+         {
+            "name":"搶劫！",
+            "url":"/media/sounds/.mp3_x7UH09r",
+            "id":1454
+         },
+         {
+            "name":"聖代",
+            "url":"/media/sounds/.mp3_LwkBDR4",
+            "id":1455
+         },
+         {
+            "name":"跟我走",
+            "url":"/media/sounds/.mp3_9oxhZxW",
+            "id":1456
+         },
+         {
+            "name":"過來過來過來",
+            "url":"/media/sounds/.mp3_IyWcSZu",
+            "id":1457
+         },
+         {
+            "name":"槍在手",
+            "url":"/media/sounds/.mp3_ZohjlYN",
+            "id":1458
+         },
+         {
+            "name":"影帝",
+            "url":"/media/sounds/.mp3_FxDt8SM",
+            "id":1459
+         },
+         {
+            "name":"熱水",
+            "url":"/media/sounds/.mp3_qtL7CNl",
+            "id":1460
+         },
+         {
+            "name":"請趕快上車",
+            "url":"/media/sounds/.mp3_mGh75M2",
+            "id":1461
+         },
+         {
+            "name":"幫你泡杯",
+            "url":"/media/sounds/.mp3_Vgs530E",
+            "id":1462
+         },
+         {
+            "name":"點點點點點",
+            "url":"/media/sounds/.mp3_MQWewJi",
+            "id":1463
+         },
+         {
+            "name":"翻譯翻譯",
+            "url":"/media/sounds/.mp3_HpU9Dde",
+            "id":1464
+         },
+         {
+            "name":"雞蛋",
+            "url":"/media/sounds/.mp3_FZ1teCt",
+            "id":1465
+         },
+         {
+            "name":"囂張",
+            "url":"/media/sounds/.mp3_V4MNfiV",
+            "id":1466
+         },
+         {
+            "name":"讓車爬樹",
+            "url":"/media/sounds/.mp3_hIki3gP",
+            "id":1467
+         },
+         {
+            "name":"水果冰淇淋",
+            "url":"/media/sounds/.mp3_DeVmFm4",
+            "id":1468
          }
       ]
    },
@@ -7051,6 +7676,16 @@ var audios = [
             "name":"龍潭廁所子",
             "url":"/media/sounds/.mp3_XBxAuQE",
             "id":177
+         },
+         {
+            "name":"皮卡屁：『張兆元』",
+            "url":"/media/sounds/.mp3_HovuAab",
+            "id":1515
+         },
+         {
+            "name":"皮卡屁：『他只是我的肉便器』",
+            "url":"/media/sounds/.mp3_AzTb6ri",
+            "id":1516
          }
       ]
    }
