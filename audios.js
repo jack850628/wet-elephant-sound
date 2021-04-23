@@ -4147,6 +4147,11 @@ var audios = [
             "name":"水果冰淇淋",
             "url":"/media/sounds/.mp3_DeVmFm4",
             "id":1468
+         },
+         {
+            "name":"烤布蕾",
+            "url":"/media/sounds/.mp3_YXS3lWQ",
+            "id":976
          }
       ]
    },
@@ -6169,11 +6174,6 @@ var audios = [
             "id":975
          },
          {
-            "name":"烤布蕾",
-            "url":"/media/sounds/.mp3_YXS3lWQ",
-            "id":976
-         },
-         {
             "name":"國家",
             "url":"/media/sounds/.mp3_9i6hphH",
             "id":977
@@ -7847,6 +7847,36 @@ var audios = [
             "name":"我在跟你講",
             "url":"/media/sounds/.mp3_1TMWfcw",
             "id":1619
+         },
+         {
+            "name":"動",
+            "url":"/media/sounds/.mp3_NRz4RHT",
+            "id":1693
+         },
+         {
+            "name":"啊",
+            "url":"/media/sounds/.mp3_h54bE6e",
+            "id":1694
+         },
+         {
+            "name":"這麼",
+            "url":"/media/sounds/.mp3_07djYHy",
+            "id":1695
+         },
+         {
+            "name":"照",
+            "url":"/media/sounds/.mp3_m9bs30S",
+            "id":1696
+         },
+         {
+            "name":"啦2",
+            "url":"/media/sounds/2_wQUisAD.mp3",
+            "id":1697
+         },
+         {
+            "name":"吃",
+            "url":"/media/sounds/.mp3_sOUfG1Y",
+            "id":1698
          }
       ]
    },
