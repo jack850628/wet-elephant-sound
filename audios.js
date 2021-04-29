@@ -3666,6 +3666,11 @@ var audios = [
             "name":"蠻鬆的",
             "url":"/media/sounds/.mp3_zbGiV3w",
             "id":2026
+         },
+         {
+            "name":"肛",
+            "url":"/media/sounds/.mp3_GfaWJvs",
+            "id":2040
          }
       ]
    },
@@ -4302,6 +4307,16 @@ var audios = [
             "name":"一百塊",
             "url":"/media/sounds/.mp3_YMRwMIR",
             "id":959
+         },
+         {
+            "name":"三十五塊",
+            "url":"/media/sounds/.mp3_rHctmOg",
+            "id":459
+         },
+         {
+            "name":"三百塊",
+            "url":"/media/sounds/.mp3_pFTJkxN",
+            "id":461
          },
          {
             "name":"三",
@@ -5657,16 +5672,6 @@ var audios = [
             "name":"決鬥",
             "url":"/media/sounds/.mp3_pWOhlpL",
             "id":458
-         },
-         {
-            "name":"三十五塊",
-            "url":"/media/sounds/.mp3_rHctmOg",
-            "id":459
-         },
-         {
-            "name":"三百塊",
-            "url":"/media/sounds/.mp3_pFTJkxN",
-            "id":461
          },
          {
             "name":"謀啦～2",
@@ -9482,6 +9487,31 @@ var audios = [
             "name":"我要怎麼回去",
             "url":"/media/sounds/.mp3_a2p89z7",
             "id":1976
+         },
+         {
+            "name":"分",
+            "url":"/media/sounds/.mp3_xrAkjRe",
+            "id":2035
+         },
+         {
+            "name":"後",
+            "url":"/media/sounds/.mp3_VwtoyjD",
+            "id":2036
+         },
+         {
+            "name":"下",
+            "url":"/media/sounds/.mp3_2umXMS7",
+            "id":2037
+         },
+         {
+            "name":"壓",
+            "url":"/media/sounds/.mp3_cz7DEPW",
+            "id":2038
+         },
+         {
+            "name":"面",
+            "url":"/media/sounds/.mp3_MCCxs3E",
+            "id":2039
          }
       ]
    },
