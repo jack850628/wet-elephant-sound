@@ -1851,6 +1851,16 @@ var audios = [
             "name":"蘇卡不列",
             "url":"/media/sounds/.mp3_0RBUzkn",
             "id":2186
+         },
+         {
+            "name":"媽的廢物",
+            "url":"/media/sounds/.mp3_YqHZdQV",
+            "id":2276
+         },
+         {
+            "name":"幹！你娘",
+            "url":"/media/sounds/.mp3_HmJPaAI",
+            "id":2277
          }
       ]
    },
@@ -2691,6 +2701,31 @@ var audios = [
             "name":"齁呦",
             "url":"/media/sounds/.mp3_Q2xviWs",
             "id":2168
+         },
+         {
+            "name":"『舔』",
+            "url":"/media/sounds/.mp3_R9VkY6a",
+            "id":2271
+         },
+         {
+            "name":"ㄟ",
+            "url":"/media/sounds/.mp3_8J3fEV3",
+            "id":2272
+         },
+         {
+            "name":"吼",
+            "url":"/media/sounds/.mp3_t516eBF",
+            "id":2273
+         },
+         {
+            "name":"啊～哈哈",
+            "url":"/media/sounds/.mp3_L6Zwjah",
+            "id":2274
+         },
+         {
+            "name":"燈燈冷燈燈燈燈",
+            "url":"/media/sounds/.mp3_ImcnTOn",
+            "id":2275
          }
       ]
    },
@@ -4066,6 +4101,11 @@ var audios = [
             "name":"規範",
             "url":"/media/sounds/.mp3_3isBHBH",
             "id":1647
+         },
+         {
+            "name":"共諜",
+            "url":"/media/sounds/.mp3_OwzxTvJ",
+            "id":2278
          }
       ]
    },
@@ -10311,6 +10351,206 @@ var audios = [
             "name":"不然這樣好了",
             "url":"/media/sounds/.mp3_E8irIiY",
             "id":2232
+         },
+         {
+            "name":"おじさん",
+            "url":"/media/sounds/.mp3_SovibwO",
+            "id":2233
+         },
+         {
+            "name":"不妙",
+            "url":"/media/sounds/.mp3_jxomfbh",
+            "id":2234
+         },
+         {
+            "name":"五花八門",
+            "url":"/media/sounds/.mp3_6sIPtcG",
+            "id":2235
+         },
+         {
+            "name":"什麼才叫",
+            "url":"/media/sounds/.mp3_mmUbDLJ",
+            "id":2236
+         },
+         {
+            "name":"什麼才是",
+            "url":"/media/sounds/.mp3_X60LcpD",
+            "id":2237
+         },
+         {
+            "name":"主持人",
+            "url":"/media/sounds/.mp3_urd6zYK",
+            "id":2238
+         },
+         {
+            "name":"如果這不是",
+            "url":"/media/sounds/.mp3_U1BV2Fc",
+            "id":2239
+         },
+         {
+            "name":"你們好",
+            "url":"/media/sounds/.mp3_p1jQ8Wc",
+            "id":2240
+         },
+         {
+            "name":"我是",
+            "url":"/media/sounds/.mp3_vCCguYe",
+            "id":2241
+         },
+         {
+            "name":"我倒楣了",
+            "url":"/media/sounds/.mp3_TroBc5W",
+            "id":2242
+         },
+         {
+            "name":"怪",
+            "url":"/media/sounds/.mp3_Z3yTi2Q",
+            "id":2243
+         },
+         {
+            "name":"拉屎",
+            "url":"/media/sounds/.mp3_UpaWzZL",
+            "id":2244
+         },
+         {
+            "name":"指日可待",
+            "url":"/media/sounds/.mp3_U7wB54o",
+            "id":2245
+         },
+         {
+            "name":"是什麼東西？",
+            "url":"/media/sounds/.mp3_Fgv9eM6",
+            "id":2246
+         },
+         {
+            "name":"香不香？",
+            "url":"/media/sounds/.mp3_cQTI2iD",
+            "id":2247
+         },
+         {
+            "name":"哭哭啼啼",
+            "url":"/media/sounds/.mp3_tcNGQCL",
+            "id":2248
+         },
+         {
+            "name":"國家2",
+            "url":"/media/sounds/2_dsYjmuZ.mp3",
+            "id":2249
+         },
+         {
+            "name":"情誼",
+            "url":"/media/sounds/.mp3_oUyN9CD",
+            "id":2250
+         },
+         {
+            "name":"接起",
+            "url":"/media/sounds/.mp3_hNN43Ij",
+            "id":2251
+         },
+         {
+            "name":"尊嚴",
+            "url":"/media/sounds/.mp3_mOEjXEy",
+            "id":2252
+         },
+         {
+            "name":"最",
+            "url":"/media/sounds/.mp3_rPQ2o5Y",
+            "id":2253
+         },
+         {
+            "name":"棒",
+            "url":"/media/sounds/.mp3_lOO9gox",
+            "id":2254
+         },
+         {
+            "name":"超級",
+            "url":"/media/sounds/.mp3_5KhK1pm",
+            "id":2255
+         },
+         {
+            "name":"開外掛啦",
+            "url":"/media/sounds/.mp3_XePrqQF",
+            "id":2256
+         },
+         {
+            "name":"開開心心",
+            "url":"/media/sounds/.mp3_MBYaDSP",
+            "id":2257
+         },
+         {
+            "name":"愛2",
+            "url":"/media/sounds/2_9XYZcQR.mp3",
+            "id":2258
+         },
+         {
+            "name":"搞他",
+            "url":"/media/sounds/.mp3_QILraoz",
+            "id":2259
+         },
+         {
+            "name":"腳腳",
+            "url":"/media/sounds/.mp3_XIdkRri",
+            "id":2260
+         },
+         {
+            "name":"雷包",
+            "url":"/media/sounds/.mp3_Sn4fU07",
+            "id":2261
+         },
+         {
+            "name":"電台",
+            "url":"/media/sounds/.mp3_1txTDjY",
+            "id":2262
+         },
+         {
+            "name":"電話",
+            "url":"/media/sounds/.mp3_Aj0H1CP",
+            "id":2263
+         },
+         {
+            "name":"對面",
+            "url":"/media/sounds/.mp3_3LNjENP",
+            "id":2264
+         },
+         {
+            "name":"舔",
+            "url":"/media/sounds/.mp3_UqxfMzW",
+            "id":2265
+         },
+         {
+            "name":"廢話",
+            "url":"/media/sounds/.mp3_eIe7mXN",
+            "id":2266
+         },
+         {
+            "name":"踐踏",
+            "url":"/media/sounds/.mp3_krYLtob",
+            "id":2267
+         },
+         {
+            "name":"錯",
+            "url":"/media/sounds/.mp3_u1zGkud",
+            "id":2268
+         },
+         {
+            "name":"壓力好大喔",
+            "url":"/media/sounds/.mp3_usVms4j",
+            "id":2269
+         },
+         {
+            "name":"矇蔽了我的雙眼",
+            "url":"/media/sounds/.mp3_1nSEeH6",
+            "id":2270
+         },
+         {
+            "name":"你們好2",
+            "url":"/media/sounds/2_XPWB85Q.mp3",
+            "id":2291
+         },
+         {
+            "name":"這裡是",
+            "url":"/media/sounds/.mp3_Kx90DVL",
+            "id":2292
          }
       ]
    },
@@ -11251,6 +11491,66 @@ var audios = [
             "name":"嘎抓：『已經』",
             "url":"/media/sounds/.mp3_hWtSHOj",
             "id":2230
+         },
+         {
+            "name":"嘎抓：『靠么』",
+            "url":"/media/sounds/.mp3_zwN9ITE",
+            "id":2279
+         },
+         {
+            "name":"嘎抓：『幹你娘機掰』",
+            "url":"/media/sounds/.mp3_NXkd9Fp",
+            "id":2280
+         },
+         {
+            "name":"嘎抓：『媽的』",
+            "url":"/media/sounds/.mp3_V4xjHHE",
+            "id":2281
+         },
+         {
+            "name":"嘎抓：『欸』",
+            "url":"/media/sounds/.mp3_JxbzXBk",
+            "id":2282
+         },
+         {
+            "name":"嘎抓：『啊↘』",
+            "url":"/media/sounds/.mp3_kvEzPxS",
+            "id":2283
+         },
+         {
+            "name":"嘎抓：『啊～～～～～～』",
+            "url":"/media/sounds/.mp3_ttcOjcQ",
+            "id":2284
+         },
+         {
+            "name":"嘎抓：『诶2』",
+            "url":"/media/sounds/2_BAZUSjG.mp3",
+            "id":2285
+         },
+         {
+            "name":"嘎抓：『诶』",
+            "url":"/media/sounds/.mp3_SXEyiQv",
+            "id":2286
+         },
+         {
+            "name":"嘎抓：『我都快睡著了』",
+            "url":"/media/sounds/.mp3_QKbsD9W",
+            "id":2287
+         },
+         {
+            "name":"嘎抓：『我忘記了啦』",
+            "url":"/media/sounds/.mp3_ukDbGd7",
+            "id":2288
+         },
+         {
+            "name":"嘎抓：『有夠慢的啦』",
+            "url":"/media/sounds/.mp3_ZMNXOF7",
+            "id":2289
+         },
+         {
+            "name":"嘎抓：『在快一點好不好』",
+            "url":"/media/sounds/.mp3_v9ItLS1",
+            "id":2290
          }
       ]
    },
