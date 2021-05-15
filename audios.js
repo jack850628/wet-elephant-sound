@@ -12100,6 +12100,11 @@ var audios = [
             "name":"桑尤姆：『叮～2』",
             "url":"/media/sounds/2_9L7U7qW.mp3",
             "id":952
+         },
+         {
+            "name":"桑尤姆：『我愛的人是皮卡屁』",
+            "url":"/media/sounds/.mp3_xDxdvLZ",
+            "id":2396
          }
       ]
    },
