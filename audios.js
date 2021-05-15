@@ -1311,6 +1311,76 @@ var audios = [
             "name":"葬儀社",
             "url":"/media/sounds/.mp3_wXYTzfk",
             "id":1660
+         },
+         {
+            "name":"一號",
+            "url":"/media/sounds/.mp3_9Sm3PNQ",
+            "id":2357
+         },
+         {
+            "name":"二號",
+            "url":"/media/sounds/.mp3_sBVYjFm",
+            "id":2358
+         },
+         {
+            "name":"三號",
+            "url":"/media/sounds/.mp3_gvrvqv2",
+            "id":2359
+         },
+         {
+            "name":"小提琴手",
+            "url":"/media/sounds/.mp3_5lnrhyE",
+            "id":2360
+         },
+         {
+            "name":"升旗典禮2",
+            "url":"/media/sounds/2_P7pknAp.mp3",
+            "id":2361
+         },
+         {
+            "name":"主持",
+            "url":"/media/sounds/.mp3_S6TO2PB",
+            "id":2362
+         },
+         {
+            "name":"奏樂開始啦～",
+            "url":"/media/sounds/.mp3_j8T47a6",
+            "id":2363
+         },
+         {
+            "name":"這一次的",
+            "url":"/media/sounds/.mp3_OtSr1lJ",
+            "id":2364
+         },
+         {
+            "name":"喇叭手",
+            "url":"/media/sounds/.mp3_YH7N4Hn",
+            "id":2365
+         },
+         {
+            "name":"就位啦",
+            "url":"/media/sounds/.mp3_bzGYGSM",
+            "id":2366
+         },
+         {
+            "name":"預備",
+            "url":"/media/sounds/.mp3_vq8J5JJ",
+            "id":2367
+         },
+         {
+            "name":"鼓手",
+            "url":"/media/sounds/.mp3_Xujt9jt",
+            "id":2368
+         },
+         {
+            "name":"樂團",
+            "url":"/media/sounds/.mp3_oremOhx",
+            "id":2369
+         },
+         {
+            "name":"請～奏樂",
+            "url":"/media/sounds/.mp3_EGLCznl",
+            "id":2370
          }
       ]
    },
@@ -1861,6 +1931,26 @@ var audios = [
             "name":"幹！你娘",
             "url":"/media/sounds/.mp3_HmJPaAI",
             "id":2277
+         },
+         {
+            "name":"what the fuck2",
+            "url":"/media/sounds/what-the-fuck2_nFX2SLv.mp3",
+            "id":2371
+         },
+         {
+            "name":"what the fuck~",
+            "url":"/media/sounds/what-the-fuck_uADp1EQ.mp3",
+            "id":2372
+         },
+         {
+            "name":"what! the! fuck!",
+            "url":"/media/sounds/what-the-fuck_F2HTi4e.mp3",
+            "id":2373
+         },
+         {
+            "name":"아～씨발",
+            "url":"/media/sounds/.mp3_WmRaowV",
+            "id":2374
          }
       ]
    },
@@ -2726,6 +2816,121 @@ var audios = [
             "name":"燈燈冷燈燈燈燈",
             "url":"/media/sounds/.mp3_ImcnTOn",
             "id":2275
+         },
+         {
+            "name":"ㄟ～～",
+            "url":"/media/sounds/.mp3_Xn1F80F",
+            "id":2335
+         },
+         {
+            "name":"汪～～",
+            "url":"/media/sounds/.mp3_IqNUaU3",
+            "id":2336
+         },
+         {
+            "name":"汪汪汪2",
+            "url":"/media/sounds/2_Fia4Jyu.mp3",
+            "id":2337
+         },
+         {
+            "name":"诶～～",
+            "url":"/media/sounds/.mp3_nZjhO56",
+            "id":2338
+         },
+         {
+            "name":"啊！啊！啊嗚",
+            "url":"/media/sounds/.mp3_nbkO6O4",
+            "id":2339
+         },
+         {
+            "name":"啊～～～～",
+            "url":"/media/sounds/.mp3_Nz35Aon",
+            "id":2340
+         },
+         {
+            "name":"啊↘",
+            "url":"/media/sounds/.mp3_Ht0Ejsd",
+            "id":2341
+         },
+         {
+            "name":"啊↘～",
+            "url":"/media/sounds/.mp3_3TEbUXu",
+            "id":2342
+         },
+         {
+            "name":"嗚哦～～",
+            "url":"/media/sounds/.mp3_9naBnnY",
+            "id":2343
+         },
+         {
+            "name":"嗚啊～～",
+            "url":"/media/sounds/.mp3_Ks2Tqw0",
+            "id":2344
+         },
+         {
+            "name":"嗚啊↘～",
+            "url":"/media/sounds/.mp3_Sz5hUBS",
+            "id":2345
+         },
+         {
+            "name":"嗚啊↘～～",
+            "url":"/media/sounds/.mp3_DQw5mDV",
+            "id":2346
+         },
+         {
+            "name":"嗚喔～～",
+            "url":"/media/sounds/.mp3_xeJCHiQ",
+            "id":2347
+         },
+         {
+            "name":"嗡嗡嗡嗡",
+            "url":"/media/sounds/.mp3_BYPQoPL",
+            "id":2348
+         },
+         {
+            "name":"痾！痾啊～～",
+            "url":"/media/sounds/.mp3_VZ8AjTU",
+            "id":2349
+         },
+         {
+            "name":"痾",
+            "url":"/media/sounds/.mp3_bCDxHnU",
+            "id":2350
+         },
+         {
+            "name":"痾啊～～",
+            "url":"/media/sounds/.mp3_sDQ3dZT",
+            "id":2351
+         },
+         {
+            "name":"痾啊↘～",
+            "url":"/media/sounds/.mp3_zzhfKQG",
+            "id":2352
+         },
+         {
+            "name":"痾啊↘～～",
+            "url":"/media/sounds/.mp3_1d8vm4u",
+            "id":2353
+         },
+         {
+            "name":"痾訝！",
+            "url":"/media/sounds/.mp3_4EYsPns",
+            "id":2354
+         },
+         {
+            "name":"痾訝～～～",
+            "url":"/media/sounds/.mp3_7E0ZvOn",
+            "id":2355
+         },
+         {
+            "name":"痾痾痾",
+            "url":"/media/sounds/.mp3_afhmQCE",
+            "id":2356
+         },
+         {
+            "name":"喔！喔！",
+            "url":"/media/sounds/.mp3_fEEhrPq",
+            "id":2323
          }
       ]
    },
@@ -2793,7 +2998,7 @@ var audios = [
             "id":2194
          },
          {
-            "name":"嗚～_3",
+            "name":"嗚～3",
             "url":"/media/sounds/3_IHDMVVf.mp3",
             "id":2195
          }
@@ -3896,6 +4101,31 @@ var audios = [
             "name":"雞雞",
             "url":"/media/sounds/.mp3_zhsvxNC",
             "id":2175
+         },
+         {
+            "name":"i want fuck your ass",
+            "url":"/media/sounds/i-want-fuck-your-ass.mp3",
+            "id":2381
+         },
+         {
+            "name":"is fucking dick",
+            "url":"/media/sounds/is-fucking-dick.mp3",
+            "id":2382
+         },
+         {
+            "name":"pretty",
+            "url":"/media/sounds/pretty.mp3",
+            "id":2383
+         },
+         {
+            "name":"sexy",
+            "url":"/media/sounds/sexy_M8oEF7Z.mp3",
+            "id":2384
+         },
+         {
+            "name":"you are so",
+            "url":"/media/sounds/you-are-so.mp3",
+            "id":2385
          }
       ]
    },
@@ -4106,6 +4336,11 @@ var audios = [
             "name":"共諜",
             "url":"/media/sounds/.mp3_OwzxTvJ",
             "id":2278
+         },
+         {
+            "name":"我們的黨",
+            "url":"/media/sounds/.mp3_lNETryp",
+            "id":2389
          }
       ]
    },
@@ -4696,6 +4931,36 @@ var audios = [
             "name":"V",
             "url":"/media/sounds/_v.mp3",
             "id":1986
+         },
+         {
+            "name":"D",
+            "url":"/media/sounds/d_jLX0aSO.mp3",
+            "id":2375
+         },
+         {
+            "name":"E",
+            "url":"/media/sounds/e_IDpeFey.mp3",
+            "id":2376
+         },
+         {
+            "name":"I",
+            "url":"/media/sounds/i_YXEvIO8.mp3",
+            "id":2377
+         },
+         {
+            "name":"N",
+            "url":"/media/sounds/n_VnDuOOl.mp3",
+            "id":2378
+         },
+         {
+            "name":"R",
+            "url":"/media/sounds/r_6agCvnl.mp3",
+            "id":2379
+         },
+         {
+            "name":"U",
+            "url":"/media/sounds/u_sfBi33I.mp3",
+            "id":2380
          }
       ]
    },
@@ -4801,6 +5066,21 @@ var audios = [
             "name":"烤布蕾",
             "url":"/media/sounds/.mp3_YXS3lWQ",
             "id":976
+         },
+         {
+            "name":"皮蛋瘦肉粥",
+            "url":"/media/sounds/.mp3_bYLIa5g",
+            "id":2386
+         },
+         {
+            "name":"豬腳",
+            "url":"/media/sounds/.mp3_KuOE6Ed",
+            "id":2387
+         },
+         {
+            "name":"麵線",
+            "url":"/media/sounds/.mp3_PCsAlRG",
+            "id":2388
          }
       ]
    },
@@ -4956,6 +5236,46 @@ var audios = [
             "name":"阿扁巴巴綠帽俠",
             "url":"/media/sounds/.mp3_AqT20Rl",
             "id":1663
+         }
+      ]
+   },
+   {
+      "name":"野獸先輩",
+      "datas":[
+         {
+            "name":"やりますねぇ",
+            "url":"/media/sounds/.mp3_UXVoqVt",
+            "id":2295
+         },
+         {
+            "name":"是學生",
+            "url":"/media/sounds/.mp3_ZGOxLNp",
+            "id":2316
+         },
+         {
+            "name":"24歲",
+            "url":"/media/sounds/24_zCTpfmT.mp3",
+            "id":2293
+         },
+      ]
+   },
+   {
+      "name":"紅心A",
+      "datas":[
+         {
+            "name":"在我的",
+            "url":"/media/sounds/.mp3_2ZYbRmU",
+            "id":2390
+         },
+         {
+            "name":"紅心A",
+            "url":"/media/sounds/a_VZq2d11.mp3",
+            "id":2391
+         },
+         {
+            "name":"紅色內褲裡",
+            "url":"/media/sounds/.mp3_sv68btS",
+            "id":2392
          }
       ]
    },
@@ -9783,7 +10103,7 @@ var audios = [
             "id":2039
          },
          {
-            "name":"what_the_fuck",
+            "name":"what the fuck",
             "url":"/media/sounds/what-the-fuck_gqeFxJ1.mp3",
             "id":2041
          },
@@ -10551,6 +10871,196 @@ var audios = [
             "name":"這裡是",
             "url":"/media/sounds/.mp3_Kx90DVL",
             "id":2292
+         },
+         {
+            "name":"you know",
+            "url":"/media/sounds/you-know.mp3",
+            "id":2294
+         },
+         {
+            "name":"ㄋㄟㄋㄟ",
+            "url":"/media/sounds/.mp3_QfgEJGO",
+            "id":2296
+         },
+         {
+            "name":"一起戴綠帽了啦",
+            "url":"/media/sounds/.mp3_AifFE6V",
+            "id":2297
+         },
+         {
+            "name":"三小？",
+            "url":"/media/sounds/.mp3_UrIJ9c9",
+            "id":2298
+         },
+         {
+            "name":"上",
+            "url":"/media/sounds/.mp3_8O5CvQe",
+            "id":2299
+         },
+         {
+            "name":"大爆射",
+            "url":"/media/sounds/.mp3_YD9mhIE",
+            "id":2300
+         },
+         {
+            "name":"工業",
+            "url":"/media/sounds/.mp3_0u2Qh4B",
+            "id":2301
+         },
+         {
+            "name":"不要去！",
+            "url":"/media/sounds/.mp3_T2XFQ0K",
+            "id":2302
+         },
+         {
+            "name":"不要亂跑啊",
+            "url":"/media/sounds/.mp3_GlUbOg7",
+            "id":2303
+         },
+         {
+            "name":"引擎",
+            "url":"/media/sounds/.mp3_t7oVrbJ",
+            "id":2304
+         },
+         {
+            "name":"世界第一",
+            "url":"/media/sounds/.mp3_q5AjljQ",
+            "id":2305
+         },
+         {
+            "name":"未來",
+            "url":"/media/sounds/.mp3_tzXjrr0",
+            "id":2306
+         },
+         {
+            "name":"因",
+            "url":"/media/sounds/.mp3_6T16l15",
+            "id":2307
+         },
+         {
+            "name":"自由",
+            "url":"/media/sounds/.mp3_Niitn0F",
+            "id":2308
+         },
+         {
+            "name":"我要喝(台)",
+            "url":"/media/sounds/.mp3_Pfo3Xuj",
+            "id":2309
+         },
+         {
+            "name":"車",
+            "url":"/media/sounds/.mp3_dDE2EZi",
+            "id":2310
+         },
+         {
+            "name":"那個！",
+            "url":"/media/sounds/.mp3_hEFLv1N",
+            "id":2311
+         },
+         {
+            "name":"乖",
+            "url":"/media/sounds/.mp3_AZUijdG",
+            "id":2312
+         },
+         {
+            "name":"呱",
+            "url":"/media/sounds/.mp3_Ml7yi4n",
+            "id":2313
+         },
+         {
+            "name":"後悔了",
+            "url":"/media/sounds/.mp3_uaupW3N",
+            "id":2314
+         },
+         {
+            "name":"挖",
+            "url":"/media/sounds/.mp3_QDyIjkT",
+            "id":2315
+         },
+         {
+            "name":"炸裂(台)",
+            "url":"/media/sounds/.mp3_1EQZb7Z",
+            "id":2317
+         },
+         {
+            "name":"飛",
+            "url":"/media/sounds/.mp3_yprzUJ4",
+            "id":2318
+         },
+         {
+            "name":"高大上",
+            "url":"/media/sounds/.mp3_LPiwGXb",
+            "id":2319
+         },
+         {
+            "name":"欸！對了！",
+            "url":"/media/sounds/.mp3_gSUXPel",
+            "id":2320
+         },
+         {
+            "name":"符號",
+            "url":"/media/sounds/.mp3_cezUfWT",
+            "id":2321
+         },
+         {
+            "name":"被炎上啦",
+            "url":"/media/sounds/.mp3_syZBtG5",
+            "id":2322
+         },
+         {
+            "name":"跌",
+            "url":"/media/sounds/.mp3_MDFjeEX",
+            "id":2324
+         },
+         {
+            "name":"傻眼",
+            "url":"/media/sounds/.mp3_WfE7jnG",
+            "id":2325
+         },
+         {
+            "name":"想哭(香菇)",
+            "url":"/media/sounds/.mp3_4L3acyS",
+            "id":2326
+         },
+         {
+            "name":"毀掉了",
+            "url":"/media/sounds/.mp3_1sAD0CH",
+            "id":2327
+         },
+         {
+            "name":"跳蛋",
+            "url":"/media/sounds/.mp3_AeZ6USP",
+            "id":2328
+         },
+         {
+            "name":"隔離",
+            "url":"/media/sounds/.mp3_l2NdbaD",
+            "id":2329
+         },
+         {
+            "name":"雷",
+            "url":"/media/sounds/.mp3_FSAiyqo",
+            "id":2330
+         },
+         {
+            "name":"噴射",
+            "url":"/media/sounds/.mp3_b0MZKEK",
+            "id":2331
+         },
+         {
+            "name":"藍受",
+            "url":"/media/sounds/.mp3_iE7r1i4",
+            "id":2332
+         },
+         {
+            "name":"爆炸了",
+            "url":"/media/sounds/.mp3_ZAMQGsW",
+            "id":2333
+         },
+         {
+            "name":"太誇張了吧",
+            "url":"/media/sounds/.mp3_K5rpfCC",
+            "id":2334
          }
       ]
    },
@@ -11551,6 +12061,21 @@ var audios = [
             "name":"嘎抓：『在快一點好不好』",
             "url":"/media/sounds/.mp3_v9ItLS1",
             "id":2290
+         },
+         {
+            "name":"嘎抓：『等一下』",
+            "url":"/media/sounds/.mp3_FbyofsK",
+            "id":2393
+         },
+         {
+            "name":"嘎抓：『我是智障』",
+            "url":"/media/sounds/.mp3_v4IIRDU",
+            "id":2394
+         },
+         {
+            "name":"嘎抓：『ㄟㄟㄟㄟㄟ』",
+            "url":"/media/sounds/.mp3_5mYqeF7",
+            "id":2395
          }
       ]
    },
