@@ -6,12 +6,13 @@ const { hideBin } = require('yargs/helpers')
 
 const argv = yargs(hideBin(process.argv)).argv
 
+const UPLOAD_FAIL_SOUNDS_DIR = '\\fails';
+const UPLOAD_SUCCESS_SOUNDS_DIR = '\\success';
 
-var CSRFTOKEN = null;
-var SESSIONID = null;
+var csrftoken = null;
+var sessionId = null;
 var soundDirectory = null;
 
-const uploadFailSoundsDir = '\\fails';
 
 
 var sounds = [], uploadFails = [];
@@ -52,13 +53,13 @@ function getNewName(name){
     console.error('缺少參數 --token');
     return;
   }
-  CSRFTOKEN = argv.token;
+  csrftoken = argv.token;
   
   if(!argv.sessionId){
     console.error('缺少參數 --sessionId');
     return;
   }
-  SESSIONID = argv.sessionId;
+  sessionId = argv.sessionId;
 
   if(!argv.path){
     console.error('缺少參數 --path');
@@ -78,35 +79,38 @@ function getNewName(name){
     }
   }));
   const browser = await puppeteer.launch({
-    executablePath:
-    'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+    executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
     headless: false // 無外殼的 Chrome，有更佳的效能
   });
 
-  if (!fs.existsSync(soundDirectory + uploadFailSoundsDir)){
-    fs.mkdirSync(soundDirectory + uploadFailSoundsDir);
+  if (!fs.existsSync(soundDirectory + UPLOAD_FAIL_SOUNDS_DIR)){
+    fs.mkdirSync(soundDirectory + UPLOAD_FAIL_SOUNDS_DIR);
+  }
+  if (!fs.existsSync(soundDirectory + UPLOAD_SUCCESS_SOUNDS_DIR)){
+    fs.mkdirSync(soundDirectory + UPLOAD_SUCCESS_SOUNDS_DIR);
   }
 
   const page = await browser.newPage();
   await page.setCookie({
     name: 'csrftoken',
-    value: CSRFTOKEN,
+    value: csrftoken,
     domain: 'www.myinstants.com'
   },
   {
     name: 'sessionid',
-    value: SESSIONID,
+    value: sessionId,
     domain: 'www.myinstants.com'
   });
   for(let i = 0; i < sounds.length; i++){
     let resultPathname = await upLoadSound(page, sounds[i]);
     if(resultPathname != '/favorites/'){
       uploadFails.push(sounds[i]);
-      await fs.renameSync(sounds[i].path, soundDirectory + uploadFailSoundsDir + '\\' + sounds[i].name);
+      await fs.renameSync(sounds[i].path, soundDirectory + UPLOAD_FAIL_SOUNDS_DIR + '\\' + sounds[i].name);
       await page.reload({
         waitUntil: 'load'
       });
-    }
+    }else
+      await fs.renameSync(sounds[i].path, soundDirectory + UPLOAD_SUCCESS_SOUNDS_DIR + '\\' + sounds[i].name);
   }
   console.log('這些聲音上傳失敗', uploadFails);
   await browser.close();
