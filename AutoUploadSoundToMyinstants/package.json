@@ -1,0 +1,16 @@
+{
+  "name": "AutoUploadSoundToMyinstants",
+  "version": "1.0.0",
+  "description": "Auto upload sound to myinstants",
+  "main": "AutoUpload.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "jack850628",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "puppeteer": "9.1.1",
+    "yargs": "17.0.1"
+  }
+}
