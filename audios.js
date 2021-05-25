@@ -12880,6 +12880,11 @@ var audios = [
             "name":"桑尤姆：『我愛的人是皮卡屁』",
             "url":"/media/sounds/.mp3_xDxdvLZ",
             "id":2396
+         },
+         {
+            "name":"桑尤姆：『我這裡還有更刺激的東西歐』",
+            "url":"/media/sounds/.mp3_OCcbnxG",
+            "id":2551
          }
       ]
    },
@@ -12920,11 +12925,6 @@ var audios = [
             "name":"皮卡屁：『uh uh uh uh uh』",
             "url":"/media/sounds/uh-uh-uh-uh-uh.mp3",
             "id":1814
-         },
-         {
-            "name":"桑尤姆：『我這裡還有更刺激的東西歐』",
-            "url":"/media/sounds/.mp3_OCcbnxG",
-            "id":2551
          }
       ]
    }
