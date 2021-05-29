@@ -36,8 +36,9 @@
     <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.8.4/Sortable.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.20.0/vuedraggable.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
-    <script src="./audios.js?v=1.7.0525"></script>
+    <script src="./audios.js?v=1.8.0529"></script>
     <script>
+        const SOUND_SOURCE = 'https://www.myinstants.com';
         const SEARCH_PARAMS_1 = 'q', SEARCH_PARAMS_2 = 'i', SEARCH_PARAMS_3 = 's';
         const IMAGE_SOURCE_HOST_FOR_SOUND_IMAGE = [
             'i.imgur.com',
@@ -98,6 +99,11 @@
                     image: '',
                     soundImageTitle: '',
                     soundImageTitleError: null,
+                    
+                    showMenu: false,
+                    itemByShowMenu: null,
+                    menuX: 0,
+                    menuY: 0,
                 },
                 watch:{
                     imageSourceLink(value){
@@ -138,7 +144,7 @@
                         }
                     },
                     play(url){
-                        audio.src = `https://www.myinstants.com${url}`;
+                        audio.src = SOUND_SOURCE + url;
                         audio.play();
                     },
                     playButton(){
@@ -195,6 +201,23 @@
                         );
                         this.imageSourceLink = '';
                         this.soundImageTitle = '';
+                    },
+
+                    contextMenu(event, item){
+                        event.preventDefault();
+                        this.itemByShowMenu = item;
+                        this.showMenu = false;
+                        this.menuX = event.clientX;
+                        this.menuY = event.clientY;
+                        this.$nextTick(() => {
+                            this.showMenu = true;
+                        });
+                    },
+                    contextMenuItemClick(event, index){
+                        window.open(
+                            SOUND_SOURCE + this.itemByShowMenu.url
+                            , "_blank"
+                        );
                     },
 
                     async install(){
@@ -257,9 +280,9 @@
             </v-app-bar>
             <v-main>
                 <audio id="audio" @ended="checkAudioPlayQueue"></audio>
-                <p>提示：拖曳可以排序，點一下可以移除。</p>
+                <p>提示：對按鈕，拖曳可以排序，點一下可以移除，按右鍵可以下載語音。</p>
                 <draggable v-model="audioPlayQueue" style="margin-top: 15px; margin-bottom: 15px;">
-                    <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="['button', (k == playIndex - 1)? 'play-item' : '']" @click="removeQueueItem(k)" :disabled="playing">{{item.name}}</v-btn>
+                    <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="['button', (k == playIndex - 1)? 'play-item' : '']" @click="removeQueueItem(k)" @contextmenu="contextMenu($event, item)" :disabled="playing">{{item.name}}</v-btn>
                  </draggable>
                  <div style="margin-bottom: 15px;">
                     <v-btn dark elevation="3" @click="playButton" :disabled="playing">
@@ -285,15 +308,23 @@
                  </div>
 
                 <v-text-field dark v-model="searchString" label="搜尋"></v-text-field>
-                <p>提示：點一下可以預覽，點兩下可以加入至播放序列。</p>
+                <p>提示：對按鈕，點一下可以預覽，點兩下可以加入至播放序列，按右鍵可以下載語音。</p>
                 <v-expansion-panels dark focusable>
-                    <v-expansion-panel v-for="audioGroup in audios">
+                    <v-expansion-panel v-for="(audioGroup, i) in audios">
                         <v-expansion-panel-header>{{audioGroup.name}}</v-expansion-panel-header>
                         <v-expansion-panel-content>
-                            <v-btn elevation="3" class="button text-truncate" style="max-width: 300px;" v-for="(item, k) in audioGroup.datas" :key="k" @click="preview(item)" v-show="item.name.indexOf(searchString) > -1">{{item.name}}</v-btn>
+                            <v-btn elevation="3" class="button text-truncate" style="max-width: 300px;" v-for="(item, k) in audioGroup.datas" :key="k" @click="preview(item)" @contextmenu="i != 0? contextMenu($event, item): ()=>{}" v-show="item.name.indexOf(searchString) > -1">{{item.name}}</v-btn>
                         </v-expansion-panel-content>
                     </v-expansion-panel>
                 </v-expansion-panels>
+
+                <v-menu v-model="showMenu" :position-x="menuX" :position-y="menuY" absolute offset-y>
+                    <v-list>
+                        <v-list-item @click="contextMenuItemClick($event, 0)">
+                            <v-list-item-title v-text="'下載語音'"></v-list-item-title>
+                        </v-list-item>
+                    </v-list>
+                </v-menu>
 
                 <v-dialog v-model="share" max-width="500px">
                     <v-card>
@@ -346,7 +377,7 @@
                             關於
                         </v-card-title>
                         <v-card-text>
-                            大濕之音 v1.7.0525
+                            大濕之音 v1.8.0529
                             <br/>
                             作者：jack850628
                             <br/>
