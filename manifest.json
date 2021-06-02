@@ -13,7 +13,7 @@
             "sizes": "512x512"
         }
     ],
-    "version": "1.8.0529",
+    "version": "1.8.0602",
     "start_url": "./",
     "background_color": "#272727",
     "display": "standalone",

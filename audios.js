@@ -206,6 +206,16 @@ var audios = [
             "name":"顯考周公漢唐",
             "url":"/media/sounds/.mp3_DlaJz4e",
             "id":2515
+         },
+         {
+            "name":"火雲邪神",
+            "url":"/media/sounds/.mp3_o0kyowR",
+            "id":2622
+         },
+         {
+            "name":"習包子",
+            "url":"/media/sounds/.mp3_ZWdNRdp",
+            "id":2623
          }
       ]
    },
@@ -1308,7 +1318,7 @@ var audios = [
             "id":1506
          },
          {
-            "name":"『念咒",
+            "name":"『念咒』",
             "url":"/media/sounds/.mp3_HmQt7I1",
             "id":1657
          },
@@ -1451,6 +1461,16 @@ var audios = [
             "name":"大殮蓋棺～2",
             "url":"/media/sounds/2_kvDLmTc.mp3",
             "id":2487
+         },
+         {
+            "name":"就位",
+            "url":"/media/sounds/.mp3_KXYYqvf",
+            "id":2624
+         },
+         {
+            "name":"火葬場",
+            "url":"/media/sounds/.mp3_Q6ub7Zy",
+            "id":2625
          }
       ]
    },
@@ -2066,6 +2086,31 @@ var audios = [
             "name":"死囡仔脯～",
             "url":"/media/sounds/.mp3_Y5xHQ1a",
             "id":2503
+         },
+         {
+            "name":"你娘哩(台)",
+            "url":"/media/sounds/.mp3_fUXUBq3",
+            "id":2617
+         },
+         {
+            "name":"幹你娘機掰(客)",
+            "url":"/media/sounds/.mp3_L6w14c4",
+            "id":2618
+         },
+         {
+            "name":"破病(台)",
+            "url":"/media/sounds/.mp3_HEPT7HV",
+            "id":2619
+         },
+         {
+            "name":"腦袋有洞",
+            "url":"/media/sounds/.mp3_xlco17i",
+            "id":2620
+         },
+         {
+            "name":"腦袋灌水泥",
+            "url":"/media/sounds/.mp3_Q36G7cC",
+            "id":2621
          }
       ]
    },
@@ -3221,6 +3266,46 @@ var audios = [
             "name":"大濕引擎8",
             "url":"/media/sounds/_8_GPH2jGM.mp3",
             "id":2476
+         },
+         {
+            "name":"匹蝦啊～～～",
+            "url":"/media/sounds/.mp3_QuoGNtG",
+            "id":2598
+         },
+         {
+            "name":"匹蝦～～～",
+            "url":"/media/sounds/.mp3_t2VrGub",
+            "id":2599
+         },
+         {
+            "name":"哀～嘖",
+            "url":"/media/sounds/.mp3_Z8Sy1vn",
+            "id":2600
+         },
+         {
+            "name":"唉呦",
+            "url":"/media/sounds/.mp3_UhFumAZ",
+            "id":2601
+         },
+         {
+            "name":"嘎啦嘎啦嘎拉嘎拉",
+            "url":"/media/sounds/.mp3_UFC9BS3",
+            "id":2602
+         },
+         {
+            "name":"嘿！齁喲！喔喔喔～",
+            "url":"/media/sounds/.mp3_IS08KLh",
+            "id":2603
+         },
+         {
+            "name":"欸！2",
+            "url":"/media/sounds/2_a77ETXH.mp3",
+            "id":2604
+         },
+         {
+            "name":"磅磅磅磅磅",
+            "url":"/media/sounds/.mp3_Fp9PexV",
+            "id":2605
          }
       ]
    },
@@ -4466,6 +4551,16 @@ var audios = [
             "name":"頂到了",
             "url":"/media/sounds/.mp3_GpVtTKX",
             "id":2494
+         },
+         {
+            "name":"害羞",
+            "url":"/media/sounds/.mp3_OicRnRR",
+            "id":2614
+         },
+         {
+            "name":"打手槍2",
+            "url":"/media/sounds/2_OgUldIK.mp3",
+            "id":2616
          }
       ]
    },
@@ -4726,6 +4821,11 @@ var audios = [
             "name":"すみません！",
             "url":"/media/sounds/.mp3_70q2JJl",
             "id":2520
+         },
+         {
+            "name":"對不起2",
+            "url":"/media/sounds/2_KcjNpNY.mp3",
+            "id":2628
          }
       ]
    },
@@ -5621,11 +5721,26 @@ var audios = [
             "name":"顏家拳",
             "url":"/media/sounds/.mp3_CAhHCuS",
             "id":2517
+         },
+         {
+            "name":"物競天擇拳",
+            "url":"/media/sounds/.mp3_D1nJPej",
+            "id":2626
+         },
+         {
+            "name":"JOJO立",
+            "url":"/media/sounds/jojo_7leLSlB.mp3",
+            "id":2627
+         },
+         {
+            "name":"魔貫光殺砲",
+            "url":"/media/sounds/.mp3_8iUhxFH",
+            "id":2585
          }
       ]
    },
    {
-      "name":"阿扁巴巴綠帽俠",
+      "name":"阿扁巴巴大俠",
       "datas":[
          {
             "name":"我們一起拔綠報",
@@ -5641,6 +5756,51 @@ var audios = [
             "name":"阿扁巴巴綠帽俠",
             "url":"/media/sounds/.mp3_AqT20Rl",
             "id":1663
+         },
+         {
+            "name":"哇～會做烤布蕾ㄟ",
+            "url":"/media/sounds/.mp3_09tnU8v",
+            "id":2589
+         },
+         {
+            "name":"喜歡2",
+            "url":"/media/sounds/2_YzyAkrO.mp3",
+            "id":2590
+         },
+         {
+            "name":"建祥巴巴大俠",
+            "url":"/media/sounds/.mp3_1xtgNps",
+            "id":2591
+         },
+         {
+            "name":"戴綠帽車禍大修樣樣行",
+            "url":"/media/sounds/.mp3_pnVkebT",
+            "id":2592
+         },
+         {
+            "name":"那你們一定喜歡",
+            "url":"/media/sounds/.mp3_sL6LoWa",
+            "id":2593
+         },
+         {
+            "name":"酷到你無法抗拒",
+            "url":"/media/sounds/.mp3_670kZbe",
+            "id":2594
+         },
+         {
+            "name":"阿扁巴巴大俠",
+            "url":"/media/sounds/.mp3_nxXTWYo",
+            "id":2595
+         },
+         {
+            "name":"阿扁巴巴大俠～",
+            "url":"/media/sounds/.mp3_6Dsnxn6",
+            "id":2596
+         },
+         {
+            "name":"阿扁巴巴大俠會做烤布蕾還會變成小車車喔",
+            "url":"/media/sounds/.mp3_rWmOymD",
+            "id":2597
          }
       ]
    },
@@ -5681,6 +5841,96 @@ var audios = [
             "name":"紅色內褲裡",
             "url":"/media/sounds/.mp3_sv68btS",
             "id":2392
+         }
+      ]
+   },
+   {
+      "name":"傑哥",
+      "datas":[
+         {
+            "name":"來啦！",
+            "url":"/media/sounds/.mp3_EnLFMnS",
+            "id":136
+         },
+         {
+            "name":"拿...拿都拿！",
+            "url":"/media/sounds/.mp3_SaVFyQg",
+            "id":137
+         },
+         {
+            "name":"哀～拿！拿！拿都拿！",
+            "url":"/media/sounds/.mp3_cdEHxp2",
+            "id":801
+         },
+         {
+            "name":"謝謝傑哥",
+            "url":"/media/sounds/.mp3_BEiOFVy",
+            "id":831
+         },
+         {
+            "name":"讓我看看哈",
+            "url":"/media/sounds/.mp3_u8NAv4Z",
+            "id":1270
+         },
+         {
+            "name":"買...都買",
+            "url":"/media/sounds/.mp3_uHhV7MR",
+            "id":1264
+         },
+         {
+            "name":"這真的可以買嗎？",
+            "url":"/media/sounds/.mp3_XA686Zk",
+            "id":1261
+         },
+         {
+            "name":"哀，這沒什麼",
+            "url":"/media/sounds/.mp3_IiIVFwE",
+            "id":743
+         },
+         {
+            "name":"來！讓我看看",
+            "url":"/media/sounds/.mp3_0WN5e4A",
+            "id":2606
+         },
+         {
+            "name":"傑..傑哥不要啦傑哥",
+            "url":"/media/sounds/.mp3_ik4rXsU",
+            "id":2607
+         },
+         {
+            "name":"傑哥你幹嘛啊？",
+            "url":"/media/sounds/.mp3_ds1f6X2",
+            "id":2608
+         },
+         {
+            "name":"傑哥這什麼啊？",
+            "url":"/media/sounds/.mp3_D9Hqeop",
+            "id":2609
+         },
+         {
+            "name":"哎呀～你臉紅啦？",
+            "url":"/media/sounds/.mp3_Pg4B7I4",
+            "id":2610
+         },
+         {
+            "name":"沒什麼來來給你看這個",
+            "url":"/media/sounds/.mp3_oLTD85h",
+            "id":2611
+         },
+         {
+            "name":"讓我看看你發育的正不正常啊",
+            "url":"/media/sounds/.mp3_B9UDtBq",
+            "id":2612
+         },
+         {
+            "name":"傑..傑哥你看嘛啊？",
+            "url":"/media/sounds/.mp3_9DweXbE",
+            "id":2613
+         },
+         {
+            "name":"都幾歲的人了還這麼害羞",
+            "url":"/media/sounds/.mp3_hnaOYmp",
+            "id":2615
          }
       ]
    },
@@ -5853,16 +6103,6 @@ var audios = [
             "id":135
          },
          {
-            "name":"來啦！",
-            "url":"/media/sounds/.mp3_EnLFMnS",
-            "id":136
-         },
-         {
-            "name":"拿...拿都拿！",
-            "url":"/media/sounds/.mp3_SaVFyQg",
-            "id":137
-         },
-         {
             "name":"元元要上車嗎？",
             "url":"/media/sounds/.mp3_OU5n2sn",
             "id":138
@@ -6024,7 +6264,7 @@ var audios = [
          },
          {
             "name":"等一下",
-            "url":"/media/sounds/.mp3_4wuO8Po",
+            "url":"/media/sounds/.mp3_qJt5rGz",
             "id":171
          },
          {
@@ -6998,11 +7238,6 @@ var audios = [
             "id":742
          },
          {
-            "name":"哀，這沒什麼",
-            "url":"/media/sounds/.mp3_IiIVFwE",
-            "id":743
-         },
-         {
             "name":"炸掉",
             "url":"/media/sounds/.mp3_pawQ9G2",
             "id":744
@@ -7233,11 +7468,6 @@ var audios = [
             "id":800
          },
          {
-            "name":"哀～拿！拿！拿都拿！",
-            "url":"/media/sounds/.mp3_cdEHxp2",
-            "id":801
-         },
-         {
             "name":"哇！好香喔",
             "url":"/media/sounds/.mp3_lSOKCvv",
             "id":802
@@ -7381,11 +7611,6 @@ var audios = [
             "name":"衝出來",
             "url":"/media/sounds/.mp3_JtDjlWi",
             "id":830
-         },
-         {
-            "name":"謝謝傑哥",
-            "url":"/media/sounds/.mp3_BEiOFVy",
-            "id":831
          },
          {
             "name":"爆裂物",
@@ -8168,11 +8393,6 @@ var audios = [
             "id":1260
          },
          {
-            "name":"這真的可以買嗎？",
-            "url":"/media/sounds/.mp3_XA686Zk",
-            "id":1261
-         },
-         {
             "name":"等一下2",
             "url":"/media/sounds/2_RomcNSS.mp3",
             "id":1262
@@ -8181,11 +8401,6 @@ var audios = [
             "name":"給",
             "url":"/media/sounds/.mp3_EQlyjhC",
             "id":1263
-         },
-         {
-            "name":"買...都買",
-            "url":"/media/sounds/.mp3_uHhV7MR",
-            "id":1264
          },
          {
             "name":"買一些",
@@ -8211,11 +8426,6 @@ var audios = [
             "name":"讓你",
             "url":"/media/sounds/.mp3_EoGT8jm",
             "id":1269
-         },
-         {
-            "name":"讓我看看哈",
-            "url":"/media/sounds/.mp3_u8NAv4Z",
-            "id":1270
          },
          {
             "name":"準備囉",
@@ -11691,6 +11901,181 @@ var audios = [
             "name":"被3",
             "url":"/media/sounds/3_UA9mcaP.mp3",
             "id":2441
+         },
+         {
+            "name":"Loser",
+            "url":"/media/sounds/loser_iE7skGK.mp3",
+            "id":2553
+         },
+         {
+            "name":"一包只要二十五塊喔～(台)",
+            "url":"/media/sounds/.mp3_u9u2tY3",
+            "id":2554
+         },
+         {
+            "name":"一心一意",
+            "url":"/media/sounds/.mp3_xA5iGnp",
+            "id":2555
+         },
+         {
+            "name":"你要看嗎？(台)",
+            "url":"/media/sounds/.mp3_ztmByr4",
+            "id":2556
+         },
+         {
+            "name":"其實我還蠻喜歡車茶的",
+            "url":"/media/sounds/.mp3_O2ktBnd",
+            "id":2557
+         },
+         {
+            "name":"加料",
+            "url":"/media/sounds/.mp3_wa5j4hb",
+            "id":2558
+         },
+         {
+            "name":"原則",
+            "url":"/media/sounds/.mp3_ZT4Ohp0",
+            "id":2559
+         },
+         {
+            "name":"叫老爸一起啦",
+            "url":"/media/sounds/.mp3_TIo6uuI",
+            "id":2560
+         },
+         {
+            "name":"喔，是喔",
+            "url":"/media/sounds/.mp3_50OmkcB",
+            "id":2561
+         },
+         {
+            "name":"喜歡",
+            "url":"/media/sounds/.mp3_CiPNvdD",
+            "id":2562
+         },
+         {
+            "name":"嚇到吃小手手",
+            "url":"/media/sounds/.mp3_8cGFiBW",
+            "id":2563
+         },
+         {
+            "name":"客人啊～要喝茶嗎～？(台)",
+            "url":"/media/sounds/.mp3_3FDheSm",
+            "id":2564
+         },
+         {
+            "name":"宣示",
+            "url":"/media/sounds/.mp3_kAOQS8h",
+            "id":2565
+         },
+         {
+            "name":"宣～示",
+            "url":"/media/sounds/.mp3_lANP2j4",
+            "id":2566
+         },
+         {
+            "name":"廉價茶",
+            "url":"/media/sounds/.mp3_hnllgKY",
+            "id":2567
+         },
+         {
+            "name":"強姦",
+            "url":"/media/sounds/.mp3_fK19wIv",
+            "id":2568
+         },
+         {
+            "name":"強暴",
+            "url":"/media/sounds/.mp3_93Vwl56",
+            "id":2569
+         },
+         {
+            "name":"我在喝茶",
+            "url":"/media/sounds/.mp3_aLAoaon",
+            "id":2570
+         },
+         {
+            "name":"打2",
+            "url":"/media/sounds/2_DH3p63a.mp3",
+            "id":2571
+         },
+         {
+            "name":"效忠",
+            "url":"/media/sounds/.mp3_YFc3JJ8",
+            "id":2572
+         },
+         {
+            "name":"料理",
+            "url":"/media/sounds/.mp3_rquOXej",
+            "id":2573
+         },
+         {
+            "name":"旁邊",
+            "url":"/media/sounds/.mp3_jeOF3rP",
+            "id":2574
+         },
+         {
+            "name":"歪掉",
+            "url":"/media/sounds/.mp3_nQ3ZNBm",
+            "id":2575
+         },
+         {
+            "name":"派對",
+            "url":"/media/sounds/.mp3_nG8slrJ",
+            "id":2576
+         },
+         {
+            "name":"浪",
+            "url":"/media/sounds/.mp3_rvGDyZf",
+            "id":2577
+         },
+         {
+            "name":"火車站",
+            "url":"/media/sounds/.mp3_Pj5mo2v",
+            "id":2578
+         },
+         {
+            "name":"為",
+            "url":"/media/sounds/.mp3_1Hp6sDe",
+            "id":2579
+         },
+         {
+            "name":"等一下！",
+            "url":"/media/sounds/.mp3_2nafivZ",
+            "id":2580
+         },
+         {
+            "name":"誤會",
+            "url":"/media/sounds/.mp3_Fexa6WV",
+            "id":2581
+         },
+         {
+            "name":"趴趴走(台)",
+            "url":"/media/sounds/.mp3_rwmwKwB",
+            "id":2582
+         },
+         {
+            "name":"軟",
+            "url":"/media/sounds/.mp3_JlMB57h",
+            "id":2583
+         },
+         {
+            "name":"達爾文已經下凡了",
+            "url":"/media/sounds/.mp3_ZSUE60z",
+            "id":2584
+         },
+         {
+            "name":"黃金",
+            "url":"/media/sounds/.mp3_EqPlSFf",
+            "id":2586
+         },
+         {
+            "name":"チッチッチッチ おっぱい ぼいんぼい～ん",
+            "url":"/media/sounds/.mp3_1o1I0f8",
+            "id":2587
+         },
+         {
+            "name":"你們年輕人怎麼不尊重我們老人家哩？",
+            "url":"/media/sounds/.mp3_BtU2Z4Z",
+            "id":2588
          }
       ]
    },
@@ -12851,6 +13236,61 @@ var audios = [
             "name":"嘎抓：『邱少爺』",
             "url":"/media/sounds/.mp3_QQfNWr6",
             "id":2550
+         },
+         {
+            "name":"嘎抓：『mother_fucker』",
+            "url":"/media/sounds/mother-fucker.mp3",
+            "id":2629
+         },
+         {
+            "name":"嘎抓：『xm82』",
+            "url":"/media/sounds/xm82.mp3",
+            "id":2630
+         },
+         {
+            "name":"嘎抓：『哈～～～』",
+            "url":"/media/sounds/.mp3_iTeARSw",
+            "id":2631
+         },
+         {
+            "name":"嘎抓：『啊嘿嘿』",
+            "url":"/media/sounds/.mp3_Nu56gOi",
+            "id":2632
+         },
+         {
+            "name":"嘎抓：『嘿嘿嘿嘿小蘿莉好可愛喔～』",
+            "url":"/media/sounds/.mp3_LLW2K9i",
+            "id":2633
+         },
+         {
+            "name":"嘎抓：『有點爽』",
+            "url":"/media/sounds/.mp3_2l7WgCW",
+            "id":2634
+         },
+         {
+            "name":"嘎抓的笑聲",
+            "url":"/media/sounds/.mp3_hR8QGzA",
+            "id":2635
+         },
+         {
+            "name":"嘎抓：『蘇聯國歌開頭』",
+            "url":"/media/sounds/.mp3_wnpMeBL",
+            "id":2636
+         },
+         {
+            "name":"嘎抓：『A』",
+            "url":"/media/sounds/a_Wa1O8yL.mp3",
+            "id":2637
+         },
+         {
+            "name":"嘎抓：『啊～～～2』",
+            "url":"/media/sounds/2_98Ha6zw.mp3",
+            "id":2638
+         },
+         {
+            "name":"嘎抓：『像這樣的愛情～讓人苦惱～總一個人又哭又笑～』",
+            "url":"/media/sounds/.mp3_fijMvvA",
+            "id":2639
          }
       ]
    },
@@ -12885,6 +13325,11 @@ var audios = [
             "name":"桑尤姆：『我這裡還有更刺激的東西歐』",
             "url":"/media/sounds/.mp3_OCcbnxG",
             "id":2551
+         },
+         {
+            "name":"桑尤姆：『PEKO』",
+            "url":"/media/sounds/peko_NwHwHS2.mp3",
+            "id":2640
          }
       ]
    },
