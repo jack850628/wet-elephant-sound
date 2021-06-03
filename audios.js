@@ -3,12 +3,12 @@ var audios = [
       "name":"延遲",
       "datas":[
          {
-            "name":"『0.5秒",
+            "name":"『0.5秒』",
             "second":500,
             "id":431
          },
          {
-            "name":"『1秒",
+            "name":"『1秒』",
             "second":1000,
             "id":432
          }
@@ -1444,7 +1444,7 @@ var audios = [
          },
          {
             "name":"吉時到",
-            "url":"/media/sounds/.mp3_HPMvGfn",
+            "url":"/media/sounds/.mp3_DICbNlW",
             "id":2484
          },
          {
@@ -1459,7 +1459,7 @@ var audios = [
          },
          {
             "name":"大殮蓋棺～2",
-            "url":"/media/sounds/2_kvDLmTc.mp3",
+            "url":"/media/sounds/2_hlyQRJC.mp3",
             "id":2487
          },
          {
@@ -3269,7 +3269,7 @@ var audios = [
          },
          {
             "name":"匹蝦啊～～～",
-            "url":"/media/sounds/.mp3_QuoGNtG",
+            "url":"/media/sounds/.mp3_rUMx78E",
             "id":2598
          },
          {
