@@ -31,13 +31,69 @@
         .shake{
             animation: shake 0.35s cubic-bezier(0, 0, 0.2, 1) infinite;
         }
+        .audio-play-queue-bar-to-fixed{
+            position: fixed;
+            width: 100%;
+            z-index: 2;
+            background-color: #272727;
+            max-height: calc(100% - 56px);
+            display: flex;
+            flex-direction: column;
+        }
+        .drop-down-button{
+            position: relative;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        .drop-down-button-to-fixed{
+            position: fixed;
+            top: 56px;
+            z-index: 2;
+        }
+        .audio-play-queue-bar-go-to-fixed-animation{
+            animation: 0.5s;
+            animation-name: go-to-fixed;
+        }
+        .audio-play-queue-bar-go-out-fixed-animation{
+            animation: 0.5s;
+            animation-name: go-out-fixed;
+        }
+
+        @keyframes go-to-fixed {
+            0%{
+                transform: translateY(-100%);
+            }
+            100%{
+                transform: translateY(0);
+            }
+        }
+        @keyframes go-out-fixed {
+            0%{
+                position: fixed;
+                width: 100%;
+                z-index: 2;
+                background-color: #272727;
+                overflow-y: scroll;
+                max-height: calc(100% - 56px);
+                transform: translateY(0);
+            }
+            100%{
+                position: fixed;
+                width: 100%;
+                z-index: 2;
+                background-color: #272727;
+                overflow-y: scroll;
+                max-height: calc(100% - 56px);
+                transform: translateY(-100%);
+            }
+        }
     </style>
 
     <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.8.4/Sortable.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.20.0/vuedraggable.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
-    <script src="./audios.js?v=1.8.0603"></script>
+    <script src="./audios.js?v=1.9.0603"></script>
     <script>
         const SOUND_SOURCE = 'https://www.myinstants.com';
         const SEARCH_PARAMS_1 = 'q', SEARCH_PARAMS_2 = 'i', SEARCH_PARAMS_3 = 's';
@@ -70,6 +126,7 @@
         
         window.onload = function(){
             var searchParams = new URLSearchParams(location.search);
+
             vApp = new Vue({
                 el: '#app',
                 vuetify: new Vuetify(),
@@ -77,6 +134,11 @@
                     vuedraggable,
                 },
                 data: {
+                    body: null,
+                    audioPlayQueueBar: null,
+                    audioPlayQueueBarInvisible: false,
+                    audioPlayQueueBarToFiexd: false,
+
                     audios: audios,
                     about: false,
                     timeoutId: null,
@@ -221,11 +283,28 @@
                         );
                     },
 
+                    mainScroll(event){
+                        if(this.body.scrollTop > this.audioPlayQueueBar.offsetHeight){
+                            this.audioPlayQueueBarInvisible = true;
+                        }else{
+                            this.audioPlayQueueBarInvisible = false;
+                        }
+                    },
+                    dropDownAudioPlayQueueBar(){
+                        this.audioPlayQueueBarToFiexd = !this.audioPlayQueueBarToFiexd;
+                    },
+
                     async install(){
                         this.deferredPrompt.prompt();
                         const { outcome } = await this.deferredPrompt.userChoice;
                         console.log(`User response to the install prompt: ${outcome}`);
                     }
+                },
+                mounted(){
+                    this.body = document.querySelector('body');
+                    this.audioPlayQueueBar = document.querySelector('#audio-play-queue-bar');
+
+                    document.addEventListener('scroll', this.mainScroll);
                 }
             });
             if(searchParams.get(SEARCH_PARAMS_1)){
@@ -281,34 +360,39 @@
             </v-app-bar>
             <v-main>
                 <audio id="audio" @ended="checkAudioPlayQueue"></audio>
-                <p>提示：對按鈕，拖曳可以排序，點一下可以移除，按右鍵可以下載語音。</p>
-                <draggable v-model="audioPlayQueue" style="margin-top: 15px; margin-bottom: 15px;">
-                    <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="['button', (k == playIndex - 1)? 'play-item' : '']" @click="removeQueueItem(k)" @contextmenu="contextMenu($event, item)" :disabled="playing">{{item.name}}</v-btn>
-                 </draggable>
-                 <div style="margin-bottom: 15px;">
-                    <v-btn dark elevation="3" @click="playButton" :disabled="playing">
-                        <v-icon>mdi-play</v-icon>
-                        <span>播放</span>
+                <div id="audio-play-queue-bar" :class="{'audio-play-queue-bar-to-fixed': audioPlayQueueBarToFiexd, 'audio-play-queue-bar-go-to-fixed-animation': audioPlayQueueBarToFiexd, 'audio-play-queue-bar-go-out-fixed-animation': !audioPlayQueueBarToFiexd}">
+                    <p style="margin-bottom: 0px;">提示：對按鈕，拖曳可以排序，點一下可以移除，按右鍵可以下載語音。</p>
+                    <draggable v-model="audioPlayQueue" style="margin-top: 15px; margin-bottom: 15px;flex: 0; overflow: auto;">
+                        <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="['button', (k == playIndex - 1)? 'play-item' : '']" @click="removeQueueItem(k)" @contextmenu="contextMenu($event, item)" :disabled="playing">{{item.name}}</v-btn>
+                     </draggable>
+                     <div style="margin-bottom: 15px;">
+                        <v-btn dark elevation="3" @click="playButton" :disabled="playing">
+                            <v-icon>mdi-play</v-icon>
+                            <span>播放</span>
+                        </v-btn>
+                        <v-btn dark elevation="3" @click="stop">
+                            <v-icon>mdi-stop</v-icon>
+                            <span>停止</span>
+                        </v-btn>
+                        <v-btn dark elevation="3" @click="clearButton" :disabled="playing">
+                            <v-icon>mdi-delete</v-icon>
+                            <span>清空</span>
+                        </v-btn>
+                        <v-btn dark elevation="3" @click="createSoundImage = true">
+                            <v-icon>mdi-image-plus</v-icon>
+                            <span>建立有聲圖</span>
+                        </v-btn>
+                        <v-btn dark elevation="3" @click="shareButton">
+                            <v-icon>mdi-share</v-icon>
+                            <span>分享</span>
+                        </v-btn>
+                     </div>
+                    <v-text-field dark v-model="searchString" label="搜尋"></v-text-field>
+                    <v-btn dark elevation="3" :class="{'drop-down-button': true, 'drop-down-button-to-fixed': !audioPlayQueueBarToFiexd}" @click="dropDownAudioPlayQueueBar" v-show="audioPlayQueueBarInvisible || audioPlayQueueBarToFiexd">
+                        <v-icon v-if="audioPlayQueueBarToFiexd">mdi-chevron-up</v-icon>
+                        <v-icon v-else="audioPlayQueueBarToFiexd">mdi-chevron-down</v-icon>
                     </v-btn>
-                    <v-btn dark elevation="3" @click="stop">
-                        <v-icon>mdi-stop</v-icon>
-                        <span>停止</span>
-                    </v-btn>
-                    <v-btn dark elevation="3" @click="clearButton" :disabled="playing">
-                        <v-icon>mdi-delete</v-icon>
-                        <span>清空</span>
-                    </v-btn>
-                    <v-btn dark elevation="3" @click="createSoundImage = true">
-                        <v-icon>mdi-image-plus</v-icon>
-                        <span>建立有聲圖</span>
-                    </v-btn>
-                    <v-btn dark elevation="3" @click="shareButton">
-                        <v-icon>mdi-share</v-icon>
-                        <span>分享</span>
-                    </v-btn>
-                 </div>
-
-                <v-text-field dark v-model="searchString" label="搜尋"></v-text-field>
+                </div>
                 <p>提示：對按鈕，點一下可以預覽，點兩下可以加入至播放序列，按右鍵可以下載語音。</p>
                 <v-expansion-panels dark focusable>
                     <v-expansion-panel v-for="(audioGroup, i) in audios">
@@ -378,7 +462,7 @@
                             關於
                         </v-card-title>
                         <v-card-text>
-                            大濕之音 v1.8.0603
+                            大濕之音 v1.9.0603
                             <br/>
                             作者：jack850628
                             <br/>
