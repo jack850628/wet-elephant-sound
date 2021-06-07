@@ -3398,7 +3398,7 @@ var audios = [
             "id":69
          },
          {
-            "name":"如果喜歡歡迎來我的頻道",
+            "name":"如果喜歡歡迎來我的頻道訂閱我喔～YA～",
             "url":"/media/sounds/.mp3_BbdP5Vn",
             "id":70
          },
@@ -3413,7 +3413,7 @@ var audios = [
             "id":593
          },
          {
-            "name":"歡迎來到我的頻道訂閱我喔～YA～",
+            "name":"歡迎來到我的頻道",
             "url":"/media/sounds/.mp3_Pdrhf9r",
             "id":594
          },
