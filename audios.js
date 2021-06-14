@@ -3258,11 +3258,6 @@ var audios = [
             "id":2464
          },
          {
-            "name":"逼～～～～",
-            "url":"/media/sounds/.mp3_RaedpQn",
-            "id":2465
-         },
-         {
             "name":"電動聲2",
             "url":"/media/sounds/2_dYe7Zz1.mp3",
             "id":2466
@@ -14051,6 +14046,11 @@ var audios = [
             "name":"嘎抓：『耍gay喔～』",
             "url":"/media/sounds/_gay_.mp3",
             "id":2790
+         },
+         {
+            "name":"嘎抓：『嗶～～～～』",
+            "url":"/media/sounds/.mp3_drtMwEX",
+            "id":2465
          }
       ]
    },
