@@ -8,4 +8,4 @@ document.querySelectorAll(div + ' ~ .instant').forEach((i)=>{
         id: id++
     })
 });
-alert(JSON.stringify(data));
+console.log(JSON.stringify(data));
