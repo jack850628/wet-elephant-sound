@@ -12,7 +12,7 @@ this sound capture from live broadcast for [仙界大濕](https://www.twitch.tv/
 - node.js
 - Chrome
 #### 步驟
-先將剪好的聲音依照分類方至到個別資料夾下，接著，在用隨便一個瀏覽器登入[Myinstants](https://www.myinstants.com/index/tw/)，登入後從瀏覽器的Cookie中取得 csrftoken 和 sessionId ，然後就可以使用 AutoUploadSoundToMyinstants 下的 AutoUpload.js 來進行自動上傳了。
+先將剪好的聲音依照分類放至到個別資料夾下，接著，在用隨便一個瀏覽器登入[Myinstants](https://www.myinstants.com/index/tw/)，登入後從瀏覽器的Cookie中取得 csrftoken 和 sessionId ，然後就可以使用 AutoUploadSoundToMyinstants 下的 AutoUpload.js 來進行自動上傳了。
 
 在 cmd 或 bash 中切換至 AutoUploadSoundToMyinstants 資料夾下，
 若第一次使用必須先執行
