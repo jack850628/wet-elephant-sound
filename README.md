@@ -21,7 +21,7 @@ npm install
 ```
 接著執行
 ```
-node AutoUploadSoundToMyinstants\AutoUpload.js --token=<csrftoke> --sessionId=<sessionId> --path=<聲音所在資料夾的絕對路徑>
+node AutoUploadSoundToMyinstants\AutoUpload.js --token=<csrftoke> --sessionId=<sessionId> --path=<要上傳的分類的聲音所在資料夾的絕對路徑>
 ```
 其中參數中的 csrftoke 和 sessionId 都是從瀏覽器的 Cookie 中取得。
 
