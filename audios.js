@@ -231,6 +231,11 @@ var audios = [
             "name":"元元子",
             "url":"/media/sounds/.mp3_q7giHPE",
             "id":3047
+         },
+         {
+            "name":"阿偉",
+            "url":"/media/sounds/.mp3_STf89Np",
+            "id":3172
          }
       ]
    },
@@ -1506,6 +1511,16 @@ var audios = [
             "name":"『緬懷蘿姬』",
             "url":"/media/sounds/.mp3_6zpXpAW",
             "id":3037
+         },
+         {
+            "name":"你怎麼變這個樣子啊？",
+            "url":"/media/sounds/.mp3_bjthiOU",
+            "id":3157
+         },
+         {
+            "name":"恭送",
+            "url":"/media/sounds/.mp3_9LtxBH4",
+            "id":3158
          }
       ]
    },
@@ -2241,6 +2256,16 @@ var audios = [
             "name":"幹你娘2",
             "url":"/media/sounds/2_KGLaoYX.mp3",
             "id":3033
+         },
+         {
+            "name":"俗辣",
+            "url":"/media/sounds/.mp3_LyGl666",
+            "id":3163
+         },
+         {
+            "name":"垃圾小孩(台)",
+            "url":"/media/sounds/.mp3_k0FTbDE",
+            "id":3164
          }
       ]
    },
@@ -2286,6 +2311,26 @@ var audios = [
             "name":"看什麼啦？(台)",
             "url":"/media/sounds/.mp3_RK6ICqU",
             "id":2893
+         },
+         {
+            "name":"你來啊！",
+            "url":"/media/sounds/.mp3_Wp0Emt4",
+            "id":3159
+         },
+         {
+            "name":"出來啊！",
+            "url":"/media/sounds/.mp3_9DXuSUf",
+            "id":3160
+         },
+         {
+            "name":"見到你(台)",
+            "url":"/media/sounds/.mp3_8PMpio8",
+            "id":3161
+         },
+         {
+            "name":"蛤？2",
+            "url":"/media/sounds/2_H7gluqA.mp3",
+            "id":3162
          }
       ]
    },
@@ -3716,6 +3761,71 @@ var audios = [
             "name":"咕嚕",
             "url":"/media/sounds/.mp3_VBNiGDR",
             "id":3009
+         },
+         {
+            "name":"『拍手』",
+            "url":"/media/sounds/.mp3_xkCfLzP",
+            "id":3115
+         },
+         {
+            "name":"唉呦2",
+            "url":"/media/sounds/2_KCJN6Gn.mp3",
+            "id":3116
+         },
+         {
+            "name":"啵啵囉啵啵",
+            "url":"/media/sounds/.mp3_akH6G88",
+            "id":3117
+         },
+         {
+            "name":"啵啵囉啵啵啵啵",
+            "url":"/media/sounds/.mp3_zy0AOA3",
+            "id":3118
+         },
+         {
+            "name":"噢↘！2",
+            "url":"/media/sounds/2_GHfwPtr.mp3",
+            "id":3119
+         },
+         {
+            "name":"噢！3",
+            "url":"/media/sounds/_3_D761V9B.mp3",
+            "id":3120
+         },
+         {
+            "name":"大濕引擎14",
+            "url":"/media/sounds/14_x8KXn4k.mp3",
+            "id":3121
+         },
+         {
+            "name":"媽的",
+            "url":"/media/sounds/.mp3_tHRsp3E",
+            "id":3122
+         },
+         {
+            "name":"幹幹幹幹",
+            "url":"/media/sounds/.mp3_Wsz3Kap",
+            "id":3123
+         },
+         {
+            "name":"痾嗚啊～",
+            "url":"/media/sounds/.mp3_ded4Mzm",
+            "id":3124
+         },
+         {
+            "name":"等等燈燈燈燈燈",
+            "url":"/media/sounds/.mp3_7RsILo5",
+            "id":3125
+         },
+         {
+            "name":"餔嗤",
+            "url":"/media/sounds/.mp3_Lt2iIca",
+            "id":3126
+         },
+         {
+            "name":"唉呦3",
+            "url":"/media/sounds/_3_mOyD0OY.mp3",
+            "id":3127
          }
       ]
    },
@@ -3806,6 +3916,21 @@ var audios = [
             "name":"嗚嗚嗚嗚",
             "url":"/media/sounds/.mp3_YqZNvpg",
             "id":3048
+         },
+         {
+            "name":"『吸氣』",
+            "url":"/media/sounds/.mp3_ZpVk2ZY",
+            "id":3165
+         },
+         {
+            "name":"唲➚～",
+            "url":"/media/sounds/.mp3_HI3iKUo",
+            "id":3166
+         },
+         {
+            "name":"嗯ㄜ～",
+            "url":"/media/sounds/.mp3_kQiDcxW",
+            "id":3167
          }
       ]
    },
@@ -4326,11 +4451,6 @@ var audios = [
             "name":"肛了",
             "url":"/media/sounds/.mp3_sw7dlkm",
             "id":592
-         },
-         {
-            "name":"可以教你轉大人喔",
-            "url":"/media/sounds/.mp3_9ccWoPq",
-            "id":627
          },
          {
             "name":"你的屁股怎麼那麼大？",
@@ -5008,11 +5128,6 @@ var audios = [
             "id":2763
          },
          {
-            "name":"臉",
-            "url":"/media/sounds/.mp3_JohLzMp",
-            "id":2764
-         },
-         {
             "name":"親自下海",
             "url":"/media/sounds/.mp3_XBQACtj",
             "id":2765
@@ -5023,17 +5138,17 @@ var audios = [
             "id":2766
          },
          {
-            "name":"we are the gay』",
+            "name":"we are the gay",
             "url":"/media/sounds/we-are-the-gay.mp3",
             "id":3010
          },
          {
-            "name":"you are my gay』",
+            "name":"you are my gay",
             "url":"/media/sounds/you-are-my-gay.mp3",
             "id":3011
          },
          {
-            "name":"you are the gay』",
+            "name":"you are the gay",
             "url":"/media/sounds/you-are-the-gay.mp3",
             "id":3012
          },
@@ -5086,6 +5201,26 @@ var audios = [
             "name":"飛機杯",
             "url":"/media/sounds/.mp3_00zvr0L",
             "id":3022
+         },
+         {
+            "name":"屁眼辦三半了",
+            "url":"/media/sounds/.mp3_BkDnGQK",
+            "id":3168
+         },
+         {
+            "name":"屁股(台)",
+            "url":"/media/sounds/.mp3_XqEYyFx",
+            "id":3169
+         },
+         {
+            "name":"會被幹的到我仙界大濕台還是會被我幹",
+            "url":"/media/sounds/.mp3_5gyEZ5g",
+            "id":3170
+         },
+         {
+            "name":"精蟲",
+            "url":"/media/sounds/.mp3_KrS9zq5",
+            "id":3171
          }
       ]
    },
@@ -5316,6 +5451,41 @@ var audios = [
             "name":"偉大的祖國～",
             "url":"/media/sounds/.mp3_7EB7aO1",
             "id":2898
+         },
+         {
+            "name":"乳滑",
+            "url":"/media/sounds/.mp3_Fa9x1VN",
+            "id":3141
+         },
+         {
+            "name":"人生總是要辱一次",
+            "url":"/media/sounds/.mp3_ZOaREaK",
+            "id":3142
+         },
+         {
+            "name":"同意的代表請舉手",
+            "url":"/media/sounds/.mp3_JXhZ2x4",
+            "id":3143
+         },
+         {
+            "name":"為何不現在就辱？",
+            "url":"/media/sounds/.mp3_QYoqin7",
+            "id":3144
+         },
+         {
+            "name":"辱了啦",
+            "url":"/media/sounds/.mp3_0N0agJz",
+            "id":3145
+         },
+         {
+            "name":"辱華",
+            "url":"/media/sounds/.mp3_LuR5Fhz",
+            "id":3146
+         },
+         {
+            "name":"不同意的請舉手2",
+            "url":"/media/sounds/2_rsYfo0w.mp3",
+            "id":3147
          }
       ]
    },
@@ -6026,6 +6196,11 @@ var audios = [
             "name":"G",
             "url":"/media/sounds/_g.mp3",
             "id":3046
+         },
+         {
+            "name":"Y",
+            "url":"/media/sounds/_y.mp3",
+            "id":3173
          }
       ]
    },
@@ -6056,6 +6231,11 @@ var audios = [
             "name":"散彈槍",
             "url":"/media/sounds/.mp3_qaBbXmz",
             "id":2902
+         },
+         {
+            "name":"嘴砲",
+            "url":"/media/sounds/.mp3_tOkOCbc",
+            "id":1775
          }
       ]
    },
@@ -6196,6 +6376,16 @@ var audios = [
             "name":"蘿蔔乾",
             "url":"/media/sounds/.mp3_ceGB2jh",
             "id":2904
+         },
+         {
+            "name":"薯條",
+            "url":"/media/sounds/.mp3_3Jss7nP",
+            "id":3175
+         },
+         {
+            "name":"薯餅",
+            "url":"/media/sounds/.mp3_gr4uX93",
+            "id":3176
          }
       ]
    },
@@ -6442,6 +6632,11 @@ var audios = [
             "url":"/media/sounds/24_zCTpfmT.mp3",
             "id":2293
          },
+         {
+            "name":"24歳学生です",
+            "url":"/media/sounds/_24_f4N4eAk.mp3",
+            "id":3177
+         }
       ]
    },
    {
@@ -6676,6 +6871,76 @@ var audios = [
             "name":"讓我看看！",
             "url":"/media/sounds/.mp3_zFyengd",
             "id":1479
+         },
+         {
+            "name":"可以教你轉大人喔",
+            "url":"/media/sounds/.mp3_9ccWoPq",
+            "id":627
+         },
+         {
+            "name":"不要(哭)",
+            "url":"/media/sounds/.mp3_e7cB823",
+            "id":3128
+         },
+         {
+            "name":"什麼好康？",
+            "url":"/media/sounds/.mp3_qFXvH1V",
+            "id":3129
+         },
+         {
+            "name":"傑哥(哭)",
+            "url":"/media/sounds/.mp3_3T7fgTv",
+            "id":3130
+         },
+         {
+            "name":"傑哥(哭)2",
+            "url":"/media/sounds/2_LnyjgjE.mp3",
+            "id":3131
+         },
+         {
+            "name":"啊新遊戲喔？",
+            "url":"/media/sounds/.mp3_iuyGRwG",
+            "id":3132
+         },
+         {
+            "name":"好～康～",
+            "url":"/media/sounds/.mp3_8ZfHThe",
+            "id":3133
+         },
+         {
+            "name":"我房裡有一些好康的",
+            "url":"/media/sounds/.mp3_guKf7DX",
+            "id":3134
+         },
+         {
+            "name":"挺結實的啊",
+            "url":"/media/sounds/.mp3_SC4j5oz",
+            "id":3135
+         },
+         {
+            "name":"新遊戲喔？",
+            "url":"/media/sounds/.mp3_3K79uxF",
+            "id":3136
+         },
+         {
+            "name":"比遊戲還刺激～",
+            "url":"/media/sounds/.mp3_ufg8kB8",
+            "id":3137
+         },
+         {
+            "name":"董...董什麼啊？2",
+            "url":"/media/sounds/.mp3_oJUcgEy",
+            "id":3138
+         },
+         {
+            "name":"轉大人(台)",
+            "url":"/media/sounds/.mp3_lHE08la",
+            "id":3139
+         },
+         {
+            "name":"那個彬彬就是遜啦",
+            "url":"/media/sounds/.mp3_vGjTGyQ",
+            "id":3140
          }
       ]
    },
@@ -6731,6 +6996,61 @@ var audios = [
             "name":"每天都把觀眾BANG不見",
             "url":"/media/sounds/_bang_.mp3",
             "id":3044
+         }
+      ]
+   },
+   {
+      "name":"奇異博士",
+      "datas":[
+         {
+            "name":"可是他",
+            "url":"/media/sounds/.mp3_B6WvSS2",
+            "id":3148
+         },
+         {
+            "name":"奇異博士",
+            "url":"/media/sounds/.mp3_fblLhfu",
+            "id":3149
+         },
+         {
+            "name":"很奇異～",
+            "url":"/media/sounds/.mp3_xkCyJon",
+            "id":3150
+         },
+         {
+            "name":"您那頭上的圈圈能幹什麼呢？",
+            "url":"/media/sounds/.mp3_RRnpVKz",
+            "id":3151
+         },
+         {
+            "name":"我也不知道",
+            "url":"/media/sounds/.mp3_tydwR5E",
+            "id":3152
+         },
+         {
+            "name":"那麼",
+            "url":"/media/sounds/.mp3_CEz1NW6",
+            "id":3153
+         }
+      ]
+   },
+   {
+      "name":"巴嘎NONO",
+      "datas":[
+         {
+            "name":"まぜまぜ",
+            "url":"/media/sounds/.mp3_6dLy7pz",
+            "id":3154
+         },
+         {
+            "name":"不要吸啦(台)",
+            "url":"/media/sounds/.mp3_q0pELDt",
+            "id":3155
+         },
+         {
+            "name":"神智不清(台)",
+            "url":"/media/sounds/.mp3_5hZtQiB",
+            "id":3156
          }
       ]
    },
@@ -10628,11 +10948,6 @@ var audios = [
             "id":1774
          },
          {
-            "name":"嘴砲",
-            "url":"/media/sounds/.mp3_tOkOCbc",
-            "id":1775
-         },
-         {
             "name":"請鑑價",
             "url":"/media/sounds/.mp3_g5CUj62",
             "id":1776
@@ -12708,7 +13023,7 @@ var audios = [
             "id":2556
          },
          {
-            "name":"其實我還蠻喜歡車茶的",
+            "name":"其實我還蠻喜歡喝茶的",
             "url":"/media/sounds/.mp3_O2ktBnd",
             "id":2557
          },
@@ -13663,7 +13978,7 @@ var audios = [
             "id":2918
          },
          {
-            "name":"中民國美學",
+            "name":"中華民國美學",
             "url":"/media/sounds/.mp3_3voRd6P",
             "id":2919
          },
@@ -14016,6 +14331,321 @@ var audios = [
             "name":"各位3",
             "url":"/media/sounds/_3_RXVTjF1.mp3",
             "id":2989
+         },
+         {
+            "name":"臉",
+            "url":"/media/sounds/.mp3_JohLzMp",
+            "id":2764
+         },
+         {
+            "name":"are you ready~",
+            "url":"/media/sounds/are-you-ready_hXygB1L.mp3",
+            "id":3053
+         },
+         {
+            "name":"say good bye~",
+            "url":"/media/sounds/say-good-bye.mp3",
+            "id":3054
+         },
+         {
+            "name":"一起",
+            "url":"/media/sounds/.mp3_5F9mYXm",
+            "id":3055
+         },
+         {
+            "name":"下巴",
+            "url":"/media/sounds/.mp3_UmNtV86",
+            "id":3056
+         },
+         {
+            "name":"不是嘛(台)",
+            "url":"/media/sounds/.mp3_bFlADKV",
+            "id":3057
+         },
+         {
+            "name":"不要管我",
+            "url":"/media/sounds/.mp3_DU8WLcc",
+            "id":3058
+         },
+         {
+            "name":"中風",
+            "url":"/media/sounds/.mp3_K2PlLFF",
+            "id":3059
+         },
+         {
+            "name":"乞丐",
+            "url":"/media/sounds/.mp3_2qrihyG",
+            "id":3060
+         },
+         {
+            "name":"他媽超屌",
+            "url":"/media/sounds/.mp3_KHKi3fr",
+            "id":3061
+         },
+         {
+            "name":"他媽超有錢",
+            "url":"/media/sounds/.mp3_ZPiFRFg",
+            "id":3062
+         },
+         {
+            "name":"你好你好你好",
+            "url":"/media/sounds/.mp3_3kSGKRr",
+            "id":3063
+         },
+         {
+            "name":"催油門",
+            "url":"/media/sounds/.mp3_PXj34IH",
+            "id":3064
+         },
+         {
+            "name":"全部",
+            "url":"/media/sounds/.mp3_3M1MZly",
+            "id":3065
+         },
+         {
+            "name":"到2",
+            "url":"/media/sounds/2_khLGhaH.mp3",
+            "id":3066
+         },
+         {
+            "name":"剁",
+            "url":"/media/sounds/.mp3_vjuoDm7",
+            "id":3067
+         },
+         {
+            "name":"加2",
+            "url":"/media/sounds/2_J2dlLTI.mp3",
+            "id":3068
+         },
+         {
+            "name":"哇操",
+            "url":"/media/sounds/.mp3_RDpiqDn",
+            "id":3069
+         },
+         {
+            "name":"喔～那就好那就好",
+            "url":"/media/sounds/.mp3_Kxzimis",
+            "id":3070
+         },
+         {
+            "name":"大2",
+            "url":"/media/sounds/2_dGddvNc.mp3",
+            "id":3071
+         },
+         {
+            "name":"大暴死",
+            "url":"/media/sounds/.mp3_lxlj9Go",
+            "id":3072
+         },
+         {
+            "name":"太強了吧",
+            "url":"/media/sounds/.mp3_FqaQomw",
+            "id":3073
+         },
+         {
+            "name":"太罩了吧",
+            "url":"/media/sounds/.mp3_IsnzrUn",
+            "id":3074
+         },
+         {
+            "name":"好康",
+            "url":"/media/sounds/.mp3_fkJTtKe",
+            "id":3075
+         },
+         {
+            "name":"尊嚴2",
+            "url":"/media/sounds/2_PKELnME.mp3",
+            "id":3076
+         },
+         {
+            "name":"尿尿",
+            "url":"/media/sounds/.mp3_iPt90I4",
+            "id":3077
+         },
+         {
+            "name":"屁啦",
+            "url":"/media/sounds/.mp3_1412wOh",
+            "id":3078
+         },
+         {
+            "name":"幹三小",
+            "url":"/media/sounds/.mp3_qiCscaB",
+            "id":3079
+         },
+         {
+            "name":"幹！超有錢的",
+            "url":"/media/sounds/.mp3_rgvAycy",
+            "id":3080
+         },
+         {
+            "name":"心裡想著",
+            "url":"/media/sounds/.mp3_QMMqyi5",
+            "id":3081
+         },
+         {
+            "name":"性",
+            "url":"/media/sounds/.mp3_8BJsF4R",
+            "id":3082
+         },
+         {
+            "name":"我也要",
+            "url":"/media/sounds/.mp3_YRRiJPQ",
+            "id":3083
+         },
+         {
+            "name":"戳",
+            "url":"/media/sounds/.mp3_EbW3lMD",
+            "id":3084
+         },
+         {
+            "name":"搞定",
+            "url":"/media/sounds/.mp3_dsvVJoL",
+            "id":3085
+         },
+         {
+            "name":"放下",
+            "url":"/media/sounds/.mp3_NdBA7W7",
+            "id":3086
+         },
+         {
+            "name":"教派",
+            "url":"/media/sounds/.mp3_uiR5m71",
+            "id":3087
+         },
+         {
+            "name":"整臉都是屎(台)",
+            "url":"/media/sounds/.mp3_FJWs375",
+            "id":3088
+         },
+         {
+            "name":"是不是啦？",
+            "url":"/media/sounds/.mp3_UZtlvlS",
+            "id":3089
+         },
+         {
+            "name":"欲",
+            "url":"/media/sounds/.mp3_HaDxFkt",
+            "id":3090
+         },
+         {
+            "name":"正常",
+            "url":"/media/sounds/.mp3_B0VtHkv",
+            "id":3091
+         },
+         {
+            "name":"死了啦！",
+            "url":"/media/sounds/.mp3_dZVTgSp",
+            "id":3092
+         },
+         {
+            "name":"氣魄",
+            "url":"/media/sounds/.mp3_FULjiJn",
+            "id":3093
+         },
+         {
+            "name":"求生意志",
+            "url":"/media/sounds/.mp3_TqoUZF6",
+            "id":3094
+         },
+         {
+            "name":"沒事吧？",
+            "url":"/media/sounds/.mp3_Wkgnyc8",
+            "id":3095
+         },
+         {
+            "name":"沒事吧？2",
+            "url":"/media/sounds/2_lQjbkDF.mp3",
+            "id":3096
+         },
+         {
+            "name":"沒有～",
+            "url":"/media/sounds/.mp3_MzDboPN",
+            "id":3097
+         },
+         {
+            "name":"男兒有淚不輕談",
+            "url":"/media/sounds/.mp3_JvhtP9J",
+            "id":3098
+         },
+         {
+            "name":"痛風",
+            "url":"/media/sounds/.mp3_UQbRxfZ",
+            "id":3099
+         },
+         {
+            "name":"發光的到哪都發光",
+            "url":"/media/sounds/.mp3_6fCYCXk",
+            "id":3100
+         },
+         {
+            "name":"發家致富",
+            "url":"/media/sounds/.mp3_91UfDCI",
+            "id":3101
+         },
+         {
+            "name":"發黑的到哪都發黑",
+            "url":"/media/sounds/.mp3_rsUP54v",
+            "id":3102
+         },
+         {
+            "name":"白給了",
+            "url":"/media/sounds/.mp3_EIJyNbr",
+            "id":3103
+         },
+         {
+            "name":"穿",
+            "url":"/media/sounds/.mp3_BnZmM0M",
+            "id":3104
+         },
+         {
+            "name":"穿過我的巴巴",
+            "url":"/media/sounds/.mp3_h3xvvvq",
+            "id":3105
+         },
+         {
+            "name":"結實",
+            "url":"/media/sounds/.mp3_1ATo28e",
+            "id":3106
+         },
+         {
+            "name":"老鼠會2",
+            "url":"/media/sounds/2_JB6O7jl.mp3",
+            "id":3107
+         },
+         {
+            "name":"肥豬",
+            "url":"/media/sounds/.mp3_WQyQ5oC",
+            "id":3108
+         },
+         {
+            "name":"蛔蟲",
+            "url":"/media/sounds/.mp3_XRtx0Dy",
+            "id":3109
+         },
+         {
+            "name":"被抓到了幹！",
+            "url":"/media/sounds/.mp3_A5H3L8x",
+            "id":3110
+         },
+         {
+            "name":"超強的ㄟ",
+            "url":"/media/sounds/.mp3_NULkvfi",
+            "id":3111
+         },
+         {
+            "name":"騙2",
+            "url":"/media/sounds/2_iKAlUfA.mp3",
+            "id":3112
+         },
+         {
+            "name":"臉2",
+            "url":"/media/sounds/2_Q1jrbvj.mp3",
+            "id":3113
+         },
+         {
+            "name":"ok",
+            "url":"/media/sounds/_ok.mp3",
+            "id":3114
          }
       ]
    },
@@ -15390,6 +16020,11 @@ var audios = [
             "name":"桑尤姆：『PEKO』",
             "url":"/media/sounds/peko_NwHwHS2.mp3",
             "id":2640
+         },
+         {
+            "name":"嘿嘿！我是衛浴設備",
+            "url":"/media/sounds/.mp3_vGVqnsr",
+            "id":3174
          }
       ]
    },
