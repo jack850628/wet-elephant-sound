@@ -96,7 +96,7 @@
     <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.8.4/Sortable.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.20.0/vuedraggable.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
-    <script src="./audios.js?v=1.9.0706"></script>
+    <script src="./audios.js?v=1.9.0707"></script>
     <script>
         const SOUND_SOURCE = 'https://www.myinstants.com';
         const SEARCH_PARAMS_1 = 'q', SEARCH_PARAMS_2 = 'i', SEARCH_PARAMS_3 = 's';
@@ -255,6 +255,17 @@
                             this.audioPlayQueue.push(audioData);
                         }
                     },
+                    queueButtonTouchDown(item){
+                        item.toTouchDelete = true;
+                        item.touchTimePoint = Date.now();
+                    },
+                    queueButtonTouchMove(item){
+                        item.toTouchDelete = false;
+                    },
+                    queueButtonTouchUp(item, key){
+                        if(item.toTouchDelete && Date.now() - item.touchTimePoint < 300)
+                            this.removeQueueItem(key);
+                    },
                     copyLink(){
                         shareLink.select();
                         document.execCommand("copy");
@@ -370,7 +381,7 @@
                 <div id="audio-play-queue-bar" :class="{'audio-play-queue-bar-to-fixed': audioPlayQueueBarToFiexd, 'audio-play-queue-bar-go-to-fixed-animation': audioPlayQueueBarToFiexd, 'audio-play-queue-bar-go-out-fixed-animation': !audioPlayQueueBarToFiexd}" :style="{'margin-bottom': -audioPlayQueueBarHeight}">
                     <p style="margin-bottom: 0px;">提示：對按鈕，拖曳可以排序，點一下可以移除，按右鍵可以下載語音。</p>
                     <draggable v-model="audioPlayQueue" style="margin-top: 15px; margin-bottom: 15px;flex: 0; overflow: auto;">
-                        <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="['button', (k == playIndex - 1)? 'play-item' : '']" @click="removeQueueItem(k)" @contextmenu="contextMenu($event, item)" :disabled="playing">{{item.name}}</v-btn>
+                        <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="['button', (k == playIndex - 1)? 'play-item' : '']" @click="removeQueueItem(k)" @touchstart="queueButtonTouchDown(item)" @touchmove="queueButtonTouchMove(item)" @touchend="queueButtonTouchUp(item, k)" @contextmenu="item.url? contextMenu($event, item): ()=>{}" :disabled="playing">{{item.name}}</v-btn>
                      </draggable>
                      <div style="margin-bottom: 15px;">
                         <v-btn dark elevation="3" @click="playButton" :disabled="playing">
@@ -407,7 +418,7 @@
                         <v-expansion-panel v-for="(audioGroup, i) in audios">
                             <v-expansion-panel-header>{{audioGroup.name}}</v-expansion-panel-header>
                             <v-expansion-panel-content>
-                                <v-btn elevation="3" class="button text-truncate" style="max-width: 300px;" v-for="(item, k) in audioGroup.datas" :key="k" @click="preview(item)" @contextmenu="i != 0? contextMenu($event, item): ()=>{}" v-show="item.name.indexOf(searchString) > -1">{{item.name}}</v-btn>
+                                <v-btn elevation="3" class="button text-truncate" style="max-width: 300px;" v-for="(item, k) in audioGroup.datas" :key="k" @click="preview(item)" @contextmenu="item.url? contextMenu($event, item): ()=>{}" v-show="item.name.indexOf(searchString) > -1">{{item.name}}</v-btn>
                             </v-expansion-panel-content>
                         </v-expansion-panel>
                     </v-expansion-panels>
@@ -472,7 +483,7 @@
                             關於
                         </v-card-title>
                         <v-card-text>
-                            大濕之音 v1.9.0706
+                            大濕之音 v1.9.0707
                             <br/>
                             作者：jack850628
                             <br/>
