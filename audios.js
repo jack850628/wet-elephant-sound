@@ -4036,6 +4036,11 @@ var audios = [
             "name":"喔！惡痾痾痾ㄟㄟㄟ",
             "url":"/media/sounds/.mp3_qSJEeYG",
             "id":3412
+         },
+         {
+            "name":"ㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚ",
+            "url":"/media/sounds/.mp3_pUwicuR",
+            "id":3453
          }
       ]
    },
@@ -17366,11 +17371,6 @@ var audios = [
             "name":"嘎抓：『你有好多A片喔』",
             "url":"/media/sounds/_a_iOEsCFE.mp3",
             "id":3290
-         },
-         {
-            "name":"嘎抓：『ㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚ』",
-            "url":"/media/sounds/.mp3_z8JQb4R",
-            "id":3453
          },
          {
             "name":"嘎抓：『他』",
