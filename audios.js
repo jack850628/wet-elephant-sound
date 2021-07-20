@@ -3998,19 +3998,9 @@ var audios = [
             "id":3381
          },
          {
-            "name":"好朋友ㄟ",
-            "url":"/media/sounds/.mp3_8pxbWaU",
-            "id":3382
-         },
-         {
             "name":"惡痾痾痾",
             "url":"/media/sounds/.mp3_XFH3Cpt",
             "id":3383
-         },
-         {
-            "name":"瘋了嗎？",
-            "url":"/media/sounds/.mp3_tCi1CR6",
-            "id":3384
          },
          {
             "name":"答答答答答～",
@@ -5483,9 +5473,19 @@ var audios = [
             "id":3419
          },
          {
-            "name":"fuck you ass boy~』",
+            "name":"fuck you ass boy~",
             "url":"/media/sounds/fuck-you-ass-boy.mp3",
             "id":3420
+         },
+         {
+            "name":"我在你們後面喔～",
+            "url":"/media/sounds/.mp3_Id4QBMP",
+            "id":3328
+         },
+         {
+            "name":"看看你們的屁眼安不安全啊～",
+            "url":"/media/sounds/.mp3_1huvu47",
+            "id":3348
          }
       ]
    },
@@ -7751,11 +7751,6 @@ var audios = [
             "name":"米老鼠",
             "url":"/media/sounds/.mp3_1FgmEZ2",
             "id":3448
-         },
-         {
-            "name":"不管是過去還是未來",
-            "url":"/media/sounds/.mp3_nZalBv4",
-            "id":3449
          }
       ]
    },
@@ -7776,6 +7771,11 @@ var audios = [
             "name":"我要你的屁眼只為我張開",
             "url":"/media/sounds/.mp3_UOhuUS7",
             "id":3452
+         },
+         {
+            "name":"不管是過去還是未來",
+            "url":"/media/sounds/.mp3_nZalBv4",
+            "id":3449
          }
       ]
    },
@@ -15703,11 +15703,6 @@ var audios = [
             "id":3327
          },
          {
-            "name":"我在你們後面喔～",
-            "url":"/media/sounds/.mp3_Id4QBMP",
-            "id":3328
-         },
-         {
             "name":"我很樂意呀",
             "url":"/media/sounds/.mp3_nComL0A",
             "id":3329
@@ -15801,11 +15796,6 @@ var audios = [
             "name":"皮膚",
             "url":"/media/sounds/.mp3_kPsEZ5c",
             "id":3347
-         },
-         {
-            "name":"看看你們的屁眼安不安全啊～",
-            "url":"/media/sounds/.mp3_1huvu47",
-            "id":3348
          },
          {
             "name":"祝賀",
@@ -15926,6 +15916,16 @@ var audios = [
             "name":"成為",
             "url":"/media/sounds/.mp3_bPg40H1",
             "id":3389
+         },
+         {
+            "name":"好朋友ㄟ",
+            "url":"/media/sounds/.mp3_8pxbWaU",
+            "id":3382
+         },
+         {
+            "name":"瘋了嗎？",
+            "url":"/media/sounds/.mp3_tCi1CR6",
+            "id":3384
          }
       ]
    },
