@@ -2326,6 +2326,21 @@ var audios = [
             "name":"揍死你我跟你講",
             "url":"/media/sounds/.mp3_TP1rVNW",
             "id":3444
+         },
+         {
+            "name":"不要臉",
+            "url":"/media/sounds/.mp3_r1CcWjF",
+            "id":3530
+         },
+         {
+            "name":"厚顏無恥",
+            "url":"/media/sounds/.mp3_pMAdKlR",
+            "id":3531
+         },
+         {
+            "name":"王八蛋2",
+            "url":"/media/sounds/2_eFgi04z.mp3",
+            "id":3532
          }
       ]
    },
@@ -4031,6 +4046,31 @@ var audios = [
             "name":"ㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚ",
             "url":"/media/sounds/.mp3_pUwicuR",
             "id":3453
+         },
+         {
+            "name":"哇↘～～",
+            "url":"/media/sounds/.mp3_3bqLmkS",
+            "id":3525
+         },
+         {
+            "name":"哇～～～2",
+            "url":"/media/sounds/2_AdgZYyI.mp3",
+            "id":3526
+         },
+         {
+            "name":"哼！哼！哼！啊啊啊",
+            "url":"/media/sounds/.mp3_3LwCSxe",
+            "id":3527
+         },
+         {
+            "name":"噢↘～～",
+            "url":"/media/sounds/.mp3_Es8RM7E",
+            "id":3528
+         },
+         {
+            "name":"BANG",
+            "url":"/media/sounds/_bang_LDMX7WE.mp3",
+            "id":3529
          }
       ]
    },
@@ -5486,6 +5526,16 @@ var audios = [
             "name":"看看你們的屁眼安不安全啊～",
             "url":"/media/sounds/.mp3_1huvu47",
             "id":3348
+         },
+         {
+            "name":"前列腺",
+            "url":"/media/sounds/.mp3_jBg49xH",
+            "id":3535
+         },
+         {
+            "name":"鼓鼓的",
+            "url":"/media/sounds/.mp3_eP51Xhh",
+            "id":3536
          }
       ]
    },
@@ -6911,6 +6961,16 @@ var audios = [
             "name":"電吉他",
             "url":"/media/sounds/.mp3_NBeOd0C",
             "id":2521
+         },
+         {
+            "name":"蒟蒻",
+            "url":"/media/sounds/.mp3_y6gNjiN",
+            "id":3533
+         },
+         {
+            "name":"飯糰",
+            "url":"/media/sounds/.mp3_0zKTbMM",
+            "id":3534
          }
       ]
    },
@@ -15926,6 +15986,166 @@ var audios = [
             "name":"瘋了嗎？",
             "url":"/media/sounds/.mp3_tCi1CR6",
             "id":3384
+         },
+         {
+            "name":"my blade is yours",
+            "url":"/media/sounds/my-blade-is-yours.mp3",
+            "id":3493
+         },
+         {
+            "name":"不妙！",
+            "url":"/media/sounds/.mp3_inZ5WIf",
+            "id":3494
+         },
+         {
+            "name":"人不要臉",
+            "url":"/media/sounds/.mp3_hQJ7zNU",
+            "id":3495
+         },
+         {
+            "name":"什麼！？",
+            "url":"/media/sounds/.mp3_7YdmEFJ",
+            "id":3496
+         },
+         {
+            "name":"公廁",
+            "url":"/media/sounds/.mp3_WsX2x7W",
+            "id":3497
+         },
+         {
+            "name":"司法不公～",
+            "url":"/media/sounds/.mp3_lroKcpl",
+            "id":3498
+         },
+         {
+            "name":"司法迫害！",
+            "url":"/media/sounds/.mp3_HLG6nwO",
+            "id":3499
+         },
+         {
+            "name":"天下無敵",
+            "url":"/media/sounds/.mp3_dmhEQ5Z",
+            "id":3500
+         },
+         {
+            "name":"好哇！",
+            "url":"/media/sounds/.mp3_yW8NOwj",
+            "id":3501
+         },
+         {
+            "name":"安可安可安可安可",
+            "url":"/media/sounds/.mp3_WURtAts",
+            "id":3502
+         },
+         {
+            "name":"完了完了完了",
+            "url":"/media/sounds/.mp3_AvhXjtf",
+            "id":3503
+         },
+         {
+            "name":"幫",
+            "url":"/media/sounds/.mp3_ErJYv2o",
+            "id":3504
+         },
+         {
+            "name":"幹架",
+            "url":"/media/sounds/.mp3_aNP11r6",
+            "id":3505
+         },
+         {
+            "name":"後繼無力",
+            "url":"/media/sounds/.mp3_ZV8PTiQ",
+            "id":3506
+         },
+         {
+            "name":"心態要炸了",
+            "url":"/media/sounds/.mp3_Rh69e6k",
+            "id":3507
+         },
+         {
+            "name":"必死無疑",
+            "url":"/media/sounds/.mp3_paajiVU",
+            "id":3508
+         },
+         {
+            "name":"我好興奮啊",
+            "url":"/media/sounds/.mp3_n2OuVS6",
+            "id":3509
+         },
+         {
+            "name":"我沒貪汙！",
+            "url":"/media/sounds/.mp3_fZOUcUD",
+            "id":3510
+         },
+         {
+            "name":"我真的好興奮啊",
+            "url":"/media/sounds/.mp3_FrXXUei",
+            "id":3511
+         },
+         {
+            "name":"撈",
+            "url":"/media/sounds/.mp3_cRC86gE",
+            "id":3512
+         },
+         {
+            "name":"會這樣",
+            "url":"/media/sounds/.mp3_BNatvm5",
+            "id":3513
+         },
+         {
+            "name":"有些時候",
+            "url":"/media/sounds/.mp3_XbB0DcO",
+            "id":3514
+         },
+         {
+            "name":"樹不要皮",
+            "url":"/media/sounds/.mp3_CAxvDYg",
+            "id":3515
+         },
+         {
+            "name":"當",
+            "url":"/media/sounds/.mp3_kSLufgK",
+            "id":3516
+         },
+         {
+            "name":"真的呀～",
+            "url":"/media/sounds/.mp3_L3sLcFb",
+            "id":3517
+         },
+         {
+            "name":"窗掉",
+            "url":"/media/sounds/.mp3_VG0reto",
+            "id":3518
+         },
+         {
+            "name":"箭頭",
+            "url":"/media/sounds/.mp3_VpNLHm2",
+            "id":3519
+         },
+         {
+            "name":"被抓了",
+            "url":"/media/sounds/.mp3_7m0lC83",
+            "id":3520
+         },
+         {
+            "name":"讀",
+            "url":"/media/sounds/.mp3_Q6RzZEr",
+            "id":3521
+         },
+         {
+            "name":"貪汙",
+            "url":"/media/sounds/.mp3_lAOBvjB",
+            "id":3522
+         },
+         {
+            "name":"跟2",
+            "url":"/media/sounds/2_KoYWXv2.mp3",
+            "id":3523
+         },
+         {
+            "name":"長這個樣子",
+            "url":"/media/sounds/.mp3_q9O3byb",
+            "id":3524
          }
       ]
    },
@@ -17546,6 +17766,131 @@ var audios = [
             "name":"嘎抓：『happy』",
             "url":"/media/sounds/_happy.mp3",
             "id":3488
+         },
+         {
+            "name":"嘎抓：『fuck you ass』",
+            "url":"/media/sounds/fuck-you-ass.mp3",
+            "id":3537
+         },
+         {
+            "name":"嘎抓：『this is a gay gay gadra』",
+            "url":"/media/sounds/this-is-a-gay-gay-gadra.mp3",
+            "id":3538
+         },
+         {
+            "name":"嘎抓：『welcome to gay bar』",
+            "url":"/media/sounds/welcome-to-gay-bar.mp3",
+            "id":3539
+         },
+         {
+            "name":"嘎抓：『who is idiot sandwich？』",
+            "url":"/media/sounds/who-is-idiot-sandwich.mp3",
+            "id":3540
+         },
+         {
+            "name":"嘎抓：『yap』",
+            "url":"/media/sounds/yap.mp3",
+            "id":3541
+         },
+         {
+            "name":"嘎抓：『你很勇嘛！』",
+            "url":"/media/sounds/.mp3_fenmYKn",
+            "id":3542
+         },
+         {
+            "name":"嘎抓：『你臉紅啦！』",
+            "url":"/media/sounds/.mp3_5tIyhBz",
+            "id":3543
+         },
+         {
+            "name":"嘎抓：『來看這個』",
+            "url":"/media/sounds/.mp3_B3ws5Rp",
+            "id":3544
+         },
+         {
+            "name":"嘎抓：『傑哥～』",
+            "url":"/media/sounds/.mp3_1yW10MF",
+            "id":3545
+         },
+         {
+            "name":"嘎抓：『右拳寶寶』",
+            "url":"/media/sounds/.mp3_ta2QekQ",
+            "id":3546
+         },
+         {
+            "name":"嘎抓：『右拳寶寶～』",
+            "url":"/media/sounds/.mp3_TBHsIAo",
+            "id":3547
+         },
+         {
+            "name":"嘎抓：『哇！』",
+            "url":"/media/sounds/.mp3_ndaYbx5",
+            "id":3548
+         },
+         {
+            "name":"嘎抓：『唉呦！』",
+            "url":"/media/sounds/.mp3_pL0PV5v",
+            "id":3549
+         },
+         {
+            "name":"嘎抓：『嘎抓打呼2』",
+            "url":"/media/sounds/2_H8SuBQT.mp3",
+            "id":3550
+         },
+         {
+            "name":"嘎抓：『嘎抓打呼5』",
+            "url":"/media/sounds/5_OVy1cBG.mp3",
+            "id":3551
+         },
+         {
+            "name":"嘎抓：『智障三明治』",
+            "url":"/media/sounds/.mp3_HL2mvxf",
+            "id":3552
+         },
+         {
+            "name":"嘎抓：『比遊戲還刺激』",
+            "url":"/media/sounds/.mp3_ULiQj5G",
+            "id":3553
+         },
+         {
+            "name":"嘎抓：『老鼠』",
+            "url":"/media/sounds/.mp3_4xBoMQj",
+            "id":3554
+         },
+         {
+            "name":"嘎抓：『诶嘿』",
+            "url":"/media/sounds/.mp3_9kXr9p3",
+            "id":3555
+         },
+         {
+            "name":"嘎抓：『象著小學全速的前進』",
+            "url":"/media/sounds/.mp3_aMBANkT",
+            "id":3556
+         },
+         {
+            "name":"嘎抓：『這麼說～』",
+            "url":"/media/sounds/.mp3_adGQQjl",
+            "id":3557
+         },
+         {
+            "name":"嘎抓：『那沒什麼』",
+            "url":"/media/sounds/.mp3_vBnm2hm",
+            "id":3558
+         },
+         {
+            "name":"嘎抓：『嘎抓打呼3』",
+            "url":"/media/sounds/_3_SBw3X1Y.mp3",
+            "id":3559
+         },
+         {
+            "name":"嘎抓：『嘎抓打呼4』",
+            "url":"/media/sounds/_4_i4vkZ4K.mp3",
+            "id":3560
+         },
+         {
+            "name":"嘎抓：『哇～3』",
+            "url":"/media/sounds/_3_NEica8K.mp3",
+            "id":3561
          }
       ]
    },
@@ -17610,6 +17955,36 @@ var audios = [
             "name":"桑尤姆：『番仔(台)』",
             "url":"/media/sounds/.mp3_TTv6xAw",
             "id":3492
+         },
+         {
+            "name":"桑尤姆：『不行！』",
+            "url":"/media/sounds/.mp3_nkxDFtt",
+            "id":3562
+         },
+         {
+            "name":"桑尤姆：『你們怎麼都那麼長？』",
+            "url":"/media/sounds/.mp3_JTmA8p2",
+            "id":3563
+         },
+         {
+            "name":"桑尤姆：『呃↘』",
+            "url":"/media/sounds/.mp3_6DejqN1",
+            "id":3564
+         },
+         {
+            "name":"桑尤姆：『我不能接受太長的』",
+            "url":"/media/sounds/.mp3_bvrn2zX",
+            "id":3565
+         },
+         {
+            "name":"桑尤姆：『等一下！』",
+            "url":"/media/sounds/.mp3_fSXAMml",
+            "id":3566
+         },
+         {
+            "name":"桑尤姆：『蘇聯國歌開頭』",
+            "url":"/media/sounds/.mp3_IIB7Eii",
+            "id":3567
          }
       ]
    },
