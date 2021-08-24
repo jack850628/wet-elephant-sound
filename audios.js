@@ -2361,6 +2361,21 @@ var audios = [
             "name":"沒水準",
             "url":"/media/sounds/mei-shui-zhun.mp3",
             "id":3709
+         },
+         {
+            "name":"嫩2",
+            "url":"/media/sounds/nen-2.mp3",
+            "id":3795
+         },
+         {
+            "name":"屁蛋",
+            "url":"/media/sounds/pi-dan.mp3",
+            "id":3796
+         },
+         {
+            "name":"斯文敗類",
+            "url":"/media/sounds/si-wen-bai-lei.mp3",
+            "id":3797
          }
       ]
    },
@@ -4156,6 +4171,76 @@ var audios = [
             "name":"痾！哈",
             "url":"/media/sounds/e-ha.mp3",
             "id":3696
+         },
+         {
+            "name":"『吃東西』",
+            "url":"/media/sounds/chi-dong-xi.mp3",
+            "id":3769
+         },
+         {
+            "name":"『吐』",
+            "url":"/media/sounds/tu.mp3",
+            "id":3770
+         },
+         {
+            "name":"『吸口水』",
+            "url":"/media/sounds/xi-kou-shui.mp3",
+            "id":3771
+         },
+         {
+            "name":"ㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚ",
+            "url":"/media/sounds/biabiabiabiabiabiabia.mp3",
+            "id":3772
+         },
+         {
+            "name":"ㄆ一ㄚ3",
+            "url":"/media/sounds/pyi-a3.mp3",
+            "id":3773
+         },
+         {
+            "name":"哼哼哈哈哈哈哈",
+            "url":"/media/sounds/heng-heng-ha-ha-ha-ha-ha.mp3",
+            "id":3774
+         },
+         {
+            "name":"啊啊～",
+            "url":"/media/sounds/a-a_9W1wzz4.mp3",
+            "id":3775
+         },
+         {
+            "name":"啊～5",
+            "url":"/media/sounds/a-5.mp3",
+            "id":3776
+         },
+         {
+            "name":"啵啵啵啵啵啵啵啵啵",
+            "url":"/media/sounds/bo-bo-bo-bo-bo-bo-bo-bo-bo.mp3",
+            "id":3777
+         },
+         {
+            "name":"嘻嘻嘻嘻哈哈哈",
+            "url":"/media/sounds/xi-xi-xi-xi-ha-ha-ha.mp3",
+            "id":3778
+         },
+         {
+            "name":"把把把把把把",
+            "url":"/media/sounds/ba-ba-ba-ba-ba-ba.mp3",
+            "id":3779
+         },
+         {
+            "name":"督音～",
+            "url":"/media/sounds/du-yin.mp3",
+            "id":3780
+         },
+         {
+            "name":"诶4",
+            "url":"/media/sounds/ai-4.mp3",
+            "id":3781
+         },
+         {
+            "name":"嘶～",
+            "url":"/media/sounds/da-shi-si.mp3",
+            "id":3782
          }
       ]
    },
@@ -5626,6 +5711,16 @@ var audios = [
             "name":"你要進來嗎？",
             "url":"/media/sounds/ni-yao-jin-lai-ma.mp3",
             "id":3706
+         },
+         {
+            "name":"硬梆梆",
+            "url":"/media/sounds/ying-bang-bang.mp3",
+            "id":3798
+         },
+         {
+            "name":"褲襠有點腫腫的",
+            "url":"/media/sounds/ku-dang-you-dian-zhong-zhong-de.mp3",
+            "id":3799
          }
       ]
    },
@@ -7096,6 +7191,41 @@ var audios = [
             "name":"鹹豆漿",
             "url":"/media/sounds/xian-dou-jiang.mp3",
             "id":3658
+         },
+         {
+            "name":"飲料",
+            "url":"/media/sounds/yin-liao.mp3",
+            "id":3768
+         },
+         {
+            "name":"小泡芙",
+            "url":"/media/sounds/xiao-pao-fu.mp3",
+            "id":3783
+         },
+         {
+            "name":"松露",
+            "url":"/media/sounds/song-lu.mp3",
+            "id":3784
+         },
+         {
+            "name":"義大利麵",
+            "url":"/media/sounds/yi-da-li-mian.mp3",
+            "id":3785
+         },
+         {
+            "name":"芒果",
+            "url":"/media/sounds/mang-guo.mp3",
+            "id":3786
+         },
+         {
+            "name":"酒",
+            "url":"/media/sounds/jiu.mp3",
+            "id":3787
+         },
+         {
+            "name":"釋迦",
+            "url":"/media/sounds/shi-jia.mp3",
+            "id":3788
          }
       ]
    },
@@ -7266,6 +7396,11 @@ var audios = [
             "name":"北斗百烈拳",
             "url":"/media/sounds/bei-dou-bai-lie-quan.mp3",
             "id":3704
+         },
+         {
+            "name":"爆裂猛肛",
+            "url":"/media/sounds/bao-lie-meng-gang.mp3",
+            "id":3800
          }
       ]
    },
@@ -8041,6 +8176,36 @@ var audios = [
             "name":"那！那個傑哥",
             "url":"/media/sounds/na-na-ge-jie-ge.mp3",
             "id":3609
+         },
+         {
+            "name":"你看這個彬彬",
+            "url":"/media/sounds/ni-kan-zhe-ge-bin-bin.mp3",
+            "id":3789
+         },
+         {
+            "name":"傑都可以拿嗎？",
+            "url":"/media/sounds/jie-du-ke-yi-na-ma.mp3",
+            "id":3790
+         },
+         {
+            "name":"傑都這也都可以拿嗎？",
+            "url":"/media/sounds/jie-du-zhe-ye-du-ke-yi-na-ma.mp3",
+            "id":3791
+         },
+         {
+            "name":"先吃先吃先吃",
+            "url":"/media/sounds/xian-chi-xian-chi-xian-chi.mp3",
+            "id":3792
+         },
+         {
+            "name":"再喝！",
+            "url":"/media/sounds/zai-he.mp3",
+            "id":3793
+         },
+         {
+            "name":"超會喝？",
+            "url":"/media/sounds/chao-hui-he.mp3",
+            "id":3794
          }
       ]
    },
@@ -8391,6 +8556,31 @@ var audios = [
             "name":"靠北有電喔(台)",
             "url":"/media/sounds/kao-bei-you-dian-wo-tai.mp3",
             "id":3702
+         }
+      ]
+   },
+   {
+      "name":"QOO",
+      "datas":[
+         {
+            "name":"QOO",
+            "url":"/media/sounds/da-shi-qoo.mp3",
+            "id":3801
+         },
+         {
+            "name":"喝完臉紅紅",
+            "url":"/media/sounds/he-wan-lian-hong-hong.mp3",
+            "id":3802
+         },
+         {
+            "name":"喝的時候射",
+            "url":"/media/sounds/he-de-shi-hou-she.mp3",
+            "id":3803
+         },
+         {
+            "name":"有種果汁真好喝",
+            "url":"/media/sounds/you-zhong-guo-zhi-zhen-hao-he.mp3",
+            "id":3804
          }
       ]
    },
@@ -16881,6 +17071,126 @@ var audios = [
             "name":"默契",
             "url":"/media/sounds/mo-qi.mp3",
             "id":3647
+         },
+         {
+            "name":"it good to drink？",
+            "url":"/media/sounds/it-good-to-drink.mp3",
+            "id":3744
+         },
+         {
+            "name":"你喝看看好不好？",
+            "url":"/media/sounds/ni-he-kan-kan-hao-bu-hao.mp3",
+            "id":3745
+         },
+         {
+            "name":"做人的道理",
+            "url":"/media/sounds/zuo-ren-de-dao-li.mp3",
+            "id":3746
+         },
+         {
+            "name":"印堂發黑",
+            "url":"/media/sounds/yin-tang-fa-hei.mp3",
+            "id":3747
+         },
+         {
+            "name":"命不該絕",
+            "url":"/media/sounds/ming-bu-gai-jue.mp3",
+            "id":3748
+         },
+         {
+            "name":"哇～你看看那個好好吃啊！",
+            "url":"/media/sounds/wa-ni-kan-kan-na-ge-hao-hao-chi-a.mp3",
+            "id":3749
+         },
+         {
+            "name":"天才",
+            "url":"/media/sounds/tian-cai.mp3",
+            "id":3750
+         },
+         {
+            "name":"女僕",
+            "url":"/media/sounds/nu-pu.mp3",
+            "id":3751
+         },
+         {
+            "name":"孕吐",
+            "url":"/media/sounds/yun-tu.mp3",
+            "id":3752
+         },
+         {
+            "name":"孕～吐～",
+            "url":"/media/sounds/yun-tu_S5ECZAg.mp3",
+            "id":3753
+         },
+         {
+            "name":"差一點",
+            "url":"/media/sounds/chai-yi-dian.mp3",
+            "id":3754
+         },
+         {
+            "name":"差一點點",
+            "url":"/media/sounds/chai-yi-dian-dian.mp3",
+            "id":3755
+         },
+         {
+            "name":"快",
+            "url":"/media/sounds/kuai.mp3",
+            "id":3756
+         },
+         {
+            "name":"抓起來",
+            "url":"/media/sounds/zhua-qi-lai.mp3",
+            "id":3757
+         },
+         {
+            "name":"更快",
+            "url":"/media/sounds/geng-kuai.mp3",
+            "id":3758
+         },
+         {
+            "name":"某一天",
+            "url":"/media/sounds/mou-yi-tian.mp3",
+            "id":3759
+         },
+         {
+            "name":"當家",
+            "url":"/media/sounds/dang-jia.mp3",
+            "id":3760
+         },
+         {
+            "name":"老司機",
+            "url":"/media/sounds/lao-si-ji.mp3",
+            "id":3761
+         },
+         {
+            "name":"老鼠",
+            "url":"/media/sounds/lao-shu.mp3",
+            "id":3762
+         },
+         {
+            "name":"肥料",
+            "url":"/media/sounds/fei-liao.mp3",
+            "id":3763
+         },
+         {
+            "name":"調皮",
+            "url":"/media/sounds/diao-pi.mp3",
+            "id":3764
+         },
+         {
+            "name":"辦到了",
+            "url":"/media/sounds/ban-dao-liao.mp3",
+            "id":3765
+         },
+         {
+            "name":"都沒有關心我～(哭)",
+            "url":"/media/sounds/du-mei-you-guan-xin-wo-ku.mp3",
+            "id":3766
+         },
+         {
+            "name":"醫生",
+            "url":"/media/sounds/yi-sheng.mp3",
+            "id":3767
          }
       ]
    },
@@ -18766,6 +19076,26 @@ var audios = [
             "name":"嘎抓：『雖然幼女滿天下卻全是水中花』",
             "url":"/media/sounds/ga-zhua-sui-ran-you-nu-man-tian-xia.mp3",
             "id":3737
+         },
+         {
+            "name":"嘎抓：『やだ』",
+            "url":"/media/sounds/ga-zhua-yada.mp3",
+            "id":3812
+         },
+         {
+            "name":"嘎抓：『やめて』",
+            "url":"/media/sounds/ga-zhua-yamete.mp3",
+            "id":3813
+         },
+         {
+            "name":"嘎抓：『媽媽～』",
+            "url":"/media/sounds/ga-zhua-ma-ma.mp3",
+            "id":3814
+         },
+         {
+            "name":"嘎抓：『痛いよ』",
+            "url":"/media/sounds/ga-zhua-tong-iyo.mp3",
+            "id":3815
          }
       ]
    },
@@ -18890,6 +19220,41 @@ var audios = [
             "name":"桑尤姆：『祝他圓寂』",
             "url":"/media/sounds/sang-you-mu-zhu-ta-yuan-ji.mp3",
             "id":3743
+         },
+         {
+            "name":"桑尤姆：『不要』",
+            "url":"/media/sounds/sang-you-mu-bu-yao.mp3",
+            "id":3805
+         },
+         {
+            "name":"桑尤姆：『向著小學全速的前進』",
+            "url":"/media/sounds/sang-you-mu-xiang-zhu-xiao-xue-quan-su-de-qian-jin.mp3",
+            "id":3806
+         },
+         {
+            "name":"桑尤姆：『咿～』",
+            "url":"/media/sounds/sang-you-mu-yi.mp3",
+            "id":3807
+         },
+         {
+            "name":"桑尤姆：『咿～咿～咿～』",
+            "url":"/media/sounds/sang-you-mu-yi-yi-yi.mp3",
+            "id":3808
+         },
+         {
+            "name":"桑尤姆：『好痛』",
+            "url":"/media/sounds/sang-you-mu-hao-tong.mp3",
+            "id":3809
+         },
+         {
+            "name":"桑尤姆：『皮卡屁』",
+            "url":"/media/sounds/sang-you-mu-pi-qia-pi.mp3",
+            "id":3810
+         },
+         {
+            "name":"桑尤姆：『诶！幹什麼？』",
+            "url":"/media/sounds/sang-you-mu-ai-gan-shi-mo.mp3",
+            "id":3811
          }
       ]
    },
