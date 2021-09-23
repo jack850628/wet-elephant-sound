@@ -7061,6 +7061,11 @@ var audios = [
             "name":"逗拳棒",
             "url":"/media/sounds/dou-quan-bang.mp3",
             "id":3705
+         },
+         {
+            "name":"炸彈",
+            "url":"/media/sounds/zha-dan.mp3",
+            "id":4008
          }
       ]
    },
@@ -8841,6 +8846,41 @@ var audios = [
             "name":"喝下去保證你胃食道逆流更加嚴重喔",
             "url":"/media/sounds/he-xia-qu-bao-zheng-ni-wei-shi-dao-ni-liu.mp3",
             "id":3873
+         }
+      ]
+   },
+   {
+      "name":"野格炸彈",
+      "datas":[
+         {
+            "name":"咚咚咚ㄎㄧㄤ",
+            "url":"/media/sounds/dong-dong-dong-kiang.mp3",
+            "id":3996
+         },
+         {
+            "name":"咚咚咚咚ㄎㄧㄤ",
+            "url":"/media/sounds/dong-dong-dong-dong-kiang.mp3",
+            "id":3997
+         },
+         {
+            "name":"它叫做紅牛",
+            "url":"/media/sounds/ta-jiao-zuo-hong-niu.mp3",
+            "id":3998
+         },
+         {
+            "name":"綠色玻璃瓶",
+            "url":"/media/sounds/lu-se-bo-li-ping.mp3",
+            "id":3999
+         },
+         {
+            "name":"還有一個好友",
+            "url":"/media/sounds/huan-you-yi-ge-hao-you.mp3",
+            "id":4000
+         },
+         {
+            "name":"野格炸彈",
+            "url":"/media/sounds/ye-ge-zha-dan.mp3",
+            "id":4001
          }
       ]
    },
@@ -17751,6 +17791,56 @@ var audios = [
             "name":"速限",
             "url":"/media/sounds/su-xian.mp3",
             "id":3917
+         },
+         {
+            "name":"口",
+            "url":"/media/sounds/kou.mp3",
+            "id":4002
+         },
+         {
+            "name":"堆～",
+            "url":"/media/sounds/dui.mp3",
+            "id":4003
+         },
+         {
+            "name":"愛3",
+            "url":"/media/sounds/ai-3_y1w9Y58.mp3",
+            "id":4004
+         },
+         {
+            "name":"感",
+            "url":"/media/sounds/gan.mp3",
+            "id":4005
+         },
+         {
+            "name":"格",
+            "url":"/media/sounds/ge.mp3",
+            "id":4006
+         },
+         {
+            "name":"炸",
+            "url":"/media/sounds/zha_oI1JdX1.mp3",
+            "id":4007
+         },
+         {
+            "name":"彈",
+            "url":"/media/sounds/da-shi-dan.mp3",
+            "id":4009
+         },
+         {
+            "name":"爽",
+            "url":"/media/sounds/shuang.mp3",
+            "id":4010
+         },
+         {
+            "name":"的2",
+            "url":"/media/sounds/de-2.mp3",
+            "id":4011
+         },
+         {
+            "name":"野",
+            "url":"/media/sounds/da-shi-ye.mp3",
+            "id":4012
          }
       ]
    },
@@ -19813,7 +19903,7 @@ var audios = [
             "id":3979
          },
          {
-            "name":"嘎抓：『我要把你賣掉』",
+            "name":"嘎抓：『我要把你阿嬤賣掉』",
             "url":"/media/sounds/ga-zhua-wo-yao-ba-ni-mai-diao.mp3",
             "id":3980
          },
