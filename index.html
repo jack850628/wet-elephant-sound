@@ -96,7 +96,7 @@
     <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.8.4/Sortable.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.20.0/vuedraggable.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
-    <script src="./audios.js?v=1.9.0923"></script>
+    <script src="./audios.js?v=1.10.0926"></script>
     <script>
         const SOUND_SOURCE = 'https://www.myinstants.com';
         const SEARCH_PARAMS_1 = 'q', SEARCH_PARAMS_2 = 'i', SEARCH_PARAMS_3 = 's';
@@ -104,6 +104,10 @@
             'i.imgur.com',
             'imgur.com',
         ]
+
+        audios.flatMap(i => i.datas).forEach(i => {
+            i.nameForScarch = i.name.match(/^(?:.*?：)?『?(.+?)\d*』?$/)[1].toUpperCase();
+        });
 
         Vue.component('w-icon', {
             template: '#w-icon',
@@ -153,6 +157,7 @@
 
                     ],
                     searchString: '',
+                    searchResaultButtons: [],
 
                     share: false,
                     shareLink: '',
@@ -168,6 +173,7 @@
                     soundImageTitleError: null,
                     
                     showMenu: false,
+                    isQueueButtonShowMenu: false,
                     itemByShowMenu: null,
                     menuX: 0,
                     menuY: 0,
@@ -194,6 +200,14 @@
                     },
                     audioPlayQueueBarToFiexd(value){
                         value && (this.audioPlayQueueBarHeight = this.audioPlayQueueBar.offsetHeight);
+                    },
+                    searchString(str){
+                        this.searchResaultButtons.splice(0);
+                        if(str.match(/^\s*$/)) return;
+                        str = str.toUpperCase();
+                        this.searchResaultButtons.push(...audios.flatMap(i => i.datas).filter(i => {
+                            return i.nameForScarch.indexOf(str) > -1 || str.indexOf(i.nameForScarch) > -1
+                        }));
                     }
                 },
                 methods: {
@@ -284,8 +298,9 @@
                         this.soundImageTitle = '';
                     },
 
-                    contextMenu(event, item){
+                    contextMenu(event, item, isQueueButtonShowMenu){
                         event.preventDefault();
+                        this.isQueueButtonShowMenu = isQueueButtonShowMenu;
                         this.itemByShowMenu = item;
                         this.showMenu = false;
                         this.menuX = event.clientX;
@@ -295,10 +310,17 @@
                         });
                     },
                     contextMenuItemClick(event, index){
-                        window.open(
-                            SOUND_SOURCE + this.itemByShowMenu.url
-                            , "_blank"
-                        );
+                        switch(index){
+                            case 0:
+                                window.open(
+                                    SOUND_SOURCE + this.itemByShowMenu.url
+                                    , "_blank"
+                                );
+                                break;
+                            case 1:
+                                this.audioPlayQueue.push(this.itemByShowMenu);
+                                break;
+                        }
                     },
 
                     mainScroll(event){
@@ -381,7 +403,7 @@
                 <div id="audio-play-queue-bar" :class="{'audio-play-queue-bar-to-fixed': audioPlayQueueBarToFiexd, 'audio-play-queue-bar-go-to-fixed-animation': audioPlayQueueBarToFiexd, 'audio-play-queue-bar-go-out-fixed-animation': !audioPlayQueueBarToFiexd}" :style="{'margin-bottom': -audioPlayQueueBarHeight}">
                     <p style="margin-bottom: 0px;">提示：對按鈕，拖曳可以排序，點一下可以移除，按右鍵可以下載語音。</p>
                     <draggable v-model="audioPlayQueue" style="margin-top: 15px; margin-bottom: 15px;flex: 0; overflow: auto;">
-                        <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="['button', (k == playIndex - 1)? 'play-item' : '']" @click="removeQueueItem(k)" @touchstart="queueButtonTouchDown(item)" @touchmove="queueButtonTouchMove(item)" @touchend="queueButtonTouchUp(item, k)" @contextmenu="item.url? contextMenu($event, item): ()=>{}" :disabled="playing">{{item.name}}</v-btn>
+                        <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="['button', (k == playIndex - 1)? 'play-item' : '']" @click="removeQueueItem(k)" @touchstart="queueButtonTouchDown(item)" @touchmove="queueButtonTouchMove(item)" @touchend="queueButtonTouchUp(item, k)" @contextmenu="item.url? contextMenu($event, item, true): ()=>{}" :disabled="playing">{{item.name}}</v-btn>
                      </draggable>
                      <div style="margin-bottom: 15px;">
                         <v-btn dark elevation="3" @click="playButton" :disabled="playing">
@@ -405,7 +427,6 @@
                             <span>分享</span>
                         </v-btn>
                      </div>
-                    <v-text-field dark v-model="searchString" label="搜尋"></v-text-field>
                     <v-btn dark elevation="3" :class="{'drop-down-button': true, 'drop-down-button-to-fixed': !audioPlayQueueBarToFiexd}" @click="dropDownAudioPlayQueueBar" v-show="audioPlayQueueBarInvisible || audioPlayQueueBarToFiexd">
                         <v-icon v-if="audioPlayQueueBarToFiexd">mdi-chevron-up</v-icon>
                         <v-icon v-else="audioPlayQueueBarToFiexd">mdi-chevron-down</v-icon>
@@ -414,11 +435,16 @@
                 
                 <div :style="{'margin-top': audioPlayQueueBarHeight}">
                     <p>提示：對按鈕，點一下可以預覽，點兩下可以加入至播放序列，按右鍵可以下載語音。</p>
+                    <v-text-field dark v-model="searchString" label="搜尋"></v-text-field>
+                    <div style="margin-bottom: 10px;">
+                        <p style="margin-bottom: 1px;" v-show="searchString">收尋結果：</p>
+                        <v-btn dark elevation="3" class="button text-truncate" style="max-width: 300px;" v-for="(item, k) in searchResaultButtons" :key="k" @click="preview(item)" @contextmenu="item.url? contextMenu($event, item, false): ()=>{}">{{item.name}}</v-btn>
+                    </div>
                     <v-expansion-panels dark focusable>
                         <v-expansion-panel v-for="(audioGroup, i) in audios">
                             <v-expansion-panel-header>{{audioGroup.name}}</v-expansion-panel-header>
                             <v-expansion-panel-content>
-                                <v-btn elevation="3" class="button text-truncate" style="max-width: 300px;" v-for="(item, k) in audioGroup.datas" :key="k" @click="preview(item)" @contextmenu="item.url? contextMenu($event, item): ()=>{}" v-show="item.name.indexOf(searchString) > -1">{{item.name}}</v-btn>
+                                <v-btn elevation="3" class="button text-truncate" style="max-width: 300px;" v-for="(item, k) in audioGroup.datas" :key="k" @click="preview(item)" @contextmenu="item.url? contextMenu($event, item, false): ()=>{}">{{item.name}}</v-btn>
                             </v-expansion-panel-content>
                         </v-expansion-panel>
                     </v-expansion-panels>
@@ -428,6 +454,9 @@
                     <v-list>
                         <v-list-item @click="contextMenuItemClick($event, 0)">
                             <v-list-item-title v-text="'下載語音'"></v-list-item-title>
+                        </v-list-item>
+                        <v-list-item @click="contextMenuItemClick($event, 1)" v-show="isQueueButtonShowMenu">
+                            <v-list-item-title v-text="'複製一個'"></v-list-item-title>
                         </v-list-item>
                     </v-list>
                 </v-menu>
@@ -483,7 +512,7 @@
                             關於
                         </v-card-title>
                         <v-card-text>
-                            大濕之音 v1.9.0923
+                            大濕之音 v1.10.0926
                             <br/>
                             作者：jack850628
                             <br/>
