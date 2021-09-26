@@ -334,6 +334,10 @@
                         this.audioPlayQueueBarToFiexd = !this.audioPlayQueueBarToFiexd;
                     },
 
+                    goToCollection(){
+                        window.open('https://jack850628.github.io/wet-elephant-sound-collection/');
+                    },
+
                     async install(){
                         this.deferredPrompt.prompt();
                         const { outcome } = await this.deferredPrompt.userChoice;
@@ -381,6 +385,9 @@
                 <w-icon></w-icon>
                 <v-toolbar-title>大濕之音</v-toolbar-title>
                 <v-spacer></v-spacer>
+                <v-btn dark depressed @click="goToCollection()">
+                    大濕之音集合
+                </v-btn>
                 <v-tooltip bottom>
                     <template v-slot:activator="{ on, attrs }">
                         <v-btn icon @click="install" v-bind="attrs" v-on="on" v-show="deferredPrompt != null">
