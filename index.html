@@ -96,7 +96,7 @@
     <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.8.4/Sortable.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.20.0/vuedraggable.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
-    <script src="./audios.js?v=1.10.0927"></script>
+    <script src="./audios.js?v=1.11.0927"></script>
     <script>
         const SOUND_SOURCE = 'https://www.myinstants.com';
         const SEARCH_PARAMS_1 = 'q', SEARCH_PARAMS_2 = 'i', SEARCH_PARAMS_3 = 's';
@@ -335,7 +335,10 @@
                     },
 
                     goToCollection(){
-                        window.open('https://jack850628.github.io/wet-elephant-sound-collection/');
+                        window.open('/wet-elephant-sound-collection/');
+                    },
+                    shareToCollection(){
+                        window.open(`/wet-elephant-sound-collection/?a=${btoa(this.shareLink)}`);
                     },
 
                     async install(){
@@ -481,6 +484,9 @@
                                 <v-icon>mdi-content-copy</v-icon>
                                 <span>複製</span>
                             </v-btn>
+                            <v-btn text @click="shareToCollection()">
+                                <span>加入至大濕之音集合</span>
+                            </v-btn>
                             <v-btn color="primary" text  @click="share = false">
                                 關閉
                             </v-btn>
@@ -519,7 +525,7 @@
                             關於
                         </v-card-title>
                         <v-card-text>
-                            大濕之音 v1.10.0927
+                            大濕之音 v1.11.0927
                             <br/>
                             作者：jack850628
                             <br/>
