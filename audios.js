@@ -1571,6 +1571,11 @@ var audios = [
             "name":"『超度經』",
             "url":"/media/sounds/chao-du-jing.mp3",
             "id":3876
+         },
+         {
+            "name":"金童玉女",
+            "url":"/media/sounds/jin-tong-yu-nu.mp3",
+            "id":4089
          }
       ]
    },
@@ -2396,6 +2401,16 @@ var audios = [
             "name":"智商堪憂",
             "url":"/media/sounds/zhi-shang-kan-you.mp3",
             "id":3943
+         },
+         {
+            "name":"我幹你娘！",
+            "url":"/media/sounds/wo-gan-ni-niang.mp3",
+            "id":4099
+         },
+         {
+            "name":"操你媽的雞巴",
+            "url":"/media/sounds/cao-ni-ma-de-ji-ba.mp3",
+            "id":4100
          }
       ]
    },
@@ -2476,6 +2491,16 @@ var audios = [
             "name":"講直白一點啦",
             "url":"/media/sounds/jiang-zhi-bai-yi-dian-la.mp3",
             "id":3880
+         },
+         {
+            "name":"對賭啦(台)",
+            "url":"/media/sounds/dui-du-la-tai.mp3",
+            "id":4097
+         },
+         {
+            "name":"幹你娘我跟你講你別跑(台)",
+            "url":"/media/sounds/gan-ni-niang-wo-gen-ni-jiang-ni-bie-pao-tai.mp3",
+            "id":4098
          }
       ]
    },
@@ -4381,6 +4406,56 @@ var audios = [
             "name":"啊～～～3",
             "url":"/media/sounds/da-shi-a-3.mp3",
             "id":3929
+         },
+         {
+            "name":"NICONICONI",
+            "url":"/media/sounds/da-shi-niconiconi.mp3",
+            "id":4102
+         },
+         {
+            "name":"ㄌㄨㄟ",
+            "url":"/media/sounds/luei.mp3",
+            "id":4103
+         },
+         {
+            "name":"叮叮叮叮叮",
+            "url":"/media/sounds/ding-ding-ding-ding-ding.mp3",
+            "id":4104
+         },
+         {
+            "name":"咕咕咕咕～",
+            "url":"/media/sounds/gu-gu-gu-gu.mp3",
+            "id":4105
+         },
+         {
+            "name":"嗚嗚嗚喔",
+            "url":"/media/sounds/wu-wu-wu-wo.mp3",
+            "id":4106
+         },
+         {
+            "name":"嗡➚～2",
+            "url":"/media/sounds/weng-2.mp3",
+            "id":4107
+         },
+         {
+            "name":"大濕引擎15",
+            "url":"/media/sounds/da-shi-yin-qing-15.mp3",
+            "id":4108
+         },
+         {
+            "name":"菇摸～",
+            "url":"/media/sounds/gu-mo.mp3",
+            "id":4109
+         },
+         {
+            "name":"菇摸～2",
+            "url":"/media/sounds/gu-mo-2.mp3",
+            "id":4110
+         },
+         {
+            "name":"嗡嗡嗡5",
+            "url":"/media/sounds/weng-weng-weng-5.mp3",
+            "id":4111
          }
       ]
    },
@@ -5891,6 +5966,16 @@ var audios = [
             "name":"我的很大",
             "url":"/media/sounds/wo-de-hen-da.mp3",
             "id":3935
+         },
+         {
+            "name":"我要被肛了",
+            "url":"/media/sounds/wo-yao-bei-gang-liao.mp3",
+            "id":4093
+         },
+         {
+            "name":"被肛了啦",
+            "url":"/media/sounds/bei-gang-liao-la.mp3",
+            "id":4094
          }
       ]
    },
@@ -6646,6 +6731,11 @@ var audios = [
             "name":"吃的保證全家平平安安健健康康",
             "url":"/media/sounds/.mp3_xpJTmQZ",
             "id":3408
+         },
+         {
+            "name":"吃下去邱建祥有呼狗幹沒(台)",
+            "url":"/media/sounds/chi-xia-qu-qiu-jian-xiang-you-hu-gou-gan-mei-tai.mp3",
+            "id":4101
          }
       ]
    },
@@ -7431,6 +7521,41 @@ var audios = [
             "name":"韭菜盒子",
             "url":"/media/sounds/jiu-cai-he-zi.mp3",
             "id":3941
+         },
+         {
+            "name":"梅干控肉",
+            "url":"/media/sounds/mei-gan-kong-rou.mp3",
+            "id":4066
+         },
+         {
+            "name":"水餃",
+            "url":"/media/sounds/shui-jiao.mp3",
+            "id":4067
+         },
+         {
+            "name":"洋蔥",
+            "url":"/media/sounds/yang-cong.mp3",
+            "id":4068
+         },
+         {
+            "name":"紅豆",
+            "url":"/media/sounds/hong-dou.mp3",
+            "id":4069
+         },
+         {
+            "name":"綠茶",
+            "url":"/media/sounds/lu-cha.mp3",
+            "id":4070
+         },
+         {
+            "name":"芋泥包",
+            "url":"/media/sounds/yu-ni-bao.mp3",
+            "id":4071
+         },
+         {
+            "name":"豬排",
+            "url":"/media/sounds/zhu-pai.mp3",
+            "id":4072
          }
       ]
    },
@@ -7621,6 +7746,11 @@ var audios = [
             "name":"吐口水",
             "url":"/media/sounds/tu-kou-shui.mp3",
             "id":3938
+         },
+         {
+            "name":"北斗百烈拳～",
+            "url":"/media/sounds/bei-dou-bai-lie-quan_MER8rDQ.mp3",
+            "id":4092
          }
       ]
    },
@@ -8426,6 +8556,16 @@ var audios = [
             "name":"超會喝？",
             "url":"/media/sounds/chao-hui-he.mp3",
             "id":3794
+         },
+         {
+            "name":"因為我阿嬤念我我受不了",
+            "url":"/media/sounds/yin-wei-wo-a-ma-nian-wo-wo-shou-bu-liao.mp3",
+            "id":4095
+         },
+         {
+            "name":"那天",
+            "url":"/media/sounds/na-tian.mp3",
+            "id":4096
          }
       ]
    },
@@ -8541,6 +8681,11 @@ var audios = [
             "name":"丟掉喔(台)",
             "url":"/media/sounds/diu-diao-wo-tai.mp3",
             "id":3875
+         },
+         {
+            "name":"吃什麼(台)",
+            "url":"/media/sounds/chi-shi-mo-tai.mp3",
+            "id":4088
          }
       ]
    },
@@ -8721,6 +8866,16 @@ var audios = [
             "name":"長壽～",
             "url":"/media/sounds/chang-shou.mp3",
             "id":3692
+         },
+         {
+            "name":"有哈鮭要同行",
+            "url":"/media/sounds/you-ha-gui-yao-tong-xing.mp3",
+            "id":4090
+         },
+         {
+            "name":"還有右拳要同行",
+            "url":"/media/sounds/huan-you-you-quan-yao-tong-xing.mp3",
+            "id":4091
          }
       ]
    },
@@ -8881,6 +9036,101 @@ var audios = [
             "name":"野格炸彈",
             "url":"/media/sounds/ye-ge-zha-dan.mp3",
             "id":4001
+         }
+      ]
+   },
+   {
+      "name":"兩隻老虎",
+      "datas":[
+         {
+            "name":"一起被幹",
+            "url":"/media/sounds/yi-qi-bei-gan.mp3",
+            "id":4073
+         },
+         {
+            "name":"兩隻老虎",
+            "url":"/media/sounds/liang-zhi-lao-hu.mp3",
+            "id":4074
+         },
+         {
+            "name":"前面是個邱建祥",
+            "url":"/media/sounds/qian-mian-shi-ge-qiu-jian-xiang.mp3",
+            "id":4075
+         },
+         {
+            "name":"後面是個卓孝宣",
+            "url":"/media/sounds/hou-mian-shi-ge-zhuo-xiao-xuan.mp3",
+            "id":4076
+         },
+         {
+            "name":"誰被幹",
+            "url":"/media/sounds/shui-bei-gan.mp3",
+            "id":4077
+         }
+      ]
+   },
+   {
+      "name":"叫人起床",
+      "datas":[
+         {
+            "name":"起床啦",
+            "url":"/media/sounds/.mp3_DeRbxZw",
+            "id":2702
+         },
+         {
+            "name":"你娘機掰還在睡(台)",
+            "url":"/media/sounds/ni-niang-ji-bai-huan-zai-shui-tai.mp3",
+            "id":4078
+         },
+         {
+            "name":"起床啦(台)",
+            "url":"/media/sounds/qi-chuang-la-tai.mp3",
+            "id":4079
+         },
+         {
+            "name":"起床囉(台)",
+            "url":"/media/sounds/qi-chuang-luo-tai.mp3",
+            "id":4080
+         },
+         {
+            "name":"起床囉(台)2",
+            "url":"/media/sounds/qi-chuang-luo-tai-2.mp3",
+            "id":4081
+         },
+         {
+            "name":"起床尿尿啦",
+            "url":"/media/sounds/qi-chuang-niao-niao-la.mp3",
+            "id":4082
+         },
+         {
+            "name":"起床啦2",
+            "url":"/media/sounds/qi-chuang-la-2.mp3",
+            "id":4083
+         }
+      ]
+   },
+   {
+      "name":"吸奶",
+      "datas":[
+         {
+            "name":"吸奶～",
+            "url":"/media/sounds/xi-nai.mp3",
+            "id":4084
+         },
+         {
+            "name":"哭啊～",
+            "url":"/media/sounds/ku-a.mp3",
+            "id":4085
+         },
+         {
+            "name":"無情單殺",
+            "url":"/media/sounds/wu-qing-dan-sha.mp3",
+            "id":4086
+         },
+         {
+            "name":"無情雙殺",
+            "url":"/media/sounds/wu-qing-shuang-sha.mp3",
+            "id":4087
          }
       ]
    },
@@ -15303,11 +15553,6 @@ var audios = [
             "id":2701
          },
          {
-            "name":"起床啦",
-            "url":"/media/sounds/.mp3_DeRbxZw",
-            "id":2702
-         },
-         {
             "name":"跟",
             "url":"/media/sounds/.mp3_gM0G4Ec",
             "id":2703
@@ -17841,6 +18086,271 @@ var audios = [
             "name":"野",
             "url":"/media/sounds/da-shi-ye.mp3",
             "id":4012
+         },
+         {
+            "name":"きらきら",
+            "url":"/media/sounds/kirakira.mp3",
+            "id":4013
+         },
+         {
+            "name":"一清二楚",
+            "url":"/media/sounds/yi-qing-er-chu.mp3",
+            "id":4014
+         },
+         {
+            "name":"不要跑",
+            "url":"/media/sounds/bu-yao-pao.mp3",
+            "id":4015
+         },
+         {
+            "name":"享受",
+            "url":"/media/sounds/xiang-shou.mp3",
+            "id":4016
+         },
+         {
+            "name":"修",
+            "url":"/media/sounds/xiu.mp3",
+            "id":4017
+         },
+         {
+            "name":"傭",
+            "url":"/media/sounds/yong.mp3",
+            "id":4018
+         },
+         {
+            "name":"別吃我！",
+            "url":"/media/sounds/bie-chi-wo.mp3",
+            "id":4019
+         },
+         {
+            "name":"勾",
+            "url":"/media/sounds/gou.mp3",
+            "id":4020
+         },
+         {
+            "name":"同",
+            "url":"/media/sounds/tong.mp3",
+            "id":4021
+         },
+         {
+            "name":"哭",
+            "url":"/media/sounds/ku_J3TXLNG.mp3",
+            "id":4022
+         },
+         {
+            "name":"回天乏術",
+            "url":"/media/sounds/hui-tian-fa-shu.mp3",
+            "id":4023
+         },
+         {
+            "name":"報應",
+            "url":"/media/sounds/bao-ying.mp3",
+            "id":4024
+         },
+         {
+            "name":"壓2",
+            "url":"/media/sounds/ya-2.mp3",
+            "id":4025
+         },
+         {
+            "name":"寶特瓶",
+            "url":"/media/sounds/bao-te-ping.mp3",
+            "id":4026
+         },
+         {
+            "name":"快樂",
+            "url":"/media/sounds/kuai-le.mp3",
+            "id":4027
+         },
+         {
+            "name":"悲劇",
+            "url":"/media/sounds/bei-ju.mp3",
+            "id":4028
+         },
+         {
+            "name":"悲哀",
+            "url":"/media/sounds/bei-ai.mp3",
+            "id":4029
+         },
+         {
+            "name":"我來囉～",
+            "url":"/media/sounds/wo-lai-luo.mp3",
+            "id":4030
+         },
+         {
+            "name":"我是一支小小小小鳥",
+            "url":"/media/sounds/wo-shi-yi-zhi-xiao-xiao-xiao-xiao-niao.mp3",
+            "id":4031
+         },
+         {
+            "name":"手摸哪(台)",
+            "url":"/media/sounds/shou-mo-na-tai.mp3",
+            "id":4032
+         },
+         {
+            "name":"手摸哪",
+            "url":"/media/sounds/shou-mo-na.mp3",
+            "id":4033
+         },
+         {
+            "name":"抹布",
+            "url":"/media/sounds/mo-bu.mp3",
+            "id":4034
+         },
+         {
+            "name":"排檔桿",
+            "url":"/media/sounds/pai-dang-gan.mp3",
+            "id":4035
+         },
+         {
+            "name":"撐",
+            "url":"/media/sounds/cheng_kAvgtvq.mp3",
+            "id":4036
+         },
+         {
+            "name":"撤銷",
+            "url":"/media/sounds/che-xiao.mp3",
+            "id":4037
+         },
+         {
+            "name":"敵",
+            "url":"/media/sounds/di.mp3",
+            "id":4038
+         },
+         {
+            "name":"明",
+            "url":"/media/sounds/ming.mp3",
+            "id":4039
+         },
+         {
+            "name":"是誰來啦",
+            "url":"/media/sounds/shi-shui-lai-la.mp3",
+            "id":4040
+         },
+         {
+            "name":"有東西嗎？",
+            "url":"/media/sounds/you-dong-xi-ma.mp3",
+            "id":4041
+         },
+         {
+            "name":"梭哈",
+            "url":"/media/sounds/suo-ha.mp3",
+            "id":4042
+         },
+         {
+            "name":"水啦(台)",
+            "url":"/media/sounds/shui-la-tai.mp3",
+            "id":4043
+         },
+         {
+            "name":"注意",
+            "url":"/media/sounds/zhu-yi.mp3",
+            "id":4044
+         },
+         {
+            "name":"無",
+            "url":"/media/sounds/wu.mp3",
+            "id":4045
+         },
+         {
+            "name":"熊啊！",
+            "url":"/media/sounds/xiong-a.mp3",
+            "id":4046
+         },
+         {
+            "name":"痾～我想一下喔",
+            "url":"/media/sounds/e-wo-xiang-yi-xia-wo.mp3",
+            "id":4047
+         },
+         {
+            "name":"白",
+            "url":"/media/sounds/bai.mp3",
+            "id":4048
+         },
+         {
+            "name":"盡力了啦",
+            "url":"/media/sounds/jin-li-liao-la.mp3",
+            "id":4049
+         },
+         {
+            "name":"累",
+            "url":"/media/sounds/lei.mp3",
+            "id":4050
+         },
+         {
+            "name":"給車撞死",
+            "url":"/media/sounds/gei-che-zhuang-si.mp3",
+            "id":4051
+         },
+         {
+            "name":"賠錢",
+            "url":"/media/sounds/pei-qian.mp3",
+            "id":4052
+         },
+         {
+            "name":"賴皮",
+            "url":"/media/sounds/lai-pi.mp3",
+            "id":4053
+         },
+         {
+            "name":"趕快",
+            "url":"/media/sounds/gan-kuai.mp3",
+            "id":4054
+         },
+         {
+            "name":"跑喔",
+            "url":"/media/sounds/pao-wo.mp3",
+            "id":4055
+         },
+         {
+            "name":"這個是鬼吧",
+            "url":"/media/sounds/zhe-ge-shi-gui-ba.mp3",
+            "id":4056
+         },
+         {
+            "name":"這種",
+            "url":"/media/sounds/zhe-zhong.mp3",
+            "id":4057
+         },
+         {
+            "name":"道理",
+            "url":"/media/sounds/dao-li.mp3",
+            "id":4058
+         },
+         {
+            "name":"鄉巴佬",
+            "url":"/media/sounds/xiang-ba-lao.mp3",
+            "id":4059
+         },
+         {
+            "name":"金",
+            "url":"/media/sounds/jin.mp3",
+            "id":4060
+         },
+         {
+            "name":"電視",
+            "url":"/media/sounds/dian-shi.mp3",
+            "id":4061
+         },
+         {
+            "name":"願望",
+            "url":"/media/sounds/yuan-wang.mp3",
+            "id":4062
+         },
+         {
+            "name":"養",
+            "url":"/media/sounds/yang_AJOBiJ9.mp3",
+            "id":4063
+         },
+         {
+            "name":"黏",
+            "url":"/media/sounds/nian.mp3",
+            "id":4064
+         },
+         {
+            "name":"驗",
+            "url":"/media/sounds/da-shi-yan.mp3",
+            "id":4065
          }
       ]
    },
@@ -19981,6 +20491,86 @@ var audios = [
             "name":"嘎抓：『可惡』",
             "url":"/media/sounds/ga-zhua-ke-e.mp3",
             "id":3995
+         },
+         {
+            "name":"嘎抓：『NICONICONI2』",
+            "url":"/media/sounds/ga-zhua-niconiconi2.mp3",
+            "id":4112
+         },
+         {
+            "name":"嘎抓：『NICONICONI』",
+            "url":"/media/sounds/ga-zhua-niconiconi.mp3",
+            "id":4113
+         },
+         {
+            "name":"嘎抓：『不要一天到晚打電動』",
+            "url":"/media/sounds/ga-zhua-bu-yao-yi-tian-dao-wan-da-dian-dong.mp3",
+            "id":4114
+         },
+         {
+            "name":"嘎抓：『去看點書好不好』",
+            "url":"/media/sounds/ga-zhua-qu-kan-dian-shu-hao-bu-hao.mp3",
+            "id":4115
+         },
+         {
+            "name":"嘎抓：『嘎抓引擎2』",
+            "url":"/media/sounds/ga-zhua-ga-zhua-yin-qing-2.mp3",
+            "id":4116
+         },
+         {
+            "name":"嘎抓：『嘎抓引擎3』",
+            "url":"/media/sounds/ga-zhua-ga-zhua-yin-qing-3.mp3",
+            "id":4117
+         },
+         {
+            "name":"嘎抓：『嘎抓引擎4』",
+            "url":"/media/sounds/ga-zhua-ga-zhua-yin-qing-4.mp3",
+            "id":4118
+         },
+         {
+            "name":"嘎抓：『嘎抓引擎5』",
+            "url":"/media/sounds/ga-zhua-ga-zhua-yin-qing-5.mp3",
+            "id":4119
+         },
+         {
+            "name":"嘎抓：『嘎抓引擎6』",
+            "url":"/media/sounds/ga-zhua-ga-zhua-yin-qing-6.mp3",
+            "id":4120
+         },
+         {
+            "name":"嘎抓：『嘎抓引擎』",
+            "url":"/media/sounds/ga-zhua-ga-zhua-yin-qing.mp3",
+            "id":4121
+         },
+         {
+            "name":"嘎抓：『噢！死掉了啦！都你害的啦！』",
+            "url":"/media/sounds/ga-zhua-yu-si-diao-liao-la-du-ni-hai-de-la.mp3",
+            "id":4122
+         },
+         {
+            "name":"嘎抓：『我只是希望你好好讀書』",
+            "url":"/media/sounds/ga-zhua-wo-zhi-shi-xi-wang-ni-hao-hao-du-shu.mp3",
+            "id":4123
+         },
+         {
+            "name":"嘎抓：『操盤手』",
+            "url":"/media/sounds/ga-zhua-cao-pan-shou.mp3",
+            "id":4124
+         },
+         {
+            "name":"嘎抓：『整天就看你只知道玩遊戲』",
+            "url":"/media/sounds/ga-zhua-zheng-tian-jiu-kan-ni-zhi-zhi-dao-wan-you-xi.mp3",
+            "id":4125
+         },
+         {
+            "name":"嘎抓：『煩』",
+            "url":"/media/sounds/ga-zhua-fan.mp3",
+            "id":4126
+         },
+         {
+            "name":"嘎抓：『跟你講我阿嬤超兇的』",
+            "url":"/media/sounds/ga-zhua-gen-ni-jiang-wo-a-ma-chao-xiong-de.mp3",
+            "id":4127
          }
       ]
    },
@@ -20022,7 +20612,7 @@ var audios = [
             "id":2640
          },
          {
-            "name":"嘿嘿！我是衛浴設備",
+            "name":"桑尤姆：『嘿嘿！我是衛浴設備』",
             "url":"/media/sounds/.mp3_vGVqnsr",
             "id":3174
          },
@@ -20240,6 +20830,91 @@ var audios = [
             "name":"桑尤姆：『韓貨』",
             "url":"/media/sounds/sang-you-mu-han-huo.mp3",
             "id":3959
+         },
+         {
+            "name":"桑尤姆：『不可以色色』",
+            "url":"/media/sounds/sang-you-mu-bu-ke-yi-se-se.mp3",
+            "id":4128
+         },
+         {
+            "name":"桑尤姆：『你倒大楣了』",
+            "url":"/media/sounds/sang-you-mu-ni-dao-da-mei-liao.mp3",
+            "id":4129
+         },
+         {
+            "name":"桑尤姆：『你好～』",
+            "url":"/media/sounds/sang-you-mu-ni-hao.mp3",
+            "id":4130
+         },
+         {
+            "name":"桑尤姆：『你挺結實的嘛』",
+            "url":"/media/sounds/sang-you-mu-ni-ting-jie-shi-de-ma.mp3",
+            "id":4131
+         },
+         {
+            "name":"桑尤姆：『右拳寶寶2』",
+            "url":"/media/sounds/sang-you-mu-you-quan-bao-bao-2.mp3",
+            "id":4132
+         },
+         {
+            "name":"桑尤姆：『右拳寶寶』",
+            "url":"/media/sounds/sang-you-mu-you-quan-bao-bao.mp3",
+            "id":4133
+         },
+         {
+            "name":"桑尤姆：『唉呦』",
+            "url":"/media/sounds/sang-you-mu-ai-you.mp3",
+            "id":4134
+         },
+         {
+            "name":"桑尤姆：『嗚嗚』",
+            "url":"/media/sounds/sang-you-mu-wu-wu.mp3",
+            "id":4135
+         },
+         {
+            "name":"桑尤姆：『嗯～』",
+            "url":"/media/sounds/sang-you-mu-ng.mp3",
+            "id":4136
+         },
+         {
+            "name":"桑尤姆：『尤姆引擎2』",
+            "url":"/media/sounds/sang-you-mu-you-mu-yin-qing-2.mp3",
+            "id":4137
+         },
+         {
+            "name":"桑尤姆：『尤姆引擎3』",
+            "url":"/media/sounds/sang-you-mu-you-mu-yin-qing-3.mp3",
+            "id":4138
+         },
+         {
+            "name":"桑尤姆：『尤姆引擎4』",
+            "url":"/media/sounds/sang-you-mu-you-mu-yin-qing-4.mp3",
+            "id":4139
+         },
+         {
+            "name":"桑尤姆：『尤姆引擎5』",
+            "url":"/media/sounds/sang-you-mu-you-mu-yin-qing-5.mp3",
+            "id":4140
+         },
+         {
+            "name":"桑尤姆：『尤姆引擎』",
+            "url":"/media/sounds/sang-you-mu-you-mu-yin-qing.mp3",
+            "id":4141
+         },
+         {
+            "name":"桑尤姆：『幹你的』",
+            "url":"/media/sounds/sang-you-mu-gan-ni-de.mp3",
+            "id":4142
+         },
+         {
+            "name":"桑尤姆：『說。你。好』",
+            "url":"/media/sounds/sang-you-mu-shuo-ni-hao.mp3",
+            "id":4143
+         },
+         {
+            "name":"桑尤姆：『讓我看看啊』",
+            "url":"/media/sounds/sang-you-mu-rang-wo-kan-kan-a.mp3",
+            "id":4144
          }
       ]
    },
