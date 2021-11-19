@@ -1,0 +1,37 @@
+{
+  "name": "wet-elephant-sound",
+  "version": "1.12.1119",
+  "description": "Wet Elephant Sound",
+  "main": "index.js",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/jack850628/wet-elephant-sound.git"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "jack850628",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "css-loader": "^5.0.1",
+    "deepmerge": "^4.2.2",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0",
+    "stream": "0.0.2",
+    "mini-server": "^1.0.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "concat-audio-buffers": "^1.0.0",
+    "lamejs": "^1.2.0"
+  }
+}

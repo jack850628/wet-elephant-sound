@@ -100,10 +100,12 @@
     <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.8.4/Sortable.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.20.0/vuedraggable.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
-    <script src="./audios.js?v=1.11.1111"></script>
+    <script src="./dist/index.bundle.js"></script>
+    <script src="./audios.js?v=1.12.1119"></script>
     <!-- <script src="./game.js"></script> -->
     <script>
         const SOUND_SOURCE = 'https://www.myinstants.com';
+        const SOUND_SOURCE_2 = 'https://wet-elephant-sound-audio-get.myonedriveindex.workers.dev';
         const SEARCH_PARAMS_1 = 'q', SEARCH_PARAMS_2 = 'i', SEARCH_PARAMS_3 = 's';
         const IMAGE_SOURCE_HOST_FOR_SOUND_IMAGE = [
             'i.imgur.com',
@@ -182,6 +184,9 @@
                     itemByShowMenu: null,
                     menuX: 0,
                     menuY: 0,
+
+                    downloading: false,
+                    downloadScheduleValue: 0
                 },
                 watch:{
                     imageSourceLink(value){
@@ -219,13 +224,13 @@
                     checkAudioPlayQueue(){
                         if(this.playing && this.playIndex < this.audioPlayQueue.length){
                             let audio = this.audioPlayQueue[this.playIndex];
-                            if(audio.url){
-                                this.play(audio.url);
-                            }else if(audio.second){
+                            if(audio.second){
                                 this.delayId = setTimeout(() => {
                                     this.delayId = null;
                                     this.checkAudioPlayQueue();
                                 }, audio.second);
+                            }else if(audio.url){
+                                this.play(audio.url);
                             }
                             this.playIndex++;
                         }else{
@@ -243,6 +248,12 @@
                             this.checkAudioPlayQueue();
                         }
                     },
+                    smoothPlayButton(){
+                        if(this.audioPlayQueue.length > 0){
+                            this.playing = true;
+                            this.prepareAudioArrayBuffer();
+                        }
+                    },
                     stop(){
                         this.playing = false;
                         this.playIndex = -1;
@@ -251,6 +262,7 @@
                             clearTimeout(this.delayId);
                         }
                         audio.pause();
+                        stopByteArray();
                     },
                     clearButton(){
                         this.audioPlayQueue.splice(0, this.audioPlayQueue.length);
@@ -289,6 +301,11 @@
                         shareLink.select();
                         document.execCommand("copy");
                     },
+                    prepareAudioArrayBuffer(){
+                        this.prepareAudios().then((arrayBuffers) => {
+                            playByteArray(arrayBuffers, () => this.playing = false);
+                        });
+                    },
 
                     goToSoundImage(){
                         this.createSoundImage = false;
@@ -326,6 +343,41 @@
                                 this.audioPlayQueue.push(this.itemByShowMenu);
                                 break;
                         }
+                    },
+                    downloadAudioButton(){
+                        if(this.audioPlayQueue.length > 0){
+                            this.downloading = true;
+                            this.prepareAudios().then((arrayBuffers) => {
+                                downloadAudio(arrayBuffers, (scheduleValue) => {
+                                    if(scheduleValue != 100){
+                                        this.downloadScheduleValue = scheduleValue;
+                                    }else{
+                                        this.downloadScheduleValue = 0;
+                                        this.downloading = false;
+                                    }
+                                });
+                            }).catch(e => {
+                                this.downloading = false;
+                                console.log(e)
+                            });
+                        }
+                    },
+                    prepareAudios(){
+                        return new Promise((resolve, reject) => {
+                            var process = [];
+                            for(let audio of this.audioPlayQueue){
+                                if(audio.arrayBuffer) continue;
+                                process.push(
+                                    fetch((audio.second? '': SOUND_SOURCE_2) + audio.url)
+                                        .then(response => response.blob())
+                                        .then(blob => blob.arrayBuffer())
+                                        .then(audioBuffer => audio.arrayBuffer = audioBuffer)
+                                );
+                            }
+                            Promise.all(process)
+                                .then((p) => resolve(this.audioPlayQueue.map(a => a.arrayBuffer)))
+                                .catch(e => reject(e));
+                        });
                     },
 
                     mainScroll(event){
@@ -427,6 +479,10 @@
                             <v-icon>mdi-play</v-icon>
                             <span>播放</span>
                         </v-btn>
+                        <v-btn dark elevation="3" @click="smoothPlayButton" :disabled="playing">
+                            <v-icon>mdi-play</v-icon>
+                            <span>流暢播放</span>
+                        </v-btn>
                         <v-btn dark elevation="3" @click="stop">
                             <v-icon>mdi-stop</v-icon>
                             <span>停止</span>
@@ -438,6 +494,10 @@
                         <v-btn dark elevation="3" @click="createSoundImage = true">
                             <v-icon>mdi-image-plus</v-icon>
                             <span>建立有聲圖</span>
+                        </v-btn>
+                        <v-btn dark elevation="3" @click="downloadAudioButton" :disabled="playing">
+                            <v-icon>mdi-download</v-icon>
+                            <span>下載</span>
                         </v-btn>
                         <v-btn dark elevation="3" @click="shareButton">
                             <v-icon>mdi-share</v-icon>
@@ -478,7 +538,7 @@
                     </v-list>
                 </v-menu>
 
-                <v-dialog v-model="share" max-width="500px">
+                <v-dialog v-model="share" width="600">
                     <v-card>
                         <v-card-title>
                             分享
@@ -501,14 +561,14 @@
                     </v-card>
                 </v-dialog>
 
-                <v-dialog v-model="createSoundImage">
+                <v-dialog v-model="createSoundImage" width="600">
                     <v-card>
                         <v-card-title>
                             建立有聲圖
                         </v-card-title>
 
                         <div style="display: flex; justify-content: center;">
-                            <v-img :src="`https://i.imgur.com/${image}`" max-width="300"></v-img>
+                            <v-img :src="`https://i.imgur.com/${image}`"></v-img>
                         </div>
                         <v-text-field v-model="imageSourceLink" label="圖片連結(只允許imgur.com的連結)" :rules="[(value) => imageSourceLinkError || true]"></v-text-field>
                         <v-text-field v-model="soundImageTitle" label="圖片標題(只允許50個字)" :rules="[(value) => soundImageTitleError || true]"></v-text-field>
@@ -525,14 +585,27 @@
                     </v-card>
                 </v-dialog>
 
-                <v-dialog v-model="about" max-width="500px">
+                <v-dialog v-model="downloading" width="600" persistent>
+                    <v-card>
+                        <v-card-title>
+                            下載中
+                        </v-card-title>
+                        <v-progress-linear v-model="downloadScheduleValue" :indeterminate="downloadScheduleValue == 0" rounded height="20">
+                            <strong>{{downloadScheduleValue}}%</strong>
+                        </v-progress-linear>
+                        <v-card-actions>
+                        </v-card-actions>
+                    </v-card>
+                </v-dialog>
+
+                <v-dialog v-model="about" width="600">
                     <v-card>
                         <v-card-title>
                             <w-icon></w-icon>
                             關於
                         </v-card-title>
                         <v-card-text>
-                            大濕之音 v1.11.1111
+                            大濕之音 v1.12.1119
                             <br/>
                             作者：jack850628
                             <br/>

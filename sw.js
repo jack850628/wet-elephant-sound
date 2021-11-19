@@ -1,5 +1,5 @@
 var APP_PREFIX = 'wet-elephant-sound_';
-var VERSION = 'v1.11.1111';
+var VERSION = 'v1.12.1119';
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                            
   './',

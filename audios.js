@@ -5,11 +5,13 @@ var audios = [
          {
             "name":"『0.5秒』",
             "second":500,
+            "url":"audios/05sec.mp3",
             "id":431
          },
          {
             "name":"『1秒』",
             "second":1000,
+            "url":"audios/1sec.mp3",
             "id":432
          }
       ]
