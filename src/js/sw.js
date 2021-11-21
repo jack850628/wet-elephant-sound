@@ -1,10 +1,10 @@
-var APP_PREFIX = 'wet-elephant-sound_';
-var VERSION = 'v1.12.1119';
-var CACHE_NAME = APP_PREFIX + VERSION
-var URLS = [                            
+const PACKAGE = require('../../package.json');
+const APP_PREFIX = 'wet-elephant-sound_';
+const VERSION = 'v' + PACKAGE.version;
+const CACHE_NAME = APP_PREFIX + VERSION
+const URLS = [                            
   './',
   './index.html',
-  './audios.js',
 ]
 
 self.addEventListener('install', function(event) {

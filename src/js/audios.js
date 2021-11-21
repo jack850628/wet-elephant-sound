@@ -1,4 +1,4 @@
-var audios = [
+export default [
    {
       "name":"延遲",
       "datas":[
