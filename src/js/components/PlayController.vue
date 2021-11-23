@@ -1,8 +1,8 @@
 <template>
     <div id="play-controller">
         <p v-if="showQueue" style="margin-bottom: 0px;">提示：對按鈕，拖曳可以排序，點一下可以移除，按右鍵可以下載語音。</p>
-        <draggable v-if="showQueue" v-model="audioPlayQueue" style="margin-top: 15px; margin-bottom: 15px;flex: 0; overflow: auto;">
-        <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="{button: true, 'play-item': k == playIndex - 1 }" @click="removeQueueItem(k)" @touchstart="queueButtonTouchDown(item)" @touchmove="queueButtonTouchMove(item)" @touchend="queueButtonTouchUp(item, k)" @contextmenu="!item.second? contextMenu($event, item): ()=>{}" :disabled="playing">{{item.name}}</v-btn>
+        <draggable id="draggable" v-if="showQueue" v-model="audioPlayQueue">
+            <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="{button: true, 'play-item': k == playIndex}" @click="removeQueueItem(k)" @touchstart="queueButtonTouchDown(item)" @touchmove="queueButtonTouchMove(item)" @touchend="queueButtonTouchUp(item, k)" @contextmenu="!item.second? contextMenu($event, item): ()=>{}" :disabled="playing">{{item.name}}</v-btn>
         </draggable>
         <div style="margin-bottom: 15px;">
             <v-btn dark elevation="3" @click="playButton" :disabled="playing">
@@ -87,8 +87,8 @@ export default {
     },
     methods: {
         checkAudioPlayQueue(){
-            if(this.playing && this.playIndex < this.audioPlayQueue.length){
-                let audio = this.audioPlayQueue[this.playIndex];
+            if(this.playing && this.playIndex + 1 < this.audioPlayQueue.length){
+                let audio = this.audioPlayQueue[++this.playIndex];
                 if(audio.second){
                     this.delayId = setTimeout(() => {
                         this.delayId = null;
@@ -97,7 +97,6 @@ export default {
                 }else if(audio.url){
                     this.play(audio.url);
                 }
-                this.playIndex++;
             }else{
                 this.stop();
             }
@@ -109,7 +108,6 @@ export default {
         playButton(){
             if(this.audioPlayQueue.length > 0){
                 this.playing = true;
-                this.playIndex = 0;
                 this.checkAudioPlayQueue();
             }
         },
@@ -117,7 +115,7 @@ export default {
             if(this.audioPlayQueue.length > 0){
                 this.playing = true;
                 this.prepareAudios().then((arrayBuffers) => {
-                    playByteArray(arrayBuffers, () => this.playing = false);
+                    playByteArray(arrayBuffers, (index) => this.playIndex = index, this.stop);
                 });
             }
         },
@@ -245,6 +243,13 @@ export default {
         max-height: 100%;
         display: flex;
         flex-direction: column;
+    }
+    #draggable{
+        margin-top: 15px; 
+        margin-bottom: 15px;
+        flex: 0; 
+        overflow: auto;
+        overscroll-behavior: contain;
     }
     .play-item.v-btn.v-btn--disabled.v-btn--has-bg{
         background-color: orange !important;

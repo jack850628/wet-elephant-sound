@@ -7,10 +7,15 @@ if (!window.AudioContext) {
 
 var audioContext = new window.AudioContext();
 var audioBufferSourceNode;
+var audioLingths;
+var playing = false;
+var playStartTime;
+var currentPlayIndex;
+var nextUpdateTimePoint;
 
-export function playByteArray(arrayBuffers, onended = ()=>{}) {
+export function playByteArray(arrayBuffers, onPlayItemUpdate = (index) => {}, onEnded = ()=>{}) {
     prepareAudios(arrayBuffers)
-        .then(audioBuffer => play(audioContext, audioBuffer, onended))
+        .then(audioBuffer => play(audioContext, audioBuffer, onPlayItemUpdate, onEnded))
         .catch(e => console.log(e));
 }
 
@@ -35,8 +40,9 @@ export function downloadAudio(arrayBuffers, schedule = (value)=>{}){
 
 function prepareAudios(arrayBuffers){
     return new Promise((resolve, reject) => {
-        Promise.all(arrayBuffers.map(a => audioContext.decodeAudioData(a.slice(0)))).then(audios => {
-            concatAudioBuffers(audios, 1, function(error, audioBuffer){
+        Promise.all(arrayBuffers.map(a => audioContext.decodeAudioData(a.slice(0)))).then(audioBuffers => {
+            audioLingths = audioBuffers.map(i => i.duration);
+            concatAudioBuffers(audioBuffers, 1, function(error, audioBuffer){
                 if (error) {
                     reject(error);
                 } else {
@@ -47,12 +53,32 @@ function prepareAudios(arrayBuffers){
     });
 }
 
-function play(audioContext, buffer, onended) {
+function play(audioContext, buffer, onPlayItemUpdate, onEnded) {
     audioBufferSourceNode = audioContext.createBufferSource();
-    audioBufferSourceNode.onended = onended;
+    audioBufferSourceNode.onended = () => {
+        playing = false;
+        onEnded();
+    };
     audioBufferSourceNode.buffer = buffer;
     audioBufferSourceNode.connect(audioContext.destination);
+    nextUpdateTimePoint = 0;
+    currentPlayIndex = -1;
     audioBufferSourceNode.start();
+    playStartTime = audioContext.currentTime;
+    playing = true;
+    playItemUpdate.call({onPlayItemUpdate});
+}
+
+function playItemUpdate(){
+    if(audioContext.currentTime - playStartTime > nextUpdateTimePoint){
+        currentPlayIndex++;
+        if(currentPlayIndex < audioLingths.length){
+            this.onPlayItemUpdate(currentPlayIndex);
+            nextUpdateTimePoint += audioLingths[currentPlayIndex];
+        }
+    }
+    if(playing)
+        requestAnimationFrame(playItemUpdate.bind(this));
 }
 
 
