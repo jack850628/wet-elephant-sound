@@ -3,6 +3,12 @@ export default [
       "name":"延遲",
       "datas":[
          {
+            "name":"『0.1秒』",
+            "second":100,
+            "url":"audios/01sec.mp3",
+            "id":4583
+         },
+         {
             "name":"『0.5秒』",
             "second":500,
             "url":"audios/05sec.mp3",
@@ -19655,7 +19661,7 @@ export default [
             "id":4443
          },
          {
-            "name":"我帥到手～",
+            "name":"我帥到分手～",
             "url":"/media/sounds/wo-shuai-dao-shou.mp3",
             "id":4444
          },
