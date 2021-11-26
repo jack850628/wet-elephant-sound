@@ -6,6 +6,8 @@ import WIcom from '@/js/components/WIcon.vue';
 import PlayController from '@/js/components/PlayController.vue';
 import About from '@/js/components/About.vue';
 
+export {audios};
+
 const SOUND_SOURCE = 'https://www.myinstants.com';
 const SEARCH_PARAMS_1 = 'q', SEARCH_PARAMS_2 = 'i', SEARCH_PARAMS_3 = 's';
 const IMAGE_SOURCE_HOST_FOR_SOUND_IMAGE = [

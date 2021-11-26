@@ -17,7 +17,7 @@ module.exports = {
         return (pathData.chunk.name === 'sw' ? '': 'dist/') + '[name].bundle.js';
       },
       path: path.resolve(__dirname, '.'),
-      // libraryTarget: 'window',
+      libraryTarget: 'window',
   },
   module: {
       rules: [
