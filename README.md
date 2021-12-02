@@ -68,6 +68,6 @@ datas 下的 url 可以在[favorites](https://www.myinstants.com/favorites/)頁�
 #### id
 datas 下的 id 必須是唯一的值，目前我是用從 0 開始的遞增值，當要上傳聲音時，想要知道下一個聲音該用哪一個 id 時可以用瀏覽器開啟 index.html 並在 開發人員模式 中 Console 分頁裡執行腳本
 ```
-audios.flatMap(i=>i.datas).length
+WES.audios.flatMap(i=>i.datas).length
 ```
 執行後得到的數字就是下一個按鈕的 id ，這個 id 也是當要用 快速取得聲音.js 中腳本取得聲音時，要填入給 var id 的值。
