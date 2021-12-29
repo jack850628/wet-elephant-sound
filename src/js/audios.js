@@ -254,6 +254,36 @@ export default [
             "name":"王銘小森森",
             "url":"/media/sounds/wang-ming-xiao-sen-sen.mp3",
             "id":3874
+         },
+         {
+            "name":"仙界大濕(粵)",
+            "url":"/media/sounds/xian-jie-da-shi-yue.mp3",
+            "id":4668
+         },
+         {
+            "name":"右拳(客)",
+            "url":"/media/sounds/you-quan-ke.mp3",
+            "id":4669
+         },
+         {
+            "name":"張澤言",
+            "url":"/media/sounds/zhang-ze-yan.mp3",
+            "id":4670
+         },
+         {
+            "name":"懶貓子的右拳(客)",
+            "url":"/media/sounds/lan-mao-zi-de-you-quan-ke.mp3",
+            "id":4671
+         },
+         {
+            "name":"顏公右拳",
+            "url":"/media/sounds/yan-gong-you-quan.mp3",
+            "id":4672
+         },
+         {
+            "name":"顏右拳",
+            "url":"/media/sounds/yan-you-quan.mp3",
+            "id":4673
          }
       ]
    },
@@ -1594,6 +1624,11 @@ export default [
             "name":"蓋棺～",
             "url":"/media/sounds/gai-guan.mp3",
             "id":4559
+         },
+         {
+            "name":"在這混亂的世道上2",
+            "url":"/media/sounds/zai-zhe-hun-luan-de-shi-dao-shang-2.mp3",
+            "id":4679
          }
       ]
    },
@@ -2449,6 +2484,11 @@ export default [
             "name":"馬了個逼",
             "url":"/media/sounds/ma-liao-ge-bi.mp3",
             "id":4552
+         },
+         {
+            "name":"你在哽咽什麼",
+            "url":"/media/sounds/ni-zai-geng-yan-shi-mo.mp3",
+            "id":4647
          }
       ]
    },
@@ -2544,6 +2584,11 @@ export default [
             "name":"放你一馬",
             "url":"/media/sounds/fang-ni-yi-ma.mp3",
             "id":4192
+         },
+         {
+            "name":"你在看什麼(台)",
+            "url":"/media/sounds/ni-zai-kan-shi-mo-tai.mp3",
+            "id":4676
          }
       ]
    },
@@ -4559,6 +4604,66 @@ export default [
             "name":"巴拉巴巴巴",
             "url":"/media/sounds/ba-la-ba-ba-ba.mp3",
             "id":4557
+         },
+         {
+            "name":"『咳嗽2』",
+            "url":"/media/sounds/ke-sou-2.mp3",
+            "id":4652
+         },
+         {
+            "name":"咕",
+            "url":"/media/sounds/gu_dcERrX0.mp3",
+            "id":4653
+         },
+         {
+            "name":"咕咕咕咕",
+            "url":"/media/sounds/gu-gu-gu-gu_Ur4XE00.mp3",
+            "id":4654
+         },
+         {
+            "name":"喂！2",
+            "url":"/media/sounds/wei-2.mp3",
+            "id":4655
+         },
+         {
+            "name":"大濕引擎16",
+            "url":"/media/sounds/da-shi-yin-qing-16.mp3",
+            "id":4656
+         },
+         {
+            "name":"大濕引擎17",
+            "url":"/media/sounds/da-shi-yin-qing-17_kYaR9O4.mp3",
+            "id":4657
+         },
+         {
+            "name":"摳囉摳摳摳囉",
+            "url":"/media/sounds/kou-luo-kou-kou-kou-luo.mp3",
+            "id":4658
+         },
+         {
+            "name":"轟➚",
+            "url":"/media/sounds/hong_uNkN3by.mp3",
+            "id":4659
+         },
+         {
+            "name":"隆隆隆隆",
+            "url":"/media/sounds/long-long-long-long.mp3",
+            "id":4660
+         },
+         {
+            "name":"欸➚",
+            "url":"/media/sounds/da-shi-ai.mp3",
+            "id":4661
+         },
+         {
+            "name":"齁呦4",
+            "url":"/media/sounds/hou-you-4.mp3",
+            "id":4662
+         },
+         {
+            "name":"哎呦2",
+            "url":"/media/sounds/ai-you-2.mp3",
+            "id":4596
          }
       ]
    },
@@ -4664,6 +4769,11 @@ export default [
             "name":"嗯ㄜ～",
             "url":"/media/sounds/.mp3_kQiDcxW",
             "id":3167
+         },
+         {
+            "name":"不要打我",
+            "url":"/media/sounds/bu-yao-da-wo.mp3",
+            "id":4674
          }
       ]
    },
@@ -6094,6 +6204,31 @@ export default [
             "name":"洞房花燭夜",
             "url":"/media/sounds/dong-fang-hua-zhu-ye.mp3",
             "id":4356
+         },
+         {
+            "name":"一個晚上一千塊",
+            "url":"/media/sounds/yi-ge-wan-shang-yi-qian-kuai.mp3",
+            "id":4663
+         },
+         {
+            "name":"前列腺又要高潮",
+            "url":"/media/sounds/qian-lie-xian-you-yao-gao-chao.mp3",
+            "id":4664
+         },
+         {
+            "name":"深情款款",
+            "url":"/media/sounds/shen-qing-kuan-kuan.mp3",
+            "id":4665
+         },
+         {
+            "name":"粉嫩嫩的",
+            "url":"/media/sounds/fen-nen-nen-de.mp3",
+            "id":4666
+         },
+         {
+            "name":"來呦～2",
+            "url":"/media/sounds/lai-you-2.mp3",
+            "id":4667
          }
       ]
    },
@@ -6984,6 +7119,16 @@ export default [
             "name":"兆元寶寶",
             "url":"/media/sounds/.mp3_QTwxJrM",
             "id":3436
+         },
+         {
+            "name":"在這裡～",
+            "url":"/media/sounds/zai-zhe-li.mp3",
+            "id":4680
+         },
+         {
+            "name":"在～哪～裡～",
+            "url":"/media/sounds/zai-na-li.mp3",
+            "id":4681
          }
       ]
    },
@@ -7684,6 +7829,11 @@ export default [
             "name":"威士忌",
             "url":"/media/sounds/wei-shi-ji.mp3",
             "id":4193
+         },
+         {
+            "name":"豆花(台)",
+            "url":"/media/sounds/dou-hua-tai_73XrLpp.mp3",
+            "id":4678
          }
       ]
    },
@@ -7894,6 +8044,11 @@ export default [
             "name":"阿拉花瓜2",
             "url":"/media/sounds/a-la-hua-gua-2.mp3",
             "id":4185
+         },
+         {
+            "name":"豆～花～(台)",
+            "url":"/media/sounds/dou-hua-tai.mp3",
+            "id":4675
          }
       ]
    },
@@ -8879,6 +9034,11 @@ export default [
             "name":"不管是過去還是未來",
             "url":"/media/sounds/.mp3_nZalBv4",
             "id":3449
+         },
+         {
+            "name":"晚上屁股洗乾淨",
+            "url":"/media/sounds/wan-shang-pi-gu-xi-gan-jing.mp3",
+            "id":4677
          }
       ]
    },
@@ -8964,6 +9124,21 @@ export default [
             "name":"貓咪大戰爭六周年",
             "url":"/media/sounds/mao-mi-da-zhan-zheng-liu-zhou-nian.mp3",
             "id":3684
+         },
+         {
+            "name":"大大的奶子在圖奇",
+            "url":"/media/sounds/da-da-de-nai-zi-zai-tu-qi.mp3",
+            "id":4649
+         },
+         {
+            "name":"大～大～大奶子",
+            "url":"/media/sounds/da-da-da-nai-zi.mp3",
+            "id":4650
+         },
+         {
+            "name":"我們一起來看貝莉莓",
+            "url":"/media/sounds/wo-men-yi-qi-lai-kan-bei-li-mei.mp3",
+            "id":4651
          }
       ]
    },
@@ -20194,6 +20369,321 @@ export default [
             "name":"ok2",
             "url":"/media/sounds/da-shi-ok2.mp3",
             "id":4550
+         },
+         {
+            "name":"ぼいんぼい～ん",
+            "url":"/media/sounds/boinboi-n.mp3",
+            "id":4584
+         },
+         {
+            "name":"人在做天在看(台)",
+            "url":"/media/sounds/ren-zai-zuo-tian-zai-kan-tai.mp3",
+            "id":4585
+         },
+         {
+            "name":"付2",
+            "url":"/media/sounds/fu-2.mp3",
+            "id":4586
+         },
+         {
+            "name":"侯",
+            "url":"/media/sounds/hou.mp3",
+            "id":4587
+         },
+         {
+            "name":"價",
+            "url":"/media/sounds/jia_GIMzeWz.mp3",
+            "id":4588
+         },
+         {
+            "name":"冰",
+            "url":"/media/sounds/bing_OdTmLpn.mp3",
+            "id":4589
+         },
+         {
+            "name":"力2",
+            "url":"/media/sounds/li-2.mp3",
+            "id":4590
+         },
+         {
+            "name":"加量不加價",
+            "url":"/media/sounds/jia-liang-bu-jia-jia.mp3",
+            "id":4591
+         },
+         {
+            "name":"北",
+            "url":"/media/sounds/bei.mp3",
+            "id":4592
+         },
+         {
+            "name":"又2",
+            "url":"/media/sounds/you-2.mp3",
+            "id":4593
+         },
+         {
+            "name":"取",
+            "url":"/media/sounds/qu.mp3",
+            "id":4594
+         },
+         {
+            "name":"咖",
+            "url":"/media/sounds/ka_RyOL8dA.mp3",
+            "id":4595
+         },
+         {
+            "name":"噸",
+            "url":"/media/sounds/dun_BoBscg7.mp3",
+            "id":4597
+         },
+         {
+            "name":"嚇死人喔(台)",
+            "url":"/media/sounds/xia-si-ren-wo-tai.mp3",
+            "id":4598
+         },
+         {
+            "name":"圈",
+            "url":"/media/sounds/quan_VqShZ3f.mp3",
+            "id":4599
+         },
+         {
+            "name":"床",
+            "url":"/media/sounds/chuang_mBW1nRu.mp3",
+            "id":4600
+         },
+         {
+            "name":"彷",
+            "url":"/media/sounds/pang_wYRDmPX.mp3",
+            "id":4601
+         },
+         {
+            "name":"往",
+            "url":"/media/sounds/wang.mp3",
+            "id":4602
+         },
+         {
+            "name":"慘",
+            "url":"/media/sounds/can_ivDwGp9.mp3",
+            "id":4603
+         },
+         {
+            "name":"慘了",
+            "url":"/media/sounds/can-liao.mp3",
+            "id":4604
+         },
+         {
+            "name":"憋",
+            "url":"/media/sounds/bie_PTrXe4z.mp3",
+            "id":4605
+         },
+         {
+            "name":"排",
+            "url":"/media/sounds/pai_TyeZ7oo.mp3",
+            "id":4606
+         },
+         {
+            "name":"整天(台)",
+            "url":"/media/sounds/zheng-tian-tai.mp3",
+            "id":4607
+         },
+         {
+            "name":"果",
+            "url":"/media/sounds/guo_MQSyL5v.mp3",
+            "id":4608
+         },
+         {
+            "name":"欸欸等一下等一下！",
+            "url":"/media/sounds/ai-ai-deng-yi-xia-deng-yi-xia.mp3",
+            "id":4609
+         },
+         {
+            "name":"歪",
+            "url":"/media/sounds/wai_9IZgB2T.mp3",
+            "id":4610
+         },
+         {
+            "name":"比",
+            "url":"/media/sounds/bi_Cw6wkIh.mp3",
+            "id":4611
+         },
+         {
+            "name":"消",
+            "url":"/media/sounds/xiao_L8BwmCV.mp3",
+            "id":4612
+         },
+         {
+            "name":"滾啦",
+            "url":"/media/sounds/gun-la.mp3",
+            "id":4613
+         },
+         {
+            "name":"滿了啦",
+            "url":"/media/sounds/man-liao-la.mp3",
+            "id":4614
+         },
+         {
+            "name":"王",
+            "url":"/media/sounds/wang_Gy6JFVF.mp3",
+            "id":4615
+         },
+         {
+            "name":"百人感謝祭",
+            "url":"/media/sounds/bai-ren-gan-xie-ji.mp3",
+            "id":4616
+         },
+         {
+            "name":"皮",
+            "url":"/media/sounds/pi_r81uEnx.mp3",
+            "id":4617
+         },
+         {
+            "name":"碰",
+            "url":"/media/sounds/peng_5HtojM6.mp3",
+            "id":4618
+         },
+         {
+            "name":"空2",
+            "url":"/media/sounds/kong-1.mp3",
+            "id":4619
+         },
+         {
+            "name":"糖",
+            "url":"/media/sounds/tang_FFMg9HX.mp3",
+            "id":4620
+         },
+         {
+            "name":"約",
+            "url":"/media/sounds/yue_5RDuhPA.mp3",
+            "id":4621
+         },
+         {
+            "name":"絕",
+            "url":"/media/sounds/jue.mp3",
+            "id":4622
+         },
+         {
+            "name":"菜",
+            "url":"/media/sounds/cai_y8a3joz.mp3",
+            "id":4623
+         },
+         {
+            "name":"蒙",
+            "url":"/media/sounds/meng_3s4ruQr.mp3",
+            "id":4624
+         },
+         {
+            "name":"跨",
+            "url":"/media/sounds/kua_4F2Jd5H.mp3",
+            "id":4625
+         },
+         {
+            "name":"跩",
+            "url":"/media/sounds/zhuai.mp3",
+            "id":4626
+         },
+         {
+            "name":"退",
+            "url":"/media/sounds/tui.mp3",
+            "id":4627
+         },
+         {
+            "name":"逼",
+            "url":"/media/sounds/bi_SbYIufg.mp3",
+            "id":4628
+         },
+         {
+            "name":"量",
+            "url":"/media/sounds/liang.mp3",
+            "id":4629
+         },
+         {
+            "name":"關掉！",
+            "url":"/media/sounds/guan-diao.mp3",
+            "id":4630
+         },
+         {
+            "name":"集",
+            "url":"/media/sounds/ji_LeON2hC.mp3",
+            "id":4631
+         },
+         {
+            "name":"顛",
+            "url":"/media/sounds/dian_gMjATXa.mp3",
+            "id":4632
+         },
+         {
+            "name":"鬥2",
+            "url":"/media/sounds/dou-2.mp3",
+            "id":4633
+         },
+         {
+            "name":"麻",
+            "url":"/media/sounds/ma_dtirV0Q.mp3",
+            "id":4634
+         },
+         {
+            "name":"龍",
+            "url":"/media/sounds/long_iLUWA0C.mp3",
+            "id":4635
+         },
+         {
+            "name":"停",
+            "url":"/media/sounds/da-shi-ting.mp3",
+            "id":4636
+         },
+         {
+            "name":"兆",
+            "url":"/media/sounds/da-shi-zhao_fH3Bxc7.mp3",
+            "id":4637
+         },
+         {
+            "name":"喝",
+            "url":"/media/sounds/da-shi-he_XKIUK2U.mp3",
+            "id":4638
+         },
+         {
+            "name":"孩",
+            "url":"/media/sounds/da-shi-hai_cBlpqWm.mp3",
+            "id":4639
+         },
+         {
+            "name":"害",
+            "url":"/media/sounds/da-shi-hai_60a1dCI.mp3",
+            "id":4640
+         },
+         {
+            "name":"昏",
+            "url":"/media/sounds/da-shi-hun.mp3",
+            "id":4641
+         },
+         {
+            "name":"混",
+            "url":"/media/sounds/da-shi-hun_RvXAE2u.mp3",
+            "id":4642
+         },
+         {
+            "name":"煙",
+            "url":"/media/sounds/da-shi-yan_apt5RQ6.mp3",
+            "id":4643
+         },
+         {
+            "name":"空",
+            "url":"/media/sounds/da-shi-kong.mp3",
+            "id":4644
+         },
+         {
+            "name":"缺",
+            "url":"/media/sounds/da-shi-que.mp3",
+            "id":4645
+         },
+         {
+            "name":"爸",
+            "url":"/media/sounds/da-shi-ba_wwXA1IZ.mp3",
+            "id":4646
+         },
+         {
+            "name":"耶",
+            "url":"/media/sounds/da-shi-ye_YHvrkPC.mp3",
+            "id":4648
          }
       ]
    },
@@ -22614,6 +23104,21 @@ export default [
             "name":"嘎抓：『額➚』",
             "url":"/media/sounds/ga-zhua-e.mp3",
             "id":4581
+         },
+         {
+            "name":"嘎抓：『厚↘』",
+            "url":"/media/sounds/ga-zhua-hou.mp3",
+            "id":4682
+         },
+         {
+            "name":"嘎抓：『噢』",
+            "url":"/media/sounds/ga-zhua-yu.mp3",
+            "id":4683
+         },
+         {
+            "name":"嘎抓：『噢～』",
+            "url":"/media/sounds/ga-zhua-yu_uILXmZk.mp3",
+            "id":4684
          }
       ]
    },
