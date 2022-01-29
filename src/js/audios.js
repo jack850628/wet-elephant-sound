@@ -20684,6 +20684,31 @@ export default [
             "name":"耶",
             "url":"/media/sounds/da-shi-ye_YHvrkPC.mp3",
             "id":4648
+         },
+         {
+            "name":"粉",
+            "url":"/media/sounds/fen_NKkRkuW.mp3",
+            "id":4685
+         },
+         {
+            "name":"受",
+            "url":"/media/sounds/da-shi-shou_767KSvC.mp3",
+            "id":4686
+         },
+         {
+            "name":"這",
+            "url":"/media/sounds/zhe.mp3",
+            "id":4687
+         },
+         {
+            "name":"圖",
+            "url":"/media/sounds/tu_5YEYNhz.mp3",
+            "id":4688
+         },
+         {
+            "name":"顯",
+            "url":"/media/sounds/xian_MJem8yc.mp3",
+            "id":4689
          }
       ]
    },
