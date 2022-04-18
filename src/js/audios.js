@@ -20974,6 +20974,11 @@ export default [
             "name":"達",
             "url":"/media/sounds/da-shi-da.mp3",
             "id":4725
+         },
+         {
+            "name":"妞",
+            "url":"/media/sounds/niu_9tdHm60.mp3",
+            "id":4746
          }
       ]
    },
