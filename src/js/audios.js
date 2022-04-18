@@ -2489,6 +2489,11 @@ export default [
             "name":"你在哽咽什麼",
             "url":"/media/sounds/ni-zai-geng-yan-shi-mo.mp3",
             "id":4647
+         },
+         {
+            "name":"不敢的，力宏敢啦",
+            "url":"/media/sounds/bu-gan-de-li-hong-gan-la.mp3",
+            "id":4698
          }
       ]
    },
@@ -4699,6 +4704,11 @@ export default [
             "name":"大濕：『欸↘～』",
             "url":"/media/sounds/da-shi-ai_cIuesSf.mp3",
             "id":4741
+         },
+         {
+            "name":"大濕引擎17",
+            "url":"/media/sounds/da-shi-yin-qing-17_kYaR9O4.mp3",
+            "id":4692
          }
       ]
    },
@@ -9644,6 +9654,21 @@ export default [
             "name":"還要多久？",
             "url":"/media/sounds/huan-yao-duo-jiu.mp3",
             "id":4734
+         },
+         {
+            "name":"再借不難",
+            "url":"/media/sounds/zai-jie-bu-nan.mp3",
+            "id":4700
+         },
+         {
+            "name":"有借有還",
+            "url":"/media/sounds/you-jie-you-huan.mp3",
+            "id":4711
+         },
+         {
+            "name":"自己補罰金",
+            "url":"/media/sounds/zi-ji-bu-fa-jin.mp3",
+            "id":4714
          }
       ],
    },
@@ -20806,17 +20831,12 @@ export default [
             "id":4691
          },
          {
-            "name":"大濕引擎17",
-            "url":"/media/sounds/da-shi-yin-qing-17_kYaR9O4.mp3",
-            "id":4692
-         },
-         {
             "name":"粉",
             "url":"/media/sounds/fen_NKkRkuW.mp3",
             "id":4693
          },
          {
-            "name":"大濕『受』",
+            "name":"受",
             "url":"/media/sounds/da-shi-shou_767KSvC.mp3",
             "id":4694
          },
@@ -20836,19 +20856,9 @@ export default [
             "id":4697
          },
          {
-            "name":"不敢的，力宏敢啦",
-            "url":"/media/sounds/bu-gan-de-li-hong-gan-la.mp3",
-            "id":4698
-         },
-         {
             "name":"偏",
             "url":"/media/sounds/pian.mp3",
             "id":4699
-         },
-         {
-            "name":"再借不難",
-            "url":"/media/sounds/zai-jie-bu-nan.mp3",
-            "id":4700
          },
          {
             "name":"到底大潤發在哪裡",
@@ -20901,11 +20911,6 @@ export default [
             "id":4710
          },
          {
-            "name":"有借有還",
-            "url":"/media/sounds/you-jie-you-huan.mp3",
-            "id":4711
-         },
-         {
             "name":"狂",
             "url":"/media/sounds/kuang.mp3",
             "id":4712
@@ -20914,11 +20919,6 @@ export default [
             "name":"狼",
             "url":"/media/sounds/lang_T8lYXEa.mp3",
             "id":4713
-         },
-         {
-            "name":"自己補罰金",
-            "url":"/media/sounds/zi-ji-bu-fa-jin.mp3",
-            "id":4714
          },
          {
             "name":"行",
