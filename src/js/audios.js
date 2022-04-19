@@ -4701,14 +4701,9 @@ export default [
             "id":4740
          },
          {
-            "name":"大濕：『欸↘～』",
+            "name":"欸↘",
             "url":"/media/sounds/da-shi-ai_cIuesSf.mp3",
             "id":4741
-         },
-         {
-            "name":"大濕引擎17",
-            "url":"/media/sounds/da-shi-yin-qing-17_kYaR9O4.mp3",
-            "id":4692
          }
       ]
    },
@@ -20978,7 +20973,7 @@ export default [
          {
             "name":"妞",
             "url":"/media/sounds/niu_9tdHm60.mp3",
-            "id":4746
+            "id":4692
          }
       ]
    },
