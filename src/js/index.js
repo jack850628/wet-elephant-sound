@@ -87,8 +87,7 @@ window.onload = function(){
                 this.share = true;
             },
             copyLink(){
-                shareLink.select();
-                document.execCommand("copy");
+                navigator.clipboard.writeText(shareLink.value);
             },
 
             goToSoundImage(){

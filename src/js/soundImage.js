@@ -40,8 +40,7 @@ window.onload = function(){
                 this.share = true;
             },
             copyLink(){
-                shareLink.select();
-                document.execCommand("copy");
+                navigator.clipboard.writeText(shareLink.value);
             },
             shareToCollection(){
                 window.open(`/wet-elephant-sound-collection/?a=${btoa(this.shareLink)}&s=${btoa(encodeURIComponent(this.soundImageTitle))}`);
