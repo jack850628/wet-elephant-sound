@@ -35,7 +35,7 @@ window.onload = function(){
                 this.shareLink = `${location.origin}${location.pathname}` + 
                                 `?${SEARCH_PARAMS_1}=${btoa(JSON.stringify(this.audioPlayQueue.map(i => i.id)))}` + 
                                 `&${SEARCH_PARAMS_2}=${this.image}` + 
-                                `&${SEARCH_PARAMS_3}=${btoa(escape(this.soundImageTitle))}`//btoa不支援中文字編碼，因此先將文字用escape轉成%u開頭的形式後便可編碼。
+                                `&${SEARCH_PARAMS_3}=${btoa(encodeURIComponent(this.soundImageTitle))}`//btoa不支援中文字編碼，因此先將文字用encodeURIComponent轉成%u開頭的形式後便可編碼。
                 ;
                 this.share = true;
             },
@@ -44,7 +44,7 @@ window.onload = function(){
                 document.execCommand("copy");
             },
             shareToCollection(){
-                window.open(`/wet-elephant-sound-collection/?a=${btoa(this.shareLink)}&s=${btoa(escape(this.soundImageTitle))}`);
+                window.open(`/wet-elephant-sound-collection/?a=${btoa(this.shareLink)}&s=${btoa(encodeURIComponent(this.soundImageTitle))}`);
             },
         }
     });
@@ -57,6 +57,6 @@ window.onload = function(){
         vApp.$data.image = searchParams.get(SEARCH_PARAMS_2);
     }
     if(searchParams.get(SEARCH_PARAMS_3)){
-        vApp.$data.soundImageTitle = unescape(atob(searchParams.get(SEARCH_PARAMS_3)));//btoa不支援中文字編碼，因此先將文字用escape轉成%u開頭的形式後便可編碼。
+        vApp.$data.soundImageTitle = decodeURIComponent(atob(searchParams.get(SEARCH_PARAMS_3)));//btoa不支援中文字編碼，因此先將文字用encodeURIComponent轉成%u開頭的形式後便可編碼。
     }
 }

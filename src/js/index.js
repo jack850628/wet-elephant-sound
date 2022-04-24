@@ -97,7 +97,7 @@ window.onload = function(){
                     `${location.origin}${location.pathname}soundImage.html` + 
                     `?${SEARCH_PARAMS_1}=${btoa(JSON.stringify(this.audioPlayQueue.map(i => i.id)))}` + 
                     `&${SEARCH_PARAMS_2}=${this.image}` + 
-                    `&${SEARCH_PARAMS_3}=${btoa(escape(this.soundImageTitle))}`//btoa不支援中文字編碼，因此先將文字用escape轉成%u開頭的形式後便可編碼。
+                    `&${SEARCH_PARAMS_3}=${btoa(encodeURIComponent(this.soundImageTitle))}`//btoa不支援中文字編碼，因此先將文字用encodeURIComponent轉成%u開頭的形式後便可編碼。
                     , "_blank"
                 );
                 this.imageSourceLink = '';
