@@ -123,7 +123,7 @@
                 </v-tooltip>
             </v-app-bar>
             <v-main>
-                <div id="audio-play-queue-bar" :class="{'audio-play-queue-bar-to-fixed': audioPlayQueueBarToFiexd, 'audio-play-queue-bar-go-to-fixed-animation': audioPlayQueueBarToFiexd, 'audio-play-queue-bar-go-out-fixed-animation': !audioPlayQueueBarToFiexd}" :style="{'margin-bottom': -audioPlayQueueBarHeight}">
+                <div id="audio-play-queue-bar" :class="{'audio-play-queue-bar-to-fixed': audioPlayQueueBarToFixed, 'audio-play-queue-bar-go-to-fixed-animation': audioPlayQueueBarToFixed, 'audio-play-queue-bar-go-out-fixed-animation': !audioPlayQueueBarToFixed}" :style="{'margin-bottom': -audioPlayQueueBarHeight}">
                     <play-controller v-model="audioPlayQueue">
                         <v-btn dark elevation="3" @click="createSoundImage = true">
                             <v-icon>mdi-image-plus</v-icon>
@@ -134,9 +134,9 @@
                             <span>分享</span>
                         </v-btn>
                     </play-controller>
-                    <v-btn dark elevation="3" :class="{'drop-down-button': true, 'drop-down-button-to-fixed': !audioPlayQueueBarToFiexd}" @click="dropDownAudioPlayQueueBar" v-show="audioPlayQueueBarInvisible || audioPlayQueueBarToFiexd">
-                        <v-icon v-if="audioPlayQueueBarToFiexd">mdi-chevron-up</v-icon>
-                        <v-icon v-else="audioPlayQueueBarToFiexd">mdi-chevron-down</v-icon>
+                    <v-btn dark elevation="3" :class="{'drop-down-button': true, 'drop-down-button-to-fixed': !audioPlayQueueBarToFixed}" @click="dropDownAudioPlayQueueBar" v-show="audioPlayQueueBarInvisible || audioPlayQueueBarToFixed">
+                        <v-icon v-if="audioPlayQueueBarToFixed">mdi-chevron-up</v-icon>
+                        <v-icon v-else="audioPlayQueueBarToFixed">mdi-chevron-down</v-icon>
                     </v-btn>
                 </div>
                 
@@ -145,7 +145,7 @@
                     <v-text-field dark v-model="searchString" label="搜尋"></v-text-field>
                     <div style="margin-bottom: 10px;">
                         <p style="margin-bottom: 1px;" v-show="searchString">收尋結果：</p>
-                        <v-btn dark elevation="3" class="button text-truncate" style="max-width: 300px;" v-for="(item, k) in searchResaultButtons" :key="k" @click="preview(item)" @contextmenu="!item.second? contextMenu($event, item): ()=>{}">{{item.name}}</v-btn>
+                        <v-btn dark elevation="3" class="button text-truncate" style="max-width: 300px;" v-for="(item, k) in searchResultButtons" :key="k" @click="preview(item)" @contextmenu="!item.second? contextMenu($event, item): ()=>{}">{{item.name}}</v-btn>
                     </div>
                     <v-expansion-panels dark focusable>
                         <v-expansion-panel v-for="(audioGroup, i) in audios" :key="i">

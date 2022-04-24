@@ -7,7 +7,7 @@ if (!window.AudioContext) {
 
 var audioContext = new window.AudioContext();
 var audioBufferSourceNode;
-var audioLingths;
+var audioLengths;
 var playing = false;
 var playStartTime;
 var currentPlayIndex;
@@ -41,7 +41,7 @@ export function downloadAudio(arrayBuffers, schedule = (value)=>{}){
 function prepareAudios(arrayBuffers){
     return new Promise((resolve, reject) => {
         Promise.all(arrayBuffers.map(a => audioContext.decodeAudioData(a.slice(0)))).then(audioBuffers => {
-            audioLingths = audioBuffers.map(i => i.duration);
+            audioLengths = audioBuffers.map(i => i.duration);
             concatAudioBuffers(audioBuffers, 1, function(error, audioBuffer){
                 if (error) {
                     reject(error);
@@ -72,9 +72,9 @@ function play(audioContext, buffer, onPlayItemUpdate, onEnded) {
 function playItemUpdate(){
     if(audioContext.currentTime - playStartTime > nextUpdateTimePoint){
         currentPlayIndex++;
-        if(currentPlayIndex < audioLingths.length){
+        if(currentPlayIndex < audioLengths.length){
             this.onPlayItemUpdate(currentPlayIndex);
-            nextUpdateTimePoint += audioLingths[currentPlayIndex];
+            nextUpdateTimePoint += audioLengths[currentPlayIndex];
         }
     }
     if(playing)

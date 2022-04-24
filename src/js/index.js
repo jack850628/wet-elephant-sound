@@ -16,7 +16,7 @@ const IMAGE_SOURCE_HOST_FOR_SOUND_IMAGE = [
 ]
 
 audios.flatMap(i => i.datas).forEach(i => {
-    i.nameForScarch = i.name.match(/^(?:.*?：)?『?(.+?)\d*』?$/)[1].toUpperCase();
+    i.nameForSearch = i.name.match(/^(?:.*?：)?『?(.+?)\d*』?$/)[1].toUpperCase();
 });
 
 Vue.component('w-icon', WIcom);
@@ -34,7 +34,7 @@ window.onload = function(){
             body: null,
             audioPlayQueueBar: null,
             audioPlayQueueBarInvisible: false,
-            audioPlayQueueBarToFiexd: false,
+            audioPlayQueueBarToFixed: false,
             audioPlayQueueBarHeight: 0,
 
             audios: audios,
@@ -45,7 +45,7 @@ window.onload = function(){
             about: false,
 
             searchString: '',
-            searchResaultButtons: [],
+            searchResultButtons: [],
 
             share: false,
             shareLink: '',
@@ -133,7 +133,7 @@ window.onload = function(){
                 }
             },
             dropDownAudioPlayQueueBar(){
-                this.audioPlayQueueBarToFiexd = !this.audioPlayQueueBarToFiexd;
+                this.audioPlayQueueBarToFixed = !this.audioPlayQueueBarToFixed;
             },
 
             goToCollection(){
@@ -169,15 +169,15 @@ window.onload = function(){
             soundImageTitle(value){
                 this.soundImageTitleError = value.length > 50? '超過50個字': null;
             },
-            audioPlayQueueBarToFiexd(value){
+            audioPlayQueueBarToFixed(value){
                 value && (this.audioPlayQueueBarHeight = this.audioPlayQueueBar.offsetHeight);
             },
             searchString(str){
-                this.searchResaultButtons.splice(0);
+                this.searchResultButtons.splice(0);
                 if(str.match(/^\s*$/)) return;
                 str = str.toUpperCase();
-                this.searchResaultButtons.push(...audios.flatMap(i => i.datas).filter(i => {
-                    return i.nameForScarch.indexOf(str) > -1 || str.indexOf(i.nameForScarch) > -1
+                this.searchResultButtons.push(...audios.flatMap(i => i.datas).filter(i => {
+                    return i.nameForSearch.indexOf(str) > -1 || str.indexOf(i.nameForSearch) > -1
                 }));
             }
         },
