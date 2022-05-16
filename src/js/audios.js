@@ -4704,6 +4704,11 @@ export default [
             "name":"欸↘",
             "url":"/media/sounds/da-shi-ai_cIuesSf.mp3",
             "id":4741
+         },
+         {
+            "name":"ㄎㄧㄥ",
+            "url":"/media/sounds/kieng.mp3",
+            "id":4746
          }
       ]
    },
