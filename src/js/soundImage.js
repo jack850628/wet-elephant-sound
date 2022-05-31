@@ -1,6 +1,7 @@
 import Vue from 'vue';
 import vuetify from '@/plugins/vuetify';
-import audios from '@/js/audios';
+// import audios from '@/js/audios';
+const audios = require('@/js/audios')
 
 import WIcom from '@/js/components/WIcon.vue';
 import PlayController from '@/js/components/PlayController.vue';
