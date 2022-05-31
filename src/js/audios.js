@@ -1,4 +1,4 @@
-export default [
+module.exports =  [
    {
       "name":"延遲",
       "datas":[
@@ -32,22 +32,22 @@ export default [
          },
          {
             "name":"哈鮭企鵝",
-            "url":"/media/sounds/.mp3_7OLKGGO",
+            "url":"/media/sounds/m_fixed_7OLKGGO.mp3",
             "id":1
          },
          {
             "name":"嘎抓",
-            "url":"/media/sounds/.mp3_R1pRA1t",
+            "url":"/media/sounds/m_fixed_R1pRA1t.mp3",
             "id":2
          },
          {
             "name":"兆元",
-            "url":"/media/sounds/.mp3_zPEz9c6",
+            "url":"/media/sounds/m_fixed_zPEz9c6.mp3",
             "id":3
          },
          {
             "name":"小胖",
-            "url":"/media/sounds/.mp3_QpwQt86",
+            "url":"/media/sounds/m_fixed_QpwQt86.mp3",
             "id":4
          },
          {
@@ -62,87 +62,87 @@ export default [
          },
          {
             "name":"張兆元",
-            "url":"/media/sounds/.mp3_XeWcKbg",
+            "url":"/media/sounds/m_fixed_XeWcKbg.mp3",
             "id":7
          },
          {
             "name":"邱少爺",
-            "url":"/media/sounds/.mp3_ofbqNBN",
+            "url":"/media/sounds/m_fixed_ofbqNBN.mp3",
             "id":8
          },
          {
             "name":"顯考王公銘森哈鮭企鵝",
-            "url":"/media/sounds/.mp3_amfgyo4",
+            "url":"/media/sounds/m_fixed_amfgyo4.mp3",
             "id":9
          },
          {
             "name":"卓孝宣",
-            "url":"/media/sounds/.mp3_qd0uQQo",
+            "url":"/media/sounds/m_fixed_qd0uQQo.mp3",
             "id":10
          },
          {
             "name":"馬老爺",
-            "url":"/media/sounds/.mp3_IWq9iyu",
+            "url":"/media/sounds/m_fixed_IWq9iyu.mp3",
             "id":11
          },
          {
             "name":"邱建祥",
-            "url":"/media/sounds/.mp3_s27gO7E",
+            "url":"/media/sounds/m_fixed_s27gO7E.mp3",
             "id":12
          },
          {
             "name":"懶貓子的右拳",
-            "url":"/media/sounds/.mp3_xzhhnX4",
+            "url":"/media/sounds/m_fixed_xzhhnX4.mp3",
             "id":303
          },
          {
             "name":"野獸先輩",
-            "url":"/media/sounds/.mp3_MSlgXCM",
+            "url":"/media/sounds/m_fixed_MSlgXCM.mp3",
             "id":305
          },
          {
             "name":"仙界大濕",
-            "url":"/media/sounds/.mp3_YB1mUiu",
+            "url":"/media/sounds/m_fixed_YB1mUiu.mp3",
             "id":306
          },
          {
             "name":"蟑螂子",
-            "url":"/media/sounds/.mp3_PSt4frp",
+            "url":"/media/sounds/m_fixed_PSt4frp.mp3",
             "id":315
          },
          {
             "name":"張公兆元",
-            "url":"/media/sounds/.mp3_rRT2ll1",
+            "url":"/media/sounds/m_fixed_rRT2ll1.mp3",
             "id":362
          },
          {
             "name":"右拳",
-            "url":"/media/sounds/.mp3_KonCMu6",
+            "url":"/media/sounds/m_fixed_KonCMu6.mp3",
             "id":392
          },
          {
             "name":"顯妣陳媽卓孝宣",
-            "url":"/media/sounds/.mp3_wKUdZpL",
+            "url":"/media/sounds/m_fixed_wKUdZpL.mp3",
             "id":406
          },
          {
             "name":"卓公孝宣",
-            "url":"/media/sounds/.mp3_0jzYhrs",
+            "url":"/media/sounds/m_fixed_0jzYhrs.mp3",
             "id":429
          },
          {
             "name":"阿嚕桑",
-            "url":"/media/sounds/.mp3_4TySudY",
+            "url":"/media/sounds/m_fixed_4TySudY.mp3",
             "id":436
          },
          {
             "name":"陳正義",
-            "url":"/media/sounds/.mp3_giNgQMt",
+            "url":"/media/sounds/m_fixed_giNgQMt.mp3",
             "id":449
          },
          {
             "name":"桑尤姆",
-            "url":"/media/sounds/.mp3_BKhk7Ud",
+            "url":"/media/sounds/m_fixed_BKhk7Ud.mp3",
             "id":903
          },
          {
@@ -152,27 +152,27 @@ export default [
          },
          {
             "name":"蟑螂",
-            "url":"/media/sounds/.mp3_zuSR5sY",
+            "url":"/media/sounds/m_fixed_zuSR5sY.mp3",
             "id":1110
          },
          {
             "name":"建祥",
-            "url":"/media/sounds/.mp3_0zVT3VN",
+            "url":"/media/sounds/m_fixed_0zVT3VN.mp3",
             "id":1144
          },
          {
             "name":"傑哥",
-            "url":"/media/sounds/.mp3_lFSJoeM",
+            "url":"/media/sounds/m_fixed_lFSJoeM.mp3",
             "id":1302
          },
          {
             "name":"傑..傑哥",
-            "url":"/media/sounds/.mp3_55b0hvf",
+            "url":"/media/sounds/m_fixed_55b0hvf.mp3",
             "id":1301
          },
          {
             "name":"皮卡屁",
-            "url":"/media/sounds/.mp3_KnLArmZ",
+            "url":"/media/sounds/m_fixed_KnLArmZ.mp3",
             "id":1382
          },
          {
@@ -182,67 +182,67 @@ export default [
          },
          {
             "name":"加藤鷹",
-            "url":"/media/sounds/.mp3_LqHx1Lk",
+            "url":"/media/sounds/m_fixed_LqHx1Lk.mp3",
             "id":1692
          },
          {
             "name":"張熊",
-            "url":"/media/sounds/.mp3_qXVUmbN",
+            "url":"/media/sounds/m_fixed_qXVUmbN.mp3",
             "id":2031
          },
          {
             "name":"楊枝甘露",
-            "url":"/media/sounds/.mp3_xKXHNt5",
+            "url":"/media/sounds/m_fixed_xKXHNt5.mp3",
             "id":2032
          },
          {
             "name":"馬桶爺",
-            "url":"/media/sounds/.mp3_FUtn3lF",
+            "url":"/media/sounds/m_fixed_FUtn3lF.mp3",
             "id":2198
          },
          {
             "name":"周漢唐",
-            "url":"/media/sounds/.mp3_zceAoxO",
+            "url":"/media/sounds/m_fixed_zceAoxO.mp3",
             "id":2513
          },
          {
             "name":"王銘森",
-            "url":"/media/sounds/.mp3_UX1Lpdb",
+            "url":"/media/sounds/m_fixed_UX1Lpdb.mp3",
             "id":2514
          },
          {
             "name":"顯考周公漢唐",
-            "url":"/media/sounds/.mp3_DlaJz4e",
+            "url":"/media/sounds/m_fixed_DlaJz4e.mp3",
             "id":2515
          },
          {
             "name":"火雲邪神",
-            "url":"/media/sounds/.mp3_o0kyowR",
+            "url":"/media/sounds/m_fixed_o0kyowR.mp3",
             "id":2622
          },
          {
             "name":"習包子",
-            "url":"/media/sounds/.mp3_ZWdNRdp",
+            "url":"/media/sounds/m_fixed_ZWdNRdp.mp3",
             "id":2623
          },
          {
             "name":"兆元(醉)",
-            "url":"/media/sounds/.mp3_Sno6Jpl",
+            "url":"/media/sounds/m_fixed_Sno6Jpl.mp3",
             "id":2889
          },
          {
             "name":"桐真老師",
-            "url":"/media/sounds/.mp3_pTXOneo",
+            "url":"/media/sounds/m_fixed_pTXOneo.mp3",
             "id":2890
          },
          {
             "name":"元元子",
-            "url":"/media/sounds/.mp3_q7giHPE",
+            "url":"/media/sounds/m_fixed_q7giHPE.mp3",
             "id":3047
          },
          {
             "name":"阿偉",
-            "url":"/media/sounds/.mp3_STf89Np",
+            "url":"/media/sounds/m_fixed_STf89Np.mp3",
             "id":3172
          },
          {
@@ -292,97 +292,97 @@ export default [
       "datas":[
          {
             "name":"主席",
-            "url":"/media/sounds/.mp3_18G5w9A",
+            "url":"/media/sounds/m_fixed_18G5w9A.mp3",
             "id":13
          },
          {
             "name":"下去啦～",
-            "url":"/media/sounds/.mp3_DFdXjEP",
+            "url":"/media/sounds/m_fixed_DFdXjEP.mp3",
             "id":14
          },
          {
             "name":"哎呦～",
-            "url":"/media/sounds/.mp3_QrtcPwQ",
+            "url":"/media/sounds/m_fixed_QrtcPwQ.mp3",
             "id":15
          },
          {
             "name":"這就是我們的",
-            "url":"/media/sounds/.mp3_8ymyDyI",
+            "url":"/media/sounds/m_fixed_8ymyDyI.mp3",
             "id":16
          },
          {
             "name":"即將啟航的時刻",
-            "url":"/media/sounds/.mp3_HUEwc5Z",
+            "url":"/media/sounds/m_fixed_HUEwc5Z.mp3",
             "id":17
          },
          {
             "name":"同志們",
-            "url":"/media/sounds/.mp3_M7kUwsA",
+            "url":"/media/sounds/m_fixed_M7kUwsA.mp3",
             "id":18
          },
          {
             "name":"我們即將舉行升旗典禮",
-            "url":"/media/sounds/.mp3_tUe2ygG",
+            "url":"/media/sounds/m_fixed_tUe2ygG.mp3",
             "id":19
          },
          {
             "name":"一柱清香",
-            "url":"/media/sounds/.mp3_gxhPQkx",
+            "url":"/media/sounds/m_fixed_gxhPQkx.mp3",
             "id":20
          },
          {
             "name":"再上香",
-            "url":"/media/sounds/.mp3_8RMm9J9",
+            "url":"/media/sounds/m_fixed_8RMm9J9.mp3",
             "id":21
          },
          {
             "name":"獻花獻果",
-            "url":"/media/sounds/.mp3_zUXmqns",
+            "url":"/media/sounds/m_fixed_zUXmqns.mp3",
             "id":22
          },
          {
             "name":"三柱清香罐頭塔我們送上去",
-            "url":"/media/sounds/.mp3_BFReUrw",
+            "url":"/media/sounds/m_fixed_BFReUrw.mp3",
             "id":23
          },
          {
             "name":"即將飛升為天",
-            "url":"/media/sounds/.mp3_bVpSYKX",
+            "url":"/media/sounds/m_fixed_bVpSYKX.mp3",
             "id":24
          },
          {
             "name":"同志們請起立",
-            "url":"/media/sounds/.mp3_ZSJifyG",
+            "url":"/media/sounds/m_fixed_ZSJifyG.mp3",
             "id":25
          },
          {
             "name":"在鞠躬的同時請脫帽",
-            "url":"/media/sounds/.mp3_HfnwSCR",
+            "url":"/media/sounds/m_fixed_HfnwSCR.mp3",
             "id":26
          },
          {
             "name":"一鞠躬",
-            "url":"/media/sounds/.mp3_VtDHyaY",
+            "url":"/media/sounds/m_fixed_VtDHyaY.mp3",
             "id":27
          },
          {
             "name":"再鞠躬",
-            "url":"/media/sounds/.mp3_mbfQGeA",
+            "url":"/media/sounds/m_fixed_mbfQGeA.mp3",
             "id":28
          },
          {
             "name":"三鞠躬",
-            "url":"/media/sounds/.mp3_Wcx0qm3",
+            "url":"/media/sounds/m_fixed_Wcx0qm3.mp3",
             "id":29
          },
          {
             "name":"來賓與家屬打理",
-            "url":"/media/sounds/.mp3_g2pyzTf",
+            "url":"/media/sounds/m_fixed_g2pyzTf.mp3",
             "id":30
          },
          {
             "name":"好滴",
-            "url":"/media/sounds/.mp3_4F3F40v",
+            "url":"/media/sounds/m_fixed_4F3F40v.mp3",
             "id":286
          },
          {
@@ -392,67 +392,67 @@ export default [
          },
          {
             "name":"我們",
-            "url":"/media/sounds/.mp3_Syy7bZS",
+            "url":"/media/sounds/m_fixed_Syy7bZS.mp3",
             "id":288
          },
          {
             "name":"送",
-            "url":"/media/sounds/.mp3_mbAoBA2",
+            "url":"/media/sounds/m_fixed_mbAoBA2.mp3",
             "id":289
          },
          {
             "name":"準備",
-            "url":"/media/sounds/.mp3_jUFC1z7",
+            "url":"/media/sounds/m_fixed_jUFC1z7.mp3",
             "id":290
          },
          {
             "name":"在典禮開始的時刻",
-            "url":"/media/sounds/.mp3_qrOBa8A",
+            "url":"/media/sounds/m_fixed_qrOBa8A.mp3",
             "id":291
          },
          {
             "name":"請不要喧嘩",
-            "url":"/media/sounds/.mp3_MZONwyv",
+            "url":"/media/sounds/m_fixed_MZONwyv.mp3",
             "id":292
          },
          {
             "name":"不要打鬧",
-            "url":"/media/sounds/.mp3_mrUK1M9",
+            "url":"/media/sounds/m_fixed_mrUK1M9.mp3",
             "id":293
          },
          {
             "name":"敬禮～～～",
-            "url":"/media/sounds/.mp3_6M8Ie8J",
+            "url":"/media/sounds/m_fixed_6M8Ie8J.mp3",
             "id":294
          },
          {
             "name":"我們懷念他",
-            "url":"/media/sounds/.mp3_KgMSK6R",
+            "url":"/media/sounds/m_fixed_KgMSK6R.mp3",
             "id":295
          },
          {
             "name":"我們紀念他",
-            "url":"/media/sounds/.mp3_hEIiAOh",
+            "url":"/media/sounds/m_fixed_hEIiAOh.mp3",
             "id":296
          },
          {
             "name":"我們永遠想著他",
-            "url":"/media/sounds/.mp3_K1a4pTg",
+            "url":"/media/sounds/m_fixed_K1a4pTg.mp3",
             "id":297
          },
          {
             "name":"典禮即將結束啦",
-            "url":"/media/sounds/.mp3_0r6jmcT",
+            "url":"/media/sounds/m_fixed_0r6jmcT.mp3",
             "id":298
          },
          {
             "name":"我們要大殮蓋棺",
-            "url":"/media/sounds/.mp3_x7yNVYz",
+            "url":"/media/sounds/m_fixed_x7yNVYz.mp3",
             "id":299
          },
          {
             "name":"儀式結束啦",
-            "url":"/media/sounds/.mp3_HxbXTWg",
+            "url":"/media/sounds/m_fixed_HxbXTWg.mp3",
             "id":300
          },
          {
@@ -462,27 +462,27 @@ export default [
          },
          {
             "name":"禮畢",
-            "url":"/media/sounds/.mp3_KFQ7abU",
+            "url":"/media/sounds/m_fixed_KFQ7abU.mp3",
             "id":302
          },
          {
             "name":"升旗完畢",
-            "url":"/media/sounds/.mp3_7EaSqXV",
+            "url":"/media/sounds/m_fixed_7EaSqXV.mp3",
             "id":304
          },
          {
             "name":"拿去火化",
-            "url":"/media/sounds/.mp3_B5ove9S",
+            "url":"/media/sounds/m_fixed_B5ove9S.mp3",
             "id":335
          },
          {
             "name":"請歸位",
-            "url":"/media/sounds/.mp3_adLNXhs",
+            "url":"/media/sounds/m_fixed_adLNXhs.mp3",
             "id":356
          },
          {
             "name":"非常安詳",
-            "url":"/media/sounds/.mp3_wZVkfzE",
+            "url":"/media/sounds/m_fixed_wZVkfzE.mp3",
             "id":357
          },
          {
@@ -492,202 +492,202 @@ export default [
          },
          {
             "name":"感謝",
-            "url":"/media/sounds/.mp3_7UcT0RN",
+            "url":"/media/sounds/m_fixed_7UcT0RN.mp3",
             "id":367
          },
          {
             "name":"各位",
-            "url":"/media/sounds/.mp3_o7Tn5pX",
+            "url":"/media/sounds/m_fixed_o7Tn5pX.mp3",
             "id":368
          },
          {
             "name":"的奉獻",
-            "url":"/media/sounds/.mp3_t0Wj6D3",
+            "url":"/media/sounds/m_fixed_t0Wj6D3.mp3",
             "id":369
          },
          {
             "name":"的付出",
-            "url":"/media/sounds/.mp3_ES48Y37",
+            "url":"/media/sounds/m_fixed_ES48Y37.mp3",
             "id":370
          },
          {
             "name":"咱們",
-            "url":"/media/sounds/.mp3_ilfwhjQ",
+            "url":"/media/sounds/m_fixed_ilfwhjQ.mp3",
             "id":371
          },
          {
             "name":"黨的",
-            "url":"/media/sounds/.mp3_A6XgSee",
+            "url":"/media/sounds/m_fixed_A6XgSee.mp3",
             "id":372
          },
          {
             "name":"同志",
-            "url":"/media/sounds/.mp3_Oilmle4",
+            "url":"/media/sounds/m_fixed_Oilmle4.mp3",
             "id":373
          },
          {
             "name":"同胞",
-            "url":"/media/sounds/.mp3_XyO9OTf",
+            "url":"/media/sounds/m_fixed_XyO9OTf.mp3",
             "id":374
          },
          {
             "name":"最後一程",
-            "url":"/media/sounds/.mp3_7KDA4IB",
+            "url":"/media/sounds/m_fixed_7KDA4IB.mp3",
             "id":375
          },
          {
             "name":"謝謝各位",
-            "url":"/media/sounds/.mp3_UucCKNd",
+            "url":"/media/sounds/m_fixed_UucCKNd.mp3",
             "id":376
          },
          {
             "name":"升旗典禮",
-            "url":"/media/sounds/.mp3_h3lW66W",
+            "url":"/media/sounds/m_fixed_h3lW66W.mp3",
             "id":377
          },
          {
             "name":"舉行完畢",
-            "url":"/media/sounds/.mp3_epkipUo",
+            "url":"/media/sounds/m_fixed_epkipUo.mp3",
             "id":378
          },
          {
             "name":"公祭儀式",
-            "url":"/media/sounds/.mp3_FiHVGWJ",
+            "url":"/media/sounds/m_fixed_FiHVGWJ.mp3",
             "id":407
          },
          {
             "name":"在儀式的舉行過程中",
-            "url":"/media/sounds/.mp3_5rGr11k",
+            "url":"/media/sounds/m_fixed_5rGr11k.mp3",
             "id":408
          },
          {
             "name":"請各位",
-            "url":"/media/sounds/.mp3_IcZfwvo",
+            "url":"/media/sounds/m_fixed_IcZfwvo.mp3",
             "id":409
          },
          {
             "name":"勿喧嘩",
-            "url":"/media/sounds/.mp3_uoaKFdm",
+            "url":"/media/sounds/m_fixed_uoaKFdm.mp3",
             "id":410
          },
          {
             "name":"勿吵鬧",
-            "url":"/media/sounds/.mp3_X8u5RxF",
+            "url":"/media/sounds/m_fixed_X8u5RxF.mp3",
             "id":411
          },
          {
             "name":"勿移動",
-            "url":"/media/sounds/.mp3_WDu3MHl",
+            "url":"/media/sounds/m_fixed_WDu3MHl.mp3",
             "id":412
          },
          {
             "name":"上香",
-            "url":"/media/sounds/.mp3_QPbJgDB",
+            "url":"/media/sounds/m_fixed_QPbJgDB.mp3",
             "id":413
          },
          {
             "name":"中華民族",
-            "url":"/media/sounds/.mp3_WQ31RDz",
+            "url":"/media/sounds/m_fixed_WQ31RDz.mp3",
             "id":414
          },
          {
             "name":"他是",
-            "url":"/media/sounds/.mp3_XeekGVc",
+            "url":"/media/sounds/m_fixed_XeekGVc.mp3",
             "id":415
          },
          {
             "name":"咱們的",
-            "url":"/media/sounds/.mp3_MGkR6yA",
+            "url":"/media/sounds/m_fixed_MGkR6yA.mp3",
             "id":416
          },
          {
             "name":"他的",
-            "url":"/media/sounds/.mp3_JNP1XTV",
+            "url":"/media/sounds/m_fixed_JNP1XTV.mp3",
             "id":417
          },
          {
             "name":"英勇奉獻",
-            "url":"/media/sounds/.mp3_QIajtsq",
+            "url":"/media/sounds/m_fixed_QIajtsq.mp3",
             "id":418
          },
          {
             "name":"請出外面大堂的時候",
-            "url":"/media/sounds/.mp3_4Asl1dj",
+            "url":"/media/sounds/m_fixed_4Asl1dj.mp3",
             "id":419
          },
          {
             "name":"用淨水浮水洗滌一下身心",
-            "url":"/media/sounds/.mp3_q0ouzIW",
+            "url":"/media/sounds/m_fixed_q0ouzIW.mp3",
             "id":420
          },
          {
             "name":"請復帽",
-            "url":"/media/sounds/.mp3_ntZpA4K",
+            "url":"/media/sounds/m_fixed_ntZpA4K.mp3",
             "id":421
          },
          {
             "name":"謝謝各位的到來",
-            "url":"/media/sounds/.mp3_5A3tknn",
+            "url":"/media/sounds/m_fixed_5A3tknn.mp3",
             "id":422
          },
          {
             "name":"廁所在左邊",
-            "url":"/media/sounds/.mp3_eFaSeeq",
+            "url":"/media/sounds/m_fixed_eFaSeeq.mp3",
             "id":423
          },
          {
             "name":"入口在右邊",
-            "url":"/media/sounds/.mp3_RbLWqkr",
+            "url":"/media/sounds/m_fixed_RbLWqkr.mp3",
             "id":424
          },
          {
             "name":"停車場在中間",
-            "url":"/media/sounds/.mp3_F02ZqDm",
+            "url":"/media/sounds/m_fixed_F02ZqDm.mp3",
             "id":425
          },
          {
             "name":"記得要過檻",
-            "url":"/media/sounds/.mp3_DVZbptz",
+            "url":"/media/sounds/m_fixed_DVZbptz.mp3",
             "id":426
          },
          {
             "name":"祝他",
-            "url":"/media/sounds/.mp3_rjt52Ne",
+            "url":"/media/sounds/m_fixed_rjt52Ne.mp3",
             "id":430
          },
          {
             "name":"我們即將舉行",
-            "url":"/media/sounds/.mp3_SeGYdC7",
+            "url":"/media/sounds/m_fixed_SeGYdC7.mp3",
             "id":433
          },
          {
             "name":"你下去的真是漂亮",
-            "url":"/media/sounds/.mp3_AHZqWTc",
+            "url":"/media/sounds/m_fixed_AHZqWTc.mp3",
             "id":465
          },
          {
             "name":"一路好走",
-            "url":"/media/sounds/.mp3_jC8Fgjv",
+            "url":"/media/sounds/m_fixed_jC8Fgjv.mp3",
             "id":466
          },
          {
             "name":"不要亂跑亂跳",
-            "url":"/media/sounds/.mp3_8rHVlwF",
+            "url":"/media/sounds/m_fixed_8rHVlwF.mp3",
             "id":467
          },
          {
             "name":"火化完成",
-            "url":"/media/sounds/.mp3_zH58kiP",
+            "url":"/media/sounds/m_fixed_zH58kiP.mp3",
             "id":468
          },
          {
             "name":"我們現在即將舉行懲罰典禮",
-            "url":"/media/sounds/.mp3_71rKymJ",
+            "url":"/media/sounds/m_fixed_71rKymJ.mp3",
             "id":470
          },
          {
             "name":"典禮即將開始",
-            "url":"/media/sounds/.mp3_APHhRNE",
+            "url":"/media/sounds/m_fixed_APHhRNE.mp3",
             "id":471
          },
          {
@@ -697,12 +697,12 @@ export default [
          },
          {
             "name":"請家屬來認領",
-            "url":"/media/sounds/.mp3_Mw5TSle",
+            "url":"/media/sounds/m_fixed_Mw5TSle.mp3",
             "id":474
          },
          {
             "name":"請豎立",
-            "url":"/media/sounds/.mp3_RrGctTm",
+            "url":"/media/sounds/m_fixed_RrGctTm.mp3",
             "id":475
          },
          {
@@ -717,42 +717,42 @@ export default [
          },
          {
             "name":"即將",
-            "url":"/media/sounds/.mp3_erevNwd",
+            "url":"/media/sounds/m_fixed_erevNwd.mp3",
             "id":600
          },
          {
             "name":"良辰吉時已到",
-            "url":"/media/sounds/.mp3_dB3frZs",
+            "url":"/media/sounds/m_fixed_dB3frZs.mp3",
             "id":601
          },
          {
             "name":"做法～",
-            "url":"/media/sounds/.mp3_hCnyuTc",
+            "url":"/media/sounds/m_fixed_hCnyuTc.mp3",
             "id":602
          },
          {
             "name":"請法師",
-            "url":"/media/sounds/.mp3_HfTqLZy",
+            "url":"/media/sounds/m_fixed_HfTqLZy.mp3",
             "id":603
          },
          {
             "name":"請面向外面",
-            "url":"/media/sounds/.mp3_WUFQuOp",
+            "url":"/media/sounds/m_fixed_WUFQuOp.mp3",
             "id":604
          },
          {
             "name":"一炷香",
-            "url":"/media/sounds/.mp3_b20dDsp",
+            "url":"/media/sounds/m_fixed_b20dDsp.mp3",
             "id":645
          },
          {
             "name":"三柱清香～",
-            "url":"/media/sounds/.mp3_KkqlpIi",
+            "url":"/media/sounds/m_fixed_KkqlpIi.mp3",
             "id":646
          },
          {
             "name":"口渴的時候記得喝個罐頭塔保平安",
-            "url":"/media/sounds/.mp3_PN7o4vk",
+            "url":"/media/sounds/m_fixed_PN7o4vk.mp3",
             "id":647
          },
          {
@@ -762,82 +762,82 @@ export default [
          },
          {
             "name":"再一炷香",
-            "url":"/media/sounds/.mp3_w8UglXQ",
+            "url":"/media/sounds/m_fixed_w8UglXQ.mp3",
             "id":649
          },
          {
             "name":"同志大關",
-            "url":"/media/sounds/.mp3_JQnGxDZ",
+            "url":"/media/sounds/m_fixed_JQnGxDZ.mp3",
             "id":650
          },
          {
             "name":"在脫帽的同時",
-            "url":"/media/sounds/.mp3_FLOBhyA",
+            "url":"/media/sounds/m_fixed_FLOBhyA.mp3",
             "id":651
          },
          {
             "name":"免費的罐頭塔讓各位自取",
-            "url":"/media/sounds/.mp3_XDYOxoO",
+            "url":"/media/sounds/m_fixed_XDYOxoO.mp3",
             "id":652
          },
          {
             "name":"我們外面",
-            "url":"/media/sounds/.mp3_GDnOUnI",
+            "url":"/media/sounds/m_fixed_GDnOUnI.mp3",
             "id":653
          },
          {
             "name":"復帽完畢",
-            "url":"/media/sounds/.mp3_aFPCUPt",
+            "url":"/media/sounds/m_fixed_aFPCUPt.mp3",
             "id":654
          },
          {
             "name":"準備鞠躬",
-            "url":"/media/sounds/.mp3_KdPg2FC",
+            "url":"/media/sounds/m_fixed_KdPg2FC.mp3",
             "id":655
          },
          {
             "name":"請脫帽",
-            "url":"/media/sounds/.mp3_wFhL5gn",
+            "url":"/media/sounds/m_fixed_wFhL5gn.mp3",
             "id":656
          },
          {
             "name":"請肅靜",
-            "url":"/media/sounds/.mp3_SUNSJ0G",
+            "url":"/media/sounds/m_fixed_SUNSJ0G.mp3",
             "id":657
          },
          {
             "name":"舉行儀式開始啦",
-            "url":"/media/sounds/.mp3_b3hL7Za",
+            "url":"/media/sounds/m_fixed_b3hL7Za.mp3",
             "id":658
          },
          {
             "name":"謝謝各位的參與",
-            "url":"/media/sounds/.mp3_CBUQ9Ut",
+            "url":"/media/sounds/m_fixed_CBUQ9Ut.mp3",
             "id":659
          },
          {
             "name":"還有",
-            "url":"/media/sounds/.mp3_23O0k5R",
+            "url":"/media/sounds/m_fixed_23O0k5R.mp3",
             "id":660
          },
          {
             "name":"獻果",
-            "url":"/media/sounds/.mp3_ZBgscMX",
+            "url":"/media/sounds/m_fixed_ZBgscMX.mp3",
             "id":661
          },
          {
             "name":"獻花",
-            "url":"/media/sounds/.mp3_e2ifSbq",
+            "url":"/media/sounds/m_fixed_e2ifSbq.mp3",
             "id":662
          },
          {
             "name":"獻爵",
-            "url":"/media/sounds/.mp3_xwvk53H",
+            "url":"/media/sounds/m_fixed_xwvk53H.mp3",
             "id":663
          },
          {
             "name":"讓各位一起",
-            "url":"/media/sounds/.mp3_UBBPcET",
+            "url":"/media/sounds/m_fixed_UBBPcET.mp3",
             "id":664
          },
          {
@@ -847,42 +847,42 @@ export default [
          },
          {
             "name":"也不要讓他難過",
-            "url":"/media/sounds/.mp3_87lA0Zh",
+            "url":"/media/sounds/m_fixed_87lA0Zh.mp3",
             "id":701
          },
          {
             "name":"不要再彈出來了",
-            "url":"/media/sounds/.mp3_awugVsm",
+            "url":"/media/sounds/m_fixed_awugVsm.mp3",
             "id":702
          },
          {
             "name":"火化的過程中",
-            "url":"/media/sounds/.mp3_ODse2GW",
+            "url":"/media/sounds/m_fixed_ODse2GW.mp3",
             "id":703
          },
          {
             "name":"火化儀式",
-            "url":"/media/sounds/.mp3_zJET9vo",
+            "url":"/media/sounds/m_fixed_zJET9vo.mp3",
             "id":704
          },
          {
             "name":"他已經剩粉了",
-            "url":"/media/sounds/.mp3_SgrbPHh",
+            "url":"/media/sounds/m_fixed_SgrbPHh.mp3",
             "id":705
          },
          {
             "name":"他在那最後的時刻",
-            "url":"/media/sounds/.mp3_bEJkKvd",
+            "url":"/media/sounds/m_fixed_bEJkKvd.mp3",
             "id":706
          },
          {
             "name":"再也沒辦法",
-            "url":"/media/sounds/.mp3_TVrqpJp",
+            "url":"/media/sounds/m_fixed_TVrqpJp.mp3",
             "id":707
          },
          {
             "name":"再次懷念",
-            "url":"/media/sounds/.mp3_s3QVAg8",
+            "url":"/media/sounds/m_fixed_s3QVAg8.mp3",
             "id":708
          },
          {
@@ -897,42 +897,42 @@ export default [
          },
          {
             "name":"在火化的同時",
-            "url":"/media/sounds/.mp3_jUazjxL",
+            "url":"/media/sounds/m_fixed_jUazjxL.mp3",
             "id":711
          },
          {
             "name":"好的",
-            "url":"/media/sounds/.mp3_Lwx1RRb",
+            "url":"/media/sounds/m_fixed_Lwx1RRb.mp3",
             "id":712
          },
          {
             "name":"有火呦",
-            "url":"/media/sounds/.mp3_opZ0xLz",
+            "url":"/media/sounds/m_fixed_opZ0xLz.mp3",
             "id":713
          },
          {
             "name":"至旁間的小房間領取他的灰",
-            "url":"/media/sounds/.mp3_fpIkl8k",
+            "url":"/media/sounds/m_fixed_fpIkl8k.mp3",
             "id":714
          },
          {
             "name":"告別典禮",
-            "url":"/media/sounds/.mp3_JE7gOJ1",
+            "url":"/media/sounds/m_fixed_JE7gOJ1.mp3",
             "id":715
          },
          {
             "name":"快跑啊",
-            "url":"/media/sounds/.mp3_4dnRBRN",
+            "url":"/media/sounds/m_fixed_4dnRBRN.mp3",
             "id":716
          },
          {
             "name":"我們一定要永遠記得他",
-            "url":"/media/sounds/.mp3_eG9QFp2",
+            "url":"/media/sounds/m_fixed_eG9QFp2.mp3",
             "id":717
          },
          {
             "name":"我們一定要懷念他",
-            "url":"/media/sounds/.mp3_JmlAcYp",
+            "url":"/media/sounds/m_fixed_JmlAcYp.mp3",
             "id":718
          },
          {
@@ -942,72 +942,72 @@ export default [
          },
          {
             "name":"我們真的很懷念他",
-            "url":"/media/sounds/.mp3_ZZUsTat",
+            "url":"/media/sounds/m_fixed_ZZUsTat.mp3",
             "id":720
          },
          {
             "name":"我棺材已經蓋起來了",
-            "url":"/media/sounds/.mp3_aIDKMzo",
+            "url":"/media/sounds/m_fixed_aIDKMzo.mp3",
             "id":721
          },
          {
             "name":"典禮開始",
-            "url":"/media/sounds/.mp3_7oAjtZz",
+            "url":"/media/sounds/m_fixed_7oAjtZz.mp3",
             "id":722
          },
          {
             "name":"拔刀典禮",
-            "url":"/media/sounds/.mp3_tC0RTRS",
+            "url":"/media/sounds/m_fixed_tC0RTRS.mp3",
             "id":723
          },
          {
             "name":"要推進去了",
-            "url":"/media/sounds/.mp3_Ti7Eh6d",
+            "url":"/media/sounds/m_fixed_Ti7Eh6d.mp3",
             "id":724
          },
          {
             "name":"要跑喔",
-            "url":"/media/sounds/.mp3_Pi7uqLK",
+            "url":"/media/sounds/m_fixed_Pi7uqLK.mp3",
             "id":725
          },
          {
             "name":"旁邊燒的那個叫",
-            "url":"/media/sounds/.mp3_iOKOCIB",
+            "url":"/media/sounds/m_fixed_iOKOCIB.mp3",
             "id":726
          },
          {
             "name":"進行",
-            "url":"/media/sounds/.mp3_yU2gaYY",
+            "url":"/media/sounds/m_fixed_yU2gaYY.mp3",
             "id":727
          },
          {
             "name":"請各位觀眾與家屬",
-            "url":"/media/sounds/.mp3_Gf2l5rq",
+            "url":"/media/sounds/m_fixed_Gf2l5rq.mp3",
             "id":728
          },
          {
             "name":"請記得大喊",
-            "url":"/media/sounds/.mp3_8dwFUGP",
+            "url":"/media/sounds/m_fixed_8dwFUGP.mp3",
             "id":729
          },
          {
             "name":"謝謝你",
-            "url":"/media/sounds/.mp3_3NqmYE3",
+            "url":"/media/sounds/m_fixed_3NqmYE3.mp3",
             "id":730
          },
          {
             "name":"聽到沒？",
-            "url":"/media/sounds/.mp3_cAEyHsL",
+            "url":"/media/sounds/m_fixed_cAEyHsL.mp3",
             "id":731
          },
          {
             "name":"讓我們紀念",
-            "url":"/media/sounds/.mp3_wj5AGsw",
+            "url":"/media/sounds/m_fixed_wj5AGsw.mp3",
             "id":732
          },
          {
             "name":"火要來啦",
-            "url":"/media/sounds/.mp3_lg0MX9N",
+            "url":"/media/sounds/m_fixed_lg0MX9N.mp3",
             "id":733
          },
          {
@@ -1017,87 +1017,87 @@ export default [
          },
          {
             "name":"下去囉～",
-            "url":"/media/sounds/.mp3_TWPRgh0",
+            "url":"/media/sounds/m_fixed_TWPRgh0.mp3",
             "id":907
          },
          {
             "name":"千萬不要懷念我們",
-            "url":"/media/sounds/.mp3_bnGioTc",
+            "url":"/media/sounds/m_fixed_bnGioTc.mp3",
             "id":908
          },
          {
             "name":"不愧是",
-            "url":"/media/sounds/.mp3_T6kjR7r",
+            "url":"/media/sounds/m_fixed_T6kjR7r.mp3",
             "id":909
          },
          {
             "name":"他走的非常非常的痛",
-            "url":"/media/sounds/.mp3_RLbOkmx",
+            "url":"/media/sounds/m_fixed_RLbOkmx.mp3",
             "id":910
          },
          {
             "name":"共產之力",
-            "url":"/media/sounds/.mp3_CLTnQOE",
+            "url":"/media/sounds/m_fixed_CLTnQOE.mp3",
             "id":911
          },
          {
             "name":"共產黨的兒子",
-            "url":"/media/sounds/.mp3_sinoWCT",
+            "url":"/media/sounds/m_fixed_sinoWCT.mp3",
             "id":912
          },
          {
             "name":"在下去的同時",
-            "url":"/media/sounds/.mp3_kkKxind",
+            "url":"/media/sounds/m_fixed_kkKxind.mp3",
             "id":913
          },
          {
             "name":"在送的過程",
-            "url":"/media/sounds/.mp3_d0LnklD",
+            "url":"/media/sounds/m_fixed_d0LnklD.mp3",
             "id":914
          },
          {
             "name":"我不送你下去，誰送你下去？",
-            "url":"/media/sounds/.mp3_eEJr9CW",
+            "url":"/media/sounds/m_fixed_eEJr9CW.mp3",
             "id":915
          },
          {
             "name":"我們為了體現",
-            "url":"/media/sounds/.mp3_5Ex4g5k",
+            "url":"/media/sounds/m_fixed_5Ex4g5k.mp3",
             "id":916
          },
          {
             "name":"我們懷念你",
-            "url":"/media/sounds/.mp3_oPVOny4",
+            "url":"/media/sounds/m_fixed_oPVOny4.mp3",
             "id":917
          },
          {
             "name":"為民所苦",
-            "url":"/media/sounds/.mp3_8hevkDa",
+            "url":"/media/sounds/m_fixed_8hevkDa.mp3",
             "id":919
          },
          {
             "name":"苦民所苦",
-            "url":"/media/sounds/.mp3_rgFoyJC",
+            "url":"/media/sounds/m_fixed_rgFoyJC.mp3",
             "id":920
          },
          {
             "name":"記得",
-            "url":"/media/sounds/.mp3_j0uvcct",
+            "url":"/media/sounds/m_fixed_j0uvcct.mp3",
             "id":922
          },
          {
             "name":"貢獻了那",
-            "url":"/media/sounds/.mp3_jaS0ZwV",
+            "url":"/media/sounds/m_fixed_jaS0ZwV.mp3",
             "id":923
          },
          {
             "name":"做事情也如此共產",
-            "url":"/media/sounds/.mp3_fCd9Zwi",
+            "url":"/media/sounds/m_fixed_fCd9Zwi.mp3",
             "id":924
          },
          {
             "name":"講話就是這麼的共產",
-            "url":"/media/sounds/.mp3_AxHeymy",
+            "url":"/media/sounds/m_fixed_AxHeymy.mp3",
             "id":925
          },
          {
@@ -1107,17 +1107,17 @@ export default [
          },
          {
             "name":"黨的意志準備送",
-            "url":"/media/sounds/.mp3_LfQiJ3v",
+            "url":"/media/sounds/m_fixed_LfQiJ3v.mp3",
             "id":927
          },
          {
             "name":"蘇聯國歌開頭",
-            "url":"/media/sounds/.mp3_9TAnQOd",
+            "url":"/media/sounds/m_fixed_9TAnQOd.mp3",
             "id":1015
          },
          {
             "name":"蟑螂，正義來了！",
-            "url":"/media/sounds/.mp3_kO5e6EE",
+            "url":"/media/sounds/m_fixed_kO5e6EE.mp3",
             "id":1111
          },
          {
@@ -1127,67 +1127,67 @@ export default [
          },
          {
             "name":"中",
-            "url":"/media/sounds/.mp3_d9wqQxT",
+            "url":"/media/sounds/m_fixed_d9wqQxT.mp3",
             "id":1116
          },
          {
             "name":"永遠記得",
-            "url":"/media/sounds/.mp3_kvGHtrD",
+            "url":"/media/sounds/m_fixed_kvGHtrD.mp3",
             "id":1117
          },
          {
             "name":"生命",
-            "url":"/media/sounds/.mp3_G6LE124",
+            "url":"/media/sounds/m_fixed_G6LE124.mp3",
             "id":1118
          },
          {
             "name":"在這個時刻",
-            "url":"/media/sounds/.mp3_8ScMaPh",
+            "url":"/media/sounds/m_fixed_8ScMaPh.mp3",
             "id":1119
          },
          {
             "name":"有您真好",
-            "url":"/media/sounds/.mp3_LzUeE8G",
+            "url":"/media/sounds/m_fixed_LzUeE8G.mp3",
             "id":1120
          },
          {
             "name":"我們希望",
-            "url":"/media/sounds/.mp3_6Ct1USU",
+            "url":"/media/sounds/m_fixed_6Ct1USU.mp3",
             "id":1121
          },
          {
             "name":"能夠",
-            "url":"/media/sounds/.mp3_u46fVEq",
+            "url":"/media/sounds/m_fixed_u46fVEq.mp3",
             "id":1122
          },
          {
             "name":"深刻深刻",
-            "url":"/media/sounds/.mp3_8zBORut",
+            "url":"/media/sounds/m_fixed_8zBORut.mp3",
             "id":1123
          },
          {
             "name":"這麼多快樂",
-            "url":"/media/sounds/.mp3_kVbQ9pd",
+            "url":"/media/sounds/m_fixed_kVbQ9pd.mp3",
             "id":1124
          },
          {
             "name":"這麼多的人生回憶",
-            "url":"/media/sounds/.mp3_VeTU7hX",
+            "url":"/media/sounds/m_fixed_VeTU7hX.mp3",
             "id":1125
          },
          {
             "name":"這麼多歡樂",
-            "url":"/media/sounds/.mp3_570IOA1",
+            "url":"/media/sounds/m_fixed_570IOA1.mp3",
             "id":1126
          },
          {
             "name":"感謝他為我們帶來",
-            "url":"/media/sounds/.mp3_0cM7FjN",
+            "url":"/media/sounds/m_fixed_0cM7FjN.mp3",
             "id":1127
          },
          {
             "name":"謝謝",
-            "url":"/media/sounds/.mp3_1kunA7X",
+            "url":"/media/sounds/m_fixed_1kunA7X.mp3",
             "id":1128
          },
          {
@@ -1202,117 +1202,117 @@ export default [
          },
          {
             "name":"大慈大悲",
-            "url":"/media/sounds/.mp3_loMfspi",
+            "url":"/media/sounds/m_fixed_loMfspi.mp3",
             "id":1186
          },
          {
             "name":"不再回首",
-            "url":"/media/sounds/.mp3_La8XCXI",
+            "url":"/media/sounds/m_fixed_La8XCXI.mp3",
             "id":1187
          },
          {
             "name":"天妒英才",
-            "url":"/media/sounds/.mp3_yzFM53U",
+            "url":"/media/sounds/m_fixed_yzFM53U.mp3",
             "id":1188
          },
          {
             "name":"他還沒死啦",
-            "url":"/media/sounds/.mp3_nQnFQh1",
+            "url":"/media/sounds/m_fixed_nQnFQh1.mp3",
             "id":1189
          },
          {
             "name":"平安",
-            "url":"/media/sounds/.mp3_5TBFPdc",
+            "url":"/media/sounds/m_fixed_5TBFPdc.mp3",
             "id":1190
          },
          {
             "name":"本該綻放花火大放異彩的人生",
-            "url":"/media/sounds/.mp3_Al79zN3",
+            "url":"/media/sounds/m_fixed_Al79zN3.mp3",
             "id":1191
          },
          {
             "name":"在這混亂的下水道",
-            "url":"/media/sounds/.mp3_4aWURbA",
+            "url":"/media/sounds/m_fixed_4aWURbA.mp3",
             "id":1192
          },
          {
             "name":"年紀輕輕",
-            "url":"/media/sounds/.mp3_9c8kpJZ",
+            "url":"/media/sounds/m_fixed_9c8kpJZ.mp3",
             "id":1193
          },
          {
             "name":"受苦",
-            "url":"/media/sounds/.mp3_YLWlcrn",
+            "url":"/media/sounds/m_fixed_YLWlcrn.mp3",
             "id":1194
          },
          {
             "name":"受難",
-            "url":"/media/sounds/.mp3_WMA1t6l",
+            "url":"/media/sounds/m_fixed_WMA1t6l.mp3",
             "id":1195
          },
          {
             "name":"阿彌陀佛2",
-            "url":"/media/sounds/.mp3_QkKm3Sy",
+            "url":"/media/sounds/m_fixed_QkKm3Sy.mp3",
             "id":1196
          },
          {
             "name":"紅塵渺渺",
-            "url":"/media/sounds/.mp3_u6pImUf",
+            "url":"/media/sounds/m_fixed_u6pImUf.mp3",
             "id":1197
          },
          {
             "name":"負荊前行",
-            "url":"/media/sounds/.mp3_ifVJMeK",
+            "url":"/media/sounds/m_fixed_ifVJMeK.mp3",
             "id":1198
          },
          {
             "name":"祝福您再前往彩虹橋的路上",
-            "url":"/media/sounds/.mp3_rPWXvOQ",
+            "url":"/media/sounds/m_fixed_rPWXvOQ.mp3",
             "id":1199
          },
          {
             "name":"能2",
-            "url":"/media/sounds/.mp3_uT89BWs",
+            "url":"/media/sounds/m_fixed_uT89BWs.mp3",
             "id":1200
          },
          {
             "name":"您不用再",
-            "url":"/media/sounds/.mp3_F9KR96R",
+            "url":"/media/sounds/m_fixed_F9KR96R.mp3",
             "id":1201
          },
          {
             "name":"就此提前落幕",
-            "url":"/media/sounds/.mp3_A1CGFrC",
+            "url":"/media/sounds/m_fixed_A1CGFrC.mp3",
             "id":1202
          },
          {
             "name":"就遭遇不測",
-            "url":"/media/sounds/.mp3_22ITbhq",
+            "url":"/media/sounds/m_fixed_22ITbhq.mp3",
             "id":1203
          },
          {
             "name":"圓滿",
-            "url":"/media/sounds/.mp3_HjyVtNm",
+            "url":"/media/sounds/m_fixed_HjyVtNm.mp3",
             "id":1204
          },
          {
             "name":"撿骨",
-            "url":"/media/sounds/.mp3_W1qJr8w",
+            "url":"/media/sounds/m_fixed_W1qJr8w.mp3",
             "id":1205
          },
          {
             "name":"親愛的",
-            "url":"/media/sounds/.mp3_0sbGoDG",
+            "url":"/media/sounds/m_fixed_0sbGoDG.mp3",
             "id":1206
          },
          {
             "name":"願您一切好走",
-            "url":"/media/sounds/.mp3_7sxWzeI",
+            "url":"/media/sounds/m_fixed_7sxWzeI.mp3",
             "id":1207
          },
          {
             "name":"先生",
-            "url":"/media/sounds/.mp3_AeW95MZ",
+            "url":"/media/sounds/m_fixed_AeW95MZ.mp3",
             "id":365
          },
          {
@@ -1322,107 +1322,107 @@ export default [
          },
          {
             "name":"往生了",
-            "url":"/media/sounds/.mp3_YAiaL8N",
+            "url":"/media/sounds/m_fixed_YAiaL8N.mp3",
             "id":1294
          },
          {
             "name":"渡化",
-            "url":"/media/sounds/.mp3_VERPWxy",
+            "url":"/media/sounds/m_fixed_VERPWxy.mp3",
             "id":1295
          },
          {
             "name":"禮畢～",
-            "url":"/media/sounds/.mp3_3POVftu",
+            "url":"/media/sounds/m_fixed_3POVftu.mp3",
             "id":1296
          },
          {
             "name":"在這混亂的世道上",
-            "url":"/media/sounds/.mp3_lxPYC4W",
+            "url":"/media/sounds/m_fixed_lxPYC4W.mp3",
             "id":1391
          },
          {
             "name":"司儀",
-            "url":"/media/sounds/.mp3_7JOohwE",
+            "url":"/media/sounds/m_fixed_7JOohwE.mp3",
             "id":1498
          },
          {
             "name":"香儀",
-            "url":"/media/sounds/.mp3_GDAIjg5",
+            "url":"/media/sounds/m_fixed_GDAIjg5.mp3",
             "id":1499
          },
          {
             "name":"真的很安詳",
-            "url":"/media/sounds/.mp3_QYyHBGs",
+            "url":"/media/sounds/m_fixed_QYyHBGs.mp3",
             "id":1500
          },
          {
             "name":"圓寂了",
-            "url":"/media/sounds/.mp3_VH8XeUd",
+            "url":"/media/sounds/m_fixed_VH8XeUd.mp3",
             "id":1501
          },
          {
             "name":"極樂世界",
-            "url":"/media/sounds/.mp3_9KpuRQR",
+            "url":"/media/sounds/m_fixed_9KpuRQR.mp3",
             "id":1502
          },
          {
             "name":"腳尾飯(台)",
-            "url":"/media/sounds/.mp3_c83UdKN",
+            "url":"/media/sounds/m_fixed_c83UdKN.mp3",
             "id":1503
          },
          {
             "name":"腳尾錢",
-            "url":"/media/sounds/.mp3_n8l12Ap",
+            "url":"/media/sounds/m_fixed_n8l12Ap.mp3",
             "id":1504
          },
          {
             "name":"誦經",
-            "url":"/media/sounds/.mp3_zjfYenV",
+            "url":"/media/sounds/m_fixed_zjfYenV.mp3",
             "id":1505
          },
          {
             "name":"樂隊",
-            "url":"/media/sounds/.mp3_8Px1nKD",
+            "url":"/media/sounds/m_fixed_8Px1nKD.mp3",
             "id":1506
          },
          {
             "name":"『念咒』",
-            "url":"/media/sounds/.mp3_HmQt7I1",
+            "url":"/media/sounds/m_fixed_HmQt7I1.mp3",
             "id":1657
          },
          {
             "name":"往生咒",
-            "url":"/media/sounds/.mp3_4A6aWiP",
+            "url":"/media/sounds/m_fixed_4A6aWiP.mp3",
             "id":1658
          },
          {
             "name":"念",
-            "url":"/media/sounds/.mp3_rIuvNXa",
+            "url":"/media/sounds/m_fixed_rIuvNXa.mp3",
             "id":1659
          },
          {
             "name":"葬儀社",
-            "url":"/media/sounds/.mp3_wXYTzfk",
+            "url":"/media/sounds/m_fixed_wXYTzfk.mp3",
             "id":1660
          },
          {
             "name":"一號",
-            "url":"/media/sounds/.mp3_9Sm3PNQ",
+            "url":"/media/sounds/m_fixed_9Sm3PNQ.mp3",
             "id":2357
          },
          {
             "name":"二號",
-            "url":"/media/sounds/.mp3_sBVYjFm",
+            "url":"/media/sounds/m_fixed_sBVYjFm.mp3",
             "id":2358
          },
          {
             "name":"三號",
-            "url":"/media/sounds/.mp3_gvrvqv2",
+            "url":"/media/sounds/m_fixed_gvrvqv2.mp3",
             "id":2359
          },
          {
             "name":"小提琴手",
-            "url":"/media/sounds/.mp3_5lnrhyE",
+            "url":"/media/sounds/m_fixed_5lnrhyE.mp3",
             "id":2360
          },
          {
@@ -1432,52 +1432,52 @@ export default [
          },
          {
             "name":"主持",
-            "url":"/media/sounds/.mp3_S6TO2PB",
+            "url":"/media/sounds/m_fixed_S6TO2PB.mp3",
             "id":2362
          },
          {
             "name":"奏樂開始啦～",
-            "url":"/media/sounds/.mp3_j8T47a6",
+            "url":"/media/sounds/m_fixed_j8T47a6.mp3",
             "id":2363
          },
          {
             "name":"這一次的",
-            "url":"/media/sounds/.mp3_OtSr1lJ",
+            "url":"/media/sounds/m_fixed_OtSr1lJ.mp3",
             "id":2364
          },
          {
             "name":"喇叭手",
-            "url":"/media/sounds/.mp3_YH7N4Hn",
+            "url":"/media/sounds/m_fixed_YH7N4Hn.mp3",
             "id":2365
          },
          {
             "name":"就位啦",
-            "url":"/media/sounds/.mp3_bzGYGSM",
+            "url":"/media/sounds/m_fixed_bzGYGSM.mp3",
             "id":2366
          },
          {
             "name":"預備",
-            "url":"/media/sounds/.mp3_vq8J5JJ",
+            "url":"/media/sounds/m_fixed_vq8J5JJ.mp3",
             "id":2367
          },
          {
             "name":"鼓手",
-            "url":"/media/sounds/.mp3_Xujt9jt",
+            "url":"/media/sounds/m_fixed_Xujt9jt.mp3",
             "id":2368
          },
          {
             "name":"樂團",
-            "url":"/media/sounds/.mp3_oremOhx",
+            "url":"/media/sounds/m_fixed_oremOhx.mp3",
             "id":2369
          },
          {
             "name":"請～奏樂",
-            "url":"/media/sounds/.mp3_EGLCznl",
+            "url":"/media/sounds/m_fixed_EGLCznl.mp3",
             "id":2370
          },
          {
             "name":"一拜～",
-            "url":"/media/sounds/.mp3_UFwUXll",
+            "url":"/media/sounds/m_fixed_UFwUXll.mp3",
             "id":2477
          },
          {
@@ -1487,42 +1487,42 @@ export default [
          },
          {
             "name":"三拜～",
-            "url":"/media/sounds/.mp3_dMkQNZa",
+            "url":"/media/sounds/m_fixed_dMkQNZa.mp3",
             "id":2479
          },
          {
             "name":"三柱清香",
-            "url":"/media/sounds/.mp3_yYXQVu8",
+            "url":"/media/sounds/m_fixed_yYXQVu8.mp3",
             "id":2480
          },
          {
             "name":"下葬囉",
-            "url":"/media/sounds/.mp3_8pzuMv8",
+            "url":"/media/sounds/m_fixed_8pzuMv8.mp3",
             "id":2481
          },
          {
             "name":"二炷清香",
-            "url":"/media/sounds/.mp3_Xq6UHuU",
+            "url":"/media/sounds/m_fixed_Xq6UHuU.mp3",
             "id":2482
          },
          {
             "name":"再拜～",
-            "url":"/media/sounds/.mp3_8BQZmcD",
+            "url":"/media/sounds/m_fixed_8BQZmcD.mp3",
             "id":2483
          },
          {
             "name":"吉時到",
-            "url":"/media/sounds/.mp3_DICbNlW",
+            "url":"/media/sounds/m_fixed_DICbNlW.mp3",
             "id":2484
          },
          {
             "name":"推進去",
-            "url":"/media/sounds/.mp3_h3Az89O",
+            "url":"/media/sounds/m_fixed_h3Az89O.mp3",
             "id":2485
          },
          {
             "name":"請～上香",
-            "url":"/media/sounds/.mp3_3T1EI8A",
+            "url":"/media/sounds/m_fixed_3T1EI8A.mp3",
             "id":2486
          },
          {
@@ -1532,12 +1532,12 @@ export default [
          },
          {
             "name":"就位",
-            "url":"/media/sounds/.mp3_KXYYqvf",
+            "url":"/media/sounds/m_fixed_KXYYqvf.mp3",
             "id":2624
          },
          {
             "name":"火葬場",
-            "url":"/media/sounds/.mp3_Q6ub7Zy",
+            "url":"/media/sounds/m_fixed_Q6ub7Zy.mp3",
             "id":2625
          },
          {
@@ -1547,57 +1547,57 @@ export default [
          },
          {
             "name":"下去吧",
-            "url":"/media/sounds/.mp3_pyNig9L",
+            "url":"/media/sounds/m_fixed_pyNig9L.mp3",
             "id":3035
          },
          {
             "name":"告別式",
-            "url":"/media/sounds/.mp3_nf4cpJ8",
+            "url":"/media/sounds/m_fixed_nf4cpJ8.mp3",
             "id":3036
          },
          {
             "name":"『緬懷蘿姬』",
-            "url":"/media/sounds/.mp3_6zpXpAW",
+            "url":"/media/sounds/m_fixed_6zpXpAW.mp3",
             "id":3037
          },
          {
             "name":"你怎麼變這個樣子啊？",
-            "url":"/media/sounds/.mp3_bjthiOU",
+            "url":"/media/sounds/m_fixed_bjthiOU.mp3",
             "id":3157
          },
          {
             "name":"恭送",
-            "url":"/media/sounds/.mp3_9LtxBH4",
+            "url":"/media/sounds/m_fixed_9LtxBH4.mp3",
             "id":3158
          },
          {
             "name":"來賓",
-            "url":"/media/sounds/.mp3_dwF3I10",
+            "url":"/media/sounds/m_fixed_dwF3I10.mp3",
             "id":3429
          },
          {
             "name":"再次感謝",
-            "url":"/media/sounds/.mp3_TMji2eT",
+            "url":"/media/sounds/m_fixed_TMji2eT.mp3",
             "id":3430
          },
          {
             "name":"回座",
-            "url":"/media/sounds/.mp3_SLxwVK3",
+            "url":"/media/sounds/m_fixed_SLxwVK3.mp3",
             "id":3431
          },
          {
             "name":"家屬",
-            "url":"/media/sounds/.mp3_eNIBXLs",
+            "url":"/media/sounds/m_fixed_eNIBXLs.mp3",
             "id":3432
          },
          {
             "name":"復位",
-            "url":"/media/sounds/.mp3_TqFjXTM",
+            "url":"/media/sounds/m_fixed_TqFjXTM.mp3",
             "id":3433
          },
          {
             "name":"神位",
-            "url":"/media/sounds/.mp3_gdwSMKB",
+            "url":"/media/sounds/m_fixed_gdwSMKB.mp3",
             "id":3434
          },
          {
@@ -1637,67 +1637,67 @@ export default [
       "datas":[
          {
             "name":"屌你老母",
-            "url":"/media/sounds/.mp3_MGgvnBc",
+            "url":"/media/sounds/m_fixed_MGgvnBc.mp3",
             "id":31
          },
          {
             "name":"看你娘",
-            "url":"/media/sounds/.mp3_8dRNI8f",
+            "url":"/media/sounds/m_fixed_8dRNI8f.mp3",
             "id":32
          },
          {
             "name":"甲洨喔～",
-            "url":"/media/sounds/.mp3_sezrMNa",
+            "url":"/media/sounds/m_fixed_sezrMNa.mp3",
             "id":33
          },
          {
             "name":"靠杯喔",
-            "url":"/media/sounds/.mp3_KE0u1go",
+            "url":"/media/sounds/m_fixed_KE0u1go.mp3",
             "id":34
          },
          {
             "name":"欠我幹啊？是不是？",
-            "url":"/media/sounds/.mp3_iCm5mfD",
+            "url":"/media/sounds/m_fixed_iCm5mfD.mp3",
             "id":35
          },
          {
             "name":"幹死他！",
-            "url":"/media/sounds/.mp3_V90v3Uz",
+            "url":"/media/sounds/m_fixed_V90v3Uz.mp3",
             "id":36
          },
          {
             "name":"他死定了他",
-            "url":"/media/sounds/.mp3_NNeVbQx",
+            "url":"/media/sounds/m_fixed_NNeVbQx.mp3",
             "id":37
          },
          {
             "name":"王八蛋",
-            "url":"/media/sounds/.mp3_u5GyBfE",
+            "url":"/media/sounds/m_fixed_u5GyBfE.mp3",
             "id":38
          },
          {
             "name":"揍死你",
-            "url":"/media/sounds/.mp3_eeRpk5h",
+            "url":"/media/sounds/m_fixed_eeRpk5h.mp3",
             "id":39
          },
          {
             "name":"你倒大楣了",
-            "url":"/media/sounds/.mp3_k42Ebs9",
+            "url":"/media/sounds/m_fixed_k42Ebs9.mp3",
             "id":40
          },
          {
             "name":"你怎麼不下去啊？",
-            "url":"/media/sounds/.mp3_ymzeXkq",
+            "url":"/media/sounds/m_fixed_ymzeXkq.mp3",
             "id":41
          },
          {
             "name":"你倒霉了",
-            "url":"/media/sounds/.mp3_i7hzaxU",
+            "url":"/media/sounds/m_fixed_i7hzaxU.mp3",
             "id":42
          },
          {
             "name":"我沒有去幹他，我他媽不姓張！",
-            "url":"/media/sounds/.mp3_EMspCZe",
+            "url":"/media/sounds/m_fixed_EMspCZe.mp3",
             "id":43
          },
          {
@@ -1717,12 +1717,12 @@ export default [
          },
          {
             "name":"智障",
-            "url":"/media/sounds/.mp3_GVdHujG",
+            "url":"/media/sounds/m_fixed_GVdHujG.mp3",
             "id":47
          },
          {
             "name":"你媽死了",
-            "url":"/media/sounds/nmsl.mp3",
+            "url":"/media/sounds/ni-ma-si-liao.mp3",
             "id":48
          },
          {
@@ -1732,102 +1732,102 @@ export default [
          },
          {
             "name":"你怎麼死這麼慘？",
-            "url":"/media/sounds/.mp3_V2jHYfc",
+            "url":"/media/sounds/m_fixed_V2jHYfc.mp3",
             "id":311
          },
          {
             "name":"你怎麼變成這樣？",
-            "url":"/media/sounds/.mp3_ZuGwVEc",
+            "url":"/media/sounds/m_fixed_ZuGwVEc.mp3",
             "id":312
          },
          {
             "name":"你怎麼變得像屎啊？",
-            "url":"/media/sounds/.mp3_NiPntCg",
+            "url":"/media/sounds/m_fixed_NiPntCg.mp3",
             "id":313
          },
          {
             "name":"你在嗆三小？",
-            "url":"/media/sounds/.mp3_mDzJINu",
+            "url":"/media/sounds/m_fixed_mDzJINu.mp3",
             "id":319
          },
          {
             "name":"屌嗆你一波",
-            "url":"/media/sounds/.mp3_SmvJbIV",
+            "url":"/media/sounds/m_fixed_SmvJbIV.mp3",
             "id":320
          },
          {
             "name":"嗆你祖宗十八代",
-            "url":"/media/sounds/.mp3_xNvLqTH",
+            "url":"/media/sounds/m_fixed_xNvLqTH.mp3",
             "id":321
          },
          {
             "name":"嗆到你爸媽認不出你是誰",
-            "url":"/media/sounds/.mp3_ruxFmG4",
+            "url":"/media/sounds/m_fixed_ruxFmG4.mp3",
             "id":322
          },
          {
             "name":"機掰",
-            "url":"/media/sounds/.mp3_SKfvLn4",
+            "url":"/media/sounds/m_fixed_SKfvLn4.mp3",
             "id":323
          },
          {
             "name":"你是不是真的想被我送下去？",
-            "url":"/media/sounds/.mp3_P1ONGPc",
+            "url":"/media/sounds/m_fixed_P1ONGPc.mp3",
             "id":316
          },
          {
             "name":"欠我插是不是啊？",
-            "url":"/media/sounds/.mp3_iE3179c",
+            "url":"/media/sounds/m_fixed_iE3179c.mp3",
             "id":361
          },
          {
             "name":"媽的哩",
-            "url":"/media/sounds/.mp3_oMrTqx3",
+            "url":"/media/sounds/m_fixed_oMrTqx3.mp3",
             "id":493
          },
          {
             "name":"在幹是不是啦？",
-            "url":"/media/sounds/.mp3_lmo4Xmf",
+            "url":"/media/sounds/m_fixed_lmo4Xmf.mp3",
             "id":539
          },
          {
             "name":"你怎麼便這個樣子啊？",
-            "url":"/media/sounds/.mp3_Ntdd2ui",
+            "url":"/media/sounds/m_fixed_Ntdd2ui.mp3",
             "id":542
          },
          {
             "name":"屁洨子",
-            "url":"/media/sounds/.mp3_Egu8RfP",
+            "url":"/media/sounds/m_fixed_Egu8RfP.mp3",
             "id":544
          },
          {
             "name":"真的素質很差ㄟ",
-            "url":"/media/sounds/.mp3_G6iOj9g",
+            "url":"/media/sounds/m_fixed_G6iOj9g.mp3",
             "id":545
          },
          {
             "name":"如果能幹死那王八蛋該有多好",
-            "url":"/media/sounds/.mp3_3lS6A2E",
+            "url":"/media/sounds/m_fixed_3lS6A2E.mp3",
             "id":666
          },
          {
             "name":"媽的幹死你！",
-            "url":"/media/sounds/.mp3_4a7ufbr",
+            "url":"/media/sounds/m_fixed_4a7ufbr.mp3",
             "id":667
          },
          {
             "name":"想被我幹是不是啊？",
-            "url":"/media/sounds/.mp3_2qM4CWV",
+            "url":"/media/sounds/m_fixed_2qM4CWV.mp3",
             "id":668
          },
          {
             "name":"龜啦！",
-            "url":"/media/sounds/.mp3_mwdIiud",
+            "url":"/media/sounds/m_fixed_mwdIiud.mp3",
             "id":669
          },
          {
             "name":"幹！",
-            "url":"/media/sounds/.mp3_W3GrziI",
+            "url":"/media/sounds/m_fixed_W3GrziI.mp3",
             "id":753
          },
          {
@@ -1837,117 +1837,117 @@ export default [
          },
          {
             "name":"靠夭",
-            "url":"/media/sounds/.mp3_DLFxpa7",
+            "url":"/media/sounds/m_fixed_DLFxpa7.mp3",
             "id":755
          },
          {
             "name":"人一籃腦就",
-            "url":"/media/sounds/.mp3_LGvNx1z",
+            "url":"/media/sounds/m_fixed_LGvNx1z.mp3",
             "id":881
          },
          {
             "name":"不會說對不起是不是啦？",
-            "url":"/media/sounds/.mp3_G00i6jb",
+            "url":"/media/sounds/m_fixed_G00i6jb.mp3",
             "id":882
          },
          {
             "name":"不會說對不起啊？",
-            "url":"/media/sounds/.mp3_jKTb8gQ",
+            "url":"/media/sounds/m_fixed_jKTb8gQ.mp3",
             "id":883
          },
          {
             "name":"他媽的",
-            "url":"/media/sounds/.mp3_KppZ2BC",
+            "url":"/media/sounds/m_fixed_KppZ2BC.mp3",
             "id":884
          },
          {
             "name":"打到媽的骨折",
-            "url":"/media/sounds/.mp3_hn7FNpl",
+            "url":"/media/sounds/m_fixed_hn7FNpl.mp3",
             "id":885
          },
          {
             "name":"白癡是不是啦？",
-            "url":"/media/sounds/.mp3_9F2RlC1",
+            "url":"/media/sounds/m_fixed_9F2RlC1.mp3",
             "id":886
          },
          {
             "name":"在混啊？",
-            "url":"/media/sounds/.mp3_ioMELpc",
+            "url":"/media/sounds/m_fixed_ioMELpc.mp3",
             "id":887
          },
          {
             "name":"在說三小？",
-            "url":"/media/sounds/.mp3_7QBQqKp",
+            "url":"/media/sounds/m_fixed_7QBQqKp.mp3",
             "id":888
          },
          {
             "name":"低能兒",
-            "url":"/media/sounds/.mp3_GfMh7TT",
+            "url":"/media/sounds/m_fixed_GfMh7TT.mp3",
             "id":889
          },
          {
             "name":"你是不會自己出來道歉是不是啦？",
-            "url":"/media/sounds/.mp3_sxbqanS",
+            "url":"/media/sounds/m_fixed_sxbqanS.mp3",
             "id":890
          },
          {
             "name":"吵三小？",
-            "url":"/media/sounds/.mp3_7rP5urF",
+            "url":"/media/sounds/m_fixed_7rP5urF.mp3",
             "id":891
          },
          {
             "name":"沒救了",
-            "url":"/media/sounds/.mp3_70k54qx",
+            "url":"/media/sounds/m_fixed_70k54qx.mp3",
             "id":892
          },
          {
             "name":"垃圾",
-            "url":"/media/sounds/.mp3_Lk6Wf4f",
+            "url":"/media/sounds/m_fixed_Lk6Wf4f.mp3",
             "id":893
          },
          {
             "name":"氣死我了",
-            "url":"/media/sounds/.mp3_VhV8Bkq",
+            "url":"/media/sounds/m_fixed_VhV8Bkq.mp3",
             "id":894
          },
          {
             "name":"送他下去",
-            "url":"/media/sounds/.mp3_WsmwZal",
+            "url":"/media/sounds/m_fixed_WsmwZal.mp3",
             "id":895
          },
          {
             "name":"啞巴是不是啦？",
-            "url":"/media/sounds/.mp3_YZT7Jgg",
+            "url":"/media/sounds/m_fixed_YZT7Jgg.mp3",
             "id":896
          },
          {
             "name":"幹你娘哩",
-            "url":"/media/sounds/.mp3_ixHdquC",
+            "url":"/media/sounds/m_fixed_ixHdquC.mp3",
             "id":897
          },
          {
             "name":"腦袋給我開機",
-            "url":"/media/sounds/.mp3_f72GLUm",
+            "url":"/media/sounds/m_fixed_f72GLUm.mp3",
             "id":898
          },
          {
             "name":"靠杯",
-            "url":"/media/sounds/.mp3_mdWZ8bu",
+            "url":"/media/sounds/m_fixed_mdWZ8bu.mp3",
             "id":899
          },
          {
             "name":"整個就像廢物一樣",
-            "url":"/media/sounds/.mp3_BOZ8DI9",
+            "url":"/media/sounds/m_fixed_BOZ8DI9.mp3",
             "id":900
          },
          {
             "name":"還要媽媽陪",
-            "url":"/media/sounds/.mp3_CZMUMbB",
+            "url":"/media/sounds/m_fixed_CZMUMbB.mp3",
             "id":901
          },
          {
             "name":"開外掛是不是啦？",
-            "url":"/media/sounds/.mp3_y79H1RX",
+            "url":"/media/sounds/m_fixed_y79H1RX.mp3",
             "id":948
          },
          {
@@ -1957,62 +1957,62 @@ export default [
          },
          {
             "name":"我他媽的哪知道",
-            "url":"/media/sounds/.mp3_Z7TFE0a",
+            "url":"/media/sounds/m_fixed_Z7TFE0a.mp3",
             "id":1101
          },
          {
             "name":"沒有禮貌ㄟ",
-            "url":"/media/sounds/.mp3_Id0u2YK",
+            "url":"/media/sounds/m_fixed_Id0u2YK.mp3",
             "id":1102
          },
          {
             "name":"信不信我把這把槍塞你屁眼？",
-            "url":"/media/sounds/.mp3_uyemLUz",
+            "url":"/media/sounds/m_fixed_uyemLUz.mp3",
             "id":1136
          },
          {
             "name":"塞到他屁眼裡面",
-            "url":"/media/sounds/.mp3_iClyd07",
+            "url":"/media/sounds/m_fixed_iClyd07.mp3",
             "id":1137
          },
          {
             "name":"幹他媽你在射試看看",
-            "url":"/media/sounds/.mp3_2qi3ddB",
+            "url":"/media/sounds/m_fixed_2qi3ddB.mp3",
             "id":1138
          },
          {
             "name":"幹你娘",
-            "url":"/media/sounds/.mp3_m4OZTUW",
+            "url":"/media/sounds/m_fixed_m4OZTUW.mp3",
             "id":1139
          },
          {
             "name":"你娘機掰",
-            "url":"/media/sounds/.mp3_35mX5x3",
+            "url":"/media/sounds/m_fixed_35mX5x3.mp3",
             "id":1216
          },
          {
             "name":"衝殺挖溝小",
-            "url":"/media/sounds/.mp3_KpUZpHZ",
+            "url":"/media/sounds/m_fixed_KpUZpHZ.mp3",
             "id":1217
          },
          {
             "name":"真的皮ㄟ",
-            "url":"/media/sounds/.mp3_6zKUVox",
+            "url":"/media/sounds/m_fixed_6zKUVox.mp3",
             "id":1289
          },
          {
             "name":"缺德啊",
-            "url":"/media/sounds/.mp3_o4WiVEc",
+            "url":"/media/sounds/m_fixed_o4WiVEc.mp3",
             "id":1290
          },
          {
             "name":"噁心吶",
-            "url":"/media/sounds/.mp3_kOIcmFn",
+            "url":"/media/sounds/m_fixed_kOIcmFn.mp3",
             "id":1291
          },
          {
             "name":"還敢皮啊",
-            "url":"/media/sounds/.mp3_r2FGrbF",
+            "url":"/media/sounds/m_fixed_r2FGrbF.mp3",
             "id":1292
          },
          {
@@ -2022,87 +2022,87 @@ export default [
          },
          {
             "name":"你在大聲什麼(台)",
-            "url":"/media/sounds/.mp3_IcKzHUB",
+            "url":"/media/sounds/m_fixed_IcKzHUB.mp3",
             "id":1379
          },
          {
             "name":"你在大聲什麼",
-            "url":"/media/sounds/.mp3_Fyam1aP",
+            "url":"/media/sounds/m_fixed_Fyam1aP.mp3",
             "id":1380
          },
          {
             "name":"要還不要啦？",
-            "url":"/media/sounds/.mp3_EnW68lT",
+            "url":"/media/sounds/m_fixed_EnW68lT.mp3",
             "id":1381
          },
          {
             "name":"三小啦？～",
-            "url":"/media/sounds/.mp3_QDalOim",
+            "url":"/media/sounds/m_fixed_QDalOim.mp3",
             "id":1469
          },
          {
             "name":"工三小？",
-            "url":"/media/sounds/.mp3_105FZzg",
+            "url":"/media/sounds/m_fixed_105FZzg.mp3",
             "id":1470
          },
          {
             "name":"白目啊？",
-            "url":"/media/sounds/.mp3_DvPgndb",
+            "url":"/media/sounds/m_fixed_DvPgndb.mp3",
             "id":1471
          },
          {
             "name":"怎樣？",
-            "url":"/media/sounds/.mp3_pgFqGqW",
+            "url":"/media/sounds/m_fixed_pgFqGqW.mp3",
             "id":1472
          },
          {
             "name":"怎樣啊？",
-            "url":"/media/sounds/.mp3_FCs3yxg",
+            "url":"/media/sounds/m_fixed_FCs3yxg.mp3",
             "id":1473
          },
          {
             "name":"耍我是不是？",
-            "url":"/media/sounds/.mp3_94I0fZ8",
+            "url":"/media/sounds/m_fixed_94I0fZ8.mp3",
             "id":1474
          },
          {
             "name":"畜生",
-            "url":"/media/sounds/.mp3_WspJiUg",
+            "url":"/media/sounds/m_fixed_WspJiUg.mp3",
             "id":1475
          },
          {
             "name":"搞事仔",
-            "url":"/media/sounds/.mp3_z5nOGug",
+            "url":"/media/sounds/m_fixed_z5nOGug.mp3",
             "id":1476
          },
          {
             "name":"講中文啦！",
-            "url":"/media/sounds/.mp3_lsorCwX",
+            "url":"/media/sounds/m_fixed_lsorCwX.mp3",
             "id":1477
          },
          {
             "name":"哭是不是啦？",
-            "url":"/media/sounds/.mp3_ygQcdLG",
+            "url":"/media/sounds/m_fixed_ygQcdLG.mp3",
             "id":1480
          },
          {
             "name":"北爛喔？",
-            "url":"/media/sounds/.mp3_XJdOGce",
+            "url":"/media/sounds/m_fixed_XJdOGce.mp3",
             "id":1800
          },
          {
             "name":"玻璃心",
-            "url":"/media/sounds/.mp3_zdj0EQd",
+            "url":"/media/sounds/m_fixed_zdj0EQd.mp3",
             "id":1801
          },
          {
             "name":"乾你屁事啊？",
-            "url":"/media/sounds/.mp3_ioWEbQa",
+            "url":"/media/sounds/m_fixed_ioWEbQa.mp3",
             "id":1802
          },
          {
             "name":"王八",
-            "url":"/media/sounds/.mp3_9IhETpB",
+            "url":"/media/sounds/m_fixed_9IhETpB.mp3",
             "id":2034
          },
          {
@@ -2112,62 +2112,62 @@ export default [
          },
          {
             "name":"三小啊？",
-            "url":"/media/sounds/.mp3_RH9eYOV",
+            "url":"/media/sounds/m_fixed_RH9eYOV.mp3",
             "id":2177
          },
          {
             "name":"有水準一點好不好啊？",
-            "url":"/media/sounds/.mp3_OR0h3r7",
+            "url":"/media/sounds/m_fixed_OR0h3r7.mp3",
             "id":2178
          },
          {
             "name":"你他媽的勒",
-            "url":"/media/sounds/.mp3_qgpAk2A",
+            "url":"/media/sounds/m_fixed_qgpAk2A.mp3",
             "id":2179
          },
          {
             "name":"你們很噁心诶",
-            "url":"/media/sounds/.mp3_MZ7eMjj",
+            "url":"/media/sounds/m_fixed_MZ7eMjj.mp3",
             "id":2180
          },
          {
             "name":"別吵啦(台)",
-            "url":"/media/sounds/.mp3_K6m5Xkg",
+            "url":"/media/sounds/m_fixed_K6m5Xkg.mp3",
             "id":2181
          },
          {
             "name":"我操！",
-            "url":"/media/sounds/.mp3_mjYgyuC",
+            "url":"/media/sounds/m_fixed_mjYgyuC.mp3",
             "id":2182
          },
          {
             "name":"我操你媽的台北",
-            "url":"/media/sounds/.mp3_urVwjO0",
+            "url":"/media/sounds/m_fixed_urVwjO0.mp3",
             "id":2183
          },
          {
             "name":"幹",
-            "url":"/media/sounds/.mp3_A029u2A",
+            "url":"/media/sounds/m_fixed_A029u2A.mp3",
             "id":2184
          },
          {
             "name":"幹你娘勒",
-            "url":"/media/sounds/.mp3_BprrZMV",
+            "url":"/media/sounds/m_fixed_BprrZMV.mp3",
             "id":2185
          },
          {
             "name":"蘇卡不列",
-            "url":"/media/sounds/.mp3_0RBUzkn",
+            "url":"/media/sounds/m_fixed_0RBUzkn.mp3",
             "id":2186
          },
          {
             "name":"媽的廢物",
-            "url":"/media/sounds/.mp3_YqHZdQV",
+            "url":"/media/sounds/m_fixed_YqHZdQV.mp3",
             "id":2276
          },
          {
             "name":"幹！你娘",
-            "url":"/media/sounds/.mp3_HmJPaAI",
+            "url":"/media/sounds/m_fixed_HmJPaAI.mp3",
             "id":2277
          },
          {
@@ -2187,142 +2187,142 @@ export default [
          },
          {
             "name":"아～씨발",
-            "url":"/media/sounds/.mp3_WmRaowV",
+            "url":"/media/sounds/m_fixed_WmRaowV.mp3",
             "id":2374
          },
          {
             "name":"你是在蛤三小啦臭奶呆？",
-            "url":"/media/sounds/.mp3_CTUszGb",
+            "url":"/media/sounds/m_fixed_CTUszGb.mp3",
             "id":2495
          },
          {
             "name":"你是腦袋有動啊？(台)",
-            "url":"/media/sounds/.mp3_Cmcapgs",
+            "url":"/media/sounds/m_fixed_Cmcapgs.mp3",
             "id":2496
          },
          {
             "name":"你章我是塑膠是不是啦？(台)",
-            "url":"/media/sounds/.mp3_5MhegkZ",
+            "url":"/media/sounds/m_fixed_5MhegkZ.mp3",
             "id":2497
          },
          {
             "name":"別靠杯啦",
-            "url":"/media/sounds/.mp3_VNB0Gph",
+            "url":"/media/sounds/m_fixed_VNB0Gph.mp3",
             "id":2498
          },
          {
             "name":"吃屎啦(台)",
-            "url":"/media/sounds/.mp3_dp8fVln",
+            "url":"/media/sounds/m_fixed_dp8fVln.mp3",
             "id":2499
          },
          {
             "name":"失智喔？",
-            "url":"/media/sounds/.mp3_702tIEe",
+            "url":"/media/sounds/m_fixed_702tIEe.mp3",
             "id":2500
          },
          {
             "name":"媽的雞吧",
-            "url":"/media/sounds/.mp3_WHSj5V7",
+            "url":"/media/sounds/m_fixed_WHSj5V7.mp3",
             "id":2501
          },
          {
             "name":"幹他嗎的誰給你死囡仔脯",
-            "url":"/media/sounds/.mp3_OfSuDJw",
+            "url":"/media/sounds/m_fixed_OfSuDJw.mp3",
             "id":2502
          },
          {
             "name":"死囡仔脯～",
-            "url":"/media/sounds/.mp3_Y5xHQ1a",
+            "url":"/media/sounds/m_fixed_Y5xHQ1a.mp3",
             "id":2503
          },
          {
             "name":"你娘哩(台)",
-            "url":"/media/sounds/.mp3_fUXUBq3",
+            "url":"/media/sounds/m_fixed_fUXUBq3.mp3",
             "id":2617
          },
          {
             "name":"幹你娘機掰(客)",
-            "url":"/media/sounds/.mp3_L6w14c4",
+            "url":"/media/sounds/m_fixed_L6w14c4.mp3",
             "id":2618
          },
          {
             "name":"破病(台)",
-            "url":"/media/sounds/.mp3_HEPT7HV",
+            "url":"/media/sounds/m_fixed_HEPT7HV.mp3",
             "id":2619
          },
          {
             "name":"腦袋有洞",
-            "url":"/media/sounds/.mp3_xlco17i",
+            "url":"/media/sounds/m_fixed_xlco17i.mp3",
             "id":2620
          },
          {
             "name":"腦袋灌水泥",
-            "url":"/media/sounds/.mp3_Q36G7cC",
+            "url":"/media/sounds/m_fixed_Q36G7cC.mp3",
             "id":2621
          },
          {
             "name":"你怎麼那麼廢啊？",
-            "url":"/media/sounds/.mp3_GwZksYU",
+            "url":"/media/sounds/m_fixed_GwZksYU.mp3",
             "id":2746
          },
          {
             "name":"別哭爸(台)",
-            "url":"/media/sounds/.mp3_5FUpqMV",
+            "url":"/media/sounds/m_fixed_5FUpqMV.mp3",
             "id":2747
          },
          {
             "name":"在靠杯是不是啦？",
-            "url":"/media/sounds/.mp3_4OIIPX1",
+            "url":"/media/sounds/m_fixed_4OIIPX1.mp3",
             "id":2748
          },
          {
             "name":"幹嘛啦？",
-            "url":"/media/sounds/.mp3_de38xYK",
+            "url":"/media/sounds/m_fixed_de38xYK.mp3",
             "id":2749
          },
          {
             "name":"幹～你～娘～勒～",
-            "url":"/media/sounds/.mp3_vikcrAR",
+            "url":"/media/sounds/m_fixed_vikcrAR.mp3",
             "id":2750
          },
          {
             "name":"真的很雞巴",
-            "url":"/media/sounds/.mp3_0arwvVX",
+            "url":"/media/sounds/m_fixed_0arwvVX.mp3",
             "id":2751
          },
          {
             "name":"媽的蝦逼逼啥？",
-            "url":"/media/sounds/.mp3_mepvVdJ",
+            "url":"/media/sounds/m_fixed_mepvVdJ.mp3",
             "id":2894
          },
          {
             "name":"我把你媽骨灰給揚了",
-            "url":"/media/sounds/.mp3_mm4skXK",
+            "url":"/media/sounds/m_fixed_mm4skXK.mp3",
             "id":2895
          },
          {
             "name":"幹你娘勒(醉)",
-            "url":"/media/sounds/.mp3_Ry4PMcp",
+            "url":"/media/sounds/m_fixed_Ry4PMcp.mp3",
             "id":2896
          },
          {
             "name":"腦攤",
-            "url":"/media/sounds/.mp3_OYunPFm",
+            "url":"/media/sounds/m_fixed_OYunPFm.mp3",
             "id":2897
          },
          {
             "name":"你家死人(台)",
-            "url":"/media/sounds/.mp3_uIMbVMt",
+            "url":"/media/sounds/m_fixed_uIMbVMt.mp3",
             "id":3023
          },
          {
             "name":"吃屎吧你(台)",
-            "url":"/media/sounds/.mp3_63sXgcc",
+            "url":"/media/sounds/m_fixed_63sXgcc.mp3",
             "id":3024
          },
          {
             "name":"哇操你媽",
-            "url":"/media/sounds/.mp3_ZtMGMaG",
+            "url":"/media/sounds/m_fixed_ZtMGMaG.mp3",
             "id":3025
          },
          {
@@ -2332,32 +2332,32 @@ export default [
          },
          {
             "name":"心術不正",
-            "url":"/media/sounds/.mp3_7KX7Ztv",
+            "url":"/media/sounds/m_fixed_7KX7Ztv.mp3",
             "id":3027
          },
          {
             "name":"我不保證肛死你啊",
-            "url":"/media/sounds/.mp3_pWFjEJp",
+            "url":"/media/sounds/m_fixed_pWFjEJp.mp3",
             "id":3028
          },
          {
             "name":"狐群狗黨",
-            "url":"/media/sounds/.mp3_EFWa0BI",
+            "url":"/media/sounds/m_fixed_EFWa0BI.mp3",
             "id":3029
          },
          {
             "name":"狼狽為奸",
-            "url":"/media/sounds/.mp3_rZQ3MdD",
+            "url":"/media/sounds/m_fixed_rZQ3MdD.mp3",
             "id":3030
          },
          {
             "name":"笨",
-            "url":"/media/sounds/.mp3_u09MewD",
+            "url":"/media/sounds/m_fixed_u09MewD.mp3",
             "id":3031
          },
          {
             "name":"腦缺",
-            "url":"/media/sounds/.mp3_A1y6YBa",
+            "url":"/media/sounds/m_fixed_A1y6YBa.mp3",
             "id":3032
          },
          {
@@ -2367,17 +2367,17 @@ export default [
          },
          {
             "name":"俗辣",
-            "url":"/media/sounds/.mp3_LyGl666",
+            "url":"/media/sounds/m_fixed_LyGl666.mp3",
             "id":3163
          },
          {
             "name":"垃圾小孩(台)",
-            "url":"/media/sounds/.mp3_k0FTbDE",
+            "url":"/media/sounds/m_fixed_k0FTbDE.mp3",
             "id":3164
          },
          {
             "name":"媽的貢丸",
-            "url":"/media/sounds/.mp3_aZ0m2kA",
+            "url":"/media/sounds/m_fixed_aZ0m2kA.mp3",
             "id":3261
          },
          {
@@ -2387,27 +2387,27 @@ export default [
          },
          {
             "name":"屌你屎眼",
-            "url":"/media/sounds/.mp3_a5QRtzl",
+            "url":"/media/sounds/m_fixed_a5QRtzl.mp3",
             "id":3442
          },
          {
             "name":"崊娘哩",
-            "url":"/media/sounds/.mp3_tHheB0p",
+            "url":"/media/sounds/m_fixed_tHheB0p.mp3",
             "id":3443
          },
          {
             "name":"揍死你我跟你講",
-            "url":"/media/sounds/.mp3_TP1rVNW",
+            "url":"/media/sounds/m_fixed_TP1rVNW.mp3",
             "id":3444
          },
          {
             "name":"不要臉",
-            "url":"/media/sounds/.mp3_r1CcWjF",
+            "url":"/media/sounds/m_fixed_r1CcWjF.mp3",
             "id":3530
          },
          {
             "name":"厚顏無恥",
-            "url":"/media/sounds/.mp3_pMAdKlR",
+            "url":"/media/sounds/m_fixed_pMAdKlR.mp3",
             "id":3531
          },
          {
@@ -2502,57 +2502,57 @@ export default [
       "datas":[
          {
             "name":"來咩",
-            "url":"/media/sounds/.mp3_qK2K74o",
+            "url":"/media/sounds/m_fixed_qK2K74o.mp3",
             "id":2768
          },
          {
             "name":"來啦",
-            "url":"/media/sounds/.mp3_x3jMw3I",
+            "url":"/media/sounds/m_fixed_x3jMw3I.mp3",
             "id":2769
          },
          {
             "name":"來～咩",
-            "url":"/media/sounds/.mp3_xaWUip6",
+            "url":"/media/sounds/m_fixed_xaWUip6.mp3",
             "id":2770
          },
          {
             "name":"看誰是大哥啦",
-            "url":"/media/sounds/.mp3_FBMn0Y5",
+            "url":"/media/sounds/m_fixed_FBMn0Y5.mp3",
             "id":2771
          },
          {
             "name":"我叫你動啊！",
-            "url":"/media/sounds/.mp3_JOYj1oZ",
+            "url":"/media/sounds/m_fixed_JOYj1oZ.mp3",
             "id":2456
          },
          {
             "name":"媽的喝你媽骨灰沒加水噎著了是嗎？",
-            "url":"/media/sounds/.mp3_z2mF96c",
+            "url":"/media/sounds/m_fixed_z2mF96c.mp3",
             "id":2891
          },
          {
             "name":"我看你不爽",
-            "url":"/media/sounds/.mp3_id0wNxY",
+            "url":"/media/sounds/m_fixed_id0wNxY.mp3",
             "id":2892
          },
          {
             "name":"看什麼啦？(台)",
-            "url":"/media/sounds/.mp3_RK6ICqU",
+            "url":"/media/sounds/m_fixed_RK6ICqU.mp3",
             "id":2893
          },
          {
             "name":"你來啊！",
-            "url":"/media/sounds/.mp3_Wp0Emt4",
+            "url":"/media/sounds/m_fixed_Wp0Emt4.mp3",
             "id":3159
          },
          {
             "name":"出來啊！",
-            "url":"/media/sounds/.mp3_9DXuSUf",
+            "url":"/media/sounds/m_fixed_9DXuSUf.mp3",
             "id":3160
          },
          {
             "name":"見到你(台)",
-            "url":"/media/sounds/.mp3_8PMpio8",
+            "url":"/media/sounds/m_fixed_8PMpio8.mp3",
             "id":3161
          },
          {
@@ -2562,12 +2562,12 @@ export default [
          },
          {
             "name":"你有什麼不滿，上來講",
-            "url":"/media/sounds/.mp3_duKhTLe",
+            "url":"/media/sounds/m_fixed_duKhTLe.mp3",
             "id":3440
          },
          {
             "name":"奉陪你到底",
-            "url":"/media/sounds/.mp3_dP5VXQI",
+            "url":"/media/sounds/m_fixed_dP5VXQI.mp3",
             "id":3441
          },
          {
@@ -2607,7 +2607,7 @@ export default [
          },
          {
             "name":"兆元高潮2",
-            "url":"/media/sounds/.mp3_t3U7oFv",
+            "url":"/media/sounds/m_fixed_t3U7oFv.mp3",
             "id":51
          },
          {
@@ -2617,32 +2617,32 @@ export default [
          },
          {
             "name":"大濕嗩吶",
-            "url":"/media/sounds/.mp3_pybTdjJ",
+            "url":"/media/sounds/m_fixed_pybTdjJ.mp3",
             "id":53
          },
          {
             "name":"汪",
-            "url":"/media/sounds/.mp3_EBZyT3o",
+            "url":"/media/sounds/m_fixed_EBZyT3o.mp3",
             "id":54
          },
          {
             "name":"啊➚啊➚啊➚",
-            "url":"/media/sounds/.mp3_kk0OzW9",
+            "url":"/media/sounds/m_fixed_kk0OzW9.mp3",
             "id":55
          },
          {
             "name":"埃～",
-            "url":"/media/sounds/.mp3_f0EkltN",
+            "url":"/media/sounds/m_fixed_f0EkltN.mp3",
             "id":56
          },
          {
             "name":"啵",
-            "url":"/media/sounds/.mp3_MCgCt03",
+            "url":"/media/sounds/m_fixed_MCgCt03.mp3",
             "id":57
          },
          {
             "name":"兆元的不明叫聲",
-            "url":"/media/sounds/.mp3_bZZt709",
+            "url":"/media/sounds/m_fixed_bZZt709.mp3",
             "id":58
          },
          {
@@ -2657,42 +2657,42 @@ export default [
          },
          {
             "name":"哇～",
-            "url":"/media/sounds/.mp3_r3mRO9r",
+            "url":"/media/sounds/m_fixed_r3mRO9r.mp3",
             "id":61
          },
          {
             "name":"哇～～～",
-            "url":"/media/sounds/.mp3_doUTf46",
+            "url":"/media/sounds/m_fixed_doUTf46.mp3",
             "id":62
          },
          {
             "name":"噢～～～",
-            "url":"/media/sounds/.mp3_Yp43o6F",
+            "url":"/media/sounds/m_fixed_Yp43o6F.mp3",
             "id":63
          },
          {
             "name":"诶嘿～",
-            "url":"/media/sounds/.mp3_LnaCDvj",
+            "url":"/media/sounds/m_fixed_LnaCDvj.mp3",
             "id":64
          },
          {
             "name":"嘿嘿",
-            "url":"/media/sounds/.mp3_WfYbRzx",
+            "url":"/media/sounds/m_fixed_WfYbRzx.mp3",
             "id":363
          },
          {
             "name":"啊！啊！啊！",
-            "url":"/media/sounds/.mp3_xFi72qk",
+            "url":"/media/sounds/m_fixed_xFi72qk.mp3",
             "id":381
          },
          {
             "name":"兆元的不明叫聲3",
-            "url":"/media/sounds/3_4qRaYw2.mp3",
+            "url":"/media/sounds/3_HAC0gaA.mp3",
             "id":382
          },
          {
             "name":"啊～～～啊～",
-            "url":"/media/sounds/.mp3_oU3I1FX",
+            "url":"/media/sounds/m_fixed_oU3I1FX.mp3",
             "id":506
          },
          {
@@ -2702,22 +2702,22 @@ export default [
          },
          {
             "name":"嘿➚～～～",
-            "url":"/media/sounds/.mp3_7c6jBmc",
+            "url":"/media/sounds/m_fixed_7c6jBmc.mp3",
             "id":531
          },
          {
             "name":"唉呦唉唉いた",
-            "url":"/media/sounds/.mp3_ftk1GXo",
+            "url":"/media/sounds/m_fixed_ftk1GXo.mp3",
             "id":670
          },
          {
             "name":"大濕引擎聲",
-            "url":"/media/sounds/.mp3_dFpdXx8",
+            "url":"/media/sounds/m_fixed_dFpdXx8.mp3",
             "id":747
          },
          {
             "name":"爆炸聲",
-            "url":"/media/sounds/.mp3_1Y5VyhW",
+            "url":"/media/sounds/m_fixed_1Y5VyhW.mp3",
             "id":748
          },
          {
@@ -2762,12 +2762,12 @@ export default [
          },
          {
             "name":"升旗叫聲",
-            "url":"/media/sounds/.mp3_ey5gfbh",
+            "url":"/media/sounds/m_fixed_ey5gfbh.mp3",
             "id":866
          },
          {
             "name":"叮咚叮咚叮咚叮咚",
-            "url":"/media/sounds/.mp3_NaV7EYp",
+            "url":"/media/sounds/m_fixed_NaV7EYp.mp3",
             "id":867
          },
          {
@@ -2777,82 +2777,82 @@ export default [
          },
          {
             "name":"咚",
-            "url":"/media/sounds/.mp3_OijZVXT",
+            "url":"/media/sounds/m_fixed_OijZVXT.mp3",
             "id":869
          },
          {
             "name":"剎～",
-            "url":"/media/sounds/.mp3_0vAyWVv",
+            "url":"/media/sounds/m_fixed_0vAyWVv.mp3",
             "id":870
          },
          {
             "name":"诶",
-            "url":"/media/sounds/.mp3_QoxnWOJ",
+            "url":"/media/sounds/m_fixed_QoxnWOJ.mp3",
             "id":871
          },
          {
             "name":"唉呦！唉呦！唉呦！",
-            "url":"/media/sounds/.mp3_ziyasRL",
+            "url":"/media/sounds/m_fixed_ziyasRL.mp3",
             "id":872
          },
          {
             "name":"啊！啊！啊！啊～",
-            "url":"/media/sounds/.mp3_Io1VVK2",
+            "url":"/media/sounds/m_fixed_Io1VVK2.mp3",
             "id":873
          },
          {
             "name":"啊～厄～～",
-            "url":"/media/sounds/.mp3_4n8Hld1",
+            "url":"/media/sounds/m_fixed_4n8Hld1.mp3",
             "id":874
          },
          {
             "name":"欸",
-            "url":"/media/sounds/.mp3_7OVlYoW",
+            "url":"/media/sounds/m_fixed_7OVlYoW.mp3",
             "id":875
          },
          {
             "name":"喔喔喔喔喔喔",
-            "url":"/media/sounds/.mp3_unku9nZ",
+            "url":"/media/sounds/m_fixed_unku9nZ.mp3",
             "id":876
          },
          {
             "name":"滋～滋！滋！滋！",
-            "url":"/media/sounds/.mp3_H8drrkN",
+            "url":"/media/sounds/m_fixed_H8drrkN.mp3",
             "id":877
          },
          {
             "name":"電動聲",
-            "url":"/media/sounds/.mp3_9dGWg1G",
+            "url":"/media/sounds/m_fixed_9dGWg1G.mp3",
             "id":878
          },
          {
             "name":"嗶～嗶～嗶～",
-            "url":"/media/sounds/.mp3_gjsWHim",
+            "url":"/media/sounds/m_fixed_gjsWHim.mp3",
             "id":879
          },
          {
             "name":"噗嘿嘿",
-            "url":"/media/sounds/.mp3_KOMvNlO",
+            "url":"/media/sounds/m_fixed_KOMvNlO.mp3",
             "id":880
          },
          {
             "name":"哇！～",
-            "url":"/media/sounds/.mp3_jTUXmSU",
+            "url":"/media/sounds/m_fixed_jTUXmSU.mp3",
             "id":918
          },
          {
             "name":"唉呦～",
-            "url":"/media/sounds/.mp3_aaUiH6M",
+            "url":"/media/sounds/m_fixed_aaUiH6M.mp3",
             "id":921
          },
          {
             "name":"啵啵啵啵啵～",
-            "url":"/media/sounds/.mp3_x3SlS3S",
+            "url":"/media/sounds/m_fixed_x3SlS3S.mp3",
             "id":947
          },
          {
             "name":"欸！",
-            "url":"/media/sounds/.mp3_8nuhSCA",
+            "url":"/media/sounds/m_fixed_8nuhSCA.mp3",
             "id":1016
          },
          {
@@ -2862,7 +2862,7 @@ export default [
          },
          {
             "name":"啪啪啪啪",
-            "url":"/media/sounds/.mp3_LqLadXI",
+            "url":"/media/sounds/m_fixed_LqLadXI.mp3",
             "id":1104
          },
          {
@@ -2872,72 +2872,72 @@ export default [
          },
          {
             "name":"答答答答答",
-            "url":"/media/sounds/.mp3_gy1i8m0",
+            "url":"/media/sounds/m_fixed_gy1i8m0.mp3",
             "id":1141
          },
          {
             "name":"濕吼聲",
-            "url":"/media/sounds/.mp3_wA84XeH",
+            "url":"/media/sounds/m_fixed_wA84XeH.mp3",
             "id":1142
          },
          {
             "name":"斷裂聲",
-            "url":"/media/sounds/.mp3_bmva5J2",
+            "url":"/media/sounds/m_fixed_bmva5J2.mp3",
             "id":1143
          },
          {
             "name":"咦？",
-            "url":"/media/sounds/.mp3_8Y1Gn4h",
+            "url":"/media/sounds/m_fixed_8Y1Gn4h.mp3",
             "id":1218
          },
          {
             "name":"哀～",
-            "url":"/media/sounds/.mp3_nMkenrU",
+            "url":"/media/sounds/m_fixed_nMkenrU.mp3",
             "id":1219
          },
          {
             "name":"哈～",
-            "url":"/media/sounds/.mp3_f7RFkXo",
+            "url":"/media/sounds/m_fixed_f7RFkXo.mp3",
             "id":1220
          },
          {
             "name":"啊～",
-            "url":"/media/sounds/.mp3_bj2VeHX",
+            "url":"/media/sounds/m_fixed_bj2VeHX.mp3",
             "id":1221
          },
          {
             "name":"啪↘！",
-            "url":"/media/sounds/.mp3_GLe8eSx",
+            "url":"/media/sounds/m_fixed_GLe8eSx.mp3",
             "id":1222
          },
          {
             "name":"喔",
-            "url":"/media/sounds/.mp3_3yDno4Q",
+            "url":"/media/sounds/m_fixed_3yDno4Q.mp3",
             "id":1223
          },
          {
             "name":"惡臭叫聲",
-            "url":"/media/sounds/.mp3_CpRUuDd",
+            "url":"/media/sounds/m_fixed_CpRUuDd.mp3",
             "id":1224
          },
          {
             "name":"嗯↘～",
-            "url":"/media/sounds/.mp3_16HAZVU",
+            "url":"/media/sounds/m_fixed_16HAZVU.mp3",
             "id":1225
          },
          {
             "name":"幹～～",
-            "url":"/media/sounds/.mp3_1JhSVq4",
+            "url":"/media/sounds/m_fixed_1JhSVq4.mp3",
             "id":1226
          },
          {
             "name":"噓～",
-            "url":"/media/sounds/.mp3_If5o466",
+            "url":"/media/sounds/m_fixed_If5o466.mp3",
             "id":1227
          },
          {
             "name":"噗阿～",
-            "url":"/media/sounds/.mp3_ITpwG36",
+            "url":"/media/sounds/m_fixed_ITpwG36.mp3",
             "id":1228
          },
          {
@@ -2947,17 +2947,17 @@ export default [
          },
          {
             "name":"喔～～～",
-            "url":"/media/sounds/.mp3_FPdqOr7",
+            "url":"/media/sounds/m_fixed_FPdqOr7.mp3",
             "id":1230
          },
          {
             "name":"厄～",
-            "url":"/media/sounds/.mp3_pLFKxtk",
+            "url":"/media/sounds/m_fixed_pLFKxtk.mp3",
             "id":1285
          },
          {
             "name":"啊！",
-            "url":"/media/sounds/.mp3_TztzHUO",
+            "url":"/media/sounds/m_fixed_TztzHUO.mp3",
             "id":1286
          },
          {
@@ -2967,42 +2967,42 @@ export default [
          },
          {
             "name":"噁～",
-            "url":"/media/sounds/.mp3_wTSkVqY",
+            "url":"/media/sounds/m_fixed_wTSkVqY.mp3",
             "id":1288
          },
          {
             "name":"ㄎㄧㄥ拎空巄",
-            "url":"/media/sounds/.mp3_J3BOfFX",
+            "url":"/media/sounds/m_fixed_J3BOfFX.mp3",
             "id":1307
          },
          {
             "name":"汪！汪汪汪！",
-            "url":"/media/sounds/.mp3_4i76MTh",
+            "url":"/media/sounds/m_fixed_4i76MTh.mp3",
             "id":1308
          },
          {
             "name":"蛤～",
-            "url":"/media/sounds/.mp3_XuCnyDk",
+            "url":"/media/sounds/m_fixed_XuCnyDk.mp3",
             "id":1309
          },
          {
             "name":"蛤～～～",
-            "url":"/media/sounds/.mp3_YuLUKPd",
+            "url":"/media/sounds/m_fixed_YuLUKPd.mp3",
             "id":1310
          },
          {
             "name":"嗚啊～～～",
-            "url":"/media/sounds/.mp3_w4BTRho",
+            "url":"/media/sounds/m_fixed_w4BTRho.mp3",
             "id":1311
          },
          {
             "name":"嗚喔～～～",
-            "url":"/media/sounds/.mp3_6ItO7gD",
+            "url":"/media/sounds/m_fixed_6ItO7gD.mp3",
             "id":1312
          },
          {
             "name":"皮卡丘",
-            "url":"/media/sounds/.mp3_rZEsXfY",
+            "url":"/media/sounds/m_fixed_rZEsXfY.mp3",
             "id":1367
          },
          {
@@ -3012,92 +3012,92 @@ export default [
          },
          {
             "name":"叭叭",
-            "url":"/media/sounds/.mp3_zeqAB4c",
+            "url":"/media/sounds/m_fixed_zeqAB4c.mp3",
             "id":1369
          },
          {
             "name":"厚～～～",
-            "url":"/media/sounds/.mp3_90dMDGi",
+            "url":"/media/sounds/m_fixed_90dMDGi.mp3",
             "id":1370
          },
          {
             "name":"哈↘！",
-            "url":"/media/sounds/.mp3_xg4wpIt",
+            "url":"/media/sounds/m_fixed_xg4wpIt.mp3",
             "id":1371
          },
          {
             "name":"啊➝～",
-            "url":"/media/sounds/.mp3_UmM4lx4",
+            "url":"/media/sounds/m_fixed_UmM4lx4.mp3",
             "id":1372
          },
          {
             "name":"啪嚓！",
-            "url":"/media/sounds/.mp3_Ms8SEbi",
+            "url":"/media/sounds/m_fixed_Ms8SEbi.mp3",
             "id":1373
          },
          {
             "name":"賀↘！",
-            "url":"/media/sounds/.mp3_vFPYsUt",
+            "url":"/media/sounds/m_fixed_vFPYsUt.mp3",
             "id":1374
          },
          {
             "name":"賀啊↘！",
-            "url":"/media/sounds/.mp3_ryK26Ax",
+            "url":"/media/sounds/m_fixed_ryK26Ax.mp3",
             "id":1375
          },
          {
             "name":"輝！！",
-            "url":"/media/sounds/.mp3_W7XK9WW",
+            "url":"/media/sounds/m_fixed_W7XK9WW.mp3",
             "id":1376
          },
          {
             "name":"輝！",
-            "url":"/media/sounds/.mp3_iJt2Mf1",
+            "url":"/media/sounds/m_fixed_iJt2Mf1.mp3",
             "id":1377
          },
          {
             "name":"汪汪汪",
-            "url":"/media/sounds/.mp3_ZOm0u8T",
+            "url":"/media/sounds/m_fixed_ZOm0u8T.mp3",
             "id":1481
          },
          {
             "name":"汪汪汪汪",
-            "url":"/media/sounds/.mp3_llcdy0E",
+            "url":"/media/sounds/m_fixed_llcdy0E.mp3",
             "id":1482
          },
          {
             "name":"哇↘！",
-            "url":"/media/sounds/.mp3_X0AECRN",
+            "url":"/media/sounds/m_fixed_X0AECRN.mp3",
             "id":1483
          },
          {
             "name":"诶诶诶",
-            "url":"/media/sounds/.mp3_vsJUoNX",
+            "url":"/media/sounds/m_fixed_vsJUoNX.mp3",
             "id":1484
          },
          {
             "name":"啊➚～",
-            "url":"/media/sounds/.mp3_r857VwA",
+            "url":"/media/sounds/m_fixed_r857VwA.mp3",
             "id":1485
          },
          {
             "name":"啊➚～～",
-            "url":"/media/sounds/.mp3_aQ8D9RE",
+            "url":"/media/sounds/m_fixed_aQ8D9RE.mp3",
             "id":1486
          },
          {
             "name":"啊嗚～～",
-            "url":"/media/sounds/.mp3_aG4TSSf",
+            "url":"/media/sounds/m_fixed_aG4TSSf.mp3",
             "id":1487
          },
          {
             "name":"嗚嗚～",
-            "url":"/media/sounds/.mp3_FeFozbb",
+            "url":"/media/sounds/m_fixed_FeFozbb.mp3",
             "id":1488
          },
          {
             "name":"噢！",
-            "url":"/media/sounds/.mp3_GiOUigC",
+            "url":"/media/sounds/m_fixed_GiOUigC.mp3",
             "id":1489
          },
          {
@@ -3107,37 +3107,37 @@ export default [
          },
          {
             "name":"呼ㄟ",
-            "url":"/media/sounds/.mp3_FdWpYsk",
+            "url":"/media/sounds/m_fixed_FdWpYsk.mp3",
             "id":1621
          },
          {
             "name":"咦➚",
-            "url":"/media/sounds/.mp3_m80R9ak",
+            "url":"/media/sounds/m_fixed_m80R9ak.mp3",
             "id":1622
          },
          {
             "name":"诶～",
-            "url":"/media/sounds/.mp3_uKKwVcM",
+            "url":"/media/sounds/m_fixed_uKKwVcM.mp3",
             "id":1623
          },
          {
             "name":"喔➚～",
-            "url":"/media/sounds/.mp3_2YPOAfK",
+            "url":"/media/sounds/m_fixed_2YPOAfK.mp3",
             "id":1624
          },
          {
             "name":"無～～嗚",
-            "url":"/media/sounds/.mp3_Mjntrer",
+            "url":"/media/sounds/m_fixed_Mjntrer.mp3",
             "id":1625
          },
          {
             "name":"賀痾～",
-            "url":"/media/sounds/.mp3_AAfWOkd",
+            "url":"/media/sounds/m_fixed_AAfWOkd.mp3",
             "id":1626
          },
          {
             "name":"嗚喔",
-            "url":"/media/sounds/.mp3_WjdDRg2",
+            "url":"/media/sounds/m_fixed_WjdDRg2.mp3",
             "id":1627
          },
          {
@@ -3147,12 +3147,12 @@ export default [
          },
          {
             "name":"嗚痾～～",
-            "url":"/media/sounds/.mp3_5oc2jS4",
+            "url":"/media/sounds/m_fixed_5oc2jS4.mp3",
             "id":1629
          },
          {
             "name":"嗡嗡嗡",
-            "url":"/media/sounds/.mp3_za41WUP",
+            "url":"/media/sounds/m_fixed_za41WUP.mp3",
             "id":1630
          },
          {
@@ -3167,32 +3167,32 @@ export default [
          },
          {
             "name":"嗯➚",
-            "url":"/media/sounds/.mp3_GIcY6jX",
+            "url":"/media/sounds/m_fixed_GIcY6jX.mp3",
             "id":1633
          },
          {
             "name":"嘔喔嘔～",
-            "url":"/media/sounds/.mp3_f3cu65e",
+            "url":"/media/sounds/m_fixed_f3cu65e.mp3",
             "id":1634
          },
          {
             "name":"歐啦歐啦歐啦歐啦",
-            "url":"/media/sounds/.mp3_ywviTGd",
+            "url":"/media/sounds/m_fixed_ywviTGd.mp3",
             "id":1635
          },
          {
             "name":"霞～",
-            "url":"/media/sounds/.mp3_H84D4Xm",
+            "url":"/media/sounds/m_fixed_H84D4Xm.mp3",
             "id":1636
          },
          {
             "name":"蹦↘",
-            "url":"/media/sounds/.mp3_u1tzvNt",
+            "url":"/media/sounds/m_fixed_u1tzvNt.mp3",
             "id":1637
          },
          {
             "name":"齁",
-            "url":"/media/sounds/.mp3_cRUdlEv",
+            "url":"/media/sounds/m_fixed_cRUdlEv.mp3",
             "id":1638
          },
          {
@@ -3202,42 +3202,42 @@ export default [
          },
          {
             "name":"兆元笑",
-            "url":"/media/sounds/.mp3_HzEUCWM",
+            "url":"/media/sounds/m_fixed_HzEUCWM.mp3",
             "id":214
          },
          {
             "name":"大濕的笑聲",
-            "url":"/media/sounds/.mp3_1nT09Bz",
+            "url":"/media/sounds/m_fixed_1nT09Bz.mp3",
             "id":1096
          },
          {
             "name":"『吸氣聲』",
-            "url":"/media/sounds/.mp3_6kmWEBb",
+            "url":"/media/sounds/m_fixed_6kmWEBb.mp3",
             "id":1784
          },
          {
             "name":"『鼻子出氣聲』",
-            "url":"/media/sounds/.mp3_xBLU8r2",
+            "url":"/media/sounds/m_fixed_xBLU8r2.mp3",
             "id":1785
          },
          {
             "name":"呵呵痾痾痾痾",
-            "url":"/media/sounds/.mp3_uzhuP5t",
+            "url":"/media/sounds/m_fixed_uzhuP5t.mp3",
             "id":1786
          },
          {
             "name":"嗚啊啊啊～",
-            "url":"/media/sounds/.mp3_CVm2aw2",
+            "url":"/media/sounds/m_fixed_CVm2aw2.mp3",
             "id":1787
          },
          {
             "name":"嘿➚",
-            "url":"/media/sounds/.mp3_i1P3SOp",
+            "url":"/media/sounds/m_fixed_i1P3SOp.mp3",
             "id":1788
          },
          {
             "name":"嘿嘿嘿",
-            "url":"/media/sounds/.mp3_XFGmL9O",
+            "url":"/media/sounds/m_fixed_XFGmL9O.mp3",
             "id":1789
          },
          {
@@ -3247,42 +3247,42 @@ export default [
          },
          {
             "name":"『打噴嚏』",
-            "url":"/media/sounds/.mp3_19caso8",
+            "url":"/media/sounds/m_fixed_19caso8.mp3",
             "id":1994
          },
          {
             "name":"『咳嗽』",
-            "url":"/media/sounds/.mp3_pfFWlK7",
+            "url":"/media/sounds/m_fixed_pfFWlK7.mp3",
             "id":1995
          },
          {
             "name":"『擤鼻涕』",
-            "url":"/media/sounds/.mp3_E0da1XR",
+            "url":"/media/sounds/m_fixed_E0da1XR.mp3",
             "id":1996
          },
          {
             "name":"吚",
-            "url":"/media/sounds/.mp3_7AANj6c",
+            "url":"/media/sounds/m_fixed_7AANj6c.mp3",
             "id":1997
          },
          {
             "name":"吚～～",
-            "url":"/media/sounds/.mp3_v3FFT2f",
+            "url":"/media/sounds/m_fixed_v3FFT2f.mp3",
             "id":1998
          },
          {
             "name":"汪汪！",
-            "url":"/media/sounds/.mp3_c2P02VF",
+            "url":"/media/sounds/m_fixed_c2P02VF.mp3",
             "id":1999
          },
          {
             "name":"哀",
-            "url":"/media/sounds/.mp3_i2ApxMq",
+            "url":"/media/sounds/m_fixed_i2ApxMq.mp3",
             "id":2000
          },
          {
             "name":"哇➚",
-            "url":"/media/sounds/.mp3_7t09UAz",
+            "url":"/media/sounds/m_fixed_7t09UAz.mp3",
             "id":2001
          },
          {
@@ -3292,7 +3292,7 @@ export default [
          },
          {
             "name":"啊➚",
-            "url":"/media/sounds/.mp3_5vVBxZy",
+            "url":"/media/sounds/m_fixed_5vVBxZy.mp3",
             "id":2003
          },
          {
@@ -3302,17 +3302,17 @@ export default [
          },
          {
             "name":"啊啊啊",
-            "url":"/media/sounds/.mp3_mkGgHw9",
+            "url":"/media/sounds/m_fixed_mkGgHw9.mp3",
             "id":2005
          },
          {
             "name":"啊啊啊～",
-            "url":"/media/sounds/.mp3_nOuWibM",
+            "url":"/media/sounds/m_fixed_nOuWibM.mp3",
             "id":2006
          },
          {
             "name":"啊嗚～～～",
-            "url":"/media/sounds/.mp3_X4Mn6im",
+            "url":"/media/sounds/m_fixed_X4Mn6im.mp3",
             "id":2007
          },
          {
@@ -3322,42 +3322,42 @@ export default [
          },
          {
             "name":"欸欸欸欸",
-            "url":"/media/sounds/.mp3_MO2igrL",
+            "url":"/media/sounds/m_fixed_MO2igrL.mp3",
             "id":2009
          },
          {
             "name":"蛤↘",
-            "url":"/media/sounds/.mp3_rsomodS",
+            "url":"/media/sounds/m_fixed_rsomodS.mp3",
             "id":2010
          },
          {
             "name":"嗚痾",
-            "url":"/media/sounds/.mp3_G1Jw7pw",
+            "url":"/media/sounds/m_fixed_G1Jw7pw.mp3",
             "id":2011
          },
          {
             "name":"嗯",
-            "url":"/media/sounds/.mp3_TDkfG3X",
+            "url":"/media/sounds/m_fixed_TDkfG3X.mp3",
             "id":2012
          },
          {
             "name":"痾痾痾痾痾",
-            "url":"/media/sounds/.mp3_357eWnN",
+            "url":"/media/sounds/m_fixed_357eWnN.mp3",
             "id":2013
          },
          {
             "name":"嘔齁～",
-            "url":"/media/sounds/.mp3_IM29m0F",
+            "url":"/media/sounds/m_fixed_IM29m0F.mp3",
             "id":2014
          },
          {
             "name":"噁汪～～",
-            "url":"/media/sounds/.mp3_SJSbIQN",
+            "url":"/media/sounds/m_fixed_SJSbIQN.mp3",
             "id":2015
          },
          {
             "name":"ㄆㄧㄚ",
-            "url":"/media/sounds/.mp3_l8Wf4JW",
+            "url":"/media/sounds/m_fixed_l8Wf4JW.mp3",
             "id":2153
          },
          {
@@ -3367,7 +3367,7 @@ export default [
          },
          {
             "name":"巴拉巴拉巴拉",
-            "url":"/media/sounds/.mp3_f3YUn8K",
+            "url":"/media/sounds/m_fixed_f3YUn8K.mp3",
             "id":2155
          },
          {
@@ -3377,17 +3377,17 @@ export default [
          },
          {
             "name":"吸菸咳嗽",
-            "url":"/media/sounds/.mp3_OiHfaC1",
+            "url":"/media/sounds/m_fixed_OiHfaC1.mp3",
             "id":2157
          },
          {
             "name":"咕啾咕啾咕啾",
-            "url":"/media/sounds/.mp3_URe3BQ7",
+            "url":"/media/sounds/m_fixed_URe3BQ7.mp3",
             "id":2158
          },
          {
             "name":"啦～啦啦啦啦啦",
-            "url":"/media/sounds/.mp3_eKysr4h",
+            "url":"/media/sounds/m_fixed_eKysr4h.mp3",
             "id":2159
          },
          {
@@ -3397,7 +3397,7 @@ export default [
          },
          {
             "name":"喔↘～",
-            "url":"/media/sounds/.mp3_t7q5are",
+            "url":"/media/sounds/m_fixed_t7q5are.mp3",
             "id":2161
          },
          {
@@ -3407,62 +3407,62 @@ export default [
          },
          {
             "name":"嗚痾嗚痾嗚痾",
-            "url":"/media/sounds/.mp3_GPl2pA2",
+            "url":"/media/sounds/m_fixed_GPl2pA2.mp3",
             "id":2163
          },
          {
             "name":"痾啊",
-            "url":"/media/sounds/.mp3_vr5oqyI",
+            "url":"/media/sounds/m_fixed_vr5oqyI.mp3",
             "id":2164
          },
          {
             "name":"噁～～～",
-            "url":"/media/sounds/.mp3_BRhipGh",
+            "url":"/media/sounds/m_fixed_BRhipGh.mp3",
             "id":2165
          },
          {
             "name":"餓",
-            "url":"/media/sounds/.mp3_yIerc8J",
+            "url":"/media/sounds/m_fixed_yIerc8J.mp3",
             "id":2166
          },
          {
             "name":"噢",
-            "url":"/media/sounds/.mp3_aIjaSaz",
+            "url":"/media/sounds/m_fixed_aIjaSaz.mp3",
             "id":2167
          },
          {
             "name":"『舔』",
-            "url":"/media/sounds/.mp3_R9VkY6a",
+            "url":"/media/sounds/m_fixed_R9VkY6a.mp3",
             "id":2271
          },
          {
             "name":"ㄟ",
-            "url":"/media/sounds/.mp3_8J3fEV3",
+            "url":"/media/sounds/m_fixed_8J3fEV3.mp3",
             "id":2272
          },
          {
             "name":"吼",
-            "url":"/media/sounds/.mp3_t516eBF",
+            "url":"/media/sounds/m_fixed_t516eBF.mp3",
             "id":2273
          },
          {
             "name":"啊～哈哈",
-            "url":"/media/sounds/.mp3_L6Zwjah",
+            "url":"/media/sounds/m_fixed_L6Zwjah.mp3",
             "id":2274
          },
          {
             "name":"燈燈冷燈燈燈燈",
-            "url":"/media/sounds/.mp3_ImcnTOn",
+            "url":"/media/sounds/m_fixed_ImcnTOn.mp3",
             "id":2275
          },
          {
             "name":"ㄟ～～",
-            "url":"/media/sounds/.mp3_Xn1F80F",
+            "url":"/media/sounds/m_fixed_Xn1F80F.mp3",
             "id":2335
          },
          {
             "name":"汪～～",
-            "url":"/media/sounds/.mp3_IqNUaU3",
+            "url":"/media/sounds/m_fixed_IqNUaU3.mp3",
             "id":2336
          },
          {
@@ -3472,107 +3472,107 @@ export default [
          },
          {
             "name":"诶～～",
-            "url":"/media/sounds/.mp3_nZjhO56",
+            "url":"/media/sounds/m_fixed_nZjhO56.mp3",
             "id":2338
          },
          {
             "name":"啊！啊！啊嗚",
-            "url":"/media/sounds/.mp3_nbkO6O4",
+            "url":"/media/sounds/m_fixed_nbkO6O4.mp3",
             "id":2339
          },
          {
             "name":"啊～～～～",
-            "url":"/media/sounds/.mp3_Nz35Aon",
+            "url":"/media/sounds/m_fixed_Nz35Aon.mp3",
             "id":2340
          },
          {
             "name":"啊↘",
-            "url":"/media/sounds/.mp3_Ht0Ejsd",
+            "url":"/media/sounds/m_fixed_Ht0Ejsd.mp3",
             "id":2341
          },
          {
             "name":"啊↘～",
-            "url":"/media/sounds/.mp3_3TEbUXu",
+            "url":"/media/sounds/m_fixed_3TEbUXu.mp3",
             "id":2342
          },
          {
             "name":"嗚哦～～",
-            "url":"/media/sounds/.mp3_9naBnnY",
+            "url":"/media/sounds/m_fixed_9naBnnY.mp3",
             "id":2343
          },
          {
             "name":"嗚啊～～",
-            "url":"/media/sounds/.mp3_Ks2Tqw0",
+            "url":"/media/sounds/m_fixed_Ks2Tqw0.mp3",
             "id":2344
          },
          {
             "name":"嗚啊↘～",
-            "url":"/media/sounds/.mp3_Sz5hUBS",
+            "url":"/media/sounds/m_fixed_Sz5hUBS.mp3",
             "id":2345
          },
          {
             "name":"嗚啊↘～～",
-            "url":"/media/sounds/.mp3_DQw5mDV",
+            "url":"/media/sounds/m_fixed_DQw5mDV.mp3",
             "id":2346
          },
          {
             "name":"嗚喔～～",
-            "url":"/media/sounds/.mp3_xeJCHiQ",
+            "url":"/media/sounds/m_fixed_xeJCHiQ.mp3",
             "id":2347
          },
          {
             "name":"嗡嗡嗡嗡",
-            "url":"/media/sounds/.mp3_BYPQoPL",
+            "url":"/media/sounds/m_fixed_BYPQoPL.mp3",
             "id":2348
          },
          {
             "name":"痾！痾啊～～",
-            "url":"/media/sounds/.mp3_VZ8AjTU",
+            "url":"/media/sounds/m_fixed_VZ8AjTU.mp3",
             "id":2349
          },
          {
             "name":"痾",
-            "url":"/media/sounds/.mp3_bCDxHnU",
+            "url":"/media/sounds/m_fixed_bCDxHnU.mp3",
             "id":2350
          },
          {
             "name":"痾啊～～",
-            "url":"/media/sounds/.mp3_sDQ3dZT",
+            "url":"/media/sounds/m_fixed_sDQ3dZT.mp3",
             "id":2351
          },
          {
             "name":"痾啊↘～",
-            "url":"/media/sounds/.mp3_zzhfKQG",
+            "url":"/media/sounds/m_fixed_zzhfKQG.mp3",
             "id":2352
          },
          {
             "name":"痾啊↘～～",
-            "url":"/media/sounds/.mp3_1d8vm4u",
+            "url":"/media/sounds/m_fixed_1d8vm4u.mp3",
             "id":2353
          },
          {
             "name":"痾訝！",
-            "url":"/media/sounds/.mp3_4EYsPns",
+            "url":"/media/sounds/m_fixed_4EYsPns.mp3",
             "id":2354
          },
          {
             "name":"痾訝～～～",
-            "url":"/media/sounds/.mp3_7E0ZvOn",
+            "url":"/media/sounds/m_fixed_7E0ZvOn.mp3",
             "id":2355
          },
          {
             "name":"痾痾痾",
-            "url":"/media/sounds/.mp3_afhmQCE",
+            "url":"/media/sounds/m_fixed_afhmQCE.mp3",
             "id":2356
          },
          {
             "name":"喔！喔！",
-            "url":"/media/sounds/.mp3_fEEhrPq",
+            "url":"/media/sounds/m_fixed_fEEhrPq.mp3",
             "id":2323
          },
          {
             "name":"『吐氣聲』",
-            "url":"/media/sounds/.mp3_q53CKuS",
+            "url":"/media/sounds/m_fixed_q53CKuS.mp3",
             "id":2442
          },
          {
@@ -3582,22 +3582,22 @@ export default [
          },
          {
             "name":"哈↘",
-            "url":"/media/sounds/.mp3_8a3bhqH",
+            "url":"/media/sounds/m_fixed_8a3bhqH.mp3",
             "id":2444
          },
          {
             "name":"哼哼",
-            "url":"/media/sounds/.mp3_Qfz9GbF",
+            "url":"/media/sounds/m_fixed_Qfz9GbF.mp3",
             "id":2445
          },
          {
             "name":"啊～～痾",
-            "url":"/media/sounds/.mp3_vY1GFlp",
+            "url":"/media/sounds/m_fixed_vY1GFlp.mp3",
             "id":2446
          },
          {
             "name":"嗯↘～～～",
-            "url":"/media/sounds/.mp3_UQnnUKX",
+            "url":"/media/sounds/m_fixed_UQnnUKX.mp3",
             "id":2447
          },
          {
@@ -3607,12 +3607,12 @@ export default [
          },
          {
             "name":"噢～",
-            "url":"/media/sounds/.mp3_N9OxKBl",
+            "url":"/media/sounds/m_fixed_N9OxKBl.mp3",
             "id":2449
          },
          {
             "name":"噢～～",
-            "url":"/media/sounds/.mp3_6KBn9bw",
+            "url":"/media/sounds/m_fixed_6KBn9bw.mp3",
             "id":2450
          },
          {
@@ -3622,7 +3622,7 @@ export default [
          },
          {
             "name":"噢～～～～",
-            "url":"/media/sounds/.mp3_gF4D3xI",
+            "url":"/media/sounds/m_fixed_gF4D3xI.mp3",
             "id":2452
          },
          {
@@ -3642,32 +3642,32 @@ export default [
          },
          {
             "name":"椰ㄟ～～",
-            "url":"/media/sounds/.mp3_ayWbwbH",
+            "url":"/media/sounds/m_fixed_ayWbwbH.mp3",
             "id":2457
          },
          {
             "name":"欸！欸！欸！欸！",
-            "url":"/media/sounds/.mp3_gSmef5j",
+            "url":"/media/sounds/m_fixed_gSmef5j.mp3",
             "id":2458
          },
          {
             "name":"痾啊！",
-            "url":"/media/sounds/.mp3_l5C9L71",
+            "url":"/media/sounds/m_fixed_l5C9L71.mp3",
             "id":2459
          },
          {
             "name":"痾痾～",
-            "url":"/media/sounds/.mp3_WB9hOQl",
+            "url":"/media/sounds/m_fixed_WB9hOQl.mp3",
             "id":2460
          },
          {
             "name":"痾～",
-            "url":"/media/sounds/.mp3_ToQBVRy",
+            "url":"/media/sounds/m_fixed_ToQBVRy.mp3",
             "id":2461
          },
          {
             "name":"痾～哈～",
-            "url":"/media/sounds/.mp3_Nk9Fil2",
+            "url":"/media/sounds/m_fixed_Nk9Fil2.mp3",
             "id":2462
          },
          {
@@ -3677,7 +3677,7 @@ export default [
          },
          {
             "name":"蛤？～",
-            "url":"/media/sounds/.mp3_zyYFDpL",
+            "url":"/media/sounds/m_fixed_zyYFDpL.mp3",
             "id":2464
          },
          {
@@ -3687,12 +3687,12 @@ export default [
          },
          {
             "name":"電吉他音",
-            "url":"/media/sounds/.mp3_WbWr8iy",
+            "url":"/media/sounds/m_fixed_WbWr8iy.mp3",
             "id":2467
          },
          {
             "name":"齁喔➚～",
-            "url":"/media/sounds/.mp3_ODLfyO2",
+            "url":"/media/sounds/m_fixed_ODLfyO2.mp3",
             "id":2468
          },
          {
@@ -3737,32 +3737,32 @@ export default [
          },
          {
             "name":"匹蝦啊～～～",
-            "url":"/media/sounds/.mp3_rUMx78E",
+            "url":"/media/sounds/m_fixed_rUMx78E.mp3",
             "id":2598
          },
          {
             "name":"匹蝦～～～",
-            "url":"/media/sounds/.mp3_t2VrGub",
+            "url":"/media/sounds/m_fixed_t2VrGub.mp3",
             "id":2599
          },
          {
             "name":"哀～嘖",
-            "url":"/media/sounds/.mp3_Z8Sy1vn",
+            "url":"/media/sounds/m_fixed_Z8Sy1vn.mp3",
             "id":2600
          },
          {
             "name":"唉呦",
-            "url":"/media/sounds/.mp3_UhFumAZ",
+            "url":"/media/sounds/m_fixed_UhFumAZ.mp3",
             "id":2601
          },
          {
             "name":"嘎啦嘎啦嘎拉嘎拉",
-            "url":"/media/sounds/.mp3_UFC9BS3",
+            "url":"/media/sounds/m_fixed_UFC9BS3.mp3",
             "id":2602
          },
          {
             "name":"嘿！齁喲！喔喔喔～",
-            "url":"/media/sounds/.mp3_IS08KLh",
+            "url":"/media/sounds/m_fixed_IS08KLh.mp3",
             "id":2603
          },
          {
@@ -3772,27 +3772,27 @@ export default [
          },
          {
             "name":"磅磅磅磅磅",
-            "url":"/media/sounds/.mp3_Fp9PexV",
+            "url":"/media/sounds/m_fixed_Fp9PexV.mp3",
             "id":2605
          },
          {
             "name":"诶幹",
-            "url":"/media/sounds/.mp3_joRNdeB",
+            "url":"/media/sounds/m_fixed_joRNdeB.mp3",
             "id":1896
          },
          {
             "name":"齁呦",
-            "url":"/media/sounds/.mp3_Q2xviWs",
+            "url":"/media/sounds/m_fixed_Q2xviWs.mp3",
             "id":2168
          },
          {
             "name":"ㄌㄩㄝㄌㄩㄝㄌㄩㄝ痾ㄌㄨㄚㄌㄨㄚㄌㄨㄚ",
-            "url":"/media/sounds/.mp3_PaHUplm",
+            "url":"/media/sounds/m_fixed_PaHUplm.mp3",
             "id":2727
          },
          {
             "name":"呵呵",
-            "url":"/media/sounds/.mp3_3jOsG5N",
+            "url":"/media/sounds/m_fixed_3jOsG5N.mp3",
             "id":2728
          },
          {
@@ -3802,47 +3802,47 @@ export default [
          },
          {
             "name":"啊➚啊➚啊➚啊➚",
-            "url":"/media/sounds/.mp3_67Si3uk",
+            "url":"/media/sounds/m_fixed_67Si3uk.mp3",
             "id":2730
          },
          {
             "name":"啊➚！",
-            "url":"/media/sounds/.mp3_Nlpbpb3",
+            "url":"/media/sounds/m_fixed_Nlpbpb3.mp3",
             "id":2731
          },
          {
             "name":"啊嗚！",
-            "url":"/media/sounds/.mp3_x1wu7l2",
+            "url":"/media/sounds/m_fixed_x1wu7l2.mp3",
             "id":2732
          },
          {
             "name":"啊～哈",
-            "url":"/media/sounds/.mp3_BoM4p5r",
+            "url":"/media/sounds/m_fixed_BoM4p5r.mp3",
             "id":2733
          },
          {
             "name":"喂",
-            "url":"/media/sounds/.mp3_qtbveJx",
+            "url":"/media/sounds/m_fixed_qtbveJx.mp3",
             "id":2734
          },
          {
             "name":"嗚啊～",
-            "url":"/media/sounds/.mp3_kyV0v4E",
+            "url":"/media/sounds/m_fixed_kyV0v4E.mp3",
             "id":2735
          },
          {
             "name":"嗯啊～～",
-            "url":"/media/sounds/.mp3_hOw2a6R",
+            "url":"/media/sounds/m_fixed_hOw2a6R.mp3",
             "id":2736
          },
          {
             "name":"噢↘！",
-            "url":"/media/sounds/.mp3_muFx5LE",
+            "url":"/media/sounds/m_fixed_muFx5LE.mp3",
             "id":2737
          },
          {
             "name":"幹你娘～",
-            "url":"/media/sounds/.mp3_rXRzG9K",
+            "url":"/media/sounds/m_fixed_rXRzG9K.mp3",
             "id":2738
          },
          {
@@ -3852,7 +3852,7 @@ export default [
          },
          {
             "name":"賀↘",
-            "url":"/media/sounds/.mp3_7FPmtrz",
+            "url":"/media/sounds/m_fixed_7FPmtrz.mp3",
             "id":2740
          },
          {
@@ -3882,32 +3882,32 @@ export default [
          },
          {
             "name":"『嘔吐聲』",
-            "url":"/media/sounds/.mp3_ZF8LeGc",
+            "url":"/media/sounds/m_fixed_ZF8LeGc.mp3",
             "id":2868
          },
          {
             "name":"ㄟ～ㄟ～",
-            "url":"/media/sounds/.mp3_E6ClH1C",
+            "url":"/media/sounds/m_fixed_E6ClH1C.mp3",
             "id":2869
          },
          {
             "name":"啊～嗚～",
-            "url":"/media/sounds/.mp3_nv1Xg1Q",
+            "url":"/media/sounds/m_fixed_nv1Xg1Q.mp3",
             "id":2870
          },
          {
             "name":"嘎吼",
-            "url":"/media/sounds/.mp3_oTDBLMy",
+            "url":"/media/sounds/m_fixed_oTDBLMy.mp3",
             "id":2871
          },
          {
             "name":"痾痾痾痾",
-            "url":"/media/sounds/.mp3_p12ClwV",
+            "url":"/media/sounds/m_fixed_p12ClwV.mp3",
             "id":2872
          },
          {
             "name":"真。開台",
-            "url":"/media/sounds/.mp3_rBvOBqQ",
+            "url":"/media/sounds/m_fixed_rBvOBqQ.mp3",
             "id":2873
          },
          {
@@ -3922,7 +3922,7 @@ export default [
          },
          {
             "name":"喔喔ㄌㄨㄝ",
-            "url":"/media/sounds/.mp3_4QWH8p9",
+            "url":"/media/sounds/m_fixed_4QWH8p9.mp3",
             "id":2876
          },
          {
@@ -3932,12 +3932,12 @@ export default [
          },
          {
             "name":"咕嚕咕嚕咕嚕咕嚕",
-            "url":"/media/sounds/.mp3_Lnn8QFm",
+            "url":"/media/sounds/m_fixed_Lnn8QFm.mp3",
             "id":2991
          },
          {
             "name":"哇↘～～～",
-            "url":"/media/sounds/.mp3_MfGqvHA",
+            "url":"/media/sounds/m_fixed_MfGqvHA.mp3",
             "id":2992
          },
          {
@@ -3947,22 +3947,22 @@ export default [
          },
          {
             "name":"唉呦唉呦唉呦唉呦",
-            "url":"/media/sounds/.mp3_6u2E6IZ",
+            "url":"/media/sounds/m_fixed_6u2E6IZ.mp3",
             "id":2994
          },
          {
             "name":"唉唉唉喲唉喲",
-            "url":"/media/sounds/.mp3_gKOaTxD",
+            "url":"/media/sounds/m_fixed_gKOaTxD.mp3",
             "id":2995
          },
          {
             "name":"啊↘～～～～",
-            "url":"/media/sounds/.mp3_U22mGCR",
+            "url":"/media/sounds/m_fixed_U22mGCR.mp3",
             "id":2996
          },
          {
             "name":"啵啵啵啵啵",
-            "url":"/media/sounds/.mp3_AEPVFLJ",
+            "url":"/media/sounds/m_fixed_AEPVFLJ.mp3",
             "id":2997
          },
          {
@@ -3977,42 +3977,42 @@ export default [
          },
          {
             "name":"嗚！嗚啊！啊～～",
-            "url":"/media/sounds/.mp3_rs23Hif",
+            "url":"/media/sounds/m_fixed_rs23Hif.mp3",
             "id":3000
          },
          {
             "name":"大濕算數學",
-            "url":"/media/sounds/.mp3_L8ubhfG",
+            "url":"/media/sounds/m_fixed_L8ubhfG.mp3",
             "id":3001
          },
          {
             "name":"旺旺～",
-            "url":"/media/sounds/.mp3_78tu0wL",
+            "url":"/media/sounds/m_fixed_78tu0wL.mp3",
             "id":3002
          },
          {
             "name":"繃繃繃繃～",
-            "url":"/media/sounds/.mp3_I7RVQsJ",
+            "url":"/media/sounds/m_fixed_I7RVQsJ.mp3",
             "id":3003
          },
          {
             "name":"蛤",
-            "url":"/media/sounds/.mp3_GGFDbE3",
+            "url":"/media/sounds/m_fixed_GGFDbE3.mp3",
             "id":3004
          },
          {
             "name":"輝",
-            "url":"/media/sounds/.mp3_j1B6x7w",
+            "url":"/media/sounds/m_fixed_j1B6x7w.mp3",
             "id":3005
          },
          {
             "name":"都都都都都都～",
-            "url":"/media/sounds/.mp3_dmyJNLu",
+            "url":"/media/sounds/m_fixed_dmyJNLu.mp3",
             "id":3006
          },
          {
             "name":"『大爆射』",
-            "url":"/media/sounds/.mp3_kVF04Ko",
+            "url":"/media/sounds/m_fixed_kVF04Ko.mp3",
             "id":3007
          },
          {
@@ -4022,12 +4022,12 @@ export default [
          },
          {
             "name":"咕嚕",
-            "url":"/media/sounds/.mp3_VBNiGDR",
+            "url":"/media/sounds/m_fixed_VBNiGDR.mp3",
             "id":3009
          },
          {
             "name":"『拍手』",
-            "url":"/media/sounds/.mp3_xkCfLzP",
+            "url":"/media/sounds/m_fixed_xkCfLzP.mp3",
             "id":3115
          },
          {
@@ -4037,12 +4037,12 @@ export default [
          },
          {
             "name":"啵啵囉啵啵",
-            "url":"/media/sounds/.mp3_akH6G88",
+            "url":"/media/sounds/m_fixed_akH6G88.mp3",
             "id":3117
          },
          {
             "name":"啵啵囉啵啵啵啵",
-            "url":"/media/sounds/.mp3_zy0AOA3",
+            "url":"/media/sounds/m_fixed_zy0AOA3.mp3",
             "id":3118
          },
          {
@@ -4062,27 +4062,27 @@ export default [
          },
          {
             "name":"媽的",
-            "url":"/media/sounds/.mp3_tHRsp3E",
+            "url":"/media/sounds/m_fixed_tHRsp3E.mp3",
             "id":3122
          },
          {
             "name":"幹幹幹幹",
-            "url":"/media/sounds/.mp3_Wsz3Kap",
+            "url":"/media/sounds/m_fixed_Wsz3Kap.mp3",
             "id":3123
          },
          {
             "name":"痾嗚啊～",
-            "url":"/media/sounds/.mp3_ded4Mzm",
+            "url":"/media/sounds/m_fixed_ded4Mzm.mp3",
             "id":3124
          },
          {
             "name":"等等燈燈燈燈燈",
-            "url":"/media/sounds/.mp3_7RsILo5",
+            "url":"/media/sounds/m_fixed_7RsILo5.mp3",
             "id":3125
          },
          {
             "name":"餔嗤",
-            "url":"/media/sounds/.mp3_Lt2iIca",
+            "url":"/media/sounds/m_fixed_Lt2iIca.mp3",
             "id":3126
          },
          {
@@ -4092,22 +4092,22 @@ export default [
          },
          {
             "name":"ㄌㄨㄚ啊～",
-            "url":"/media/sounds/.mp3_kscjQH1",
+            "url":"/media/sounds/m_fixed_kscjQH1.mp3",
             "id":3224
          },
          {
             "name":"哀(累)",
-            "url":"/media/sounds/.mp3_qlROfp3",
+            "url":"/media/sounds/m_fixed_qlROfp3.mp3",
             "id":3225
          },
          {
             "name":"啊呦～",
-            "url":"/media/sounds/.mp3_mV4MrGg",
+            "url":"/media/sounds/m_fixed_mV4MrGg.mp3",
             "id":3226
          },
          {
             "name":"啊啊啊啊啊～",
-            "url":"/media/sounds/.mp3_FooFRWJ",
+            "url":"/media/sounds/m_fixed_FooFRWJ.mp3",
             "id":3227
          },
          {
@@ -4117,7 +4117,7 @@ export default [
          },
          {
             "name":"欸↘！",
-            "url":"/media/sounds/.mp3_GfVK7vQ",
+            "url":"/media/sounds/m_fixed_GfVK7vQ.mp3",
             "id":3229
          },
          {
@@ -4127,7 +4127,7 @@ export default [
          },
          {
             "name":"痾➝～",
-            "url":"/media/sounds/.mp3_fUJL5Ze",
+            "url":"/media/sounds/m_fixed_fUJL5Ze.mp3",
             "id":3231
          },
          {
@@ -4142,67 +4142,67 @@ export default [
          },
          {
             "name":"厚厚厚厚嗚",
-            "url":"/media/sounds/.mp3_2HbYeQD",
+            "url":"/media/sounds/m_fixed_2HbYeQD.mp3",
             "id":3372
          },
          {
             "name":"唉～呦～",
-            "url":"/media/sounds/.mp3_OAzXGiQ",
+            "url":"/media/sounds/m_fixed_OAzXGiQ.mp3",
             "id":3373
          },
          {
             "name":"啊啊～～",
-            "url":"/media/sounds/.mp3_RJKJYWR",
+            "url":"/media/sounds/m_fixed_RJKJYWR.mp3",
             "id":3374
          },
          {
             "name":"啊浩～",
-            "url":"/media/sounds/.mp3_wtNghvc",
+            "url":"/media/sounds/m_fixed_wtNghvc.mp3",
             "id":3375
          },
          {
             "name":"啊～～",
-            "url":"/media/sounds/.mp3_AfprjH5",
+            "url":"/media/sounds/m_fixed_AfprjH5.mp3",
             "id":3376
          },
          {
             "name":"啵啵啵啵啵啵～",
-            "url":"/media/sounds/.mp3_BE4Em80",
+            "url":"/media/sounds/m_fixed_BE4Em80.mp3",
             "id":3377
          },
          {
             "name":"喔～喝～喝",
-            "url":"/media/sounds/.mp3_AElKwLh",
+            "url":"/media/sounds/m_fixed_AElKwLh.mp3",
             "id":3378
          },
          {
             "name":"嗚喔！",
-            "url":"/media/sounds/.mp3_8ucTDcT",
+            "url":"/media/sounds/m_fixed_8ucTDcT.mp3",
             "id":3379
          },
          {
             "name":"嗯啊～",
-            "url":"/media/sounds/.mp3_84LD80g",
+            "url":"/media/sounds/m_fixed_84LD80g.mp3",
             "id":3380
          },
          {
             "name":"噢～喝～啊啊啊",
-            "url":"/media/sounds/.mp3_dRYvi50",
+            "url":"/media/sounds/m_fixed_dRYvi50.mp3",
             "id":3381
          },
          {
             "name":"惡痾痾痾",
-            "url":"/media/sounds/.mp3_XFH3Cpt",
+            "url":"/media/sounds/m_fixed_XFH3Cpt.mp3",
             "id":3383
          },
          {
             "name":"答答答答答～",
-            "url":"/media/sounds/.mp3_8uNZkpN",
+            "url":"/media/sounds/m_fixed_8uNZkpN.mp3",
             "id":3385
          },
          {
             "name":"轟隆隆隆隆隆",
-            "url":"/media/sounds/.mp3_8GPumv7",
+            "url":"/media/sounds/m_fixed_8GPumv7.mp3",
             "id":3386
          },
          {
@@ -4212,22 +4212,22 @@ export default [
          },
          {
             "name":"ㄉㄟ～",
-            "url":"/media/sounds/.mp3_6SlFptW",
+            "url":"/media/sounds/m_fixed_6SlFptW.mp3",
             "id":3409
          },
          {
             "name":"喔！惡痾痾痾ㄟㄟㄟ",
-            "url":"/media/sounds/.mp3_qSJEeYG",
+            "url":"/media/sounds/m_fixed_qSJEeYG.mp3",
             "id":3412
          },
          {
             "name":"ㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚㄅㄧㄚ",
-            "url":"/media/sounds/.mp3_pUwicuR",
+            "url":"/media/sounds/m_fixed_pUwicuR.mp3",
             "id":3453
          },
          {
             "name":"哇↘～～",
-            "url":"/media/sounds/.mp3_3bqLmkS",
+            "url":"/media/sounds/m_fixed_3bqLmkS.mp3",
             "id":3525
          },
          {
@@ -4237,12 +4237,12 @@ export default [
          },
          {
             "name":"哼！哼！哼！啊啊啊",
-            "url":"/media/sounds/.mp3_3LwCSxe",
+            "url":"/media/sounds/m_fixed_3LwCSxe.mp3",
             "id":3527
          },
          {
             "name":"噢↘～～",
-            "url":"/media/sounds/.mp3_Es8RM7E",
+            "url":"/media/sounds/m_fixed_Es8RM7E.mp3",
             "id":3528
          },
          {
@@ -4717,7 +4717,7 @@ export default [
       "datas":[
          {
             "name":"元元子哭哭",
-            "url":"/media/sounds/.mp3_vJDMfn5",
+            "url":"/media/sounds/m_fixed_vJDMfn5.mp3",
             "id":65
          },
          {
@@ -4727,12 +4727,12 @@ export default [
          },
          {
             "name":"嗚嗚嗚嗚嗚",
-            "url":"/media/sounds/.mp3_62LU6K6",
+            "url":"/media/sounds/m_fixed_62LU6K6.mp3",
             "id":67
          },
          {
             "name":"被肛的哭聲",
-            "url":"/media/sounds/.mp3_SRlXiF4",
+            "url":"/media/sounds/m_fixed_SRlXiF4.mp3",
             "id":605
          },
          {
@@ -4742,17 +4742,17 @@ export default [
          },
          {
             "name":"嗚～～",
-            "url":"/media/sounds/.mp3_39DWnof",
+            "url":"/media/sounds/m_fixed_39DWnof.mp3",
             "id":1106
          },
          {
             "name":"汪～",
-            "url":"/media/sounds/.mp3_ancmxXh",
+            "url":"/media/sounds/m_fixed_ancmxXh.mp3",
             "id":1507
          },
          {
             "name":"嗚～",
-            "url":"/media/sounds/.mp3_73KtEjI",
+            "url":"/media/sounds/m_fixed_73KtEjI.mp3",
             "id":1508
          },
          {
@@ -4762,17 +4762,17 @@ export default [
          },
          {
             "name":"嗚↘～",
-            "url":"/media/sounds/.mp3_Vgf9zy0",
+            "url":"/media/sounds/m_fixed_Vgf9zy0.mp3",
             "id":1510
          },
          {
             "name":"沒有啦～(台)",
-            "url":"/media/sounds/.mp3_YatS09h",
+            "url":"/media/sounds/m_fixed_YatS09h.mp3",
             "id":2193
          },
          {
             "name":"嗚～～～～～～",
-            "url":"/media/sounds/.mp3_fRoTxAl",
+            "url":"/media/sounds/m_fixed_fRoTxAl.mp3",
             "id":2194
          },
          {
@@ -4782,37 +4782,37 @@ export default [
          },
          {
             "name":"伊～～～",
-            "url":"/media/sounds/.mp3_moE9oOz",
+            "url":"/media/sounds/m_fixed_moE9oOz.mp3",
             "id":2519
          },
          {
             "name":"吚➚",
-            "url":"/media/sounds/.mp3_EB6KrdU",
+            "url":"/media/sounds/m_fixed_EB6KrdU.mp3",
             "id":2905
          },
          {
             "name":"吚➚～",
-            "url":"/media/sounds/.mp3_5pu741a",
+            "url":"/media/sounds/m_fixed_5pu741a.mp3",
             "id":2906
          },
          {
             "name":"嗚嗚嗚嗚",
-            "url":"/media/sounds/.mp3_YqZNvpg",
+            "url":"/media/sounds/m_fixed_YqZNvpg.mp3",
             "id":3048
          },
          {
             "name":"『吸氣』",
-            "url":"/media/sounds/.mp3_ZpVk2ZY",
+            "url":"/media/sounds/m_fixed_ZpVk2ZY.mp3",
             "id":3165
          },
          {
             "name":"唲➚～",
-            "url":"/media/sounds/.mp3_HI3iKUo",
+            "url":"/media/sounds/m_fixed_HI3iKUo.mp3",
             "id":3166
          },
          {
             "name":"嗯ㄜ～",
-            "url":"/media/sounds/.mp3_kQiDcxW",
+            "url":"/media/sounds/m_fixed_kQiDcxW.mp3",
             "id":3167
          },
          {
@@ -4827,7 +4827,7 @@ export default [
       "datas":[
          {
             "name":"大家好，我是小安",
-            "url":"/media/sounds/.mp3_cGYB7q3",
+            "url":"/media/sounds/m_fixed_cGYB7q3.mp3",
             "id":68
          },
          {
@@ -4847,27 +4847,27 @@ export default [
          },
          {
             "name":"我喜歡拉小提琴跳舞還有唱歌喔",
-            "url":"/media/sounds/.mp3_rMQh92z",
+            "url":"/media/sounds/m_fixed_rMQh92z.mp3",
             "id":593
          },
          {
             "name":"歡迎來到我的頻道",
-            "url":"/media/sounds/.mp3_Pdrhf9r",
+            "url":"/media/sounds/m_fixed_Pdrhf9r.mp3",
             "id":594
          },
          {
             "name":"耶～",
-            "url":"/media/sounds/.mp3_XO9oT9k",
+            "url":"/media/sounds/m_fixed_XO9oT9k.mp3",
             "id":595
          },
          {
             "name":"你給我八千我就幫你畫喔",
-            "url":"/media/sounds/.mp3_8cs9LES",
+            "url":"/media/sounds/m_fixed_8cs9LES.mp3",
             "id":756
          },
          {
             "name":"我喜歡做烤布蕾還有飆車喔",
-            "url":"/media/sounds/.mp3_P9jzxYA",
+            "url":"/media/sounds/m_fixed_P9jzxYA.mp3",
             "id":2508
          },
          {
@@ -4882,37 +4882,37 @@ export default [
       "datas":[
          {
             "name":"幫他吸",
-            "url":"/media/sounds/.mp3_XPMZXvO",
+            "url":"/media/sounds/m_fixed_XPMZXvO.mp3",
             "id":71
          },
          {
             "name":"蛤？乖乖站好啊！",
-            "url":"/media/sounds/.mp3_6UcD4DW",
+            "url":"/media/sounds/m_fixed_6UcD4DW.mp3",
             "id":72
          },
          {
             "name":"又爽又舒服",
-            "url":"/media/sounds/.mp3_GfRcuqk",
+            "url":"/media/sounds/m_fixed_GfRcuqk.mp3",
             "id":73
          },
          {
             "name":"衛浴設備",
-            "url":"/media/sounds/.mp3_AQvH48g",
+            "url":"/media/sounds/m_fixed_AQvH48g.mp3",
             "id":74
          },
          {
             "name":"只能在廁所",
-            "url":"/media/sounds/.mp3_A4JmahD",
+            "url":"/media/sounds/m_fixed_A4JmahD.mp3",
             "id":75
          },
          {
             "name":"馬桶",
-            "url":"/media/sounds/.mp3_x7WYWqD",
+            "url":"/media/sounds/m_fixed_x7WYWqD.mp3",
             "id":76
          },
          {
             "name":"便器",
-            "url":"/media/sounds/.mp3_aULw6kz",
+            "url":"/media/sounds/m_fixed_aULw6kz.mp3",
             "id":77
          },
          {
@@ -4927,32 +4927,32 @@ export default [
          },
          {
             "name":"屁股人人有份",
-            "url":"/media/sounds/.mp3_zcIbDje",
+            "url":"/media/sounds/m_fixed_zcIbDje.mp3",
             "id":80
          },
          {
             "name":"禮到人到屁眼也到",
-            "url":"/media/sounds/.mp3_JLFfEjh",
+            "url":"/media/sounds/m_fixed_JLFfEjh.mp3",
             "id":81
          },
          {
             "name":"幹到你屁眼流湯",
-            "url":"/media/sounds/.mp3_7YZwjSV",
+            "url":"/media/sounds/m_fixed_7YZwjSV.mp3",
             "id":82
          },
          {
             "name":"等等來肛吧！",
-            "url":"/media/sounds/.mp3_xgnrGrJ",
+            "url":"/media/sounds/m_fixed_xgnrGrJ.mp3",
             "id":83
          },
          {
             "name":"屁眼故障來找我",
-            "url":"/media/sounds/.mp3_MGfOnQ8",
+            "url":"/media/sounds/m_fixed_MGfOnQ8.mp3",
             "id":84
          },
          {
             "name":"又粗又大又壯",
-            "url":"/media/sounds/.mp3_pJiizp4",
+            "url":"/media/sounds/m_fixed_pJiizp4.mp3",
             "id":85
          },
          {
@@ -4967,17 +4967,17 @@ export default [
          },
          {
             "name":"現在跟我已經特殊性關西了啦",
-            "url":"/media/sounds/.mp3_m8XKsXq",
+            "url":"/media/sounds/m_fixed_m8XKsXq.mp3",
             "id":88
          },
          {
             "name":"你來當我男朋友好不好？",
-            "url":"/media/sounds/.mp3_o0zKQGG",
+            "url":"/media/sounds/m_fixed_o0zKQGG.mp3",
             "id":89
          },
          {
             "name":"大大的",
-            "url":"/media/sounds/.mp3_7iiP4Lt",
+            "url":"/media/sounds/m_fixed_7iiP4Lt.mp3",
             "id":90
          },
          {
@@ -4992,32 +4992,32 @@ export default [
          },
          {
             "name":"太大了",
-            "url":"/media/sounds/.mp3_PFCfAH7",
+            "url":"/media/sounds/m_fixed_PFCfAH7.mp3",
             "id":93
          },
          {
             "name":"気持ちいい～～",
-            "url":"/media/sounds/.mp3_Bg92T2V",
+            "url":"/media/sounds/m_fixed_Bg92T2V.mp3",
             "id":94
          },
          {
             "name":"小雞雞！",
-            "url":"/media/sounds/.mp3_QD0ed1q",
+            "url":"/media/sounds/m_fixed_QD0ed1q.mp3",
             "id":95
          },
          {
             "name":"我愛的是皮卡屁",
-            "url":"/media/sounds/.mp3_dHKsEEW",
+            "url":"/media/sounds/m_fixed_dHKsEEW.mp3",
             "id":96
          },
          {
             "name":"打手槍",
-            "url":"/media/sounds/.mp3_zThDx90",
+            "url":"/media/sounds/m_fixed_zThDx90.mp3",
             "id":97
          },
          {
             "name":"臀部誘人的曲線",
-            "url":"/media/sounds/.mp3_zd4cwBd",
+            "url":"/media/sounds/m_fixed_zd4cwBd.mp3",
             "id":98
          },
          {
@@ -5027,102 +5027,102 @@ export default [
          },
          {
             "name":"怎麼有東西黏黏的？",
-            "url":"/media/sounds/.mp3_fXLtaS5",
+            "url":"/media/sounds/m_fixed_fXLtaS5.mp3",
             "id":101
          },
          {
             "name":"いたい いたい",
-            "url":"/media/sounds/.mp3_2v23bZN",
+            "url":"/media/sounds/m_fixed_2v23bZN.mp3",
             "id":102
          },
          {
             "name":"屁眼",
-            "url":"/media/sounds/.mp3_hD5HaDb",
+            "url":"/media/sounds/m_fixed_hD5HaDb.mp3",
             "id":165
          },
          {
             "name":"幹下去",
-            "url":"/media/sounds/.mp3_unAGHUQ",
+            "url":"/media/sounds/m_fixed_unAGHUQ.mp3",
             "id":308
          },
          {
             "name":"沒穿褲子",
-            "url":"/media/sounds/.mp3_lzS6h3R",
+            "url":"/media/sounds/m_fixed_lzS6h3R.mp3",
             "id":318
          },
          {
             "name":"放閃",
-            "url":"/media/sounds/.mp3_2TPDG2I",
+            "url":"/media/sounds/m_fixed_2TPDG2I.mp3",
             "id":326
          },
          {
             "name":"結婚",
-            "url":"/media/sounds/.mp3_EyKmg91",
+            "url":"/media/sounds/m_fixed_EyKmg91.mp3",
             "id":327
          },
          {
             "name":"老婆",
-            "url":"/media/sounds/.mp3_DZLy6Rt",
+            "url":"/media/sounds/m_fixed_DZLy6Rt.mp3",
             "id":330
          },
          {
             "name":"跟你回家吧",
-            "url":"/media/sounds/.mp3_Nm8yMqM",
+            "url":"/media/sounds/m_fixed_Nm8yMqM.mp3",
             "id":332
          },
          {
             "name":"我肛你",
-            "url":"/media/sounds/.mp3_eZTwbId",
+            "url":"/media/sounds/m_fixed_eZTwbId.mp3",
             "id":333
          },
          {
             "name":"你給我肛",
-            "url":"/media/sounds/.mp3_IacAC2X",
+            "url":"/media/sounds/m_fixed_IacAC2X.mp3",
             "id":334
          },
          {
             "name":"肉便器",
-            "url":"/media/sounds/.mp3_0xnrHH9",
+            "url":"/media/sounds/m_fixed_0xnrHH9.mp3",
             "id":337
          },
          {
             "name":"你怎麼那麼喜歡找我？",
-            "url":"/media/sounds/.mp3_o6IKokN",
+            "url":"/media/sounds/m_fixed_o6IKokN.mp3",
             "id":338
          },
          {
             "name":"我就再也不會感到寂寞了",
-            "url":"/media/sounds/.mp3_QmkZchP",
+            "url":"/media/sounds/m_fixed_QmkZchP.mp3",
             "id":339
          },
          {
             "name":"就只有你能讓我滿足",
-            "url":"/media/sounds/.mp3_tjsjuE2",
+            "url":"/media/sounds/m_fixed_tjsjuE2.mp3",
             "id":340
          },
          {
             "name":"來一發",
-            "url":"/media/sounds/.mp3_88EkzCX",
+            "url":"/media/sounds/m_fixed_88EkzCX.mp3",
             "id":349
          },
          {
             "name":"褲子掉了",
-            "url":"/media/sounds/.mp3_hbC2zKz",
+            "url":"/media/sounds/m_fixed_hbC2zKz.mp3",
             "id":350
          },
          {
             "name":"白白又濃又稠",
-            "url":"/media/sounds/.mp3_0TtTqCJ",
+            "url":"/media/sounds/m_fixed_0TtTqCJ.mp3",
             "id":351
          },
          {
             "name":"積了很久",
-            "url":"/media/sounds/.mp3_I5kV9JX",
+            "url":"/media/sounds/m_fixed_I5kV9JX.mp3",
             "id":352
          },
          {
             "name":"整個被弄到壞掉",
-            "url":"/media/sounds/.mp3_YUmUUGd",
+            "url":"/media/sounds/m_fixed_YUmUUGd.mp3",
             "id":358
          },
          {
@@ -5132,7 +5132,7 @@ export default [
          },
          {
             "name":"兆元的形狀",
-            "url":"/media/sounds/.mp3_aW0aCSa",
+            "url":"/media/sounds/m_fixed_aW0aCSa.mp3",
             "id":402
          },
          {
@@ -5147,67 +5147,67 @@ export default [
          },
          {
             "name":"節操",
-            "url":"/media/sounds/.mp3_6UzYNIf",
+            "url":"/media/sounds/m_fixed_6UzYNIf.mp3",
             "id":428
          },
          {
             "name":"わかてる",
-            "url":"/media/sounds/.mp3_qEO8MmK",
+            "url":"/media/sounds/m_fixed_qEO8MmK.mp3",
             "id":439
          },
          {
             "name":"愛してる",
-            "url":"/media/sounds/.mp3_4GsYrdL",
+            "url":"/media/sounds/m_fixed_4GsYrdL.mp3",
             "id":440
          },
          {
             "name":"大大大大好き",
-            "url":"/media/sounds/.mp3_wCSPVHP",
+            "url":"/media/sounds/m_fixed_wCSPVHP.mp3",
             "id":441
          },
          {
             "name":"あいくいくいくいく",
-            "url":"/media/sounds/.mp3_X6NzJKZ",
+            "url":"/media/sounds/m_fixed_X6NzJKZ.mp3",
             "id":442
          },
          {
             "name":"通馬桶",
-            "url":"/media/sounds/.mp3_ik2Pghw",
+            "url":"/media/sounds/m_fixed_ik2Pghw.mp3",
             "id":446
          },
          {
             "name":"通屁眼",
-            "url":"/media/sounds/.mp3_ayEIcv8",
+            "url":"/media/sounds/m_fixed_ayEIcv8.mp3",
             "id":447
          },
          {
             "name":"跟我通看看",
-            "url":"/media/sounds/.mp3_0JW37R0",
+            "url":"/media/sounds/m_fixed_0JW37R0.mp3",
             "id":448
          },
          {
             "name":"喇舌",
-            "url":"/media/sounds/.mp3_VZ89Gnn",
+            "url":"/media/sounds/m_fixed_VZ89Gnn.mp3",
             "id":451
          },
          {
             "name":"屁眼夾緊",
-            "url":"/media/sounds/.mp3_Royf3tZ",
+            "url":"/media/sounds/m_fixed_Royf3tZ.mp3",
             "id":453
          },
          {
             "name":"屁眼都爛了",
-            "url":"/media/sounds/.mp3_qaclwLx",
+            "url":"/media/sounds/m_fixed_qaclwLx.mp3",
             "id":454
          },
          {
             "name":"吸允聲",
-            "url":"/media/sounds/.mp3_xHrVmhx",
+            "url":"/media/sounds/m_fixed_xHrVmhx.mp3",
             "id":455
          },
          {
             "name":"真會吸啊",
-            "url":"/media/sounds/.mp3_PB9SoMc",
+            "url":"/media/sounds/m_fixed_PB9SoMc.mp3",
             "id":456
          },
          {
@@ -5217,102 +5217,102 @@ export default [
          },
          {
             "name":"又大",
-            "url":"/media/sounds/.mp3_uT0r28i",
+            "url":"/media/sounds/m_fixed_uT0r28i.mp3",
             "id":477
          },
          {
             "name":"又粗",
-            "url":"/media/sounds/.mp3_9XjJVOm",
+            "url":"/media/sounds/m_fixed_9XjJVOm.mp3",
             "id":478
          },
          {
             "name":"又硬",
-            "url":"/media/sounds/.mp3_uW2x0TF",
+            "url":"/media/sounds/m_fixed_uW2x0TF.mp3",
             "id":479
          },
          {
             "name":"在我後面",
-            "url":"/media/sounds/.mp3_zfX9nH0",
+            "url":"/media/sounds/m_fixed_zfX9nH0.mp3",
             "id":480
          },
          {
             "name":"含自己的",
-            "url":"/media/sounds/.mp3_tqGvcI8",
+            "url":"/media/sounds/m_fixed_tqGvcI8.mp3",
             "id":481
          },
          {
             "name":"我都是被肛的",
-            "url":"/media/sounds/.mp3_QPuJiEx",
+            "url":"/media/sounds/m_fixed_QPuJiEx.mp3",
             "id":482
          },
          {
             "name":"男的我更愛",
-            "url":"/media/sounds/.mp3_ZIhlFOG",
+            "url":"/media/sounds/m_fixed_ZIhlFOG.mp3",
             "id":483
          },
          {
             "name":"啪著我",
-            "url":"/media/sounds/.mp3_VYwWyzU",
+            "url":"/media/sounds/m_fixed_VYwWyzU.mp3",
             "id":484
          },
          {
             "name":"您打啊",
-            "url":"/media/sounds/.mp3_SZTuA0H",
+            "url":"/media/sounds/m_fixed_SZTuA0H.mp3",
             "id":485
          },
          {
             "name":"粗粗的",
-            "url":"/media/sounds/.mp3_LLyXTTv",
+            "url":"/media/sounds/m_fixed_LLyXTTv.mp3",
             "id":486
          },
          {
             "name":"軟軟的",
-            "url":"/media/sounds/.mp3_HUFgdAn",
+            "url":"/media/sounds/m_fixed_HUFgdAn.mp3",
             "id":487
          },
          {
             "name":"短短的",
-            "url":"/media/sounds/.mp3_QtmhloI",
+            "url":"/media/sounds/m_fixed_QtmhloI.mp3",
             "id":488
          },
          {
             "name":"幫你含",
-            "url":"/media/sounds/.mp3_ltn4eAc",
+            "url":"/media/sounds/m_fixed_ltn4eAc.mp3",
             "id":489
          },
          {
             "name":"やらないか？",
-            "url":"/media/sounds/.mp3_ZXsE4Uq",
+            "url":"/media/sounds/m_fixed_ZXsE4Uq.mp3",
             "id":519
          },
          {
             "name":"你的屁眼已經被我用壞了",
-            "url":"/media/sounds/.mp3_WXxhmm0",
+            "url":"/media/sounds/m_fixed_WXxhmm0.mp3",
             "id":521
          },
          {
             "name":"肛們重建手術",
-            "url":"/media/sounds/.mp3_rUil38K",
+            "url":"/media/sounds/m_fixed_rUil38K.mp3",
             "id":523
          },
          {
             "name":"臭甲會互相吸引",
-            "url":"/media/sounds/.mp3_xaW34Pn",
+            "url":"/media/sounds/m_fixed_xaW34Pn.mp3",
             "id":524
          },
          {
             "name":"射爆",
-            "url":"/media/sounds/.mp3_EA2HHVA",
+            "url":"/media/sounds/m_fixed_EA2HHVA.mp3",
             "id":527
          },
          {
             "name":"馬眼",
-            "url":"/media/sounds/.mp3_DkCxuIU",
+            "url":"/media/sounds/m_fixed_DkCxuIU.mp3",
             "id":530
          },
          {
             "name":"雞眼",
-            "url":"/media/sounds/.mp3_cYNAmTx",
+            "url":"/media/sounds/m_fixed_cYNAmTx.mp3",
             "id":532
          },
          {
@@ -5322,107 +5322,107 @@ export default [
          },
          {
             "name":"幹死你幹死你邱建祥被幹",
-            "url":"/media/sounds/.mp3_68OzxcH",
+            "url":"/media/sounds/m_fixed_68OzxcH.mp3",
             "id":547
          },
          {
             "name":"又大又舒服",
-            "url":"/media/sounds/.mp3_QKHjB1P",
+            "url":"/media/sounds/m_fixed_QKHjB1P.mp3",
             "id":590
          },
          {
             "name":"屁眼就張開了",
-            "url":"/media/sounds/.mp3_kirzEA0",
+            "url":"/media/sounds/m_fixed_kirzEA0.mp3",
             "id":591
          },
          {
             "name":"肛了",
-            "url":"/media/sounds/.mp3_sw7dlkm",
+            "url":"/media/sounds/m_fixed_sw7dlkm.mp3",
             "id":592
          },
          {
             "name":"你的屁股怎麼那麼大？",
-            "url":"/media/sounds/.mp3_3fB7qxH",
+            "url":"/media/sounds/m_fixed_3fB7qxH.mp3",
             "id":628
          },
          {
             "name":"夾著屁股跑掉了",
-            "url":"/media/sounds/.mp3_4AvreDs",
+            "url":"/media/sounds/m_fixed_4AvreDs.mp3",
             "id":629
          },
          {
             "name":"屁過屌過",
-            "url":"/media/sounds/.mp3_ejK7S8k",
+            "url":"/media/sounds/m_fixed_ejK7S8k.mp3",
             "id":630
          },
          {
             "name":"我就是被人家幹才變成這樣啦？",
-            "url":"/media/sounds/.mp3_w0q9jAF",
+            "url":"/media/sounds/m_fixed_w0q9jAF.mp3",
             "id":631
          },
          {
             "name":"我就是衛浴設備",
-            "url":"/media/sounds/.mp3_4cw76Xn",
+            "url":"/media/sounds/m_fixed_4cw76Xn.mp3",
             "id":632
          },
          {
             "name":"把你插在那邊給人家拜",
-            "url":"/media/sounds/.mp3_cAILaPR",
+            "url":"/media/sounds/m_fixed_cAILaPR.mp3",
             "id":633
          },
          {
             "name":"那些年錯過的屁眼",
-            "url":"/media/sounds/.mp3_he5pHgK",
+            "url":"/media/sounds/m_fixed_he5pHgK.mp3",
             "id":634
          },
          {
             "name":"原來香爐是這種感覺",
-            "url":"/media/sounds/.mp3_k4wTSyb",
+            "url":"/media/sounds/m_fixed_k4wTSyb.mp3",
             "id":635
          },
          {
             "name":"哭著回家",
-            "url":"/media/sounds/.mp3_RGffiZH",
+            "url":"/media/sounds/m_fixed_RGffiZH.mp3",
             "id":636
          },
          {
             "name":"留下白白的一片以示敬意",
-            "url":"/media/sounds/.mp3_XtAFRD1",
+            "url":"/media/sounds/m_fixed_XtAFRD1.mp3",
             "id":637
          },
          {
             "name":"廁所內",
-            "url":"/media/sounds/.mp3_kY5VvS3",
+            "url":"/media/sounds/m_fixed_kY5VvS3.mp3",
             "id":638
          },
          {
             "name":"緊緊抱著你",
-            "url":"/media/sounds/.mp3_WlR9mNM",
+            "url":"/media/sounds/m_fixed_WlR9mNM.mp3",
             "id":639
          },
          {
             "name":"讓你變成北港香爐",
-            "url":"/media/sounds/.mp3_bz6N2KB",
+            "url":"/media/sounds/m_fixed_bz6N2KB.mp3",
             "id":640
          },
          {
             "name":"屁股痛",
-            "url":"/media/sounds/.mp3_x0QjoKQ",
+            "url":"/media/sounds/m_fixed_x0QjoKQ.mp3",
             "id":749
          },
          {
             "name":"唉唷你臉紅啦",
-            "url":"/media/sounds/.mp3_s0CJsK1",
+            "url":"/media/sounds/m_fixed_s0CJsK1.mp3",
             "id":750
          },
          {
             "name":"掰到哪去了",
-            "url":"/media/sounds/.mp3_GsT2JPU",
+            "url":"/media/sounds/m_fixed_GsT2JPU.mp3",
             "id":751
          },
          {
             "name":"硬把他撐開",
-            "url":"/media/sounds/.mp3_8IifmV1",
+            "url":"/media/sounds/m_fixed_8IifmV1.mp3",
             "id":752
          },
          {
@@ -5442,57 +5442,57 @@ export default [
          },
          {
             "name":"あ～いく",
-            "url":"/media/sounds/.mp3_ITH9rzA",
+            "url":"/media/sounds/m_fixed_ITH9rzA.mp3",
             "id":838
          },
          {
             "name":"又白又軟",
-            "url":"/media/sounds/.mp3_BfySGRf",
+            "url":"/media/sounds/m_fixed_BfySGRf.mp3",
             "id":839
          },
          {
             "name":"大濕就是你們的公車",
-            "url":"/media/sounds/.mp3_2p6gHtK",
+            "url":"/media/sounds/m_fixed_2p6gHtK.mp3",
             "id":840
          },
          {
             "name":"打一發",
-            "url":"/media/sounds/.mp3_G3KbzA2",
+            "url":"/media/sounds/m_fixed_G3KbzA2.mp3",
             "id":841
          },
          {
             "name":"你屁眼給我幹！",
-            "url":"/media/sounds/.mp3_A1vFrhU",
+            "url":"/media/sounds/m_fixed_A1vFrhU.mp3",
             "id":842
          },
          {
             "name":"屁眼照",
-            "url":"/media/sounds/.mp3_EJ96TfM",
+            "url":"/media/sounds/m_fixed_EJ96TfM.mp3",
             "id":843
          },
          {
             "name":"我幹的是皮卡屁",
-            "url":"/media/sounds/.mp3_SsNcEno",
+            "url":"/media/sounds/m_fixed_SsNcEno.mp3",
             "id":844
          },
          {
             "name":"抱著",
-            "url":"/media/sounds/.mp3_GLzKSYr",
+            "url":"/media/sounds/m_fixed_GLzKSYr.mp3",
             "id":845
          },
          {
             "name":"拖出來幹",
-            "url":"/media/sounds/.mp3_GuuHThQ",
+            "url":"/media/sounds/m_fixed_GuuHThQ.mp3",
             "id":846
          },
          {
             "name":"射一發",
-            "url":"/media/sounds/.mp3_FzxoINm",
+            "url":"/media/sounds/m_fixed_FzxoINm.mp3",
             "id":847
          },
          {
             "name":"特別長",
-            "url":"/media/sounds/.mp3_QX7QlAO",
+            "url":"/media/sounds/m_fixed_QX7QlAO.mp3",
             "id":848
          },
          {
@@ -5502,152 +5502,152 @@ export default [
          },
          {
             "name":"啊啊啊好多",
-            "url":"/media/sounds/.mp3_S5zCuxO",
+            "url":"/media/sounds/m_fixed_S5zCuxO.mp3",
             "id":850
          },
          {
             "name":"推下去幹",
-            "url":"/media/sounds/.mp3_fXcW1FP",
+            "url":"/media/sounds/m_fixed_fXcW1FP.mp3",
             "id":851
          },
          {
             "name":"被幹屁眼",
-            "url":"/media/sounds/.mp3_X7NKGKo",
+            "url":"/media/sounds/m_fixed_X7NKGKo.mp3",
             "id":852
          },
          {
             "name":"這真好摸啊",
-            "url":"/media/sounds/.mp3_E6jfJ9B",
+            "url":"/media/sounds/m_fixed_E6jfJ9B.mp3",
             "id":853
          },
          {
             "name":"閉著眼睛用肛門玩",
-            "url":"/media/sounds/.mp3_cEBoOFT",
+            "url":"/media/sounds/m_fixed_cEBoOFT.mp3",
             "id":854
          },
          {
             "name":"愛上",
-            "url":"/media/sounds/.mp3_v21PUPT",
+            "url":"/media/sounds/m_fixed_v21PUPT.mp3",
             "id":855
          },
          {
             "name":"摸她",
-            "url":"/media/sounds/.mp3_8wz4DuV",
+            "url":"/media/sounds/m_fixed_8wz4DuV.mp3",
             "id":856
          },
          {
             "name":"騙我大便的地方",
-            "url":"/media/sounds/.mp3_fEis1Rg",
+            "url":"/media/sounds/m_fixed_fEis1Rg.mp3",
             "id":857
          },
          {
             "name":"ああいくいくいくいく",
-            "url":"/media/sounds/.mp3_UG0VACr",
+            "url":"/media/sounds/m_fixed_UG0VACr.mp3",
             "id":946
          },
          {
             "name":"啊懶覺讓我摸一下好不好",
-            "url":"/media/sounds/.mp3_QD5lbrA",
+            "url":"/media/sounds/m_fixed_QD5lbrA.mp3",
             "id":1012
          },
          {
             "name":"摸人家",
-            "url":"/media/sounds/.mp3_HFhm0Vp",
+            "url":"/media/sounds/m_fixed_HFhm0Vp.mp3",
             "id":1013
          },
          {
             "name":"懶覺讓我摸一下",
-            "url":"/media/sounds/.mp3_h7JWE7k",
+            "url":"/media/sounds/m_fixed_h7JWE7k.mp3",
             "id":1014
          },
          {
             "name":"いく～",
-            "url":"/media/sounds/.mp3_hEmxSoR",
+            "url":"/media/sounds/m_fixed_hEmxSoR.mp3",
             "id":1107
          },
          {
             "name":"好痛喔",
-            "url":"/media/sounds/.mp3_BF3v6lO",
+            "url":"/media/sounds/m_fixed_BF3v6lO.mp3",
             "id":1108
          },
          {
             "name":"我的屁眼下在一大堆人覬覦",
-            "url":"/media/sounds/.mp3_qeySRnK",
+            "url":"/media/sounds/m_fixed_qeySRnK.mp3",
             "id":1131
          },
          {
             "name":"俐落又靈活的手指",
-            "url":"/media/sounds/.mp3_KQaoJWQ",
+            "url":"/media/sounds/m_fixed_KQaoJWQ.mp3",
             "id":1132
          },
          {
             "name":"旋轉跳躍我幹你屁眼",
-            "url":"/media/sounds/.mp3_lJMPWqr",
+            "url":"/media/sounds/m_fixed_lJMPWqr.mp3",
             "id":1133
          },
          {
             "name":"撥弄",
-            "url":"/media/sounds/.mp3_8fdT6rp",
+            "url":"/media/sounds/m_fixed_8fdT6rp.mp3",
             "id":1134
          },
          {
             "name":"顧我們的屁股啊",
-            "url":"/media/sounds/.mp3_S0z4Q8c",
+            "url":"/media/sounds/m_fixed_S0z4Q8c.mp3",
             "id":1135
          },
          {
             "name":"屁眼太大",
-            "url":"/media/sounds/.mp3_QJQFLjc",
+            "url":"/media/sounds/m_fixed_QJQFLjc.mp3",
             "id":1212
          },
          {
             "name":"屁眼太緊",
-            "url":"/media/sounds/.mp3_8bQr17U",
+            "url":"/media/sounds/m_fixed_8bQr17U.mp3",
             "id":1213
          },
          {
             "name":"事後菸",
-            "url":"/media/sounds/.mp3_VqTVisy",
+            "url":"/media/sounds/m_fixed_VqTVisy.mp3",
             "id":1214
          },
          {
             "name":"抽",
-            "url":"/media/sounds/.mp3_UJSzHTV",
+            "url":"/media/sounds/m_fixed_UJSzHTV.mp3",
             "id":1215
          },
          {
             "name":"あ我慢できないあいくい",
-            "url":"/media/sounds/.mp3_4mRmiLu",
+            "url":"/media/sounds/m_fixed_4mRmiLu.mp3",
             "id":1275
          },
          {
             "name":"いく！",
-            "url":"/media/sounds/.mp3_wH3Bax9",
+            "url":"/media/sounds/m_fixed_wH3Bax9.mp3",
             "id":1276
          },
          {
             "name":"尻完了",
-            "url":"/media/sounds/.mp3_rXRFAKK",
+            "url":"/media/sounds/m_fixed_rXRFAKK.mp3",
             "id":1277
          },
          {
             "name":"你屁眼洗乾淨啊",
-            "url":"/media/sounds/.mp3_qdPOAwu",
+            "url":"/media/sounds/m_fixed_qdPOAwu.mp3",
             "id":1278
          },
          {
             "name":"我已經被插到變形了",
-            "url":"/media/sounds/.mp3_hCKROqc",
+            "url":"/media/sounds/m_fixed_hCKROqc.mp3",
             "id":1279
          },
          {
             "name":"要不要來跟我一場棒棒相爭啊？",
-            "url":"/media/sounds/.mp3_wuWlaFo",
+            "url":"/media/sounds/m_fixed_wuWlaFo.mp3",
             "id":1280
          },
          {
             "name":"射精",
-            "url":"/media/sounds/.mp3_NSQzF2w",
+            "url":"/media/sounds/m_fixed_NSQzF2w.mp3",
             "id":1281
          },
          {
@@ -5657,37 +5657,37 @@ export default [
          },
          {
             "name":"給他插",
-            "url":"/media/sounds/.mp3_R5AsDHm",
+            "url":"/media/sounds/m_fixed_R5AsDHm.mp3",
             "id":1283
          },
          {
             "name":"給其他人插",
-            "url":"/media/sounds/.mp3_ROeNwE6",
+            "url":"/media/sounds/m_fixed_ROeNwE6.mp3",
             "id":1284
          },
          {
             "name":"気持ちいい",
-            "url":"/media/sounds/.mp3_PlBPahv",
+            "url":"/media/sounds/m_fixed_PlBPahv.mp3",
             "id":1318
          },
          {
             "name":"太婆了",
-            "url":"/media/sounds/.mp3_ZdpmlZ7",
+            "url":"/media/sounds/m_fixed_ZdpmlZ7.mp3",
             "id":1354
          },
          {
             "name":"安產",
-            "url":"/media/sounds/.mp3_BsYK9Ec",
+            "url":"/media/sounds/m_fixed_BsYK9Ec.mp3",
             "id":1355
          },
          {
             "name":"老公",
-            "url":"/media/sounds/.mp3_4Cu68f8",
+            "url":"/media/sounds/m_fixed_4Cu68f8.mp3",
             "id":1356
          },
          {
             "name":"自掏",
-            "url":"/media/sounds/.mp3_0zhZFzc",
+            "url":"/media/sounds/m_fixed_0zhZFzc.mp3",
             "id":1357
          },
          {
@@ -5697,82 +5697,82 @@ export default [
          },
          {
             "name":"你老婆未來就是我的了",
-            "url":"/media/sounds/.mp3_9bdmInP",
+            "url":"/media/sounds/m_fixed_9bdmInP.mp3",
             "id":1359
          },
          {
             "name":"我早就給邱建祥幹了啦",
-            "url":"/media/sounds/.mp3_E4i6eue",
+            "url":"/media/sounds/m_fixed_E4i6eue.mp3",
             "id":1360
          },
          {
             "name":"我給他幹",
-            "url":"/media/sounds/.mp3_ojJJbPm",
+            "url":"/media/sounds/m_fixed_ojJJbPm.mp3",
             "id":1361
          },
          {
             "name":"肛死你",
-            "url":"/media/sounds/.mp3_KifRWWz",
+            "url":"/media/sounds/m_fixed_KifRWWz.mp3",
             "id":1362
          },
          {
             "name":"保養",
-            "url":"/media/sounds/.mp3_xOI23Et",
+            "url":"/media/sounds/m_fixed_xOI23Et.mp3",
             "id":1363
          },
          {
             "name":"脫褲子",
-            "url":"/media/sounds/.mp3_srOEU3c",
+            "url":"/media/sounds/m_fixed_srOEU3c.mp3",
             "id":1364
          },
          {
             "name":"給我幹",
-            "url":"/media/sounds/.mp3_i8LTXaa",
+            "url":"/media/sounds/m_fixed_i8LTXaa.mp3",
             "id":1365
          },
          {
             "name":"幹壞了",
-            "url":"/media/sounds/.mp3_SBj7u3n",
+            "url":"/media/sounds/m_fixed_SBj7u3n.mp3",
             "id":1366
          },
          {
             "name":"小壞蛋",
-            "url":"/media/sounds/.mp3_7MRfgpE",
+            "url":"/media/sounds/m_fixed_7MRfgpE.mp3",
             "id":1490
          },
          {
             "name":"仙人跳",
-            "url":"/media/sounds/.mp3_fhuE9yg",
+            "url":"/media/sounds/m_fixed_fhuE9yg.mp3",
             "id":1491
          },
          {
             "name":"他被我舔到不要不要的",
-            "url":"/media/sounds/.mp3_mIX81xS",
+            "url":"/media/sounds/m_fixed_mIX81xS.mp3",
             "id":1492
          },
          {
             "name":"吸麵聲",
-            "url":"/media/sounds/.mp3_0dS96vd",
+            "url":"/media/sounds/m_fixed_0dS96vd.mp3",
             "id":1493
          },
          {
             "name":"我愛的人是邱建祥",
-            "url":"/media/sounds/.mp3_MKeExNQ",
+            "url":"/media/sounds/m_fixed_MKeExNQ.mp3",
             "id":1494
          },
          {
             "name":"嫁給你",
-            "url":"/media/sounds/.mp3_fYPDNmr",
+            "url":"/media/sounds/m_fixed_fYPDNmr.mp3",
             "id":1495
          },
          {
             "name":"想我是不是？～",
-            "url":"/media/sounds/.mp3_mWpBQPS",
+            "url":"/media/sounds/m_fixed_mWpBQPS.mp3",
             "id":1496
          },
          {
             "name":"辣府",
-            "url":"/media/sounds/.mp3_vz8xPMp",
+            "url":"/media/sounds/m_fixed_vz8xPMp.mp3",
             "id":1497
          },
          {
@@ -5782,22 +5782,22 @@ export default [
          },
          {
             "name":"出櫃",
-            "url":"/media/sounds/.mp3_NEv6pqy",
+            "url":"/media/sounds/m_fixed_NEv6pqy.mp3",
             "id":1641
          },
          {
             "name":"你怎麼那麼快就去了？",
-            "url":"/media/sounds/.mp3_k5cpKpP",
+            "url":"/media/sounds/m_fixed_k5cpKpP.mp3",
             "id":1642
          },
          {
             "name":"潤滑液",
-            "url":"/media/sounds/.mp3_b47RqOH",
+            "url":"/media/sounds/m_fixed_b47RqOH.mp3",
             "id":1643
          },
          {
             "name":"衛生紙",
-            "url":"/media/sounds/.mp3_QEtfzPu",
+            "url":"/media/sounds/m_fixed_QEtfzPu.mp3",
             "id":1644
          },
          {
@@ -5807,7 +5807,7 @@ export default [
          },
          {
             "name":"內科",
-            "url":"/media/sounds/.mp3_7xB7fOm",
+            "url":"/media/sounds/m_fixed_7xB7fOm.mp3",
             "id":1791
          },
          {
@@ -5817,77 +5817,77 @@ export default [
          },
          {
             "name":"肛門",
-            "url":"/media/sounds/.mp3_nIEDmNi",
+            "url":"/media/sounds/m_fixed_nIEDmNi.mp3",
             "id":1793
          },
          {
             "name":"勃起",
-            "url":"/media/sounds/.mp3_IQqU52q",
+            "url":"/media/sounds/m_fixed_IQqU52q.mp3",
             "id":1794
          },
          {
             "name":"廁所",
-            "url":"/media/sounds/.mp3_FJa8eix",
+            "url":"/media/sounds/m_fixed_FJa8eix.mp3",
             "id":1795
          },
          {
             "name":"口技",
-            "url":"/media/sounds/.mp3_KNfbGAX",
+            "url":"/media/sounds/m_fixed_KNfbGAX.mp3",
             "id":2016
          },
          {
             "name":"太大了吧",
-            "url":"/media/sounds/.mp3_r8lODIy",
+            "url":"/media/sounds/m_fixed_r8lODIy.mp3",
             "id":2017
          },
          {
             "name":"我要變臭甲",
-            "url":"/media/sounds/.mp3_h2oYE6g",
+            "url":"/media/sounds/m_fixed_h2oYE6g.mp3",
             "id":2018
          },
          {
             "name":"我愛你啊",
-            "url":"/media/sounds/.mp3_qBzIwtE",
+            "url":"/media/sounds/m_fixed_qBzIwtE.mp3",
             "id":2019
          },
          {
             "name":"便斗",
-            "url":"/media/sounds/.mp3_kXMA8U9",
+            "url":"/media/sounds/m_fixed_kXMA8U9.mp3",
             "id":2020
          },
          {
             "name":"屌",
-            "url":"/media/sounds/.mp3_W8N8PQP",
+            "url":"/media/sounds/m_fixed_W8N8PQP.mp3",
             "id":2021
          },
          {
             "name":"持久",
-            "url":"/media/sounds/.mp3_1lUWP4x",
+            "url":"/media/sounds/m_fixed_1lUWP4x.mp3",
             "id":2022
          },
          {
             "name":"硬啦",
-            "url":"/media/sounds/.mp3_rfhE4L0",
+            "url":"/media/sounds/m_fixed_rfhE4L0.mp3",
             "id":2023
          },
          {
             "name":"藍色小藥丸",
-            "url":"/media/sounds/.mp3_Fvpp71P",
+            "url":"/media/sounds/m_fixed_Fvpp71P.mp3",
             "id":2024
          },
          {
             "name":"鬆弛",
-            "url":"/media/sounds/.mp3_8OAkqES",
+            "url":"/media/sounds/m_fixed_8OAkqES.mp3",
             "id":2025
          },
          {
             "name":"蠻鬆的",
-            "url":"/media/sounds/.mp3_zbGiV3w",
+            "url":"/media/sounds/m_fixed_zbGiV3w.mp3",
             "id":2026
          },
          {
             "name":"肛",
-            "url":"/media/sounds/.mp3_GfaWJvs",
+            "url":"/media/sounds/m_fixed_GfaWJvs.mp3",
             "id":2040
          },
          {
@@ -5897,32 +5897,32 @@ export default [
          },
          {
             "name":"又肥又嫩又好吃",
-            "url":"/media/sounds/.mp3_JlnBTy8",
+            "url":"/media/sounds/m_fixed_JlnBTy8.mp3",
             "id":2170
          },
          {
             "name":"特殊性關西",
-            "url":"/media/sounds/.mp3_CPTQJy9",
+            "url":"/media/sounds/m_fixed_CPTQJy9.mp3",
             "id":2171
          },
          {
             "name":"稠稠的濃濃的",
-            "url":"/media/sounds/.mp3_sjAk03x",
+            "url":"/media/sounds/m_fixed_sjAk03x.mp3",
             "id":2172
          },
          {
             "name":"賣屁眼",
-            "url":"/media/sounds/.mp3_L7xIH15",
+            "url":"/media/sounds/m_fixed_L7xIH15.mp3",
             "id":2173
          },
          {
             "name":"轉守為攻",
-            "url":"/media/sounds/.mp3_mjdhnpy",
+            "url":"/media/sounds/m_fixed_mjdhnpy.mp3",
             "id":2174
          },
          {
             "name":"雞雞",
-            "url":"/media/sounds/.mp3_zhsvxNC",
+            "url":"/media/sounds/m_fixed_zhsvxNC.mp3",
             "id":2175
          },
          {
@@ -5952,42 +5952,42 @@ export default [
          },
          {
             "name":"いた",
-            "url":"/media/sounds/.mp3_Vye8noj",
+            "url":"/media/sounds/m_fixed_Vye8noj.mp3",
             "id":2488
          },
          {
             "name":"いたよ",
-            "url":"/media/sounds/.mp3_yBIjlSF",
+            "url":"/media/sounds/m_fixed_yBIjlSF.mp3",
             "id":2489
          },
          {
             "name":"保險套",
-            "url":"/media/sounds/.mp3_kABZfMm",
+            "url":"/media/sounds/m_fixed_kABZfMm.mp3",
             "id":2490
          },
          {
             "name":"嫖妓",
-            "url":"/media/sounds/.mp3_ssG89QE",
+            "url":"/media/sounds/m_fixed_ssG89QE.mp3",
             "id":2491
          },
          {
             "name":"打砲",
-            "url":"/media/sounds/.mp3_LS0DcDT",
+            "url":"/media/sounds/m_fixed_LS0DcDT.mp3",
             "id":2492
          },
          {
             "name":"菊花",
-            "url":"/media/sounds/.mp3_CGhjDi9",
+            "url":"/media/sounds/m_fixed_CGhjDi9.mp3",
             "id":2493
          },
          {
             "name":"頂到了",
-            "url":"/media/sounds/.mp3_GpVtTKX",
+            "url":"/media/sounds/m_fixed_GpVtTKX.mp3",
             "id":2494
          },
          {
             "name":"害羞",
-            "url":"/media/sounds/.mp3_OicRnRR",
+            "url":"/media/sounds/m_fixed_OicRnRR.mp3",
             "id":2614
          },
          {
@@ -5997,32 +5997,32 @@ export default [
          },
          {
             "name":"太色了吧",
-            "url":"/media/sounds/.mp3_1EaWxf1",
+            "url":"/media/sounds/m_fixed_1EaWxf1.mp3",
             "id":2760
          },
          {
             "name":"好色喔",
-            "url":"/media/sounds/.mp3_sqGlAmw",
+            "url":"/media/sounds/m_fixed_sqGlAmw.mp3",
             "id":2761
          },
          {
             "name":"我要進去你體內繁殖了喔",
-            "url":"/media/sounds/.mp3_JGnZgC1",
+            "url":"/media/sounds/m_fixed_JGnZgC1.mp3",
             "id":2762
          },
          {
             "name":"夫妻",
-            "url":"/media/sounds/.mp3_nAcddu9",
+            "url":"/media/sounds/m_fixed_nAcddu9.mp3",
             "id":2763
          },
          {
             "name":"親自下海",
-            "url":"/media/sounds/.mp3_XBQACtj",
+            "url":"/media/sounds/m_fixed_XBQACtj.mp3",
             "id":2765
          },
          {
             "name":"跨下",
-            "url":"/media/sounds/.mp3_Jia1qAb",
+            "url":"/media/sounds/m_fixed_Jia1qAb.mp3",
             "id":2766
          },
          {
@@ -6042,62 +6042,62 @@ export default [
          },
          {
             "name":"不會痛",
-            "url":"/media/sounds/.mp3_KRKES29",
+            "url":"/media/sounds/m_fixed_KRKES29.mp3",
             "id":3013
          },
          {
             "name":"你的屁眼上",
-            "url":"/media/sounds/.mp3_I5yVxkw",
+            "url":"/media/sounds/m_fixed_I5yVxkw.mp3",
             "id":3014
          },
          {
             "name":"原來這個就是啊～",
-            "url":"/media/sounds/.mp3_BpgJrmu",
+            "url":"/media/sounds/m_fixed_BpgJrmu.mp3",
             "id":3015
          },
          {
             "name":"哈哈屁眼派對",
-            "url":"/media/sounds/.mp3_fANITqq",
+            "url":"/media/sounds/m_fixed_fANITqq.mp3",
             "id":3016
          },
          {
             "name":"性感",
-            "url":"/media/sounds/.mp3_cuHFvv0",
+            "url":"/media/sounds/m_fixed_cuHFvv0.mp3",
             "id":3017
          },
          {
             "name":"愛的潮水",
-            "url":"/media/sounds/.mp3_nba1NCV",
+            "url":"/media/sounds/m_fixed_nba1NCV.mp3",
             "id":3018
          },
          {
             "name":"我在胯下喔",
-            "url":"/media/sounds/.mp3_S9EMyST",
+            "url":"/media/sounds/m_fixed_S9EMyST.mp3",
             "id":3019
          },
          {
             "name":"滿出來了",
-            "url":"/media/sounds/.mp3_MfBM1uz",
+            "url":"/media/sounds/m_fixed_MfBM1uz.mp3",
             "id":3020
          },
          {
             "name":"貴圈真亂",
-            "url":"/media/sounds/.mp3_vvL5NBb",
+            "url":"/media/sounds/m_fixed_vvL5NBb.mp3",
             "id":3021
          },
          {
             "name":"飛機杯",
-            "url":"/media/sounds/.mp3_00zvr0L",
+            "url":"/media/sounds/m_fixed_00zvr0L.mp3",
             "id":3022
          },
          {
             "name":"屁眼辦三半了",
-            "url":"/media/sounds/.mp3_BkDnGQK",
+            "url":"/media/sounds/m_fixed_BkDnGQK.mp3",
             "id":3168
          },
          {
             "name":"屁股(台)",
-            "url":"/media/sounds/.mp3_XqEYyFx",
+            "url":"/media/sounds/m_fixed_XqEYyFx.mp3",
             "id":3169
          },
          {
@@ -6107,52 +6107,52 @@ export default [
          },
          {
             "name":"精蟲",
-            "url":"/media/sounds/.mp3_KrS9zq5",
+            "url":"/media/sounds/m_fixed_KrS9zq5.mp3",
             "id":3171
          },
          {
             "name":"你們是變態嗎？",
-            "url":"/media/sounds/.mp3_e8lsCDu",
+            "url":"/media/sounds/m_fixed_e8lsCDu.mp3",
             "id":3410
          },
          {
             "name":"千萬不要以身試屁眼",
-            "url":"/media/sounds/.mp3_0bUKNN8",
+            "url":"/media/sounds/m_fixed_0bUKNN8.mp3",
             "id":3411
          },
          {
             "name":"好朋友，不當嗎？",
-            "url":"/media/sounds/.mp3_en6zC31",
+            "url":"/media/sounds/m_fixed_en6zC31.mp3",
             "id":3413
          },
          {
             "name":"屁眼派對",
-            "url":"/media/sounds/.mp3_mR6Dkxi",
+            "url":"/media/sounds/m_fixed_mR6Dkxi.mp3",
             "id":3414
          },
          {
             "name":"屁眼炸裂",
-            "url":"/media/sounds/.mp3_7oLbVli",
+            "url":"/media/sounds/m_fixed_7oLbVli.mp3",
             "id":3415
          },
          {
             "name":"屁～眼～派～對～",
-            "url":"/media/sounds/.mp3_kq8vWIg",
+            "url":"/media/sounds/m_fixed_kq8vWIg.mp3",
             "id":3416
          },
          {
             "name":"帥哥～",
-            "url":"/media/sounds/.mp3_gJqTzS0",
+            "url":"/media/sounds/m_fixed_gJqTzS0.mp3",
             "id":3417
          },
          {
             "name":"我內心的屁眼快爆發了",
-            "url":"/media/sounds/.mp3_a1uuig0",
+            "url":"/media/sounds/m_fixed_a1uuig0.mp3",
             "id":3418
          },
          {
             "name":"男的更好，不會懷孕",
-            "url":"/media/sounds/.mp3_I3Kyln2",
+            "url":"/media/sounds/m_fixed_I3Kyln2.mp3",
             "id":3419
          },
          {
@@ -6162,22 +6162,22 @@ export default [
          },
          {
             "name":"我在你們後面喔～",
-            "url":"/media/sounds/.mp3_Id4QBMP",
+            "url":"/media/sounds/m_fixed_Id4QBMP.mp3",
             "id":3328
          },
          {
             "name":"看看你們的屁眼安不安全啊～",
-            "url":"/media/sounds/.mp3_1huvu47",
+            "url":"/media/sounds/m_fixed_1huvu47.mp3",
             "id":3348
          },
          {
             "name":"前列腺",
-            "url":"/media/sounds/.mp3_jBg49xH",
+            "url":"/media/sounds/m_fixed_jBg49xH.mp3",
             "id":3535
          },
          {
             "name":"鼓鼓的",
-            "url":"/media/sounds/.mp3_eP51Xhh",
+            "url":"/media/sounds/m_fixed_eP51Xhh.mp3",
             "id":3536
          },
          {
@@ -6282,92 +6282,92 @@ export default [
       "datas":[
          {
             "name":"下去了",
-            "url":"/media/sounds/.mp3_yUHhn23",
+            "url":"/media/sounds/m_fixed_yUHhn23.mp3",
             "id":671
          },
          {
             "name":"不同意的請舉手",
-            "url":"/media/sounds/.mp3_A8AbMhT",
+            "url":"/media/sounds/m_fixed_A8AbMhT.mp3",
             "id":672
          },
          {
             "name":"政治鬥爭",
-            "url":"/media/sounds/.mp3_DxQGQX4",
+            "url":"/media/sounds/m_fixed_DxQGQX4.mp3",
             "id":673
          },
          {
             "name":"鬥",
-            "url":"/media/sounds/.mp3_7IgsVdn",
+            "url":"/media/sounds/m_fixed_7IgsVdn.mp3",
             "id":674
          },
          {
             "name":"誰反對阿？",
-            "url":"/media/sounds/.mp3_gqRwnjt",
+            "url":"/media/sounds/m_fixed_gqRwnjt.mp3",
             "id":675
          },
          {
             "name":"誰贊成？",
-            "url":"/media/sounds/.mp3_gZ1FPgK",
+            "url":"/media/sounds/m_fixed_gZ1FPgK.mp3",
             "id":676
          },
          {
             "name":"不好意思",
-            "url":"/media/sounds/.mp3_tHjsjSN",
+            "url":"/media/sounds/m_fixed_tHjsjSN.mp3",
             "id":985
          },
          {
             "name":"不是",
-            "url":"/media/sounds/.mp3_Z6VHm1x",
+            "url":"/media/sounds/m_fixed_Z6VHm1x.mp3",
             "id":986
          },
          {
             "name":"中你妹啊",
-            "url":"/media/sounds/.mp3_rif7wgH",
+            "url":"/media/sounds/m_fixed_rif7wgH.mp3",
             "id":987
          },
          {
             "name":"中國",
-            "url":"/media/sounds/.mp3_uGkGhdu",
+            "url":"/media/sounds/m_fixed_uGkGhdu.mp3",
             "id":988
          },
          {
             "name":"中華人民共和國",
-            "url":"/media/sounds/.mp3_j1Pjf75",
+            "url":"/media/sounds/m_fixed_j1Pjf75.mp3",
             "id":989
          },
          {
             "name":"中華民國",
-            "url":"/media/sounds/.mp3_x84ZA7B",
+            "url":"/media/sounds/m_fixed_x84ZA7B.mp3",
             "id":990
          },
          {
             "name":"北京",
-            "url":"/media/sounds/.mp3_oqNBVy4",
+            "url":"/media/sounds/m_fixed_oqNBVy4.mp3",
             "id":991
          },
          {
             "name":"台北市",
-            "url":"/media/sounds/.mp3_uqOhnwg",
+            "url":"/media/sounds/m_fixed_uqOhnwg.mp3",
             "id":992
          },
          {
             "name":"台灣",
-            "url":"/media/sounds/.mp3_nfFB65o",
+            "url":"/media/sounds/m_fixed_nfFB65o.mp3",
             "id":993
          },
          {
             "name":"奶子",
-            "url":"/media/sounds/.mp3_wtswqh9",
+            "url":"/media/sounds/m_fixed_wtswqh9.mp3",
             "id":994
          },
          {
             "name":"全部都是",
-            "url":"/media/sounds/.mp3_Ww7DuEw",
+            "url":"/media/sounds/m_fixed_Ww7DuEw.mp3",
             "id":995
          },
          {
             "name":"同鄉",
-            "url":"/media/sounds/.mp3_7jE0eua",
+            "url":"/media/sounds/m_fixed_7jE0eua.mp3",
             "id":996
          },
          {
@@ -6377,17 +6377,17 @@ export default [
          },
          {
             "name":"自己人",
-            "url":"/media/sounds/.mp3_fR3px60",
+            "url":"/media/sounds/m_fixed_fR3px60.mp3",
             "id":998
          },
          {
             "name":"我們有",
-            "url":"/media/sounds/.mp3_myfEXs3",
+            "url":"/media/sounds/m_fixed_myfEXs3.mp3",
             "id":999
          },
          {
             "name":"我送你",
-            "url":"/media/sounds/.mp3_BezCU89",
+            "url":"/media/sounds/m_fixed_BezCU89.mp3",
             "id":1000
          },
          {
@@ -6402,17 +6402,17 @@ export default [
          },
          {
             "name":"咱們的黨",
-            "url":"/media/sounds/.mp3_2QV9gmy",
+            "url":"/media/sounds/m_fixed_2QV9gmy.mp3",
             "id":1003
          },
          {
             "name":"咱們是一家人",
-            "url":"/media/sounds/.mp3_66tNuSU",
+            "url":"/media/sounds/m_fixed_66tNuSU.mp3",
             "id":1004
          },
          {
             "name":"很多的",
-            "url":"/media/sounds/.mp3_VPjR4Yp",
+            "url":"/media/sounds/m_fixed_VPjR4Yp.mp3",
             "id":1005
          },
          {
@@ -6422,77 +6422,77 @@ export default [
          },
          {
             "name":"首都",
-            "url":"/media/sounds/.mp3_yLhVPUg",
+            "url":"/media/sounds/m_fixed_yLhVPUg.mp3",
             "id":1007
          },
          {
             "name":"俺",
-            "url":"/media/sounds/.mp3_qqgckrD",
+            "url":"/media/sounds/m_fixed_qqgckrD.mp3",
             "id":1008
          },
          {
             "name":"祖國",
-            "url":"/media/sounds/.mp3_pLg2Xb6",
+            "url":"/media/sounds/m_fixed_pLg2Xb6.mp3",
             "id":1009
          },
          {
             "name":"常常發生",
-            "url":"/media/sounds/.mp3_eBq5PYV",
+            "url":"/media/sounds/m_fixed_eBq5PYV.mp3",
             "id":1010
          },
          {
             "name":"懂嗎？",
-            "url":"/media/sounds/.mp3_I7ayweQ",
+            "url":"/media/sounds/m_fixed_I7ayweQ.mp3",
             "id":1011
          },
          {
             "name":"五星旗",
-            "url":"/media/sounds/.mp3_hS8SO6u",
+            "url":"/media/sounds/m_fixed_hS8SO6u.mp3",
             "id":1297
          },
          {
             "name":"共產",
-            "url":"/media/sounds/.mp3_O6iZVvj",
+            "url":"/media/sounds/m_fixed_O6iZVvj.mp3",
             "id":1298
          },
          {
             "name":"拉清單",
-            "url":"/media/sounds/.mp3_CZbTdfM",
+            "url":"/media/sounds/m_fixed_CZbTdfM.mp3",
             "id":1299
          },
          {
             "name":"獨裁",
-            "url":"/media/sounds/.mp3_QNVhgPa",
+            "url":"/media/sounds/m_fixed_QNVhgPa.mp3",
             "id":1300
          },
          {
             "name":"一切安全",
-            "url":"/media/sounds/.mp3_XJr7u4V",
+            "url":"/media/sounds/m_fixed_XJr7u4V.mp3",
             "id":1645
          },
          {
             "name":"合法",
-            "url":"/media/sounds/.mp3_yD8UyNG",
+            "url":"/media/sounds/m_fixed_yD8UyNG.mp3",
             "id":1646
          },
          {
             "name":"規範",
-            "url":"/media/sounds/.mp3_3isBHBH",
+            "url":"/media/sounds/m_fixed_3isBHBH.mp3",
             "id":1647
          },
          {
             "name":"共諜",
-            "url":"/media/sounds/.mp3_OwzxTvJ",
+            "url":"/media/sounds/m_fixed_OwzxTvJ.mp3",
             "id":2278
          },
          {
             "name":"我們的黨",
-            "url":"/media/sounds/.mp3_lNETryp",
+            "url":"/media/sounds/m_fixed_lNETryp.mp3",
             "id":2389
          },
          {
             "name":"肅清",
-            "url":"/media/sounds/.mp3_qyH6lkg",
+            "url":"/media/sounds/m_fixed_qyH6lkg.mp3",
             "id":2516
          },
          {
@@ -6502,37 +6502,37 @@ export default [
          },
          {
             "name":"偉大的祖國～",
-            "url":"/media/sounds/.mp3_7EB7aO1",
+            "url":"/media/sounds/m_fixed_7EB7aO1.mp3",
             "id":2898
          },
          {
             "name":"乳滑",
-            "url":"/media/sounds/.mp3_Fa9x1VN",
+            "url":"/media/sounds/m_fixed_Fa9x1VN.mp3",
             "id":3141
          },
          {
             "name":"人生總是要辱一次",
-            "url":"/media/sounds/.mp3_ZOaREaK",
+            "url":"/media/sounds/m_fixed_ZOaREaK.mp3",
             "id":3142
          },
          {
             "name":"同意的代表請舉手",
-            "url":"/media/sounds/.mp3_JXhZ2x4",
+            "url":"/media/sounds/m_fixed_JXhZ2x4.mp3",
             "id":3143
          },
          {
             "name":"為何不現在就辱？",
-            "url":"/media/sounds/.mp3_QYoqin7",
+            "url":"/media/sounds/m_fixed_QYoqin7.mp3",
             "id":3144
          },
          {
             "name":"辱了啦",
-            "url":"/media/sounds/.mp3_0N0agJz",
+            "url":"/media/sounds/m_fixed_0N0agJz.mp3",
             "id":3145
          },
          {
             "name":"辱華",
-            "url":"/media/sounds/.mp3_LuR5Fhz",
+            "url":"/media/sounds/m_fixed_LuR5Fhz.mp3",
             "id":3146
          },
          {
@@ -6547,12 +6547,12 @@ export default [
          },
          {
             "name":"通過",
-            "url":"/media/sounds/.mp3_uNkFqyZ",
+            "url":"/media/sounds/m_fixed_uNkFqyZ.mp3",
             "id":3266
          },
          {
             "name":"沒有",
-            "url":"/media/sounds/_3_NmRecPO.mp3",
+            "url":"/media/sounds/m_fixed_hlncsxu.mp3",
             "id":3267
          },
          {
@@ -6577,22 +6577,22 @@ export default [
       "datas":[
          {
             "name":"はい！はい！すみません！はい！はい！",
-            "url":"/media/sounds/.mp3_AicMvnW",
+            "url":"/media/sounds/m_fixed_AicMvnW.mp3",
             "id":1394
          },
          {
             "name":"失禮啦",
-            "url":"/media/sounds/.mp3_pL5UWgo",
+            "url":"/media/sounds/m_fixed_pL5UWgo.mp3",
             "id":613
          },
          {
             "name":"對不起",
-            "url":"/media/sounds/.mp3_ifNe5gc",
+            "url":"/media/sounds/m_fixed_ifNe5gc.mp3",
             "id":757
          },
          {
             "name":"すみません",
-            "url":"/media/sounds/.mp3_OKhpPSp",
+            "url":"/media/sounds/m_fixed_OKhpPSp.mp3",
             "id":1648
          },
          {
@@ -6602,12 +6602,12 @@ export default [
          },
          {
             "name":"道歉",
-            "url":"/media/sounds/.mp3_N0IRXbp",
+            "url":"/media/sounds/m_fixed_N0IRXbp.mp3",
             "id":1650
          },
          {
             "name":"すみません！",
-            "url":"/media/sounds/.mp3_70q2JJl",
+            "url":"/media/sounds/m_fixed_70q2JJl.mp3",
             "id":2520
          },
          {
@@ -6617,12 +6617,12 @@ export default [
          },
          {
             "name":"對不起啦",
-            "url":"/media/sounds/.mp3_qlyNJMe",
+            "url":"/media/sounds/m_fixed_qlyNJMe.mp3",
             "id":2909
          },
          {
             "name":"我錯了",
-            "url":"/media/sounds/.mp3_D4P8aMu",
+            "url":"/media/sounds/m_fixed_D4P8aMu.mp3",
             "id":2910
          }
       ]
@@ -6632,7 +6632,7 @@ export default [
       "datas":[
          {
             "name":"大意啊我沒有閃",
-            "url":"/media/sounds/.mp3_46M8nub",
+            "url":"/media/sounds/m_fixed_46M8nub.mp3",
             "id":641
          },
          {
@@ -6642,42 +6642,42 @@ export default [
          },
          {
             "name":"我奉勸你們年輕人",
-            "url":"/media/sounds/.mp3_3jjAUo9",
+            "url":"/media/sounds/m_fixed_3jjAUo9.mp3",
             "id":643
          },
          {
             "name":"這個年輕人真是不講武德",
-            "url":"/media/sounds/.mp3_PdQKJh1",
+            "url":"/media/sounds/m_fixed_PdQKJh1.mp3",
             "id":644
          },
          {
             "name":"不講武德啊",
-            "url":"/media/sounds/.mp3_zsc0GnM",
+            "url":"/media/sounds/m_fixed_zsc0GnM.mp3",
             "id":569
          },
          {
             "name":"一鞭",
-            "url":"/media/sounds/.mp3_S3ngdnX",
+            "url":"/media/sounds/m_fixed_S3ngdnX.mp3",
             "id":534
          },
          {
             "name":"二鞭",
-            "url":"/media/sounds/.mp3_4ApgoJb",
+            "url":"/media/sounds/m_fixed_4ApgoJb.mp3",
             "id":535
          },
          {
             "name":"三鞭",
-            "url":"/media/sounds/.mp3_YnmXOEi",
+            "url":"/media/sounds/m_fixed_YnmXOEi.mp3",
             "id":536
          },
          {
             "name":"四鞭",
-            "url":"/media/sounds/.mp3_3gwizmb",
+            "url":"/media/sounds/m_fixed_3gwizmb.mp3",
             "id":537
          },
          {
             "name":"五鞭",
-            "url":"/media/sounds/.mp3_uYwwcNT",
+            "url":"/media/sounds/m_fixed_uYwwcNT.mp3",
             "id":538
          },
          {
@@ -6687,22 +6687,22 @@ export default [
          },
          {
             "name":"閃電五連鞭",
-            "url":"/media/sounds/.mp3_ANair1M",
+            "url":"/media/sounds/m_fixed_ANair1M.mp3",
             "id":507
          },
          {
             "name":"我打一個",
-            "url":"/media/sounds/.mp3_IMjxpBS",
+            "url":"/media/sounds/m_fixed_IMjxpBS.mp3",
             "id":510
          },
          {
             "name":"你們年輕人就是不講武德",
-            "url":"/media/sounds/.mp3_xpUtvMt",
+            "url":"/media/sounds/m_fixed_xpUtvMt.mp3",
             "id":543
          },
          {
             "name":"好知為知",
-            "url":"/media/sounds/.mp3_llcFJNR",
+            "url":"/media/sounds/m_fixed_llcFJNR.mp3",
             "id":540
          },
          {
@@ -6712,27 +6712,27 @@ export default [
          },
          {
             "name":"偷襲",
-            "url":"/media/sounds/.mp3_kopdWbG",
+            "url":"/media/sounds/m_fixed_kopdWbG.mp3",
             "id":584
          },
          {
             "name":"年紀輕輕的小夥子",
-            "url":"/media/sounds/.mp3_izc4zCT",
+            "url":"/media/sounds/m_fixed_izc4zCT.mp3",
             "id":576
          },
          {
             "name":"你們幾個年輕人",
-            "url":"/media/sounds/.mp3_jghDD4A",
+            "url":"/media/sounds/m_fixed_jghDD4A.mp3",
             "id":577
          }
-      ],
+      ]
    },
    {
       "name":"你是我的屁眼",
       "datas":[
          {
             "name":"你是我的屁眼～",
-            "url":"/media/sounds/.mp3_YlLzldc",
+            "url":"/media/sounds/m_fixed_YlLzldc.mp3",
             "id":100
          },
          {
@@ -6742,37 +6742,37 @@ export default [
          },
          {
             "name":"帶我穿越右拳的直腸",
-            "url":"/media/sounds/.mp3_9ceA49V",
+            "url":"/media/sounds/m_fixed_9ceA49V.mp3",
             "id":491
          },
          {
             "name":"帶我領略四季的建祥",
-            "url":"/media/sounds/.mp3_u28yOko",
+            "url":"/media/sounds/m_fixed_u28yOko.mp3",
             "id":492
          },
          {
             "name":"你是我的雞眼",
-            "url":"/media/sounds/.mp3_aqfbWSr",
+            "url":"/media/sounds/m_fixed_aqfbWSr.mp3",
             "id":596
          },
          {
             "name":"讓我看見春哥的",
-            "url":"/media/sounds/.mp3_BSVQcGE",
+            "url":"/media/sounds/m_fixed_BSVQcGE.mp3",
             "id":597
          }
-      ],
+      ]
    },
    {
       "name":"吉娃娃",
       "datas":[
          {
             "name":"右拳右～拳",
-            "url":"/media/sounds/.mp3_irhfRCL",
+            "url":"/media/sounds/m_fixed_irhfRCL.mp3",
             "id":939
          },
          {
             "name":"吉娃娃",
-            "url":"/media/sounds/.mp3_lyue242",
+            "url":"/media/sounds/m_fixed_lyue242.mp3",
             "id":940
          },
          {
@@ -6782,12 +6782,12 @@ export default [
          },
          {
             "name":"吉娃娃娃",
-            "url":"/media/sounds/.mp3_QUkPEel",
+            "url":"/media/sounds/m_fixed_QUkPEel.mp3",
             "id":942
          },
          {
             "name":"我們來去找右拳",
-            "url":"/media/sounds/.mp3_b8HiVd5",
+            "url":"/media/sounds/m_fixed_b8HiVd5.mp3",
             "id":943
          },
          {
@@ -6797,52 +6797,52 @@ export default [
          },
          {
             "name":"豎起來～",
-            "url":"/media/sounds/.mp3_ooAbmpE",
+            "url":"/media/sounds/m_fixed_ooAbmpE.mp3",
             "id":945
          }
-      ],
+      ]
    },
    {
       "name":"臭",
       "datas":[
          {
             "name":"好臭啊",
-            "url":"/media/sounds/.mp3_3wkcs4t",
+            "url":"/media/sounds/m_fixed_3wkcs4t.mp3",
             "id":1112
          },
          {
             "name":"我要放屁囉～",
-            "url":"/media/sounds/.mp3_kHbune3",
+            "url":"/media/sounds/m_fixed_kHbune3.mp3",
             "id":1113
          },
          {
             "name":"臭臭",
-            "url":"/media/sounds/.mp3_5qwqMB8",
+            "url":"/media/sounds/m_fixed_5qwqMB8.mp3",
             "id":1114
          },
          {
             "name":"臭臭花",
-            "url":"/media/sounds/.mp3_wtkBfy9",
+            "url":"/media/sounds/m_fixed_wtkBfy9.mp3",
             "id":529
          },
          {
             "name":"畢竟本人就很臭",
-            "url":"/media/sounds/.mp3_vnNZtdC",
+            "url":"/media/sounds/m_fixed_vnNZtdC.mp3",
             "id":472
          },
          {
             "name":"他的灰有點臭",
-            "url":"/media/sounds/.mp3_93fNFe9",
+            "url":"/media/sounds/m_fixed_93fNFe9.mp3",
             "id":469
          },
          {
             "name":"臭味撲鼻",
-            "url":"/media/sounds/.mp3_xjz04XI",
+            "url":"/media/sounds/m_fixed_xjz04XI.mp3",
             "id":528
          },
          {
             "name":"怎麼那麼臭啊？",
-            "url":"/media/sounds/.mp3_Bk1XvKF",
+            "url":"/media/sounds/m_fixed_Bk1XvKF.mp3",
             "id":197
          },
          {
@@ -6852,17 +6852,17 @@ export default [
          },
          {
             "name":"平常做人這麼臭",
-            "url":"/media/sounds/.mp3_kQRf2jM",
+            "url":"/media/sounds/m_fixed_kQRf2jM.mp3",
             "id":1303
          },
          {
             "name":"怎麼那麼臭的聲音啊？",
-            "url":"/media/sounds/.mp3_lCA4bU7",
+            "url":"/media/sounds/m_fixed_lCA4bU7.mp3",
             "id":2196
          },
          {
             "name":"臭",
-            "url":"/media/sounds/.mp3_F5K9PZa",
+            "url":"/media/sounds/m_fixed_F5K9PZa.mp3",
             "id":2197
          }
       ]
@@ -6872,22 +6872,22 @@ export default [
       "datas":[
          {
             "name":"上知天文",
-            "url":"/media/sounds/.mp3_QtSnsWI",
+            "url":"/media/sounds/m_fixed_QtSnsWI.mp3",
             "id":1208
          },
          {
             "name":"下知地理",
-            "url":"/media/sounds/.mp3_K2GGI52",
+            "url":"/media/sounds/m_fixed_K2GGI52.mp3",
             "id":1209
          },
          {
             "name":"後知屁眼",
-            "url":"/media/sounds/.mp3_p1AIy32",
+            "url":"/media/sounds/m_fixed_p1AIy32.mp3",
             "id":1210
          },
          {
             "name":"前知皮卡屁",
-            "url":"/media/sounds/.mp3_8jwnSZi",
+            "url":"/media/sounds/m_fixed_8jwnSZi.mp3",
             "id":1211
          }
       ]
@@ -6897,67 +6897,67 @@ export default [
       "datas":[
          {
             "name":"代代做大官沒(台)",
-            "url":"/media/sounds/.mp3_ErOrpHv",
+            "url":"/media/sounds/m_fixed_ErOrpHv.mp3",
             "id":1384
          },
          {
             "name":"吃一口(台)",
-            "url":"/media/sounds/.mp3_iJW5flw",
+            "url":"/media/sounds/m_fixed_iJW5flw.mp3",
             "id":1385
          },
          {
             "name":"有吃有大富大貴沒(台)",
-            "url":"/media/sounds/.mp3_oDeOo6V",
+            "url":"/media/sounds/m_fixed_oDeOo6V.mp3",
             "id":1386
          },
          {
             "name":"有沒(台)",
-            "url":"/media/sounds/.mp3_k6YHW0m",
+            "url":"/media/sounds/m_fixed_k6YHW0m.mp3",
             "id":1387
          },
          {
             "name":"有喔～(台)",
-            "url":"/media/sounds/.mp3_w0jwiBi",
+            "url":"/media/sounds/m_fixed_w0jwiBi.mp3",
             "id":1388
          },
          {
             "name":"皮卡屁保證你世世代代",
-            "url":"/media/sounds/.mp3_vu0tuG0",
+            "url":"/media/sounds/m_fixed_vu0tuG0.mp3",
             "id":2187
          },
          {
             "name":"吃下去",
-            "url":"/media/sounds/.mp3_5XFB2Xt",
+            "url":"/media/sounds/m_fixed_5XFB2Xt.mp3",
             "id":2188
          },
          {
             "name":"吃下去右拳當你的家人",
-            "url":"/media/sounds/.mp3_Y1Batqo",
+            "url":"/media/sounds/m_fixed_Y1Batqo.mp3",
             "id":2189
          },
          {
             "name":"吃第三口(台)",
-            "url":"/media/sounds/.mp3_5OhQ6cu",
+            "url":"/media/sounds/m_fixed_5OhQ6cu.mp3",
             "id":2190
          },
          {
             "name":"第二口",
-            "url":"/media/sounds/.mp3_OqoPltk",
+            "url":"/media/sounds/m_fixed_OqoPltk.mp3",
             "id":2191
          },
          {
             "name":"吃有保佑沒(台)",
-            "url":"/media/sounds/.mp3_LaIb3b2",
+            "url":"/media/sounds/m_fixed_LaIb3b2.mp3",
             "id":2192
          },
          {
             "name":"吃下去賺大錢喔(台)",
-            "url":"/media/sounds/.mp3_rKHKKta",
+            "url":"/media/sounds/m_fixed_rKHKKta.mp3",
             "id":2510
          },
          {
             "name":"有吃有保佑喔(台)",
-            "url":"/media/sounds/.mp3_PFB6qT4",
+            "url":"/media/sounds/m_fixed_PFB6qT4.mp3",
             "id":2511
          },
          {
@@ -6967,32 +6967,32 @@ export default [
          },
          {
             "name":"來啊來",
-            "url":"/media/sounds/.mp3_9m1F4G5",
+            "url":"/media/sounds/m_fixed_9m1F4G5.mp3",
             "id":3253
          },
          {
             "name":"吃(台)",
-            "url":"/media/sounds/.mp3_Gpf1iLb",
+            "url":"/media/sounds/m_fixed_Gpf1iLb.mp3",
             "id":3254
          },
          {
             "name":"吃下去代代做大官沒(台)",
-            "url":"/media/sounds/.mp3_1nvycB1",
+            "url":"/media/sounds/m_fixed_1nvycB1.mp3",
             "id":3255
          },
          {
             "name":"吃下去有保佑沒？(台)",
-            "url":"/media/sounds/.mp3_Muw8zEA",
+            "url":"/media/sounds/m_fixed_Muw8zEA.mp3",
             "id":3256
          },
          {
             "name":"吃第二口",
-            "url":"/media/sounds/.mp3_8GpPk2z",
+            "url":"/media/sounds/m_fixed_8GpPk2z.mp3",
             "id":3257
          },
          {
             "name":"囉～",
-            "url":"/media/sounds/.mp3_AiQH5cv",
+            "url":"/media/sounds/m_fixed_AiQH5cv.mp3",
             "id":3258
          },
          {
@@ -7007,27 +7007,27 @@ export default [
          },
          {
             "name":"升官發財代代賺大錢沒(台)",
-            "url":"/media/sounds/.mp3_rgNbmpv",
+            "url":"/media/sounds/m_fixed_rgNbmpv.mp3",
             "id":3403
          },
          {
             "name":"吃下去晚上好睡夢(台)",
-            "url":"/media/sounds/.mp3_qs7tWhy",
+            "url":"/media/sounds/m_fixed_qs7tWhy.mp3",
             "id":3404
          },
          {
             "name":"吃下去有代代呼狗幹沒(台)",
-            "url":"/media/sounds/.mp3_yMHyiWn",
+            "url":"/media/sounds/m_fixed_yMHyiWn.mp3",
             "id":3405
          },
          {
             "name":"有吃有保佑沒？(台)",
-            "url":"/media/sounds/.mp3_OvCl6ne",
+            "url":"/media/sounds/m_fixed_OvCl6ne.mp3",
             "id":3406
          },
          {
             "name":"讓你代代都在幹(台)",
-            "url":"/media/sounds/.mp3_ReGjso2",
+            "url":"/media/sounds/m_fixed_ReGjso2.mp3",
             "id":3407
          },
          {
@@ -7047,7 +7047,7 @@ export default [
       "datas":[
          {
             "name":"祝你生日被幹",
-            "url":"/media/sounds/.mp3_8Uxiwdc",
+            "url":"/media/sounds/m_fixed_8Uxiwdc.mp3",
             "id":1511
          },
          {
@@ -7062,7 +7062,7 @@ export default [
          },
          {
             "name":"祝你在生日路上遇到右拳",
-            "url":"/media/sounds/.mp3_IZ99VcW",
+            "url":"/media/sounds/m_fixed_IZ99VcW.mp3",
             "id":1514
          }
       ]
@@ -7072,37 +7072,37 @@ export default [
       "datas":[
          {
             "name":"右拳寶寶",
-            "url":"/media/sounds/.mp3_7gGcIuS",
+            "url":"/media/sounds/m_fixed_7gGcIuS.mp3",
             "id":1651
          },
          {
             "name":"右拳寶寶～",
-            "url":"/media/sounds/.mp3_QmD9pUf",
+            "url":"/media/sounds/m_fixed_QmD9pUf.mp3",
             "id":1652
          },
          {
             "name":"正。義。好。",
-            "url":"/media/sounds/.mp3_If1scYO",
+            "url":"/media/sounds/m_fixed_If1scYO.mp3",
             "id":1653
          },
          {
             "name":"正義好～",
-            "url":"/media/sounds/.mp3_MPMOWyE",
+            "url":"/media/sounds/m_fixed_MPMOWyE.mp3",
             "id":1654
          },
          {
             "name":"拉拉",
-            "url":"/media/sounds/.mp3_jZeFDoe",
+            "url":"/media/sounds/m_fixed_jZeFDoe.mp3",
             "id":1655
          },
          {
             "name":"迪西",
-            "url":"/media/sounds/.mp3_rYXhdq1",
+            "url":"/media/sounds/m_fixed_rYXhdq1.mp3",
             "id":1656
          },
          {
             "name":"你好～",
-            "url":"/media/sounds/.mp3_VlWFUeb",
+            "url":"/media/sounds/m_fixed_VlWFUeb.mp3",
             "id":2877
          },
          {
@@ -7117,37 +7117,37 @@ export default [
          },
          {
             "name":"說。你。好。",
-            "url":"/media/sounds/.mp3_9ZjaNPR",
+            "url":"/media/sounds/m_fixed_9ZjaNPR.mp3",
             "id":2880
          },
          {
             "name":"右拳大大，左拳細細",
-            "url":"/media/sounds/.mp3_1G2X8nI",
+            "url":"/media/sounds/m_fixed_1G2X8nI.mp3",
             "id":3235
          },
          {
             "name":"是誰住在深海大鳳梨裡？",
-            "url":"/media/sounds/.mp3_jYPQ9bU",
+            "url":"/media/sounds/m_fixed_jYPQ9bU.mp3",
             "id":3236
          },
          {
             "name":"有個建祥烤布蕾",
-            "url":"/media/sounds/.mp3_9Vj3JAD",
+            "url":"/media/sounds/m_fixed_9Vj3JAD.mp3",
             "id":3237
          },
          {
             "name":"歐～",
-            "url":"/media/sounds/.mp3_YbveWuv",
+            "url":"/media/sounds/m_fixed_YbveWuv.mp3",
             "id":3238
          },
          {
             "name":"肛。肛。好。",
-            "url":"/media/sounds/.mp3_YjfrpC5",
+            "url":"/media/sounds/m_fixed_YjfrpC5.mp3",
             "id":3239
          },
          {
             "name":"肛肛好～",
-            "url":"/media/sounds/.mp3_xujni9S",
+            "url":"/media/sounds/m_fixed_xujni9S.mp3",
             "id":3240
          },
          {
@@ -7162,7 +7162,7 @@ export default [
          },
          {
             "name":"兆元寶寶",
-            "url":"/media/sounds/.mp3_QTwxJrM",
+            "url":"/media/sounds/m_fixed_QTwxJrM.mp3",
             "id":3436
          },
          {
@@ -7202,82 +7202,82 @@ export default [
          },
          {
             "name":"三十塊",
-            "url":"/media/sounds/.mp3_QGiK44J",
+            "url":"/media/sounds/m_fixed_QGiK44J.mp3",
             "id":463
          },
          {
             "name":"八千塊",
-            "url":"/media/sounds/.mp3_ftC8h4k",
+            "url":"/media/sounds/m_fixed_ftC8h4k.mp3",
             "id":567
          },
          {
             "name":"三千塊",
-            "url":"/media/sounds/.mp3_IiMA7ns",
+            "url":"/media/sounds/m_fixed_IiMA7ns.mp3",
             "id":568
          },
          {
             "name":"六千塊",
-            "url":"/media/sounds/.mp3_WLeEzdd",
+            "url":"/media/sounds/m_fixed_WLeEzdd.mp3",
             "id":570
          },
          {
             "name":"一百塊",
-            "url":"/media/sounds/.mp3_YMRwMIR",
+            "url":"/media/sounds/m_fixed_YMRwMIR.mp3",
             "id":959
          },
          {
             "name":"三十五塊",
-            "url":"/media/sounds/.mp3_rHctmOg",
+            "url":"/media/sounds/m_fixed_rHctmOg.mp3",
             "id":459
          },
          {
             "name":"三百塊",
-            "url":"/media/sounds/.mp3_pFTJkxN",
+            "url":"/media/sounds/m_fixed_pFTJkxN.mp3",
             "id":461
          },
          {
             "name":"三",
-            "url":"/media/sounds/.mp3_28PrbT0",
+            "url":"/media/sounds/m_fixed_28PrbT0.mp3",
             "id":1796
          },
          {
             "name":"五十",
-            "url":"/media/sounds/.mp3_cC68uCp",
+            "url":"/media/sounds/m_fixed_cC68uCp.mp3",
             "id":1797
          },
          {
             "name":"六",
-            "url":"/media/sounds/.mp3_dKEgD7E",
+            "url":"/media/sounds/m_fixed_dKEgD7E.mp3",
             "id":1798
          },
          {
             "name":"百",
-            "url":"/media/sounds/.mp3_5RjLwwY",
+            "url":"/media/sounds/m_fixed_5RjLwwY.mp3",
             "id":1799
          },
          {
             "name":"一",
-            "url":"/media/sounds/.mp3_uZQEK4q",
+            "url":"/media/sounds/m_fixed_uZQEK4q.mp3",
             "id":1987
          },
          {
             "name":"七",
-            "url":"/media/sounds/.mp3_obB21KD",
+            "url":"/media/sounds/m_fixed_obB21KD.mp3",
             "id":1988
          },
          {
             "name":"九",
-            "url":"/media/sounds/.mp3_FLMhMO4",
+            "url":"/media/sounds/m_fixed_FLMhMO4.mp3",
             "id":1989
          },
          {
             "name":"二",
-            "url":"/media/sounds/.mp3_NEW3R3i",
+            "url":"/media/sounds/m_fixed_NEW3R3i.mp3",
             "id":1990
          },
          {
             "name":"十",
-            "url":"/media/sounds/.mp3_v1RaMXX",
+            "url":"/media/sounds/m_fixed_v1RaMXX.mp3",
             "id":1991
          },
          {
@@ -7287,7 +7287,7 @@ export default [
          },
          {
             "name":"零",
-            "url":"/media/sounds/.mp3_6hetbIB",
+            "url":"/media/sounds/m_fixed_6hetbIB.mp3",
             "id":1993
          },
          {
@@ -7297,7 +7297,7 @@ export default [
          },
          {
             "name":"八",
-            "url":"/media/sounds/.mp3_ceIXWwE",
+            "url":"/media/sounds/m_fixed_ceIXWwE.mp3",
             "id":2912
          },
          {
@@ -7442,32 +7442,32 @@ export default [
       "datas":[
          {
             "name":"開山刀",
-            "url":"/media/sounds/.mp3_pJixGh2",
+            "url":"/media/sounds/m_fixed_pJixGh2.mp3",
             "id":1085
          },
          {
             "name":"日月輪刀",
-            "url":"/media/sounds/.mp3_O0LFYVb",
+            "url":"/media/sounds/m_fixed_O0LFYVb.mp3",
             "id":1670
          },
          {
             "name":"球棒",
-            "url":"/media/sounds/.mp3_dabUQw7",
+            "url":"/media/sounds/m_fixed_dabUQw7.mp3",
             "id":2518
          },
          {
             "name":"攪屎棍",
-            "url":"/media/sounds/.mp3_ekBlncg",
+            "url":"/media/sounds/m_fixed_ekBlncg.mp3",
             "id":2901
          },
          {
             "name":"散彈槍",
-            "url":"/media/sounds/.mp3_qaBbXmz",
+            "url":"/media/sounds/m_fixed_qaBbXmz.mp3",
             "id":2902
          },
          {
             "name":"嘴砲",
-            "url":"/media/sounds/.mp3_tOkOCbc",
+            "url":"/media/sounds/m_fixed_tOkOCbc.mp3",
             "id":1775
          },
          {
@@ -7487,247 +7487,247 @@ export default [
       "datas":[
          {
             "name":"木瓜",
-            "url":"/media/sounds/.mp3_cmpbnqu",
+            "url":"/media/sounds/m_fixed_cmpbnqu.mp3",
             "id":1402
          },
          {
             "name":"牛奶",
-            "url":"/media/sounds/.mp3_6FFxIX8",
+            "url":"/media/sounds/m_fixed_6FFxIX8.mp3",
             "id":1403
          },
          {
             "name":"奶茶",
-            "url":"/media/sounds/.mp3_K4wE1rV",
+            "url":"/media/sounds/m_fixed_K4wE1rV.mp3",
             "id":1409
          },
          {
             "name":"冰淇淋",
-            "url":"/media/sounds/.mp3_xsphCp0",
+            "url":"/media/sounds/m_fixed_xsphCp0.mp3",
             "id":1411
          },
          {
             "name":"咖啡",
-            "url":"/media/sounds/.mp3_MbIJiNA",
+            "url":"/media/sounds/m_fixed_MbIJiNA.mp3",
             "id":1432
          },
          {
             "name":"香瓜",
-            "url":"/media/sounds/.mp3_BkaZp05",
+            "url":"/media/sounds/m_fixed_BkaZp05.mp3",
             "id":1441
          },
          {
             "name":"香蕉",
-            "url":"/media/sounds/.mp3_hG02VPk",
+            "url":"/media/sounds/m_fixed_hG02VPk.mp3",
             "id":1442
          },
          {
             "name":"馬鈴薯",
-            "url":"/media/sounds/.mp3_XvUETfI",
+            "url":"/media/sounds/m_fixed_XvUETfI.mp3",
             "id":1446
          },
          {
             "name":"甜甜圈",
-            "url":"/media/sounds/.mp3_Go5RhAx",
+            "url":"/media/sounds/m_fixed_Go5RhAx.mp3",
             "id":1448
          },
          {
             "name":"統一布丁",
-            "url":"/media/sounds/.mp3_Lz91R8J",
+            "url":"/media/sounds/m_fixed_Lz91R8J.mp3",
             "id":1449
          },
          {
             "name":"聖代",
-            "url":"/media/sounds/.mp3_LwkBDR4",
+            "url":"/media/sounds/m_fixed_LwkBDR4.mp3",
             "id":1455
          },
          {
             "name":"熱水",
-            "url":"/media/sounds/.mp3_qtL7CNl",
+            "url":"/media/sounds/m_fixed_qtL7CNl.mp3",
             "id":1460
          },
          {
             "name":"雞蛋",
-            "url":"/media/sounds/.mp3_FZ1teCt",
+            "url":"/media/sounds/m_fixed_FZ1teCt.mp3",
             "id":1465
          },
          {
             "name":"水蜜桃",
-            "url":"/media/sounds/.mp3_OSS7bvz",
+            "url":"/media/sounds/m_fixed_OSS7bvz.mp3",
             "id":460
          },
          {
             "name":"芭樂",
-            "url":"/media/sounds/.mp3_YzwyywO",
+            "url":"/media/sounds/m_fixed_YzwyywO.mp3",
             "id":462
          },
          {
             "name":"水果冰淇淋",
-            "url":"/media/sounds/.mp3_DeVmFm4",
+            "url":"/media/sounds/m_fixed_DeVmFm4.mp3",
             "id":1468
          },
          {
             "name":"烤布蕾",
-            "url":"/media/sounds/.mp3_YXS3lWQ",
+            "url":"/media/sounds/m_fixed_YXS3lWQ.mp3",
             "id":976
          },
          {
             "name":"皮蛋瘦肉粥",
-            "url":"/media/sounds/.mp3_bYLIa5g",
+            "url":"/media/sounds/m_fixed_bYLIa5g.mp3",
             "id":2386
          },
          {
             "name":"豬腳",
-            "url":"/media/sounds/.mp3_KuOE6Ed",
+            "url":"/media/sounds/m_fixed_KuOE6Ed.mp3",
             "id":2387
          },
          {
             "name":"麵線",
-            "url":"/media/sounds/.mp3_PCsAlRG",
+            "url":"/media/sounds/m_fixed_PCsAlRG.mp3",
             "id":2388
          },
          {
             "name":"中部粽",
-            "url":"/media/sounds/.mp3_Ho9yYwQ",
+            "url":"/media/sounds/m_fixed_Ho9yYwQ.mp3",
             "id":2504
          },
          {
             "name":"優格",
-            "url":"/media/sounds/.mp3_7qcihkx",
+            "url":"/media/sounds/m_fixed_7qcihkx.mp3",
             "id":2505
          },
          {
             "name":"粽子",
-            "url":"/media/sounds/.mp3_wNqTJvz",
+            "url":"/media/sounds/m_fixed_wNqTJvz.mp3",
             "id":2506
          },
          {
             "name":"肉粽",
-            "url":"/media/sounds/.mp3_U5GBwDp",
+            "url":"/media/sounds/m_fixed_U5GBwDp.mp3",
             "id":2507
          },
          {
             "name":"麵包",
-            "url":"/media/sounds/.mp3_iH5IMf1",
+            "url":"/media/sounds/m_fixed_iH5IMf1.mp3",
             "id":2767
          },
          {
             "name":"栗子",
-            "url":"/media/sounds/.mp3_ynYkb0p",
+            "url":"/media/sounds/m_fixed_ynYkb0p.mp3",
             "id":2903
          },
          {
             "name":"蘿蔔乾",
-            "url":"/media/sounds/.mp3_ceGB2jh",
+            "url":"/media/sounds/m_fixed_ceGB2jh.mp3",
             "id":2904
          },
          {
             "name":"薯條",
-            "url":"/media/sounds/.mp3_3Jss7nP",
+            "url":"/media/sounds/m_fixed_3Jss7nP.mp3",
             "id":3175
          },
          {
             "name":"薯餅",
-            "url":"/media/sounds/.mp3_gr4uX93",
+            "url":"/media/sounds/m_fixed_gr4uX93.mp3",
             "id":3176
          },
          {
             "name":"漢堡",
-            "url":"/media/sounds/.mp3_OFk28UN",
+            "url":"/media/sounds/m_fixed_OFk28UN.mp3",
             "id":3248
          },
          {
             "name":"火龍果",
-            "url":"/media/sounds/.mp3_rn8tgOK",
+            "url":"/media/sounds/m_fixed_rn8tgOK.mp3",
             "id":3249
          },
          {
             "name":"美味蟹堡",
-            "url":"/media/sounds/.mp3_sbS12Eq",
+            "url":"/media/sounds/m_fixed_sbS12Eq.mp3",
             "id":3250
          },
          {
             "name":"貢丸",
-            "url":"/media/sounds/.mp3_6aGGN1i",
+            "url":"/media/sounds/m_fixed_6aGGN1i.mp3",
             "id":3251
          },
          {
             "name":"酸黃瓜",
-            "url":"/media/sounds/.mp3_4Ir42nN",
+            "url":"/media/sounds/m_fixed_4Ir42nN.mp3",
             "id":3252
          },
          {
             "name":"千層蛋糕",
-            "url":"/media/sounds/.mp3_aD03giC",
+            "url":"/media/sounds/m_fixed_aD03giC.mp3",
             "id":3388
          },
          {
             "name":"海鮮",
-            "url":"/media/sounds/.mp3_UoNOodP",
+            "url":"/media/sounds/m_fixed_UoNOodP.mp3",
             "id":3390
          },
          {
             "name":"湯",
-            "url":"/media/sounds/.mp3_orCsVND",
+            "url":"/media/sounds/m_fixed_orCsVND.mp3",
             "id":3391
          },
          {
             "name":"滷肉飯",
-            "url":"/media/sounds/.mp3_S6EJBo0",
+            "url":"/media/sounds/m_fixed_S6EJBo0.mp3",
             "id":3392
          },
          {
             "name":"火鍋",
-            "url":"/media/sounds/.mp3_v9yXF4N",
+            "url":"/media/sounds/m_fixed_v9yXF4N.mp3",
             "id":3393
          },
          {
             "name":"芋頭",
-            "url":"/media/sounds/.mp3_NkSKIyi",
+            "url":"/media/sounds/m_fixed_NkSKIyi.mp3",
             "id":3395
          },
          {
             "name":"蛋餅～",
-            "url":"/media/sounds/.mp3_anFwIXc",
+            "url":"/media/sounds/m_fixed_anFwIXc.mp3",
             "id":3396
          },
          {
             "name":"蛤蜊",
-            "url":"/media/sounds/.mp3_wYDnFPY",
+            "url":"/media/sounds/m_fixed_wYDnFPY.mp3",
             "id":3397
          },
          {
             "name":"蝦仁",
-            "url":"/media/sounds/.mp3_QKucg5K",
+            "url":"/media/sounds/m_fixed_QKucg5K.mp3",
             "id":3398
          },
          {
             "name":"青菜",
-            "url":"/media/sounds/.mp3_u1nONGZ",
+            "url":"/media/sounds/m_fixed_u1nONGZ.mp3",
             "id":3399
          },
          {
             "name":"青蔥",
-            "url":"/media/sounds/.mp3_9iCfloA",
+            "url":"/media/sounds/m_fixed_9iCfloA.mp3",
             "id":3400
          },
          {
             "name":"魷魚",
-            "url":"/media/sounds/.mp3_5AQN4Aa",
+            "url":"/media/sounds/m_fixed_5AQN4Aa.mp3",
             "id":3401
          },
          {
             "name":"麵",
-            "url":"/media/sounds/.mp3_HyMBmAM",
+            "url":"/media/sounds/m_fixed_HyMBmAM.mp3",
             "id":3402
          },
          {
             "name":"蒟蒻",
-            "url":"/media/sounds/.mp3_y6gNjiN",
+            "url":"/media/sounds/m_fixed_y6gNjiN.mp3",
             "id":3533
          },
          {
             "name":"飯糰",
-            "url":"/media/sounds/.mp3_0zKTbMM",
+            "url":"/media/sounds/m_fixed_0zKTbMM.mp3",
             "id":3534
          },
          {
@@ -7887,22 +7887,22 @@ export default [
       "datas":[
          {
             "name":"樂器店",
-            "url":"/media/sounds/.mp3_5lHYCgR",
+            "url":"/media/sounds/m_fixed_5lHYCgR.mp3",
             "id":1160
          },
          {
             "name":"小提琴",
-            "url":"/media/sounds/.mp3_QOIwHFQ",
+            "url":"/media/sounds/m_fixed_QOIwHFQ.mp3",
             "id":1668
          },
          {
             "name":"吉他",
-            "url":"/media/sounds/.mp3_FKQ3Nfc",
+            "url":"/media/sounds/m_fixed_FKQ3Nfc.mp3",
             "id":1669
          },
          {
             "name":"電吉他",
-            "url":"/media/sounds/.mp3_NBeOd0C",
+            "url":"/media/sounds/m_fixed_NBeOd0C.mp3",
             "id":2521
          },
          {
@@ -7922,7 +7922,7 @@ export default [
          },
          {
             "name":"奶子～",
-            "url":"/media/sounds/.mp3_OCIJnAO",
+            "url":"/media/sounds/m_fixed_OCIJnAO.mp3",
             "id":1665
          },
          {
@@ -7932,7 +7932,7 @@ export default [
          },
          {
             "name":"我願意生追隨你",
-            "url":"/media/sounds/.mp3_tvy0FPQ",
+            "url":"/media/sounds/m_fixed_tvy0FPQ.mp3",
             "id":1667
          }
       ]
@@ -7942,17 +7942,17 @@ export default [
       "datas":[
          {
             "name":"阿彌陀佛",
-            "url":"/media/sounds/.mp3_RNTotDi",
+            "url":"/media/sounds/m_fixed_RNTotDi.mp3",
             "id":508
          },
          {
             "name":"佛說八大人覺經",
-            "url":"/media/sounds/.mp3_Nh5s5nL",
+            "url":"/media/sounds/m_fixed_Nh5s5nL.mp3",
             "id":513
          },
          {
             "name":"為佛弟子，常見建祥",
-            "url":"/media/sounds/.mp3_lsrpYTD",
+            "url":"/media/sounds/m_fixed_lsrpYTD.mp3",
             "id":514
          },
          {
@@ -7962,17 +7962,17 @@ export default [
          },
          {
             "name":"請至南天宮報到",
-            "url":"/media/sounds/.mp3_cmeIU90",
+            "url":"/media/sounds/m_fixed_cmeIU90.mp3",
             "id":516
          },
          {
             "name":"色即是空",
-            "url":"/media/sounds/.mp3_lYX1DiP",
+            "url":"/media/sounds/m_fixed_lYX1DiP.mp3",
             "id":1675
          },
          {
             "name":"空即是色",
-            "url":"/media/sounds/.mp3_oApRNYi",
+            "url":"/media/sounds/m_fixed_oApRNYi.mp3",
             "id":1676
          }
       ]
@@ -7982,57 +7982,57 @@ export default [
       "datas":[
          {
             "name":"竜神の剣を喰らえ",
-            "url":"/media/sounds/.mp3_RycAE5s",
+            "url":"/media/sounds/m_fixed_RycAE5s.mp3",
             "id":1314
          },
          {
             "name":"星爆氣流斬",
-            "url":"/media/sounds/.mp3_ohl88Jm",
+            "url":"/media/sounds/m_fixed_ohl88Jm.mp3",
             "id":1340
          },
          {
             "name":"槍在手",
-            "url":"/media/sounds/.mp3_ZohjlYN",
+            "url":"/media/sounds/m_fixed_ZohjlYN.mp3",
             "id":1458
          },
          {
             "name":"跟我走",
-            "url":"/media/sounds/.mp3_9oxhZxW",
+            "url":"/media/sounds/m_fixed_9oxhZxW.mp3",
             "id":1456
          },
          {
             "name":"子彈",
-            "url":"/media/sounds/.mp3_eNctwcH",
+            "url":"/media/sounds/m_fixed_eNctwcH.mp3",
             "id":1671
          },
          {
             "name":"伸縮自如",
-            "url":"/media/sounds/.mp3_QgxMTER",
+            "url":"/media/sounds/m_fixed_QgxMTER.mp3",
             "id":1672
          },
          {
             "name":"橡膠",
-            "url":"/media/sounds/.mp3_F0on2xC",
+            "url":"/media/sounds/m_fixed_F0on2xC.mp3",
             "id":1673
          },
          {
             "name":"燒～肉～粽～",
-            "url":"/media/sounds/.mp3_aJ9KYzT",
+            "url":"/media/sounds/m_fixed_aJ9KYzT.mp3",
             "id":1674
          },
          {
             "name":"量子糾纏",
-            "url":"/media/sounds/.mp3_yASu17C",
+            "url":"/media/sounds/m_fixed_yASu17C.mp3",
             "id":2033
          },
          {
             "name":"顏家拳",
-            "url":"/media/sounds/.mp3_CAhHCuS",
+            "url":"/media/sounds/m_fixed_CAhHCuS.mp3",
             "id":2517
          },
          {
             "name":"物競天擇拳",
-            "url":"/media/sounds/.mp3_D1nJPej",
+            "url":"/media/sounds/m_fixed_D1nJPej.mp3",
             "id":2626
          },
          {
@@ -8042,12 +8042,12 @@ export default [
          },
          {
             "name":"魔貫光殺砲",
-            "url":"/media/sounds/.mp3_8iUhxFH",
+            "url":"/media/sounds/m_fixed_8iUhxFH.mp3",
             "id":2585
          },
          {
             "name":"丟石頭",
-            "url":"/media/sounds/.mp3_riE4ZDU",
+            "url":"/media/sounds/m_fixed_riE4ZDU.mp3",
             "id":3268
          },
          {
@@ -8102,22 +8102,22 @@ export default [
       "datas":[
          {
             "name":"我們一起拔綠報",
-            "url":"/media/sounds/.mp3_WNF5jxt",
+            "url":"/media/sounds/m_fixed_WNF5jxt.mp3",
             "id":1661
          },
          {
             "name":"阿扁巴巴綠帽大俠～",
-            "url":"/media/sounds/.mp3_e03A4zO",
+            "url":"/media/sounds/m_fixed_e03A4zO.mp3",
             "id":1662
          },
          {
             "name":"阿扁巴巴綠帽俠",
-            "url":"/media/sounds/.mp3_AqT20Rl",
+            "url":"/media/sounds/m_fixed_AqT20Rl.mp3",
             "id":1663
          },
          {
             "name":"哇～會做烤布蕾ㄟ",
-            "url":"/media/sounds/.mp3_09tnU8v",
+            "url":"/media/sounds/m_fixed_09tnU8v.mp3",
             "id":2589
          },
          {
@@ -8127,32 +8127,32 @@ export default [
          },
          {
             "name":"建祥巴巴大俠",
-            "url":"/media/sounds/.mp3_1xtgNps",
+            "url":"/media/sounds/m_fixed_1xtgNps.mp3",
             "id":2591
          },
          {
             "name":"戴綠帽車禍大修樣樣行",
-            "url":"/media/sounds/.mp3_pnVkebT",
+            "url":"/media/sounds/m_fixed_pnVkebT.mp3",
             "id":2592
          },
          {
             "name":"那你們一定喜歡",
-            "url":"/media/sounds/.mp3_sL6LoWa",
+            "url":"/media/sounds/m_fixed_sL6LoWa.mp3",
             "id":2593
          },
          {
             "name":"酷到你無法抗拒",
-            "url":"/media/sounds/.mp3_670kZbe",
+            "url":"/media/sounds/m_fixed_670kZbe.mp3",
             "id":2594
          },
          {
             "name":"阿扁巴巴大俠",
-            "url":"/media/sounds/.mp3_nxXTWYo",
+            "url":"/media/sounds/m_fixed_nxXTWYo.mp3",
             "id":2595
          },
          {
             "name":"阿扁巴巴大俠～",
-            "url":"/media/sounds/.mp3_6Dsnxn6",
+            "url":"/media/sounds/m_fixed_6Dsnxn6.mp3",
             "id":2596
          },
          {
@@ -8162,27 +8162,27 @@ export default [
          },
          {
             "name":"你們喜歡酸黃瓜嗎？",
-            "url":"/media/sounds/.mp3_dnxkh3V",
+            "url":"/media/sounds/m_fixed_dnxkh3V.mp3",
             "id":3243
          },
          {
             "name":"右拳黃瓜大俠",
-            "url":"/media/sounds/.mp3_laBhJdC",
+            "url":"/media/sounds/m_fixed_laBhJdC.mp3",
             "id":3244
          },
          {
             "name":"右拳黃瓜大俠～",
-            "url":"/media/sounds/.mp3_Y0GmklC",
+            "url":"/media/sounds/m_fixed_Y0GmklC.mp3",
             "id":3245
          },
          {
             "name":"小朋友們～",
-            "url":"/media/sounds/.mp3_sxs71Ah",
+            "url":"/media/sounds/m_fixed_sxs71Ah.mp3",
             "id":3246
          },
          {
             "name":"那你們一定會喜歡",
-            "url":"/media/sounds/.mp3_itULaxX",
+            "url":"/media/sounds/m_fixed_itULaxX.mp3",
             "id":3247
          }
       ]
@@ -8192,12 +8192,12 @@ export default [
       "datas":[
          {
             "name":"やりますねぇ",
-            "url":"/media/sounds/.mp3_UXVoqVt",
+            "url":"/media/sounds/m_fixed_UXVoqVt.mp3",
             "id":2295
          },
          {
             "name":"是學生",
-            "url":"/media/sounds/.mp3_ZGOxLNp",
+            "url":"/media/sounds/m_fixed_ZGOxLNp.mp3",
             "id":2316
          },
          {
@@ -8212,17 +8212,17 @@ export default [
          },
          {
             "name":"能告訴我你的年齡嗎？",
-            "url":"/media/sounds/.mp3_C1cn0MC",
+            "url":"/media/sounds/m_fixed_C1cn0MC.mp3",
             "id":3437
          },
          {
             "name":"那麼～",
-            "url":"/media/sounds/.mp3_HiWamOA",
+            "url":"/media/sounds/m_fixed_HiWamOA.mp3",
             "id":3438
          },
          {
             "name":"首先",
-            "url":"/media/sounds/.mp3_heE2kYh",
+            "url":"/media/sounds/m_fixed_heE2kYh.mp3",
             "id":3439
          }
       ]
@@ -8232,7 +8232,7 @@ export default [
       "datas":[
          {
             "name":"在我的",
-            "url":"/media/sounds/.mp3_2ZYbRmU",
+            "url":"/media/sounds/m_fixed_2ZYbRmU.mp3",
             "id":2390
          },
          {
@@ -8242,7 +8242,7 @@ export default [
          },
          {
             "name":"紅色內褲裡",
-            "url":"/media/sounds/.mp3_sv68btS",
+            "url":"/media/sounds/m_fixed_sv68btS.mp3",
             "id":2392
          }
       ]
@@ -8252,77 +8252,77 @@ export default [
       "datas":[
          {
             "name":"來啦！",
-            "url":"/media/sounds/.mp3_EnLFMnS",
+            "url":"/media/sounds/m_fixed_EnLFMnS.mp3",
             "id":136
          },
          {
             "name":"拿...拿都拿！",
-            "url":"/media/sounds/.mp3_SaVFyQg",
+            "url":"/media/sounds/m_fixed_SaVFyQg.mp3",
             "id":137
          },
          {
             "name":"哀～拿！拿！拿都拿！",
-            "url":"/media/sounds/.mp3_cdEHxp2",
+            "url":"/media/sounds/m_fixed_cdEHxp2.mp3",
             "id":801
          },
          {
             "name":"謝謝傑哥",
-            "url":"/media/sounds/.mp3_BEiOFVy",
+            "url":"/media/sounds/m_fixed_BEiOFVy.mp3",
             "id":831
          },
          {
             "name":"讓我看看哈",
-            "url":"/media/sounds/.mp3_u8NAv4Z",
+            "url":"/media/sounds/m_fixed_u8NAv4Z.mp3",
             "id":1270
          },
          {
             "name":"買...都買",
-            "url":"/media/sounds/.mp3_uHhV7MR",
+            "url":"/media/sounds/m_fixed_uHhV7MR.mp3",
             "id":1264
          },
          {
             "name":"這真的可以買嗎？",
-            "url":"/media/sounds/.mp3_XA686Zk",
+            "url":"/media/sounds/m_fixed_XA686Zk.mp3",
             "id":1261
          },
          {
             "name":"哀，這沒什麼",
-            "url":"/media/sounds/.mp3_IiIVFwE",
+            "url":"/media/sounds/m_fixed_IiIVFwE.mp3",
             "id":743
          },
          {
             "name":"來！讓我看看",
-            "url":"/media/sounds/.mp3_0WN5e4A",
+            "url":"/media/sounds/m_fixed_0WN5e4A.mp3",
             "id":2606
          },
          {
             "name":"傑..傑哥不要啦傑哥",
-            "url":"/media/sounds/.mp3_ik4rXsU",
+            "url":"/media/sounds/m_fixed_ik4rXsU.mp3",
             "id":2607
          },
          {
             "name":"傑哥你幹嘛啊？",
-            "url":"/media/sounds/.mp3_ds1f6X2",
+            "url":"/media/sounds/m_fixed_ds1f6X2.mp3",
             "id":2608
          },
          {
             "name":"傑哥這什麼啊？",
-            "url":"/media/sounds/.mp3_D9Hqeop",
+            "url":"/media/sounds/m_fixed_D9Hqeop.mp3",
             "id":2609
          },
          {
             "name":"哎呀～你臉紅啦？",
-            "url":"/media/sounds/.mp3_Pg4B7I4",
+            "url":"/media/sounds/m_fixed_Pg4B7I4.mp3",
             "id":2610
          },
          {
             "name":"沒什麼來來給你看這個",
-            "url":"/media/sounds/.mp3_oLTD85h",
+            "url":"/media/sounds/m_fixed_oLTD85h.mp3",
             "id":2611
          },
          {
             "name":"讓我看看你發育的正不正常啊",
-            "url":"/media/sounds/.mp3_B9UDtBq",
+            "url":"/media/sounds/m_fixed_B9UDtBq.mp3",
             "id":2612
          },
          {
@@ -8332,37 +8332,37 @@ export default [
          },
          {
             "name":"都幾歲的人了還這麼害羞",
-            "url":"/media/sounds/.mp3_hnaOYmp",
+            "url":"/media/sounds/m_fixed_hnaOYmp.mp3",
             "id":2615
          },
          {
             "name":"我看你是很勇喔",
-            "url":"/media/sounds/.mp3_AjtIw7J",
+            "url":"/media/sounds/m_fixed_AjtIw7J.mp3",
             "id":185
          },
          {
             "name":"不要！",
-            "url":"/media/sounds/.mp3_BsyKfJC",
+            "url":"/media/sounds/m_fixed_BsyKfJC.mp3",
             "id":2721
          },
          {
             "name":"傑...傑哥這什麼啊？",
-            "url":"/media/sounds/.mp3_FZDliB0",
+            "url":"/media/sounds/m_fixed_FZDliB0.mp3",
             "id":2722
          },
          {
             "name":"聽你這麼說",
-            "url":"/media/sounds/.mp3_M5WrOdX",
+            "url":"/media/sounds/m_fixed_M5WrOdX.mp3",
             "id":2723
          },
          {
             "name":"董...董什麼啊？",
-            "url":"/media/sounds/.mp3_xwbAXRg",
+            "url":"/media/sounds/m_fixed_xwbAXRg.mp3",
             "id":2724
          },
          {
             "name":"還這麼害羞",
-            "url":"/media/sounds/.mp3_ye9fKv5",
+            "url":"/media/sounds/m_fixed_ye9fKv5.mp3",
             "id":2725
          },
          {
@@ -8372,112 +8372,112 @@ export default [
          },
          {
             "name":"你想董？",
-            "url":"/media/sounds/.mp3_8nDnOLK",
+            "url":"/media/sounds/m_fixed_8nDnOLK.mp3",
             "id":2859
          },
          {
             "name":"哎呀，來啦來啦",
-            "url":"/media/sounds/.mp3_XXsWGzb",
+            "url":"/media/sounds/m_fixed_XXsWGzb.mp3",
             "id":2860
          },
          {
             "name":"我看你是不懂喔",
-            "url":"/media/sounds/.mp3_ec0W4TJ",
+            "url":"/media/sounds/m_fixed_ec0W4TJ.mp3",
             "id":2861
          },
          {
             "name":"我看你是很勇嘛",
-            "url":"/media/sounds/.mp3_bYzz0Hi",
+            "url":"/media/sounds/m_fixed_bYzz0Hi.mp3",
             "id":2862
          },
          {
             "name":"我等一下",
-            "url":"/media/sounds/.mp3_jwiFdwI",
+            "url":"/media/sounds/m_fixed_jwiFdwI.mp3",
             "id":2863
          },
          {
             "name":"挺結實的嘛",
-            "url":"/media/sounds/.mp3_W3v9olB",
+            "url":"/media/sounds/m_fixed_W3v9olB.mp3",
             "id":2864
          },
          {
             "name":"讓你看看我房間裡有些好康的",
-            "url":"/media/sounds/.mp3_hNPUHdW",
+            "url":"/media/sounds/m_fixed_hNPUHdW.mp3",
             "id":2865
          },
          {
             "name":"诶诶，傑哥傑哥，酒",
-            "url":"/media/sounds/.mp3_JaxFlMn",
+            "url":"/media/sounds/m_fixed_JaxFlMn.mp3",
             "id":2866
          },
          {
             "name":"你最好不要把今天的事情說出去",
-            "url":"/media/sounds/.mp3_VE2DlEC",
+            "url":"/media/sounds/m_fixed_VE2DlEC.mp3",
             "id":2867
          },
          {
             "name":"拜託我超勇",
-            "url":"/media/sounds/.mp3_0zPWP4s",
+            "url":"/media/sounds/m_fixed_0zPWP4s.mp3",
             "id":2907
          },
          {
             "name":"超會喝的好不好",
-            "url":"/media/sounds/.mp3_AtUq7pA",
+            "url":"/media/sounds/m_fixed_AtUq7pA.mp3",
             "id":2908
          },
          {
             "name":"讓我看看",
-            "url":"/media/sounds/.mp3_6Lqc3Qq",
+            "url":"/media/sounds/m_fixed_6Lqc3Qq.mp3",
             "id":110
          },
          {
             "name":"也知道你讀哪一班",
-            "url":"/media/sounds/.mp3_YXFcM71",
+            "url":"/media/sounds/m_fixed_YXFcM71.mp3",
             "id":3038
          },
          {
             "name":"我知道你住哪",
-            "url":"/media/sounds/.mp3_lgWgzbB",
+            "url":"/media/sounds/m_fixed_lgWgzbB.mp3",
             "id":3039
          },
          {
             "name":"最好給我小心一點",
-            "url":"/media/sounds/.mp3_P7EloSB",
+            "url":"/media/sounds/m_fixed_P7EloSB.mp3",
             "id":3040
          },
          {
             "name":"這是我們之間的秘密",
-            "url":"/media/sounds/.mp3_ETSdoZp",
+            "url":"/media/sounds/m_fixed_ETSdoZp.mp3",
             "id":3041
          },
          {
             "name":"聽話",
-            "url":"/media/sounds/.mp3_EKhHSpP",
+            "url":"/media/sounds/m_fixed_EKhHSpP.mp3",
             "id":1478
          },
          {
             "name":"讓我看看！",
-            "url":"/media/sounds/.mp3_zFyengd",
+            "url":"/media/sounds/m_fixed_zFyengd.mp3",
             "id":1479
          },
          {
             "name":"可以教你轉大人喔",
-            "url":"/media/sounds/.mp3_9ccWoPq",
+            "url":"/media/sounds/m_fixed_9ccWoPq.mp3",
             "id":627
          },
          {
             "name":"不要(哭)",
-            "url":"/media/sounds/.mp3_e7cB823",
+            "url":"/media/sounds/m_fixed_e7cB823.mp3",
             "id":3128
          },
          {
             "name":"什麼好康？",
-            "url":"/media/sounds/.mp3_qFXvH1V",
+            "url":"/media/sounds/m_fixed_qFXvH1V.mp3",
             "id":3129
          },
          {
             "name":"傑哥(哭)",
-            "url":"/media/sounds/.mp3_3T7fgTv",
+            "url":"/media/sounds/m_fixed_3T7fgTv.mp3",
             "id":3130
          },
          {
@@ -8487,177 +8487,177 @@ export default [
          },
          {
             "name":"啊新遊戲喔？",
-            "url":"/media/sounds/.mp3_iuyGRwG",
+            "url":"/media/sounds/m_fixed_iuyGRwG.mp3",
             "id":3132
          },
          {
             "name":"好～康～",
-            "url":"/media/sounds/.mp3_8ZfHThe",
+            "url":"/media/sounds/m_fixed_8ZfHThe.mp3",
             "id":3133
          },
          {
             "name":"我房裡有一些好康的",
-            "url":"/media/sounds/.mp3_guKf7DX",
+            "url":"/media/sounds/m_fixed_guKf7DX.mp3",
             "id":3134
          },
          {
             "name":"挺結實的啊",
-            "url":"/media/sounds/.mp3_SC4j5oz",
+            "url":"/media/sounds/m_fixed_SC4j5oz.mp3",
             "id":3135
          },
          {
             "name":"新遊戲喔？",
-            "url":"/media/sounds/.mp3_3K79uxF",
+            "url":"/media/sounds/m_fixed_3K79uxF.mp3",
             "id":3136
          },
          {
             "name":"比遊戲還刺激～",
-            "url":"/media/sounds/.mp3_ufg8kB8",
+            "url":"/media/sounds/m_fixed_ufg8kB8.mp3",
             "id":3137
          },
          {
             "name":"董...董什麼啊？2",
-            "url":"/media/sounds/.mp3_oJUcgEy",
+            "url":"/media/sounds/m_fixed_oJUcgEy.mp3",
             "id":3138
          },
          {
             "name":"轉大人(台)",
-            "url":"/media/sounds/.mp3_lHE08la",
+            "url":"/media/sounds/m_fixed_lHE08la.mp3",
             "id":3139
          },
          {
             "name":"那個彬彬就是遜啦",
-            "url":"/media/sounds/.mp3_vGjTGyQ",
+            "url":"/media/sounds/m_fixed_vGjTGyQ.mp3",
             "id":3140
          },
          {
             "name":"ㄟㄟㄟ左邊左邊左邊",
-            "url":"/media/sounds/.mp3_D4BrTek",
+            "url":"/media/sounds/m_fixed_D4BrTek.mp3",
             "id":3207
          },
          {
             "name":"ㄟㄟ二班那個洗戰積ㄟ",
-            "url":"/media/sounds/.mp3_upOHI90",
+            "url":"/media/sounds/m_fixed_upOHI90.mp3",
             "id":3208
          },
          {
             "name":"你整麼又在打電動？",
-            "url":"/media/sounds/.mp3_ghnLaul",
+            "url":"/media/sounds/m_fixed_ghnLaul.mp3",
             "id":3209
          },
          {
             "name":"你這孩子怎麼這樣啊？",
-            "url":"/media/sounds/.mp3_zkTKNru",
+            "url":"/media/sounds/m_fixed_zkTKNru.mp3",
             "id":3210
          },
          {
             "name":"右邊右邊右邊",
-            "url":"/media/sounds/.mp3_Dz3LVWc",
+            "url":"/media/sounds/m_fixed_Dz3LVWc.mp3",
             "id":3211
          },
          {
             "name":"噢！死了啦不要玩了啦",
-            "url":"/media/sounds/.mp3_JX4ccTR",
+            "url":"/media/sounds/m_fixed_JX4ccTR.mp3",
             "id":3212
          },
          {
             "name":"噢！死了啦！",
-            "url":"/media/sounds/.mp3_q8ceANR",
+            "url":"/media/sounds/m_fixed_q8ceANR.mp3",
             "id":3213
          },
          {
             "name":"我只希望你能夠好好用功讀書",
-            "url":"/media/sounds/.mp3_p7R0Oqt",
+            "url":"/media/sounds/m_fixed_p7R0Oqt.mp3",
             "id":3214
          },
          {
             "name":"我才講你幾句你就嫌我煩",
-            "url":"/media/sounds/.mp3_VQaF3xl",
+            "url":"/media/sounds/m_fixed_VQaF3xl.mp3",
             "id":3215
          },
          {
             "name":"我聽說你們肚子有點餓",
-            "url":"/media/sounds/.mp3_gzqLLol",
+            "url":"/media/sounds/m_fixed_gzqLLol.mp3",
             "id":3216
          },
          {
             "name":"我這有個麵包",
-            "url":"/media/sounds/.mp3_UbCBqLz",
+            "url":"/media/sounds/m_fixed_UbCBqLz.mp3",
             "id":3217
          },
          {
             "name":"我還不餓",
-            "url":"/media/sounds/.mp3_p4t5PyR",
+            "url":"/media/sounds/m_fixed_p4t5PyR.mp3",
             "id":3218
          },
          {
             "name":"才喝個幾罐就醉了",
-            "url":"/media/sounds/.mp3_wlNTFuG",
+            "url":"/media/sounds/m_fixed_wlNTFuG.mp3",
             "id":3219
          },
          {
             "name":"整天看你在那邊打電動",
-            "url":"/media/sounds/.mp3_xM767hC",
+            "url":"/media/sounds/m_fixed_xM767hC.mp3",
             "id":3220
          },
          {
             "name":"欸彬！你還有錢嗎？",
-            "url":"/media/sounds/.mp3_kRdYKOH",
+            "url":"/media/sounds/m_fixed_kRdYKOH.mp3",
             "id":3221
          },
          {
             "name":"給你們吃",
-            "url":"/media/sounds/.mp3_0hEaI9g",
+            "url":"/media/sounds/m_fixed_0hEaI9g.mp3",
             "id":3222
          },
          {
             "name":"都你害的啦！",
-            "url":"/media/sounds/.mp3_BNaiAge",
+            "url":"/media/sounds/m_fixed_BNaiAge.mp3",
             "id":3223
          },
          {
             "name":"你身上還有沒有錢啊？",
-            "url":"/media/sounds/.mp3_EC5pOmq",
+            "url":"/media/sounds/m_fixed_EC5pOmq.mp3",
             "id":3421
          },
          {
             "name":"唉那邊那邊那邊",
-            "url":"/media/sounds/.mp3_lQjZZUX",
+            "url":"/media/sounds/m_fixed_lQjZZUX.mp3",
             "id":3422
          },
          {
             "name":"唉！彬",
-            "url":"/media/sounds/.mp3_vSeQQJW",
+            "url":"/media/sounds/m_fixed_vSeQQJW.mp3",
             "id":3423
          },
          {
             "name":"啊！我死了",
-            "url":"/media/sounds/.mp3_9w6ZV6r",
+            "url":"/media/sounds/m_fixed_9w6ZV6r.mp3",
             "id":3424
          },
          {
             "name":"我的房子還蠻大的",
-            "url":"/media/sounds/.mp3_YikJYZu",
+            "url":"/media/sounds/m_fixed_YikJYZu.mp3",
             "id":3425
          },
          {
             "name":"直接睡覺",
-            "url":"/media/sounds/.mp3_UCA7EtG",
+            "url":"/media/sounds/m_fixed_UCA7EtG.mp3",
             "id":3426
          },
          {
             "name":"蠻結實的啊",
-            "url":"/media/sounds/.mp3_f1dj3GD",
+            "url":"/media/sounds/m_fixed_f1dj3GD.mp3",
             "id":3427
          },
          {
             "name":"這邊這邊這邊",
-            "url":"/media/sounds/.mp3_qeFJJhO",
+            "url":"/media/sounds/m_fixed_qeFJJhO.mp3",
             "id":3428
          },
          {
             "name":"不玩了",
-            "url":"/media/sounds/.mp3_iCVesrj",
+            "url":"/media/sounds/m_fixed_iCVesrj.mp3",
             "id":2917
          },
          {
@@ -8917,32 +8917,32 @@ export default [
       "datas":[
          {
             "name":"啊我進來啦～",
-            "url":"/media/sounds/.mp3_fo0NESL",
+            "url":"/media/sounds/m_fixed_fo0NESL.mp3",
             "id":2752
          },
          {
             "name":"怎麼樣？",
-            "url":"/media/sounds/.mp3_4tE9vPQ",
+            "url":"/media/sounds/m_fixed_4tE9vPQ.mp3",
             "id":2753
          },
          {
             "name":"我又出來啦",
-            "url":"/media/sounds/.mp3_5WyFk9z",
+            "url":"/media/sounds/m_fixed_5WyFk9z.mp3",
             "id":2754
          },
          {
             "name":"我又出來啦～",
-            "url":"/media/sounds/.mp3_1nU81Q7",
+            "url":"/media/sounds/m_fixed_1nU81Q7.mp3",
             "id":2755
          },
          {
             "name":"我進來囉",
-            "url":"/media/sounds/.mp3_ZFot7bl",
+            "url":"/media/sounds/m_fixed_ZFot7bl.mp3",
             "id":2756
          },
          {
             "name":"打我啊笨蛋",
-            "url":"/media/sounds/.mp3_4QH1fmK",
+            "url":"/media/sounds/m_fixed_4QH1fmK.mp3",
             "id":2757
          }
       ]
@@ -8972,32 +8972,32 @@ export default [
       "datas":[
          {
             "name":"可是他",
-            "url":"/media/sounds/.mp3_B6WvSS2",
+            "url":"/media/sounds/m_fixed_B6WvSS2.mp3",
             "id":3148
          },
          {
             "name":"奇異博士",
-            "url":"/media/sounds/.mp3_fblLhfu",
+            "url":"/media/sounds/m_fixed_fblLhfu.mp3",
             "id":3149
          },
          {
             "name":"很奇異～",
-            "url":"/media/sounds/.mp3_xkCyJon",
+            "url":"/media/sounds/m_fixed_xkCyJon.mp3",
             "id":3150
          },
          {
             "name":"您那頭上的圈圈能幹什麼呢？",
-            "url":"/media/sounds/.mp3_RRnpVKz",
+            "url":"/media/sounds/m_fixed_RRnpVKz.mp3",
             "id":3151
          },
          {
             "name":"我也不知道",
-            "url":"/media/sounds/.mp3_tydwR5E",
+            "url":"/media/sounds/m_fixed_tydwR5E.mp3",
             "id":3152
          },
          {
             "name":"那麼",
-            "url":"/media/sounds/.mp3_CEz1NW6",
+            "url":"/media/sounds/m_fixed_CEz1NW6.mp3",
             "id":3153
          }
       ]
@@ -9007,17 +9007,17 @@ export default [
       "datas":[
          {
             "name":"まぜまぜ",
-            "url":"/media/sounds/.mp3_6dLy7pz",
+            "url":"/media/sounds/m_fixed_6dLy7pz.mp3",
             "id":3154
          },
          {
             "name":"不要吸啦(台)",
-            "url":"/media/sounds/.mp3_q0pELDt",
+            "url":"/media/sounds/m_fixed_q0pELDt.mp3",
             "id":3155
          },
          {
             "name":"神智不清(台)",
-            "url":"/media/sounds/.mp3_5hZtQiB",
+            "url":"/media/sounds/m_fixed_5hZtQiB.mp3",
             "id":3156
          },
          {
@@ -9037,22 +9037,22 @@ export default [
       "datas":[
          {
             "name":"咪斯卡某斯卡",
-            "url":"/media/sounds/.mp3_lWfKxn0",
+            "url":"/media/sounds/m_fixed_lWfKxn0.mp3",
             "id":3445
          },
          {
             "name":"我操你媽～",
-            "url":"/media/sounds/.mp3_hsJeJNs",
+            "url":"/media/sounds/m_fixed_hsJeJNs.mp3",
             "id":3446
          },
          {
             "name":"米奇妙妙屋",
-            "url":"/media/sounds/.mp3_wGv6Zv7",
+            "url":"/media/sounds/m_fixed_wGv6Zv7.mp3",
             "id":3447
          },
          {
             "name":"米老鼠",
-            "url":"/media/sounds/.mp3_1FgmEZ2",
+            "url":"/media/sounds/m_fixed_1FgmEZ2.mp3",
             "id":3448
          }
       ]
@@ -9062,22 +9062,22 @@ export default [
       "datas":[
          {
             "name":"我只想在你的屁眼中稱王",
-            "url":"/media/sounds/.mp3_BjymUgn",
+            "url":"/media/sounds/m_fixed_BjymUgn.mp3",
             "id":3450
          },
          {
             "name":"我希望你的人生只能有我沒有別人",
-            "url":"/media/sounds/.mp3_ahrRXmo",
+            "url":"/media/sounds/m_fixed_ahrRXmo.mp3",
             "id":3451
          },
          {
             "name":"我要你的屁眼只為我張開",
-            "url":"/media/sounds/.mp3_UOhuUS7",
+            "url":"/media/sounds/m_fixed_UOhuUS7.mp3",
             "id":3452
          },
          {
             "name":"不管是過去還是未來",
-            "url":"/media/sounds/.mp3_nZalBv4",
+            "url":"/media/sounds/m_fixed_nZalBv4.mp3",
             "id":3449
          },
          {
@@ -9247,12 +9247,12 @@ export default [
       "datas":[
          {
             "name":"出事了",
-            "url":"/media/sounds/.mp3_3Ro8AvH",
+            "url":"/media/sounds/m_fixed_3Ro8AvH.mp3",
             "id":398
          },
          {
             "name":"阿伯",
-            "url":"/media/sounds/.mp3_ps6pmDv",
+            "url":"/media/sounds/m_fixed_ps6pmDv.mp3",
             "id":399
          },
          {
@@ -9457,7 +9457,7 @@ export default [
       "datas":[
          {
             "name":"起床啦",
-            "url":"/media/sounds/.mp3_DeRbxZw",
+            "url":"/media/sounds/m_fixed_DeRbxZw.mp3",
             "id":2702
          },
          {
@@ -9582,7 +9582,7 @@ export default [
       "datas":[
          {
             "name":"轟隆隆隆隆衝衝衝衝拉風",
-            "url":"/media/sounds/.mp3_CFypoCS",
+            "url":"/media/sounds/m_fixed_CFypoCS.mp3",
             "id":834
          },
          {
@@ -9670,7 +9670,7 @@ export default [
             "url":"/media/sounds/zi-ji-bu-fa-jin.mp3",
             "id":4714
          }
-      ],
+      ]
    },
    {
       "name":"其他",
@@ -9697,67 +9697,67 @@ export default [
          },
          {
             "name":"這...這什麼啊？",
-            "url":"/media/sounds/.mp3_pwhUoDX",
+            "url":"/media/sounds/m_fixed_pwhUoDX.mp3",
             "id":107
          },
          {
             "name":"安安啊",
-            "url":"/media/sounds/.mp3_Eiqk86r",
+            "url":"/media/sounds/m_fixed_Eiqk86r.mp3",
             "id":108
          },
          {
             "name":"來來來來來",
-            "url":"/media/sounds/.mp3_xycGHnl",
+            "url":"/media/sounds/m_fixed_xycGHnl.mp3",
             "id":109
          },
          {
             "name":"這真的可以做嗎？",
-            "url":"/media/sounds/.mp3_4cS8Sjt",
+            "url":"/media/sounds/m_fixed_4cS8Sjt.mp3",
             "id":111
          },
          {
             "name":"可以拉！沒問題啦！",
-            "url":"/media/sounds/.mp3_J2YmRnC",
+            "url":"/media/sounds/m_fixed_J2YmRnC.mp3",
             "id":112
          },
          {
             "name":"や...やります！",
-            "url":"/media/sounds/.mp3_QvZxuRG",
+            "url":"/media/sounds/m_fixed_QvZxuRG.mp3",
             "id":113
          },
          {
             "name":"這個房間",
-            "url":"/media/sounds/.mp3_rwLYEP1",
+            "url":"/media/sounds/m_fixed_rwLYEP1.mp3",
             "id":114
          },
          {
             "name":"把門推開",
-            "url":"/media/sounds/.mp3_H7oPwCo",
+            "url":"/media/sounds/m_fixed_H7oPwCo.mp3",
             "id":115
          },
          {
             "name":"亮亮的",
-            "url":"/media/sounds/.mp3_QqnYLgm",
+            "url":"/media/sounds/m_fixed_QqnYLgm.mp3",
             "id":116
          },
          {
             "name":"真的要做嗎？",
-            "url":"/media/sounds/.mp3_ZnEfHCY",
+            "url":"/media/sounds/m_fixed_ZnEfHCY.mp3",
             "id":117
          },
          {
             "name":"你就做嘛！",
-            "url":"/media/sounds/.mp3_j0R7stG",
+            "url":"/media/sounds/m_fixed_j0R7stG.mp3",
             "id":118
          },
          {
             "name":"我回來啦！",
-            "url":"/media/sounds/.mp3_wv5adop",
+            "url":"/media/sounds/m_fixed_wv5adop.mp3",
             "id":119
          },
          {
             "name":"到底是誰啦！",
-            "url":"/media/sounds/.mp3_SNombcN",
+            "url":"/media/sounds/m_fixed_SNombcN.mp3",
             "id":120
          },
          {
@@ -9767,37 +9767,37 @@ export default [
          },
          {
             "name":"變成大濕的形狀",
-            "url":"/media/sounds/.mp3_GQGZwUg",
+            "url":"/media/sounds/m_fixed_GQGZwUg.mp3",
             "id":122
          },
          {
             "name":"按個讚",
-            "url":"/media/sounds/.mp3_YMbw2s3",
+            "url":"/media/sounds/m_fixed_YMbw2s3.mp3",
             "id":123
          },
          {
             "name":"好可愛",
-            "url":"/media/sounds/.mp3_0G9BCcf",
+            "url":"/media/sounds/m_fixed_0G9BCcf.mp3",
             "id":124
          },
          {
             "name":"好可愛喔～",
-            "url":"/media/sounds/.mp3_FyLcYAA",
+            "url":"/media/sounds/m_fixed_FyLcYAA.mp3",
             "id":125
          },
          {
             "name":"車車",
-            "url":"/media/sounds/.mp3_kKb2hld",
+            "url":"/media/sounds/m_fixed_kKb2hld.mp3",
             "id":126
          },
          {
             "name":"戴綠帽",
-            "url":"/media/sounds/.mp3_Yp1yG0w",
+            "url":"/media/sounds/m_fixed_Yp1yG0w.mp3",
             "id":127
          },
          {
             "name":"不要幫我上香好嗎",
-            "url":"/media/sounds/.mp3_nHwnfUq",
+            "url":"/media/sounds/m_fixed_nHwnfUq.mp3",
             "id":128
          },
          {
@@ -9807,212 +9807,212 @@ export default [
          },
          {
             "name":"我不知道",
-            "url":"/media/sounds/.mp3_RARH3jm",
+            "url":"/media/sounds/m_fixed_RARH3jm.mp3",
             "id":130
          },
          {
             "name":"那是什麼？",
-            "url":"/media/sounds/.mp3_INOHvjM",
+            "url":"/media/sounds/m_fixed_INOHvjM.mp3",
             "id":131
          },
          {
             "name":"我都不看這些的！",
-            "url":"/media/sounds/.mp3_ghqhh7X",
+            "url":"/media/sounds/m_fixed_ghqhh7X.mp3",
             "id":132
          },
          {
             "name":"你餓了嗎？",
-            "url":"/media/sounds/.mp3_V21onQI",
+            "url":"/media/sounds/m_fixed_V21onQI.mp3",
             "id":133
          },
          {
             "name":"給你吃點好吃的呦～",
-            "url":"/media/sounds/.mp3_jgiFfID",
+            "url":"/media/sounds/m_fixed_jgiFfID.mp3",
             "id":134
          },
          {
             "name":"什...什麼好吃的啊？",
-            "url":"/media/sounds/.mp3_KPnGSI6",
+            "url":"/media/sounds/m_fixed_KPnGSI6.mp3",
             "id":135
          },
          {
             "name":"元元要上車嗎？",
-            "url":"/media/sounds/.mp3_OU5n2sn",
+            "url":"/media/sounds/m_fixed_OU5n2sn.mp3",
             "id":138
          },
          {
             "name":"不要了不要了不好意思不要了",
-            "url":"/media/sounds/.mp3_n1abJfx",
+            "url":"/media/sounds/m_fixed_n1abJfx.mp3",
             "id":139
          },
          {
             "name":"怕～",
-            "url":"/media/sounds/.mp3_vv9syGt",
+            "url":"/media/sounds/m_fixed_vv9syGt.mp3",
             "id":140
          },
          {
             "name":"獅子頭",
-            "url":"/media/sounds/.mp3_8fd17HU",
+            "url":"/media/sounds/m_fixed_8fd17HU.mp3",
             "id":141
          },
          {
             "name":"不要吵啊",
-            "url":"/media/sounds/.mp3_p4StLDQ",
+            "url":"/media/sounds/m_fixed_p4StLDQ.mp3",
             "id":142
          },
          {
             "name":"等一下看了我就下去了",
-            "url":"/media/sounds/.mp3_6ORMLw3",
+            "url":"/media/sounds/m_fixed_6ORMLw3.mp3",
             "id":143
          },
          {
             "name":"他在盯著我",
-            "url":"/media/sounds/.mp3_GAXIdak",
+            "url":"/media/sounds/m_fixed_GAXIdak.mp3",
             "id":144
          },
          {
             "name":"沒事沒事",
-            "url":"/media/sounds/.mp3_dAnfP2k",
+            "url":"/media/sounds/m_fixed_dAnfP2k.mp3",
             "id":145
          },
          {
             "name":"我愛你",
-            "url":"/media/sounds/.mp3_tD9ZK1A",
+            "url":"/media/sounds/m_fixed_tD9ZK1A.mp3",
             "id":146
          },
          {
             "name":"咳瘦",
-            "url":"/media/sounds/.mp3_bq1VpCh",
+            "url":"/media/sounds/m_fixed_bq1VpCh.mp3",
             "id":147
          },
          {
             "name":"是中邪了嗎？",
-            "url":"/media/sounds/.mp3_ayGRwhA",
+            "url":"/media/sounds/m_fixed_ayGRwhA.mp3",
             "id":148
          },
          {
             "name":"是生病了",
-            "url":"/media/sounds/.mp3_kFELYPV",
+            "url":"/media/sounds/m_fixed_kFELYPV.mp3",
             "id":149
          },
          {
             "name":"變態",
-            "url":"/media/sounds/.mp3_KFKQRfx",
+            "url":"/media/sounds/m_fixed_KFKQRfx.mp3",
             "id":150
          },
          {
             "name":"喂！",
-            "url":"/media/sounds/.mp3_3KObnZ5",
+            "url":"/media/sounds/m_fixed_3KObnZ5.mp3",
             "id":151
          },
          {
             "name":"騎這麼快啊！",
-            "url":"/media/sounds/.mp3_ci6BQit",
+            "url":"/media/sounds/m_fixed_ci6BQit.mp3",
             "id":152
          },
          {
             "name":"被拖下去",
-            "url":"/media/sounds/.mp3_XKnCheF",
+            "url":"/media/sounds/m_fixed_XKnCheF.mp3",
             "id":153
          },
          {
             "name":"下車！",
-            "url":"/media/sounds/.mp3_6XPkhEo",
+            "url":"/media/sounds/m_fixed_6XPkhEo.mp3",
             "id":154
          },
          {
             "name":"幹有這麼誇張的喔？",
-            "url":"/media/sounds/.mp3_KE7boCw",
+            "url":"/media/sounds/m_fixed_KE7boCw.mp3",
             "id":155
          },
          {
             "name":"哇幹！",
-            "url":"/media/sounds/.mp3_rNYrWjw",
+            "url":"/media/sounds/m_fixed_rNYrWjw.mp3",
             "id":156
          },
          {
             "name":"真的要娶她了",
-            "url":"/media/sounds/.mp3_mFo2yIu",
+            "url":"/media/sounds/m_fixed_mFo2yIu.mp3",
             "id":157
          },
          {
             "name":"好啦！",
-            "url":"/media/sounds/.mp3_8twO2e8",
+            "url":"/media/sounds/m_fixed_8twO2e8.mp3",
             "id":158
          },
          {
             "name":"決定了！",
-            "url":"/media/sounds/.mp3_ziWarO0",
+            "url":"/media/sounds/m_fixed_ziWarO0.mp3",
             "id":159
          },
          {
             "name":"辦婚禮了！",
-            "url":"/media/sounds/.mp3_EwlEmLo",
+            "url":"/media/sounds/m_fixed_EwlEmLo.mp3",
             "id":160
          },
          {
             "name":"等著收我喜帖吧！",
-            "url":"/media/sounds/.mp3_zGLOhn2",
+            "url":"/media/sounds/m_fixed_zGLOhn2.mp3",
             "id":161
          },
          {
             "name":"進入",
-            "url":"/media/sounds/.mp3_UvcrPxx",
+            "url":"/media/sounds/m_fixed_UvcrPxx.mp3",
             "id":162
          },
          {
             "name":"鬼故事",
-            "url":"/media/sounds/.mp3_cNcJ0vj",
+            "url":"/media/sounds/m_fixed_cNcJ0vj.mp3",
             "id":163
          },
          {
             "name":"哭啊",
-            "url":"/media/sounds/.mp3_0GIqxTc",
+            "url":"/media/sounds/m_fixed_0GIqxTc.mp3",
             "id":164
          },
          {
             "name":"打開",
-            "url":"/media/sounds/.mp3_RKWPHrR",
+            "url":"/media/sounds/m_fixed_RKWPHrR.mp3",
             "id":166
          },
          {
             "name":"為什麼是我的照片啊？",
-            "url":"/media/sounds/.mp3_5zM5Wb0",
+            "url":"/media/sounds/m_fixed_5zM5Wb0.mp3",
             "id":167
          },
          {
             "name":"厚呦又我",
-            "url":"/media/sounds/.mp3_2expFUH",
+            "url":"/media/sounds/m_fixed_2expFUH.mp3",
             "id":168
          },
          {
             "name":"我要穿女裝",
-            "url":"/media/sounds/.mp3_lus3V2U",
+            "url":"/media/sounds/m_fixed_lus3V2U.mp3",
             "id":169
          },
          {
             "name":"衝了啦！",
-            "url":"/media/sounds/.mp3_BfkAnRw",
+            "url":"/media/sounds/m_fixed_BfkAnRw.mp3",
             "id":170
          },
          {
             "name":"等一下",
-            "url":"/media/sounds/.mp3_qJt5rGz",
+            "url":"/media/sounds/m_fixed_qJt5rGz.mp3",
             "id":171
          },
          {
             "name":"我不要！",
-            "url":"/media/sounds/.mp3_7CVITIL",
+            "url":"/media/sounds/m_fixed_7CVITIL.mp3",
             "id":172
          },
          {
             "name":"我好害怕",
-            "url":"/media/sounds/.mp3_soEoCey",
+            "url":"/media/sounds/m_fixed_soEoCey.mp3",
             "id":173
          },
          {
             "name":"你就是我的妖豔賤貨",
-            "url":"/media/sounds/.mp3_TKruUWZ",
+            "url":"/media/sounds/m_fixed_TKruUWZ.mp3",
             "id":174
          },
          {
@@ -10022,47 +10022,47 @@ export default [
          },
          {
             "name":"救我！",
-            "url":"/media/sounds/.mp3_FpU85TY",
+            "url":"/media/sounds/m_fixed_FpU85TY.mp3",
             "id":176
          },
          {
             "name":"因該不會上車吧？",
-            "url":"/media/sounds/.mp3_gbOQFSy",
+            "url":"/media/sounds/m_fixed_gbOQFSy.mp3",
             "id":178
          },
          {
             "name":"埃！埃！等一下等一下",
-            "url":"/media/sounds/.mp3_DPvR6oE",
+            "url":"/media/sounds/m_fixed_DPvR6oE.mp3",
             "id":179
          },
          {
             "name":"嚇我一跳",
-            "url":"/media/sounds/.mp3_17doqeq",
+            "url":"/media/sounds/m_fixed_17doqeq.mp3",
             "id":180
          },
          {
             "name":"呵呵！肥宅",
-            "url":"/media/sounds/.mp3_3q4GehY",
+            "url":"/media/sounds/m_fixed_3q4GehY.mp3",
             "id":181
          },
          {
             "name":"這不是我的衣服嗎？",
-            "url":"/media/sounds/.mp3_tySaZ0Z",
+            "url":"/media/sounds/m_fixed_tySaZ0Z.mp3",
             "id":182
          },
          {
             "name":"我好變那個肥宅",
-            "url":"/media/sounds/.mp3_rrlF10B",
+            "url":"/media/sounds/m_fixed_rrlF10B.mp3",
             "id":183
          },
          {
             "name":"我不想聽拜託不要告述我",
-            "url":"/media/sounds/.mp3_vMfjpaV",
+            "url":"/media/sounds/m_fixed_vMfjpaV.mp3",
             "id":184
          },
          {
             "name":"你這個",
-            "url":"/media/sounds/.mp3_v5SOpJW",
+            "url":"/media/sounds/m_fixed_v5SOpJW.mp3",
             "id":186
          },
          {
@@ -10072,142 +10072,142 @@ export default [
          },
          {
             "name":"睡的真飽",
-            "url":"/media/sounds/.mp3_MYL9vjd",
+            "url":"/media/sounds/m_fixed_MYL9vjd.mp3",
             "id":188
          },
          {
             "name":"怎麼那麼垃圾啊？",
-            "url":"/media/sounds/.mp3_R15bTw4",
+            "url":"/media/sounds/m_fixed_R15bTw4.mp3",
             "id":189
          },
          {
             "name":"什麼狀況？",
-            "url":"/media/sounds/.mp3_n6fcv2s",
+            "url":"/media/sounds/m_fixed_n6fcv2s.mp3",
             "id":190
          },
          {
             "name":"不對啊",
-            "url":"/media/sounds/.mp3_c3lKHdc",
+            "url":"/media/sounds/m_fixed_c3lKHdc.mp3",
             "id":191
          },
          {
             "name":"我哪是",
-            "url":"/media/sounds/.mp3_AGeXdRj",
+            "url":"/media/sounds/m_fixed_AGeXdRj.mp3",
             "id":192
          },
          {
             "name":"我明明就是",
-            "url":"/media/sounds/.mp3_30fUzjw",
+            "url":"/media/sounds/m_fixed_30fUzjw.mp3",
             "id":193
          },
          {
             "name":"肥宅",
-            "url":"/media/sounds/.mp3_g06gcfv",
+            "url":"/media/sounds/m_fixed_g06gcfv.mp3",
             "id":194
          },
          {
             "name":"好色喔～",
-            "url":"/media/sounds/.mp3_sQ6DrCY",
+            "url":"/media/sounds/m_fixed_sQ6DrCY.mp3",
             "id":195
          },
          {
             "name":"啊！好香喔～",
-            "url":"/media/sounds/.mp3_k9r6Iiu",
+            "url":"/media/sounds/m_fixed_k9r6Iiu.mp3",
             "id":196
          },
          {
             "name":"我有這麼爛嗎？",
-            "url":"/media/sounds/.mp3_EouyLCw",
+            "url":"/media/sounds/m_fixed_EouyLCw.mp3",
             "id":198
          },
          {
             "name":"盤子們",
-            "url":"/media/sounds/.mp3_t3OdqKw",
+            "url":"/media/sounds/m_fixed_t3OdqKw.mp3",
             "id":200
          },
          {
             "name":"駕到啦～",
-            "url":"/media/sounds/.mp3_WVK2kgt",
+            "url":"/media/sounds/m_fixed_WVK2kgt.mp3",
             "id":201
          },
          {
             "name":"乾我屁事啊？",
-            "url":"/media/sounds/.mp3_HkNRBpr",
+            "url":"/media/sounds/m_fixed_HkNRBpr.mp3",
             "id":202
          },
          {
             "name":"好康的呦～",
-            "url":"/media/sounds/.mp3_4xdu00P",
+            "url":"/media/sounds/m_fixed_4xdu00P.mp3",
             "id":203
          },
          {
             "name":"哎呀～比遊戲還刺激～",
-            "url":"/media/sounds/.mp3_ygUHrD1",
+            "url":"/media/sounds/m_fixed_ygUHrD1.mp3",
             "id":204
          },
          {
             "name":"自慰行助理",
-            "url":"/media/sounds/.mp3_GDLviK8",
+            "url":"/media/sounds/m_fixed_GDLviK8.mp3",
             "id":205
          },
          {
             "name":"真香啊！",
-            "url":"/media/sounds/.mp3_scKzIcl",
+            "url":"/media/sounds/m_fixed_scKzIcl.mp3",
             "id":206
          },
          {
             "name":"たのし～",
-            "url":"/media/sounds/.mp3_5uTg6Ju",
+            "url":"/media/sounds/m_fixed_5uTg6Ju.mp3",
             "id":207
          },
          {
             "name":"你好壞喔",
-            "url":"/media/sounds/.mp3_Wmq5JOP",
+            "url":"/media/sounds/m_fixed_Wmq5JOP.mp3",
             "id":208
          },
          {
             "name":"你這樣對嗎？",
-            "url":"/media/sounds/.mp3_wTOuu4G",
+            "url":"/media/sounds/m_fixed_wTOuu4G.mp3",
             "id":209
          },
          {
             "name":"我要多穿兩條內褲",
-            "url":"/media/sounds/.mp3_T2RwEiC",
+            "url":"/media/sounds/m_fixed_T2RwEiC.mp3",
             "id":210
          },
          {
             "name":"濕寶～",
-            "url":"/media/sounds/.mp3_TlXemTV",
+            "url":"/media/sounds/m_fixed_TlXemTV.mp3",
             "id":211
          },
          {
             "name":"猴塞雷啊",
-            "url":"/media/sounds/.mp3_WqgyN9r",
+            "url":"/media/sounds/m_fixed_WqgyN9r.mp3",
             "id":212
          },
          {
             "name":"我把我動產不動產家屁眼全賣了",
-            "url":"/media/sounds/.mp3_4EAgDOQ",
+            "url":"/media/sounds/m_fixed_4EAgDOQ.mp3",
             "id":213
          },
          {
             "name":"我怎麼可能這麼做啊！",
-            "url":"/media/sounds/.mp3_tEq1Kr4",
+            "url":"/media/sounds/m_fixed_tEq1Kr4.mp3",
             "id":215
          },
          {
             "name":"我要幫你改運了喔",
-            "url":"/media/sounds/.mp3_9VRSqMg",
+            "url":"/media/sounds/m_fixed_9VRSqMg.mp3",
             "id":216
          },
          {
             "name":"你醒啦",
-            "url":"/media/sounds/.mp3_tQmi6hn",
+            "url":"/media/sounds/m_fixed_tQmi6hn.mp3",
             "id":217
          },
          {
             "name":"哎呦！你醒啦～",
-            "url":"/media/sounds/.mp3_EqDC0c7",
+            "url":"/media/sounds/m_fixed_EqDC0c7.mp3",
             "id":218
          },
          {
@@ -10217,192 +10217,192 @@ export default [
          },
          {
             "name":"所有人都是我老婆",
-            "url":"/media/sounds/.mp3_sbj994Y",
+            "url":"/media/sounds/m_fixed_sbj994Y.mp3",
             "id":220
          },
          {
             "name":"怎麼變這麼婆這麼漂亮啊",
-            "url":"/media/sounds/.mp3_bBgDhny",
+            "url":"/media/sounds/m_fixed_bBgDhny.mp3",
             "id":221
          },
          {
             "name":"天地最強宇宙真理",
-            "url":"/media/sounds/.mp3_pf1EKSO",
+            "url":"/media/sounds/m_fixed_pf1EKSO.mp3",
             "id":222
          },
          {
             "name":"哎呀～我眼睛業障重啊～",
-            "url":"/media/sounds/.mp3_FNsal5K",
+            "url":"/media/sounds/m_fixed_FNsal5K.mp3",
             "id":223
          },
          {
             "name":"啊啊～好棒！",
-            "url":"/media/sounds/.mp3_2Pf6ty4",
+            "url":"/media/sounds/m_fixed_2Pf6ty4.mp3",
             "id":224
          },
          {
             "name":"幹太棒了吧！",
-            "url":"/media/sounds/.mp3_9shXRMQ",
+            "url":"/media/sounds/m_fixed_9shXRMQ.mp3",
             "id":225
          },
          {
             "name":"放開我啊～",
-            "url":"/media/sounds/.mp3_DkRpadZ",
+            "url":"/media/sounds/m_fixed_DkRpadZ.mp3",
             "id":226
          },
          {
             "name":"小孩子才做選擇",
-            "url":"/media/sounds/.mp3_T2K3Tyu",
+            "url":"/media/sounds/m_fixed_T2K3Tyu.mp3",
             "id":227
          },
          {
             "name":"我全要",
-            "url":"/media/sounds/.mp3_tYxrJKZ",
+            "url":"/media/sounds/m_fixed_tYxrJKZ.mp3",
             "id":228
          },
          {
             "name":"等一下好好去房間調教調教你",
-            "url":"/media/sounds/.mp3_1zWRMoS",
+            "url":"/media/sounds/m_fixed_1zWRMoS.mp3",
             "id":229
          },
          {
             "name":"謀啦～",
-            "url":"/media/sounds/.mp3_a3v7rwf",
+            "url":"/media/sounds/m_fixed_a3v7rwf.mp3",
             "id":230
          },
          {
             "name":"只不過是個",
-            "url":"/media/sounds/.mp3_A6IHG8S",
+            "url":"/media/sounds/m_fixed_A6IHG8S.mp3",
             "id":231
          },
          {
             "name":"你知道",
-            "url":"/media/sounds/.mp3_9lU2pXz",
+            "url":"/media/sounds/m_fixed_9lU2pXz.mp3",
             "id":232
          },
          {
             "name":"什麼叫做",
-            "url":"/media/sounds/.mp3_5FA9OZX",
+            "url":"/media/sounds/m_fixed_5FA9OZX.mp3",
             "id":233
          },
          {
             "name":"我的",
-            "url":"/media/sounds/.mp3_E4jgfeU",
+            "url":"/media/sounds/m_fixed_E4jgfeU.mp3",
             "id":234
          },
          {
             "name":"味道",
-            "url":"/media/sounds/.mp3_y8SNd88",
+            "url":"/media/sounds/m_fixed_y8SNd88.mp3",
             "id":235
          },
          {
             "name":"嗎",
-            "url":"/media/sounds/.mp3_vqxkMtX",
+            "url":"/media/sounds/m_fixed_vqxkMtX.mp3",
             "id":236
          },
          {
             "name":"蛤？",
-            "url":"/media/sounds/.mp3_o1rNToO",
+            "url":"/media/sounds/m_fixed_o1rNToO.mp3",
             "id":237
          },
          {
             "name":"在皮一點我就讓你晚上知道",
-            "url":"/media/sounds/.mp3_rtzPJja",
+            "url":"/media/sounds/m_fixed_rtzPJja.mp3",
             "id":238
          },
          {
             "name":"是怎樣啊",
-            "url":"/media/sounds/.mp3_zO8brI2",
+            "url":"/media/sounds/m_fixed_zO8brI2.mp3",
             "id":239
          },
          {
             "name":"我是瘟神嗎？",
-            "url":"/media/sounds/.mp3_uBnLvz5",
+            "url":"/media/sounds/m_fixed_uBnLvz5.mp3",
             "id":240
          },
          {
             "name":"桌子底下",
-            "url":"/media/sounds/.mp3_CXt5AG7",
+            "url":"/media/sounds/m_fixed_CXt5AG7.mp3",
             "id":241
          },
          {
             "name":"起來一下",
-            "url":"/media/sounds/.mp3_UNGUHko",
+            "url":"/media/sounds/m_fixed_UNGUHko.mp3",
             "id":242
          },
          {
             "name":"叫你啊",
-            "url":"/media/sounds/.mp3_ivKY1ab",
+            "url":"/media/sounds/m_fixed_ivKY1ab.mp3",
             "id":243
          },
          {
             "name":"好不好",
-            "url":"/media/sounds/.mp3_zBn6ZhZ",
+            "url":"/media/sounds/m_fixed_zBn6ZhZ.mp3",
             "id":244
          },
          {
             "name":"什麼歌？",
-            "url":"/media/sounds/.mp3_9Sx3Fi1",
+            "url":"/media/sounds/m_fixed_9Sx3Fi1.mp3",
             "id":245
          },
          {
             "name":"哪➚尼➚",
-            "url":"/media/sounds/.mp3_NXAg8RW",
+            "url":"/media/sounds/m_fixed_NXAg8RW.mp3",
             "id":246
          },
          {
             "name":"這麼牛逼的嗎？",
-            "url":"/media/sounds/.mp3_FYwiWr9",
+            "url":"/media/sounds/m_fixed_FYwiWr9.mp3",
             "id":247
          },
          {
             "name":"把",
-            "url":"/media/sounds/.mp3_ym1NvBp",
+            "url":"/media/sounds/m_fixed_ym1NvBp.mp3",
             "id":307
          },
          {
             "name":"這什麼鬼東西啊？",
-            "url":"/media/sounds/.mp3_pqVCbPO",
+            "url":"/media/sounds/m_fixed_pqVCbPO.mp3",
             "id":309
          },
          {
             "name":"太可怕了吧",
-            "url":"/media/sounds/.mp3_wEaxE9L",
+            "url":"/media/sounds/m_fixed_wEaxE9L.mp3",
             "id":310
          },
          {
             "name":"好了沒啊？",
-            "url":"/media/sounds/.mp3_BW6tyTT",
+            "url":"/media/sounds/m_fixed_BW6tyTT.mp3",
             "id":314
          },
          {
             "name":"上新聞囉",
-            "url":"/media/sounds/.mp3_gPPcUjD",
+            "url":"/media/sounds/m_fixed_gPPcUjD.mp3",
             "id":317
          },
          {
             "name":"什麼時候",
-            "url":"/media/sounds/.mp3_ObQ0FfC",
+            "url":"/media/sounds/m_fixed_ObQ0FfC.mp3",
             "id":324
          },
          {
             "name":"尷尬",
-            "url":"/media/sounds/.mp3_HklRQsG",
+            "url":"/media/sounds/m_fixed_HklRQsG.mp3",
             "id":325
          },
          {
             "name":"怎麼辦啊？",
-            "url":"/media/sounds/.mp3_qlgqmfn",
+            "url":"/media/sounds/m_fixed_qlgqmfn.mp3",
             "id":328
          },
          {
             "name":"是",
-            "url":"/media/sounds/.mp3_IqIZ9bz",
+            "url":"/media/sounds/m_fixed_IqIZ9bz.mp3",
             "id":329
          },
          {
             "name":"爺",
-            "url":"/media/sounds/.mp3_U8MulLt",
+            "url":"/media/sounds/m_fixed_U8MulLt.mp3",
             "id":331
          },
          {
@@ -10412,217 +10412,217 @@ export default [
          },
          {
             "name":"你怎麼又來啦？",
-            "url":"/media/sounds/.mp3_TnSzYq3",
+            "url":"/media/sounds/m_fixed_TnSzYq3.mp3",
             "id":341
          },
          {
             "name":"不懂",
-            "url":"/media/sounds/.mp3_Fr1tQKO",
+            "url":"/media/sounds/m_fixed_Fr1tQKO.mp3",
             "id":342
          },
          {
             "name":"有你",
-            "url":"/media/sounds/.mp3_LzB3kFN",
+            "url":"/media/sounds/m_fixed_LzB3kFN.mp3",
             "id":343
          },
          {
             "name":"我又來啦",
-            "url":"/media/sounds/.mp3_JF61IwS",
+            "url":"/media/sounds/m_fixed_JF61IwS.mp3",
             "id":344
          },
          {
             "name":"還是你",
-            "url":"/media/sounds/.mp3_AA0DJBc",
+            "url":"/media/sounds/m_fixed_AA0DJBc.mp3",
             "id":345
          },
          {
             "name":"你",
-            "url":"/media/sounds/.mp3_9dQkvUH",
+            "url":"/media/sounds/m_fixed_9dQkvUH.mp3",
             "id":346
          },
          {
             "name":"我",
-            "url":"/media/sounds/.mp3_sogc0gA",
+            "url":"/media/sounds/m_fixed_sogc0gA.mp3",
             "id":347
          },
          {
             "name":"哎呀",
-            "url":"/media/sounds/.mp3_Bxmlmwg",
+            "url":"/media/sounds/m_fixed_Bxmlmwg.mp3",
             "id":348
          },
          {
             "name":"你怎麼頭斷掉了？",
-            "url":"/media/sounds/.mp3_ujPdEAK",
+            "url":"/media/sounds/m_fixed_ujPdEAK.mp3",
             "id":353
          },
          {
             "name":"你不是說好要陪我一輩子？",
-            "url":"/media/sounds/.mp3_Mhj70or",
+            "url":"/media/sounds/m_fixed_Mhj70or.mp3",
             "id":354
          },
          {
             "name":"渣男",
-            "url":"/media/sounds/.mp3_i4gx9Gk",
+            "url":"/media/sounds/m_fixed_i4gx9Gk.mp3",
             "id":355
          },
          {
             "name":"灰飛煙滅",
-            "url":"/media/sounds/.mp3_IR2CtHE",
+            "url":"/media/sounds/m_fixed_IR2CtHE.mp3",
             "id":359
          },
          {
             "name":"太慘烈的吧",
-            "url":"/media/sounds/.mp3_sLiZBX2",
+            "url":"/media/sounds/m_fixed_sLiZBX2.mp3",
             "id":360
          },
          {
             "name":"你要幹嗎？",
-            "url":"/media/sounds/.mp3_bydkG1V",
+            "url":"/media/sounds/m_fixed_bydkG1V.mp3",
             "id":364
          },
          {
             "name":"新年快樂",
-            "url":"/media/sounds/.mp3_MbsrVzY",
+            "url":"/media/sounds/m_fixed_MbsrVzY.mp3",
             "id":379
          },
          {
             "name":"咱們要統一啦",
-            "url":"/media/sounds/.mp3_QgCdCyg",
+            "url":"/media/sounds/m_fixed_QgCdCyg.mp3",
             "id":380
          },
          {
             "name":"不要",
-            "url":"/media/sounds/.mp3_IHsU4pG",
+            "url":"/media/sounds/m_fixed_IHsU4pG.mp3",
             "id":383
          },
          {
             "name":"你不要靠近我蟑螂我錯了",
-            "url":"/media/sounds/.mp3_mrrAtl3",
+            "url":"/media/sounds/m_fixed_mrrAtl3.mp3",
             "id":384
          },
          {
             "name":"是2",
-            "url":"/media/sounds/.mp3_5nCbp4v",
+            "url":"/media/sounds/m_fixed_5nCbp4v.mp3",
             "id":385
          },
          {
             "name":"大便",
-            "url":"/media/sounds/.mp3_4G0urzv",
+            "url":"/media/sounds/m_fixed_4G0urzv.mp3",
             "id":386
          },
          {
             "name":"你他媽",
-            "url":"/media/sounds/.mp3_XPCFXuS",
+            "url":"/media/sounds/m_fixed_XPCFXuS.mp3",
             "id":387
          },
          {
             "name":"不得了了",
-            "url":"/media/sounds/.mp3_Qn9pWYR",
+            "url":"/media/sounds/m_fixed_Qn9pWYR.mp3",
             "id":388
          },
          {
             "name":"出大事了",
-            "url":"/media/sounds/.mp3_9YPR0ov",
+            "url":"/media/sounds/m_fixed_9YPR0ov.mp3",
             "id":389
          },
          {
             "name":"一模一樣",
-            "url":"/media/sounds/.mp3_kk7WSG5",
+            "url":"/media/sounds/m_fixed_kk7WSG5.mp3",
             "id":390
          },
          {
             "name":"超可怕的",
-            "url":"/media/sounds/.mp3_0kGDWLR",
+            "url":"/media/sounds/m_fixed_0kGDWLR.mp3",
             "id":391
          },
          {
             "name":"中華民國萬歲",
-            "url":"/media/sounds/.mp3_ZmHJ10j",
+            "url":"/media/sounds/m_fixed_ZmHJ10j.mp3",
             "id":393
          },
          {
             "name":"這什麼啊？",
-            "url":"/media/sounds/.mp3_1HRKVPW",
+            "url":"/media/sounds/m_fixed_1HRKVPW.mp3",
             "id":394
          },
          {
             "name":"哇靠！",
-            "url":"/media/sounds/.mp3_aJHSwOW",
+            "url":"/media/sounds/m_fixed_aJHSwOW.mp3",
             "id":395
          },
          {
             "name":"太屌了吧！",
-            "url":"/media/sounds/.mp3_Omn0ZtX",
+            "url":"/media/sounds/m_fixed_Omn0ZtX.mp3",
             "id":396
          },
          {
             "name":"這三小啊？",
-            "url":"/media/sounds/.mp3_k8konf2",
+            "url":"/media/sounds/m_fixed_k8konf2.mp3",
             "id":397
          },
          {
             "name":"深入淺出",
-            "url":"/media/sounds/.mp3_FDcfxNo",
+            "url":"/media/sounds/m_fixed_FDcfxNo.mp3",
             "id":401
          },
          {
             "name":"生產順利",
-            "url":"/media/sounds/.mp3_cxwzayb",
+            "url":"/media/sounds/m_fixed_cxwzayb.mp3",
             "id":403
          },
          {
             "name":"急救一下",
-            "url":"/media/sounds/.mp3_1Z1Xnfm",
+            "url":"/media/sounds/m_fixed_1Z1Xnfm.mp3",
             "id":404
          },
          {
             "name":"台北",
-            "url":"/media/sounds/.mp3_Y494UYs",
+            "url":"/media/sounds/m_fixed_Y494UYs.mp3",
             "id":434
          },
          {
             "name":"忠孝東路",
-            "url":"/media/sounds/.mp3_LBXz6uL",
+            "url":"/media/sounds/m_fixed_LBXz6uL.mp3",
             "id":435
          },
          {
             "name":"結果",
-            "url":"/media/sounds/.mp3_RU5oqMj",
+            "url":"/media/sounds/m_fixed_RU5oqMj.mp3",
             "id":437
          },
          {
             "name":"說",
-            "url":"/media/sounds/.mp3_BpwjgNO",
+            "url":"/media/sounds/m_fixed_BpwjgNO.mp3",
             "id":438
          },
          {
             "name":"觀落陰",
-            "url":"/media/sounds/.mp3_TvwyYhR",
+            "url":"/media/sounds/m_fixed_TvwyYhR.mp3",
             "id":444
          },
          {
             "name":"通靈",
-            "url":"/media/sounds/.mp3_qSlqUFK",
+            "url":"/media/sounds/m_fixed_qSlqUFK.mp3",
             "id":445
          },
          {
             "name":"在",
-            "url":"/media/sounds/.mp3_qQgFOBk",
+            "url":"/media/sounds/m_fixed_qQgFOBk.mp3",
             "id":450
          },
          {
             "name":"你吐啊",
-            "url":"/media/sounds/.mp3_zG1BCka",
+            "url":"/media/sounds/m_fixed_zG1BCka.mp3",
             "id":452
          },
          {
             "name":"蹦",
-            "url":"/media/sounds/.mp3_XMzQuxK",
+            "url":"/media/sounds/m_fixed_XMzQuxK.mp3",
             "id":457
          },
          {
             "name":"決鬥",
-            "url":"/media/sounds/.mp3_pWOhlpL",
+            "url":"/media/sounds/m_fixed_pWOhlpL.mp3",
             "id":458
          },
          {
@@ -10632,137 +10632,137 @@ export default [
          },
          {
             "name":"拳頭",
-            "url":"/media/sounds/.mp3_QlUfR8t",
+            "url":"/media/sounds/m_fixed_QlUfR8t.mp3",
             "id":494
          },
          {
             "name":"爸爸",
-            "url":"/media/sounds/.mp3_wpFdGs2",
+            "url":"/media/sounds/m_fixed_wpFdGs2.mp3",
             "id":495
          },
          {
             "name":"公仔",
-            "url":"/media/sounds/.mp3_e9j61JF",
+            "url":"/media/sounds/m_fixed_e9j61JF.mp3",
             "id":496
          },
          {
             "name":"跟著",
-            "url":"/media/sounds/.mp3_3e6ZBYm",
+            "url":"/media/sounds/m_fixed_3e6ZBYm.mp3",
             "id":497
          },
          {
             "name":"那我會",
-            "url":"/media/sounds/.mp3_gmArQb2",
+            "url":"/media/sounds/m_fixed_gmArQb2.mp3",
             "id":498
          },
          {
             "name":"去夢裡面",
-            "url":"/media/sounds/.mp3_coh49O5",
+            "url":"/media/sounds/m_fixed_coh49O5.mp3",
             "id":499
          },
          {
             "name":"讓你知道",
-            "url":"/media/sounds/.mp3_gAdXc3U",
+            "url":"/media/sounds/m_fixed_gAdXc3U.mp3",
             "id":500
          },
          {
             "name":"誰才是",
-            "url":"/media/sounds/.mp3_JkcDmRO",
+            "url":"/media/sounds/m_fixed_JkcDmRO.mp3",
             "id":501
          },
          {
             "name":"老大",
-            "url":"/media/sounds/.mp3_Trwe1qB",
+            "url":"/media/sounds/m_fixed_Trwe1qB.mp3",
             "id":502
          },
          {
             "name":"聲音辭海",
-            "url":"/media/sounds/.mp3_oK2AKJm",
+            "url":"/media/sounds/m_fixed_oK2AKJm.mp3",
             "id":504
          },
          {
             "name":"葬禮適用出殯也婚禮也能使用",
-            "url":"/media/sounds/.mp3_yVRRyIg",
+            "url":"/media/sounds/m_fixed_yVRRyIg.mp3",
             "id":505
          },
          {
             "name":"我沒說過",
-            "url":"/media/sounds/.mp3_IbfsJib",
+            "url":"/media/sounds/m_fixed_IbfsJib.mp3",
             "id":509
          },
          {
             "name":"收入五千五百萬種特色語音",
-            "url":"/media/sounds/.mp3_REJwSob",
+            "url":"/media/sounds/m_fixed_REJwSob.mp3",
             "id":511
          },
          {
             "name":"多沖個幾次",
-            "url":"/media/sounds/.mp3_5obcH16",
+            "url":"/media/sounds/m_fixed_5obcH16.mp3",
             "id":512
          },
          {
             "name":"仙界大濕聲音大辭典",
-            "url":"/media/sounds/.mp3_a4l8UFs",
+            "url":"/media/sounds/m_fixed_a4l8UFs.mp3",
             "id":517
          },
          {
             "name":"仙界大濕伴你入眠",
-            "url":"/media/sounds/.mp3_7j6SqnM",
+            "url":"/media/sounds/m_fixed_7j6SqnM.mp3",
             "id":518
          },
          {
             "name":"太帥了吧",
-            "url":"/media/sounds/.mp3_oA6BPed",
+            "url":"/media/sounds/m_fixed_oA6BPed.mp3",
             "id":520
          },
          {
             "name":"即將去",
-            "url":"/media/sounds/.mp3_qdCcstz",
+            "url":"/media/sounds/m_fixed_qdCcstz.mp3",
             "id":522
          },
          {
             "name":"老淚縱橫",
-            "url":"/media/sounds/.mp3_r0dgDnU",
+            "url":"/media/sounds/m_fixed_r0dgDnU.mp3",
             "id":541
          },
          {
             "name":"確定沒有犯法嗎？",
-            "url":"/media/sounds/.mp3_zRwZaph",
+            "url":"/media/sounds/m_fixed_zRwZaph.mp3",
             "id":548
          },
          {
             "name":"立刻蓋起來",
-            "url":"/media/sounds/.mp3_t56tmEh",
+            "url":"/media/sounds/m_fixed_t56tmEh.mp3",
             "id":525
          },
          {
             "name":"一聽到",
-            "url":"/media/sounds/.mp3_NDTZOJT",
+            "url":"/media/sounds/m_fixed_NDTZOJT.mp3",
             "id":566
          },
          {
             "name":"太爛",
-            "url":"/media/sounds/.mp3_rUSTCz4",
+            "url":"/media/sounds/m_fixed_rUSTCz4.mp3",
             "id":571
          },
          {
             "name":"半磅三千",
-            "url":"/media/sounds/.mp3_51LDAWN",
+            "url":"/media/sounds/m_fixed_51LDAWN.mp3",
             "id":572
          },
          {
             "name":"去",
-            "url":"/media/sounds/.mp3_zsvHuFH",
+            "url":"/media/sounds/m_fixed_zsvHuFH.mp3",
             "id":573
          },
          {
             "name":"吃起來有甘嗎？",
-            "url":"/media/sounds/.mp3_ukqFQJy",
+            "url":"/media/sounds/m_fixed_ukqFQJy.mp3",
             "id":574
          },
          {
             "name":"因為",
-            "url":"/media/sounds/.mp3_uZi0XYT",
+            "url":"/media/sounds/m_fixed_uZi0XYT.mp3",
             "id":575
          },
          {
@@ -10772,132 +10772,132 @@ export default [
          },
          {
             "name":"怎麼",
-            "url":"/media/sounds/.mp3_YwpA8ZQ",
+            "url":"/media/sounds/m_fixed_YwpA8ZQ.mp3",
             "id":579
          },
          {
             "name":"是不是",
-            "url":"/media/sounds/.mp3_acsoX3f",
+            "url":"/media/sounds/m_fixed_acsoX3f.mp3",
             "id":580
          },
          {
             "name":"特別",
-            "url":"/media/sounds/.mp3_IYAHDAa",
+            "url":"/media/sounds/m_fixed_IYAHDAa.mp3",
             "id":581
          },
          {
             "name":"笑死",
-            "url":"/media/sounds/.mp3_gulctfL",
+            "url":"/media/sounds/m_fixed_gulctfL.mp3",
             "id":582
          },
          {
             "name":"做",
-            "url":"/media/sounds/.mp3_TkyFlzJ",
+            "url":"/media/sounds/m_fixed_TkyFlzJ.mp3",
             "id":583
          },
          {
             "name":"被",
-            "url":"/media/sounds/.mp3_eV0gPff",
+            "url":"/media/sounds/m_fixed_eV0gPff.mp3",
             "id":585
          },
          {
             "name":"這次",
-            "url":"/media/sounds/.mp3_RskWt24",
+            "url":"/media/sounds/m_fixed_RskWt24.mp3",
             "id":586
          },
          {
             "name":"痛",
-            "url":"/media/sounds/.mp3_C3W3g14",
+            "url":"/media/sounds/m_fixed_C3W3g14.mp3",
             "id":587
          },
          {
             "name":"買茶",
-            "url":"/media/sounds/.mp3_kBVav2s",
+            "url":"/media/sounds/m_fixed_kBVav2s.mp3",
             "id":588
          },
          {
             "name":"關西",
-            "url":"/media/sounds/.mp3_Vytg84V",
+            "url":"/media/sounds/m_fixed_Vytg84V.mp3",
             "id":589
          },
          {
             "name":"山珍海味",
-            "url":"/media/sounds/.mp3_M0Aewny",
+            "url":"/media/sounds/m_fixed_M0Aewny.mp3",
             "id":608
          },
          {
             "name":"工商",
-            "url":"/media/sounds/.mp3_YdEtjrG",
+            "url":"/media/sounds/m_fixed_YdEtjrG.mp3",
             "id":609
          },
          {
             "name":"不要這樣啦",
-            "url":"/media/sounds/.mp3_nRY76B1",
+            "url":"/media/sounds/m_fixed_nRY76B1.mp3",
             "id":610
          },
          {
             "name":"主委加碼",
-            "url":"/media/sounds/.mp3_Xyc555G",
+            "url":"/media/sounds/m_fixed_Xyc555G.mp3",
             "id":611
          },
          {
             "name":"他的那些",
-            "url":"/media/sounds/.mp3_bit51Wj",
+            "url":"/media/sounds/m_fixed_bit51Wj.mp3",
             "id":612
          },
          {
             "name":"別這樣啦",
-            "url":"/media/sounds/.mp3_bzWfuvs",
+            "url":"/media/sounds/m_fixed_bzWfuvs.mp3",
             "id":614
          },
          {
             "name":"沒有人",
-            "url":"/media/sounds/.mp3_DNHQyec",
+            "url":"/media/sounds/m_fixed_DNHQyec.mp3",
             "id":615
          },
          {
             "name":"享用",
-            "url":"/media/sounds/.mp3_184cdlf",
+            "url":"/media/sounds/m_fixed_184cdlf.mp3",
             "id":616
          },
          {
             "name":"空手而歸",
-            "url":"/media/sounds/.mp3_yH0TAuF",
+            "url":"/media/sounds/m_fixed_yH0TAuF.mp3",
             "id":617
          },
          {
             "name":"哇",
-            "url":"/media/sounds/.mp3_PT5CzVd",
+            "url":"/media/sounds/m_fixed_PT5CzVd.mp3",
             "id":618
          },
          {
             "name":"客觀",
-            "url":"/media/sounds/.mp3_q53YMCG",
+            "url":"/media/sounds/m_fixed_q53YMCG.mp3",
             "id":619
          },
          {
             "name":"怎麼樣",
-            "url":"/media/sounds/.mp3_qpITar3",
+            "url":"/media/sounds/m_fixed_qpITar3.mp3",
             "id":620
          },
          {
             "name":"這不是我的錯",
-            "url":"/media/sounds/.mp3_rGSToni",
+            "url":"/media/sounds/m_fixed_rGSToni.mp3",
             "id":621
          },
          {
             "name":"滿載而來",
-            "url":"/media/sounds/.mp3_PJZJ4mE",
+            "url":"/media/sounds/m_fixed_PJZJ4mE.mp3",
             "id":622
          },
          {
             "name":"綠了",
-            "url":"/media/sounds/.mp3_91YUbDu",
+            "url":"/media/sounds/m_fixed_91YUbDu.mp3",
             "id":623
          },
          {
             "name":"請坐下",
-            "url":"/media/sounds/.mp3_k8Txpas",
+            "url":"/media/sounds/m_fixed_k8Txpas.mp3",
             "id":624
          },
          {
@@ -10907,7 +10907,7 @@ export default [
          },
          {
             "name":"讚",
-            "url":"/media/sounds/.mp3_BgObUZO",
+            "url":"/media/sounds/m_fixed_BgObUZO.mp3",
             "id":626
          },
          {
@@ -10917,32 +10917,32 @@ export default [
          },
          {
             "name":"他讓你",
-            "url":"/media/sounds/.mp3_ZjVFsgY",
+            "url":"/media/sounds/m_fixed_ZjVFsgY.mp3",
             "id":735
          },
          {
             "name":"好棒喔三點了",
-            "url":"/media/sounds/.mp3_exQlL7P",
+            "url":"/media/sounds/m_fixed_exQlL7P.mp3",
             "id":736
          },
          {
             "name":"你怎麼那麼多",
-            "url":"/media/sounds/.mp3_J2fQcLY",
+            "url":"/media/sounds/m_fixed_J2fQcLY.mp3",
             "id":737
          },
          {
             "name":"我就爛",
-            "url":"/media/sounds/.mp3_2yFrajR",
+            "url":"/media/sounds/m_fixed_2yFrajR.mp3",
             "id":738
          },
          {
             "name":"來",
-            "url":"/media/sounds/.mp3_YdrXb3Y",
+            "url":"/media/sounds/m_fixed_YdrXb3Y.mp3",
             "id":739
          },
          {
             "name":"來讓你看個好康的",
-            "url":"/media/sounds/.mp3_RlpDSkH",
+            "url":"/media/sounds/m_fixed_RlpDSkH.mp3",
             "id":740
          },
          {
@@ -10952,72 +10952,72 @@ export default [
          },
          {
             "name":"非常的壯觀",
-            "url":"/media/sounds/.mp3_h7jzc65",
+            "url":"/media/sounds/m_fixed_h7jzc65.mp3",
             "id":742
          },
          {
             "name":"炸掉",
-            "url":"/media/sounds/.mp3_pawQ9G2",
+            "url":"/media/sounds/m_fixed_pawQ9G2.mp3",
             "id":744
          },
          {
             "name":"開花結果",
-            "url":"/media/sounds/.mp3_RA0rkSv",
+            "url":"/media/sounds/m_fixed_RA0rkSv.mp3",
             "id":745
          },
          {
             "name":"濕爸爸變魔術啦",
-            "url":"/media/sounds/.mp3_i5fRKtx",
+            "url":"/media/sounds/m_fixed_i5fRKtx.mp3",
             "id":746
          },
          {
             "name":"は`～い",
-            "url":"/media/sounds/.mp3_UIYcuXf",
+            "url":"/media/sounds/m_fixed_UIYcuXf.mp3",
             "id":758
          },
          {
             "name":"一直",
-            "url":"/media/sounds/.mp3_xeEb2VA",
+            "url":"/media/sounds/m_fixed_xeEb2VA.mp3",
             "id":759
          },
          {
             "name":"了",
-            "url":"/media/sounds/.mp3_edQjYNd",
+            "url":"/media/sounds/m_fixed_edQjYNd.mp3",
             "id":760
          },
          {
             "name":"又細又長",
-            "url":"/media/sounds/.mp3_LnegAuS",
+            "url":"/media/sounds/m_fixed_LnegAuS.mp3",
             "id":761
          },
          {
             "name":"上廁所",
-            "url":"/media/sounds/.mp3_thRvpsh",
+            "url":"/media/sounds/m_fixed_thRvpsh.mp3",
             "id":762
          },
          {
             "name":"大哥沒有輸",
-            "url":"/media/sounds/.mp3_RWm48oE",
+            "url":"/media/sounds/m_fixed_RWm48oE.mp3",
             "id":763
          },
          {
             "name":"大哥啊",
-            "url":"/media/sounds/.mp3_H57NVAV",
+            "url":"/media/sounds/m_fixed_H57NVAV.mp3",
             "id":764
          },
          {
             "name":"大哥絕對沒有輸",
-            "url":"/media/sounds/.mp3_wi0MsDB",
+            "url":"/media/sounds/m_fixed_wi0MsDB.mp3",
             "id":765
          },
          {
             "name":"不好意思我不是盤子喔",
-            "url":"/media/sounds/.mp3_P2m4FPy",
+            "url":"/media/sounds/m_fixed_P2m4FPy.mp3",
             "id":766
          },
          {
             "name":"不行啦",
-            "url":"/media/sounds/.mp3_H1DyBKQ",
+            "url":"/media/sounds/m_fixed_H1DyBKQ.mp3",
             "id":767
          },
          {
@@ -11027,22 +11027,22 @@ export default [
          },
          {
             "name":"不要再",
-            "url":"/media/sounds/.mp3_WGE2xHa",
+            "url":"/media/sounds/m_fixed_WGE2xHa.mp3",
             "id":769
          },
          {
             "name":"不能",
-            "url":"/media/sounds/.mp3_VuMSchM",
+            "url":"/media/sounds/m_fixed_VuMSchM.mp3",
             "id":770
          },
          {
             "name":"不會吧",
-            "url":"/media/sounds/.mp3_3NZxrb4",
+            "url":"/media/sounds/m_fixed_3NZxrb4.mp3",
             "id":771
          },
          {
             "name":"不會啦",
-            "url":"/media/sounds/.mp3_CX6pxus",
+            "url":"/media/sounds/m_fixed_CX6pxus.mp3",
             "id":772
          },
          {
@@ -11052,92 +11052,92 @@ export default [
          },
          {
             "name":"六百萬種語音包",
-            "url":"/media/sounds/.mp3_g90UseD",
+            "url":"/media/sounds/m_fixed_g90UseD.mp3",
             "id":774
          },
          {
             "name":"太可疑了",
-            "url":"/media/sounds/.mp3_oIuvUPc",
+            "url":"/media/sounds/m_fixed_oIuvUPc.mp3",
             "id":775
          },
          {
             "name":"太滑了吧",
-            "url":"/media/sounds/.mp3_fVxgC6v",
+            "url":"/media/sounds/m_fixed_fVxgC6v.mp3",
             "id":776
          },
          {
             "name":"他只是",
-            "url":"/media/sounds/.mp3_LyreNAN",
+            "url":"/media/sounds/m_fixed_LyreNAN.mp3",
             "id":777
          },
          {
             "name":"他們在混ㄟ",
-            "url":"/media/sounds/.mp3_nCeYNSB",
+            "url":"/media/sounds/m_fixed_nCeYNSB.mp3",
             "id":778
          },
          {
             "name":"可以呀",
-            "url":"/media/sounds/.mp3_hONSugj",
+            "url":"/media/sounds/m_fixed_hONSugj.mp3",
             "id":779
          },
          {
             "name":"可疑的東西",
-            "url":"/media/sounds/.mp3_F6TO5qw",
+            "url":"/media/sounds/m_fixed_F6TO5qw.mp3",
             "id":780
          },
          {
             "name":"正義鋼彈",
-            "url":"/media/sounds/.mp3_np1b5nB",
+            "url":"/media/sounds/m_fixed_np1b5nB.mp3",
             "id":781
          },
          {
             "name":"永遠到不了",
-            "url":"/media/sounds/.mp3_0QnGxB1",
+            "url":"/media/sounds/m_fixed_0QnGxB1.mp3",
             "id":782
          },
          {
             "name":"再一次",
-            "url":"/media/sounds/.mp3_v84SKzh",
+            "url":"/media/sounds/m_fixed_v84SKzh.mp3",
             "id":783
          },
          {
             "name":"吃飯",
-            "url":"/media/sounds/.mp3_rnmspEi",
+            "url":"/media/sounds/m_fixed_rnmspEi.mp3",
             "id":784
          },
          {
             "name":"好事啊～",
-            "url":"/media/sounds/.mp3_C8b1Njv",
+            "url":"/media/sounds/m_fixed_C8b1Njv.mp3",
             "id":785
          },
          {
             "name":"好綠喔",
-            "url":"/media/sounds/.mp3_pTvDpb1",
+            "url":"/media/sounds/m_fixed_pTvDpb1.mp3",
             "id":786
          },
          {
             "name":"何これ？",
-            "url":"/media/sounds/.mp3_Ycp0Vl9",
+            "url":"/media/sounds/m_fixed_Ycp0Vl9.mp3",
             "id":787
          },
          {
             "name":"你的",
-            "url":"/media/sounds/.mp3_MwqXsIN",
+            "url":"/media/sounds/m_fixed_MwqXsIN.mp3",
             "id":788
          },
          {
             "name":"吵架",
-            "url":"/media/sounds/.mp3_UbHY1rb",
+            "url":"/media/sounds/m_fixed_UbHY1rb.mp3",
             "id":789
          },
          {
             "name":"我也是會怕",
-            "url":"/media/sounds/.mp3_vCj37n4",
+            "url":"/media/sounds/m_fixed_vCj37n4.mp3",
             "id":790
          },
          {
             "name":"我什麼都沒幹啊",
-            "url":"/media/sounds/.mp3_3YgvEoA",
+            "url":"/media/sounds/m_fixed_3YgvEoA.mp3",
             "id":791
          },
          {
@@ -11152,132 +11152,132 @@ export default [
          },
          {
             "name":"供您選擇",
-            "url":"/media/sounds/.mp3_or0IjeV",
+            "url":"/media/sounds/m_fixed_or0IjeV.mp3",
             "id":794
          },
          {
             "name":"性騷擾",
-            "url":"/media/sounds/.mp3_Mv5sIZJ",
+            "url":"/media/sounds/m_fixed_Mv5sIZJ.mp3",
             "id":795
          },
          {
             "name":"拉出來的",
-            "url":"/media/sounds/.mp3_Qd9hWdu",
+            "url":"/media/sounds/m_fixed_Qd9hWdu.mp3",
             "id":796
          },
          {
             "name":"玩具",
-            "url":"/media/sounds/.mp3_n8f5rfI",
+            "url":"/media/sounds/m_fixed_n8f5rfI.mp3",
             "id":797
          },
          {
             "name":"的現實",
-            "url":"/media/sounds/.mp3_AeBVzMv",
+            "url":"/media/sounds/m_fixed_AeBVzMv.mp3",
             "id":798
          },
          {
             "name":"直接睡到下輩子",
-            "url":"/media/sounds/.mp3_Exm7auY",
+            "url":"/media/sounds/m_fixed_Exm7auY.mp3",
             "id":799
          },
          {
             "name":"厚呦",
-            "url":"/media/sounds/.mp3_5LrmAKM",
+            "url":"/media/sounds/m_fixed_5LrmAKM.mp3",
             "id":800
          },
          {
             "name":"哇！好香喔",
-            "url":"/media/sounds/.mp3_lSOKCvv",
+            "url":"/media/sounds/m_fixed_lSOKCvv.mp3",
             "id":802
          },
          {
             "name":"哎呀你們要投資我",
-            "url":"/media/sounds/.mp3_x4t9X5A",
+            "url":"/media/sounds/m_fixed_x4t9X5A.mp3",
             "id":803
          },
          {
             "name":"砍",
-            "url":"/media/sounds/.mp3_T1f7ezX",
+            "url":"/media/sounds/m_fixed_T1f7ezX.mp3",
             "id":804
          },
          {
             "name":"射了",
-            "url":"/media/sounds/.mp3_vPDRglH",
+            "url":"/media/sounds/m_fixed_vPDRglH.mp3",
             "id":805
          },
          {
             "name":"書本",
-            "url":"/media/sounds/.mp3_tTjaGoK",
+            "url":"/media/sounds/m_fixed_tTjaGoK.mp3",
             "id":806
          },
          {
             "name":"真的可以吃嗎？",
-            "url":"/media/sounds/.mp3_Hf4VM4e",
+            "url":"/media/sounds/m_fixed_Hf4VM4e.mp3",
             "id":807
          },
          {
             "name":"真的是一片狼藉啊",
-            "url":"/media/sounds/.mp3_41pLXZq",
+            "url":"/media/sounds/m_fixed_41pLXZq.mp3",
             "id":808
          },
          {
             "name":"專業的",
-            "url":"/media/sounds/.mp3_WUVxL6y",
+            "url":"/media/sounds/m_fixed_WUVxL6y.mp3",
             "id":809
          },
          {
             "name":"殺",
-            "url":"/media/sounds/.mp3_t5SxSnr",
+            "url":"/media/sounds/m_fixed_t5SxSnr.mp3",
             "id":810
          },
          {
             "name":"痔瘡",
-            "url":"/media/sounds/.mp3_qTpHphK",
+            "url":"/media/sounds/m_fixed_qTpHphK.mp3",
             "id":811
          },
          {
             "name":"這什麼魔咒啊？",
-            "url":"/media/sounds/.mp3_z3bbbjC",
+            "url":"/media/sounds/m_fixed_z3bbbjC.mp3",
             "id":812
          },
          {
             "name":"都可以",
-            "url":"/media/sounds/.mp3_mms6dmD",
+            "url":"/media/sounds/m_fixed_mms6dmD.mp3",
             "id":813
          },
          {
             "name":"啾啾鞋",
-            "url":"/media/sounds/.mp3_m5pZIvn",
+            "url":"/media/sounds/m_fixed_m5pZIvn.mp3",
             "id":814
          },
          {
             "name":"揍他一拳",
-            "url":"/media/sounds/.mp3_Nvg95Np",
+            "url":"/media/sounds/m_fixed_Nvg95Np.mp3",
             "id":815
          },
          {
             "name":"智能管家",
-            "url":"/media/sounds/.mp3_J5jEYuZ",
+            "url":"/media/sounds/m_fixed_J5jEYuZ.mp3",
             "id":816
          },
          {
             "name":"結束了",
-            "url":"/media/sounds/.mp3_s15HXIC",
+            "url":"/media/sounds/m_fixed_s15HXIC.mp3",
             "id":817
          },
          {
             "name":"菜雞互啄",
-            "url":"/media/sounds/.mp3_U4sTSUM",
+            "url":"/media/sounds/m_fixed_U4sTSUM.mp3",
             "id":818
          },
          {
             "name":"業障太重",
-            "url":"/media/sounds/.mp3_5pEANCM",
+            "url":"/media/sounds/m_fixed_5pEANCM.mp3",
             "id":819
          },
          {
             "name":"當盤子",
-            "url":"/media/sounds/.mp3_duZ7DYN",
+            "url":"/media/sounds/m_fixed_duZ7DYN.mp3",
             "id":820
          },
          {
@@ -11287,37 +11287,37 @@ export default [
          },
          {
             "name":"違禁品",
-            "url":"/media/sounds/.mp3_zCpiOp5",
+            "url":"/media/sounds/m_fixed_zCpiOp5.mp3",
             "id":822
          },
          {
             "name":"像",
-            "url":"/media/sounds/.mp3_nbAxmyD",
+            "url":"/media/sounds/m_fixed_nbAxmyD.mp3",
             "id":823
          },
          {
             "name":"敲",
-            "url":"/media/sounds/.mp3_aFGmWqQ",
+            "url":"/media/sounds/m_fixed_aFGmWqQ.mp3",
             "id":824
          },
          {
             "name":"睡到變形",
-            "url":"/media/sounds/.mp3_c4JTKMA",
+            "url":"/media/sounds/m_fixed_c4JTKMA.mp3",
             "id":825
          },
          {
             "name":"算了算了算了",
-            "url":"/media/sounds/.mp3_6czQHnJ",
+            "url":"/media/sounds/m_fixed_6czQHnJ.mp3",
             "id":826
          },
          {
             "name":"說謊",
-            "url":"/media/sounds/.mp3_SSoK3tQ",
+            "url":"/media/sounds/m_fixed_SSoK3tQ.mp3",
             "id":827
          },
          {
             "name":"嘿～耶～耶耶耶耶",
-            "url":"/media/sounds/.mp3_Qo3DtI3",
+            "url":"/media/sounds/m_fixed_Qo3DtI3.mp3",
             "id":828
          },
          {
@@ -11327,77 +11327,77 @@ export default [
          },
          {
             "name":"衝出來",
-            "url":"/media/sounds/.mp3_JtDjlWi",
+            "url":"/media/sounds/m_fixed_JtDjlWi.mp3",
             "id":830
          },
          {
             "name":"爆裂物",
-            "url":"/media/sounds/.mp3_Ed9z5gG",
+            "url":"/media/sounds/m_fixed_Ed9z5gG.mp3",
             "id":832
          },
          {
             "name":"騙錢",
-            "url":"/media/sounds/.mp3_PCbRfUM",
+            "url":"/media/sounds/m_fixed_PCbRfUM.mp3",
             "id":833
          },
          {
             "name":"不管了不管了",
-            "url":"/media/sounds/.mp3_QAMEgp4",
+            "url":"/media/sounds/m_fixed_QAMEgp4.mp3",
             "id":928
          },
          {
             "name":"奶子正義",
-            "url":"/media/sounds/.mp3_iQWzbYr",
+            "url":"/media/sounds/m_fixed_iQWzbYr.mp3",
             "id":929
          },
          {
             "name":"打倒獨裁",
-            "url":"/media/sounds/.mp3_VFqJZrI",
+            "url":"/media/sounds/m_fixed_VFqJZrI.mp3",
             "id":930
          },
          {
             "name":"好難喔",
-            "url":"/media/sounds/.mp3_gvy3bdV",
+            "url":"/media/sounds/m_fixed_gvy3bdV.mp3",
             "id":931
          },
          {
             "name":"我要當破狗了",
-            "url":"/media/sounds/.mp3_017drPw",
+            "url":"/media/sounds/m_fixed_017drPw.mp3",
             "id":932
          },
          {
             "name":"見證了奇蹟",
-            "url":"/media/sounds/.mp3_zgJcjTu",
+            "url":"/media/sounds/m_fixed_zgJcjTu.mp3",
             "id":933
          },
          {
             "name":"來囉來囉來囉",
-            "url":"/media/sounds/.mp3_a6fR0en",
+            "url":"/media/sounds/m_fixed_a6fR0en.mp3",
             "id":934
          },
          {
             "name":"思想限制",
-            "url":"/media/sounds/.mp3_dluNCj9",
+            "url":"/media/sounds/m_fixed_dluNCj9.mp3",
             "id":935
          },
          {
             "name":"畫家革命",
-            "url":"/media/sounds/.mp3_ab4plLM",
+            "url":"/media/sounds/m_fixed_ab4plLM.mp3",
             "id":936
          },
          {
             "name":"幹這壓力太大了吧",
-            "url":"/media/sounds/.mp3_TR3DK7s",
+            "url":"/media/sounds/m_fixed_TR3DK7s.mp3",
             "id":937
          },
          {
             "name":"靠～",
-            "url":"/media/sounds/.mp3_HFicZpB",
+            "url":"/media/sounds/m_fixed_HFicZpB.mp3",
             "id":938
          },
          {
             "name":"資本主義的勝利",
-            "url":"/media/sounds/.mp3_rKcT20S",
+            "url":"/media/sounds/m_fixed_rKcT20S.mp3",
             "id":949
          },
          {
@@ -11407,62 +11407,62 @@ export default [
          },
          {
             "name":"心神感應",
-            "url":"/media/sounds/.mp3_Gozqh8f",
+            "url":"/media/sounds/m_fixed_Gozqh8f.mp3",
             "id":961
          },
          {
             "name":"出來了",
-            "url":"/media/sounds/.mp3_YFw4e5i",
+            "url":"/media/sounds/m_fixed_YFw4e5i.mp3",
             "id":962
          },
          {
             "name":"包容",
-            "url":"/media/sounds/.mp3_kUdmecj",
+            "url":"/media/sounds/m_fixed_kUdmecj.mp3",
             "id":963
          },
          {
             "name":"好吃",
-            "url":"/media/sounds/.mp3_SkoT47V",
+            "url":"/media/sounds/m_fixed_SkoT47V.mp3",
             "id":964
          },
          {
             "name":"年輕人啊",
-            "url":"/media/sounds/.mp3_c8unnOZ",
+            "url":"/media/sounds/m_fixed_c8unnOZ.mp3",
             "id":965
          },
          {
             "name":"有沒有",
-            "url":"/media/sounds/.mp3_pgd8oQB",
+            "url":"/media/sounds/m_fixed_pgd8oQB.mp3",
             "id":966
          },
          {
             "name":"有看到嗎？",
-            "url":"/media/sounds/.mp3_WSeX8be",
+            "url":"/media/sounds/m_fixed_WSeX8be.mp3",
             "id":967
          },
          {
             "name":"完蛋了啦",
-            "url":"/media/sounds/.mp3_3FhhLf2",
+            "url":"/media/sounds/m_fixed_3FhhLf2.mp3",
             "id":968
          },
          {
             "name":"我請你吃",
-            "url":"/media/sounds/.mp3_kVq3o09",
+            "url":"/media/sounds/m_fixed_kVq3o09.mp3",
             "id":969
          },
          {
             "name":"抱枕",
-            "url":"/media/sounds/.mp3_jW3V7gH",
+            "url":"/media/sounds/m_fixed_jW3V7gH.mp3",
             "id":970
          },
          {
             "name":"矽膠娃娃",
-            "url":"/media/sounds/.mp3_YoDTMe4",
+            "url":"/media/sounds/m_fixed_YoDTMe4.mp3",
             "id":971
          },
          {
             "name":"剃掉",
-            "url":"/media/sounds/.mp3_Paua5ks",
+            "url":"/media/sounds/m_fixed_Paua5ks.mp3",
             "id":972
          },
          {
@@ -11472,77 +11472,77 @@ export default [
          },
          {
             "name":"根深蒂固了",
-            "url":"/media/sounds/.mp3_MxBR7E6",
+            "url":"/media/sounds/m_fixed_MxBR7E6.mp3",
             "id":974
          },
          {
             "name":"格子襯衫",
-            "url":"/media/sounds/.mp3_79qxHGP",
+            "url":"/media/sounds/m_fixed_79qxHGP.mp3",
             "id":975
          },
          {
             "name":"國家",
-            "url":"/media/sounds/.mp3_9i6hphH",
+            "url":"/media/sounds/m_fixed_9i6hphH.mp3",
             "id":977
          },
          {
             "name":"國家元首",
-            "url":"/media/sounds/.mp3_HUjw43P",
+            "url":"/media/sounds/m_fixed_HUjw43P.mp3",
             "id":978
          },
          {
             "name":"就是",
-            "url":"/media/sounds/.mp3_7fU2JpE",
+            "url":"/media/sounds/m_fixed_7fU2JpE.mp3",
             "id":979
          },
          {
             "name":"愛",
-            "url":"/media/sounds/.mp3_X1SxloJ",
+            "url":"/media/sounds/m_fixed_X1SxloJ.mp3",
             "id":980
          },
          {
             "name":"綁",
-            "url":"/media/sounds/.mp3_GEN1EWa",
+            "url":"/media/sounds/m_fixed_GEN1EWa.mp3",
             "id":981
          },
          {
             "name":"對岸的",
-            "url":"/media/sounds/.mp3_nZXvJfn",
+            "url":"/media/sounds/m_fixed_nZXvJfn.mp3",
             "id":982
          },
          {
             "name":"雙馬尾",
-            "url":"/media/sounds/.mp3_8MsXTsi",
+            "url":"/media/sounds/m_fixed_8MsXTsi.mp3",
             "id":983
          },
          {
             "name":"爆屁",
-            "url":"/media/sounds/.mp3_M8a9JSy",
+            "url":"/media/sounds/m_fixed_M8a9JSy.mp3",
             "id":984
          },
          {
             "name":"七生不幸",
-            "url":"/media/sounds/.mp3_IiuT44Z",
+            "url":"/media/sounds/m_fixed_IiuT44Z.mp3",
             "id":1053
          },
          {
             "name":"又我～",
-            "url":"/media/sounds/.mp3_vJgzbIn",
+            "url":"/media/sounds/m_fixed_vJgzbIn.mp3",
             "id":1054
          },
          {
             "name":"三生有幸",
-            "url":"/media/sounds/.mp3_WcYTKD5",
+            "url":"/media/sounds/m_fixed_WcYTKD5.mp3",
             "id":1055
          },
          {
             "name":"加",
-            "url":"/media/sounds/.mp3_uOGU1eJ",
+            "url":"/media/sounds/m_fixed_uOGU1eJ.mp3",
             "id":1056
          },
          {
             "name":"正義來了啊！",
-            "url":"/media/sounds/.mp3_7ZfQEYp",
+            "url":"/media/sounds/m_fixed_7ZfQEYp.mp3",
             "id":1057
          },
          {
@@ -11552,162 +11552,162 @@ export default [
          },
          {
             "name":"兇",
-            "url":"/media/sounds/.mp3_AqCY48A",
+            "url":"/media/sounds/m_fixed_AqCY48A.mp3",
             "id":1059
          },
          {
             "name":"好棒棒喔",
-            "url":"/media/sounds/.mp3_ymWCkGN",
+            "url":"/media/sounds/m_fixed_ymWCkGN.mp3",
             "id":1060
          },
          {
             "name":"好厲害好厲害",
-            "url":"/media/sounds/.mp3_q9Rcjma",
+            "url":"/media/sounds/m_fixed_q9Rcjma.mp3",
             "id":1061
          },
          {
             "name":"你想表達什麼？",
-            "url":"/media/sounds/.mp3_6J0Rz4q",
+            "url":"/media/sounds/m_fixed_6J0Rz4q.mp3",
             "id":1062
          },
          {
             "name":"別人",
-            "url":"/media/sounds/.mp3_Hnl3X7s",
+            "url":"/media/sounds/m_fixed_Hnl3X7s.mp3",
             "id":1063
          },
          {
             "name":"快跑啊！",
-            "url":"/media/sounds/.mp3_zotPpin",
+            "url":"/media/sounds/m_fixed_zotPpin.mp3",
             "id":1064
          },
          {
             "name":"我跟你們講",
-            "url":"/media/sounds/.mp3_SXcvVg7",
+            "url":"/media/sounds/m_fixed_SXcvVg7.mp3",
             "id":1065
          },
          {
             "name":"沒有",
-            "url":"/media/sounds/.mp3_hlncsxu",
+            "url":"/media/sounds/m_fixed_hlncsxu.mp3",
             "id":1066
          },
          {
             "name":"拆一下啦",
-            "url":"/media/sounds/.mp3_87UmbmZ",
+            "url":"/media/sounds/m_fixed_87UmbmZ.mp3",
             "id":1067
          },
          {
             "name":"拆你家算了",
-            "url":"/media/sounds/.mp3_C7ydOLT",
+            "url":"/media/sounds/m_fixed_C7ydOLT.mp3",
             "id":1068
          },
          {
             "name":"拆妳妹啦",
-            "url":"/media/sounds/.mp3_h5lSHKS",
+            "url":"/media/sounds/m_fixed_h5lSHKS.mp3",
             "id":1069
          },
          {
             "name":"直播",
-            "url":"/media/sounds/.mp3_9UGDWAd",
+            "url":"/media/sounds/m_fixed_9UGDWAd.mp3",
             "id":1070
          },
          {
             "name":"空幹王",
-            "url":"/media/sounds/.mp3_jShux0D",
+            "url":"/media/sounds/m_fixed_jShux0D.mp3",
             "id":1071
          },
          {
             "name":"金項鍊",
-            "url":"/media/sounds/.mp3_ZOnSgje",
+            "url":"/media/sounds/m_fixed_ZOnSgje.mp3",
             "id":1072
          },
          {
             "name":"怎麼那麼厲害啊？",
-            "url":"/media/sounds/.mp3_4HiBkrW",
+            "url":"/media/sounds/m_fixed_4HiBkrW.mp3",
             "id":1073
          },
          {
             "name":"恨不得",
-            "url":"/media/sounds/.mp3_6ZJWAt2",
+            "url":"/media/sounds/m_fixed_6ZJWAt2.mp3",
             "id":1074
          },
          {
             "name":"拜託拜託啦",
-            "url":"/media/sounds/.mp3_OjJW7PI",
+            "url":"/media/sounds/m_fixed_OjJW7PI.mp3",
             "id":1075
          },
          {
             "name":"訂閱",
-            "url":"/media/sounds/.mp3_A10A2h0",
+            "url":"/media/sounds/m_fixed_A10A2h0.mp3",
             "id":1076
          },
          {
             "name":"唉唉呦幹你娘",
-            "url":"/media/sounds/.mp3_QaX8Afq",
+            "url":"/media/sounds/m_fixed_QaX8Afq.mp3",
             "id":1077
          },
          {
             "name":"真是",
-            "url":"/media/sounds/.mp3_ohzeNfs",
+            "url":"/media/sounds/m_fixed_ohzeNfs.mp3",
             "id":1078
          },
          {
             "name":"能",
-            "url":"/media/sounds/.mp3_QoBI2b7",
+            "url":"/media/sounds/m_fixed_QoBI2b7.mp3",
             "id":1079
          },
          {
             "name":"國立社會大學",
-            "url":"/media/sounds/.mp3_xiLP9G7",
+            "url":"/media/sounds/m_fixed_xiLP9G7.mp3",
             "id":1080
          },
          {
             "name":"這招有用",
-            "url":"/media/sounds/.mp3_gUegILY",
+            "url":"/media/sounds/m_fixed_gUegILY.mp3",
             "id":1081
          },
          {
             "name":"然後勒？",
-            "url":"/media/sounds/.mp3_sVaoegu",
+            "url":"/media/sounds/m_fixed_sVaoegu.mp3",
             "id":1082
          },
          {
             "name":"結束啦",
-            "url":"/media/sounds/.mp3_fey5UEn",
+            "url":"/media/sounds/m_fixed_fey5UEn.mp3",
             "id":1083
          },
          {
             "name":"進",
-            "url":"/media/sounds/.mp3_UXSJaN8",
+            "url":"/media/sounds/m_fixed_UXSJaN8.mp3",
             "id":1084
          },
          {
             "name":"順便吧我的褲子拆一下",
-            "url":"/media/sounds/.mp3_KCNI8Da",
+            "url":"/media/sounds/m_fixed_KCNI8Da.mp3",
             "id":1086
          },
          {
             "name":"認識",
-            "url":"/media/sounds/.mp3_i3msb2Y",
+            "url":"/media/sounds/m_fixed_i3msb2Y.mp3",
             "id":1087
          },
          {
             "name":"衝",
-            "url":"/media/sounds/.mp3_oE36ZHk",
+            "url":"/media/sounds/m_fixed_oE36ZHk.mp3",
             "id":1088
          },
          {
             "name":"學生",
-            "url":"/media/sounds/.mp3_yjcbvre",
+            "url":"/media/sounds/m_fixed_yjcbvre.mp3",
             "id":1089
          },
          {
             "name":"應該",
-            "url":"/media/sounds/.mp3_qGHMTwb",
+            "url":"/media/sounds/m_fixed_qGHMTwb.mp3",
             "id":1090
          },
          {
             "name":"觀眾",
-            "url":"/media/sounds/.mp3_rg2HP9l",
+            "url":"/media/sounds/m_fixed_rg2HP9l.mp3",
             "id":1091
          },
          {
@@ -11717,102 +11717,102 @@ export default [
          },
          {
             "name":"だめだね～",
-            "url":"/media/sounds/.mp3_9I41r0W",
+            "url":"/media/sounds/m_fixed_9I41r0W.mp3",
             "id":1093
          },
          {
             "name":"だめよ～",
-            "url":"/media/sounds/.mp3_CmFveR7",
+            "url":"/media/sounds/m_fixed_CmFveR7.mp3",
             "id":1094
          },
          {
             "name":"だめ幹你娘",
-            "url":"/media/sounds/.mp3_lm4HSGb",
+            "url":"/media/sounds/m_fixed_lm4HSGb.mp3",
             "id":1095
          },
          {
             "name":"不可能",
-            "url":"/media/sounds/.mp3_aI2T5Fi",
+            "url":"/media/sounds/m_fixed_aI2T5Fi.mp3",
             "id":1097
          },
          {
             "name":"太簡單了吧",
-            "url":"/media/sounds/.mp3_Y1v7aeF",
+            "url":"/media/sounds/m_fixed_Y1v7aeF.mp3",
             "id":1098
          },
          {
             "name":"到底",
-            "url":"/media/sounds/.mp3_YL3dsVS",
+            "url":"/media/sounds/m_fixed_YL3dsVS.mp3",
             "id":1099
          },
          {
             "name":"發生什麼事",
-            "url":"/media/sounds/.mp3_QNCeIVc",
+            "url":"/media/sounds/m_fixed_QNCeIVc.mp3",
             "id":1100
          },
          {
             "name":"消費",
-            "url":"/media/sounds/.mp3_ZrW2qsy",
+            "url":"/media/sounds/m_fixed_ZrW2qsy.mp3",
             "id":1109
          },
          {
             "name":"不要靠近我",
-            "url":"/media/sounds/.mp3_e0PAoEH",
+            "url":"/media/sounds/m_fixed_e0PAoEH.mp3",
             "id":1145
          },
          {
             "name":"他",
-            "url":"/media/sounds/.mp3_FFuannN",
+            "url":"/media/sounds/m_fixed_FFuannN.mp3",
             "id":1146
          },
          {
             "name":"好好",
-            "url":"/media/sounds/.mp3_jzU4Us4",
+            "url":"/media/sounds/m_fixed_jzU4Us4.mp3",
             "id":1147
          },
          {
             "name":"你怎麼知道我要講什麼？",
-            "url":"/media/sounds/.mp3_0QysJdz",
+            "url":"/media/sounds/m_fixed_0QysJdz.mp3",
             "id":1148
          },
          {
             "name":"你是我屁眼的蟲是不是？",
-            "url":"/media/sounds/.mp3_o3pdcxD",
+            "url":"/media/sounds/m_fixed_o3pdcxD.mp3",
             "id":1149
          },
          {
             "name":"我找一下啊",
-            "url":"/media/sounds/.mp3_Ro5kL5F",
+            "url":"/media/sounds/m_fixed_Ro5kL5F.mp3",
             "id":1150
          },
          {
             "name":"我很害怕",
-            "url":"/media/sounds/.mp3_aihrupI",
+            "url":"/media/sounds/m_fixed_aihrupI.mp3",
             "id":1151
          },
          {
             "name":"走開",
-            "url":"/media/sounds/.mp3_if8Onww",
+            "url":"/media/sounds/m_fixed_if8Onww.mp3",
             "id":1152
          },
          {
             "name":"那個",
-            "url":"/media/sounds/.mp3_rSxEhr5",
+            "url":"/media/sounds/m_fixed_rSxEhr5.mp3",
             "id":1153
          },
          {
             "name":"來我的",
-            "url":"/media/sounds/.mp3_69mRcuW",
+            "url":"/media/sounds/m_fixed_69mRcuW.mp3",
             "id":1154
          },
          {
             "name":"風塵僕僕",
-            "url":"/media/sounds/.mp3_BfBj0rg",
+            "url":"/media/sounds/m_fixed_BfBj0rg.mp3",
             "id":1155
          },
          {
             "name":"脫了",
-            "url":"/media/sounds/.mp3_AZb0MCE",
+            "url":"/media/sounds/m_fixed_AZb0MCE.mp3",
             "id":1156
          },
          {
@@ -11822,287 +11822,287 @@ export default [
          },
          {
             "name":"等我一下",
-            "url":"/media/sounds/.mp3_vtc0OK0",
+            "url":"/media/sounds/m_fixed_vtc0OK0.mp3",
             "id":1158
          },
          {
             "name":"開",
-            "url":"/media/sounds/.mp3_gXFeRN1",
+            "url":"/media/sounds/m_fixed_gXFeRN1.mp3",
             "id":1159
          },
          {
             "name":"爛",
-            "url":"/media/sounds/.mp3_dlyLRoN",
+            "url":"/media/sounds/m_fixed_dlyLRoN.mp3",
             "id":1161
          },
          {
             "name":"讓",
-            "url":"/media/sounds/.mp3_eccV7UZ",
+            "url":"/media/sounds/m_fixed_eccV7UZ.mp3",
             "id":1162
          },
          {
             "name":"讓我",
-            "url":"/media/sounds/.mp3_fm8cyma",
+            "url":"/media/sounds/m_fixed_fm8cyma.mp3",
             "id":1163
          },
          {
             "name":"一坨",
-            "url":"/media/sounds/.mp3_0N84fY1",
+            "url":"/media/sounds/m_fixed_0N84fY1.mp3",
             "id":1164
          },
          {
             "name":"又回到最初的起點",
-            "url":"/media/sounds/.mp3_g2oTX4t",
+            "url":"/media/sounds/m_fixed_g2oTX4t.mp3",
             "id":1165
          },
          {
             "name":"不要急呀",
-            "url":"/media/sounds/.mp3_WxyP1Vh",
+            "url":"/media/sounds/m_fixed_WxyP1Vh.mp3",
             "id":1166
          },
          {
             "name":"不確定",
-            "url":"/media/sounds/.mp3_LX4snnI",
+            "url":"/media/sounds/m_fixed_LX4snnI.mp3",
             "id":1167
          },
          {
             "name":"五萬",
-            "url":"/media/sounds/.mp3_CoeOXE0",
+            "url":"/media/sounds/m_fixed_CoeOXE0.mp3",
             "id":1168
          },
          {
             "name":"太累了",
-            "url":"/media/sounds/.mp3_7DhE52h",
+            "url":"/media/sounds/m_fixed_7DhE52h.mp3",
             "id":1169
          },
          {
             "name":"太難了吧",
-            "url":"/media/sounds/.mp3_hpJSzdw",
+            "url":"/media/sounds/m_fixed_hpJSzdw.mp3",
             "id":1170
          },
          {
             "name":"光頭",
-            "url":"/media/sounds/.mp3_RAcGOZa",
+            "url":"/media/sounds/m_fixed_RAcGOZa.mp3",
             "id":1171
          },
          {
             "name":"好了啦",
-            "url":"/media/sounds/.mp3_mbYzS8k",
+            "url":"/media/sounds/m_fixed_mbYzS8k.mp3",
             "id":1172
          },
          {
             "name":"好大喔",
-            "url":"/media/sounds/.mp3_YUnbHQU",
+            "url":"/media/sounds/m_fixed_YUnbHQU.mp3",
             "id":1173
          },
          {
             "name":"好累喔",
-            "url":"/media/sounds/.mp3_kZsoiGo",
+            "url":"/media/sounds/m_fixed_kZsoiGo.mp3",
             "id":1174
          },
          {
             "name":"是的",
-            "url":"/media/sounds/.mp3_ogaKn33",
+            "url":"/media/sounds/m_fixed_ogaKn33.mp3",
             "id":1175
          },
          {
             "name":"看到了",
-            "url":"/media/sounds/.mp3_XxXUuVC",
+            "url":"/media/sounds/m_fixed_XxXUuVC.mp3",
             "id":1176
          },
          {
             "name":"看看那黑洞的屁眼",
-            "url":"/media/sounds/.mp3_XnqiE1Y",
+            "url":"/media/sounds/m_fixed_XnqiE1Y.mp3",
             "id":1177
          },
          {
             "name":"哭得唏哩花啦",
-            "url":"/media/sounds/.mp3_Iv3NSP3",
+            "url":"/media/sounds/m_fixed_Iv3NSP3.mp3",
             "id":1178
          },
          {
             "name":"真的狂哭啊",
-            "url":"/media/sounds/.mp3_yxJ7PSW",
+            "url":"/media/sounds/m_fixed_yxJ7PSW.mp3",
             "id":1179
          },
          {
             "name":"麻煩的要死",
-            "url":"/media/sounds/.mp3_agDimNq",
+            "url":"/media/sounds/m_fixed_agDimNq.mp3",
             "id":1180
          },
          {
             "name":"唾液",
-            "url":"/media/sounds/.mp3_ZCBMQfs",
+            "url":"/media/sounds/m_fixed_ZCBMQfs.mp3",
             "id":1181
          },
          {
             "name":"喔幹",
-            "url":"/media/sounds/.mp3_VdSqSjx",
+            "url":"/media/sounds/m_fixed_VdSqSjx.mp3",
             "id":1182
          },
          {
             "name":"超大隻的",
-            "url":"/media/sounds/.mp3_6Xtd4hO",
+            "url":"/media/sounds/m_fixed_6Xtd4hO.mp3",
             "id":1183
          },
          {
             "name":"慢慢來啦",
-            "url":"/media/sounds/.mp3_sLZmUWc",
+            "url":"/media/sounds/m_fixed_sLZmUWc.mp3",
             "id":1184
          },
          {
             "name":"離我那麼進",
-            "url":"/media/sounds/.mp3_t1Brfjj",
+            "url":"/media/sounds/m_fixed_t1Brfjj.mp3",
             "id":1185
          },
          {
             "name":"一根菸",
-            "url":"/media/sounds/.mp3_CMJAFPM",
+            "url":"/media/sounds/m_fixed_CMJAFPM.mp3",
             "id":1231
          },
          {
             "name":"大哥",
-            "url":"/media/sounds/.mp3_eVOj5Ax",
+            "url":"/media/sounds/m_fixed_eVOj5Ax.mp3",
             "id":1232
          },
          {
             "name":"不要啦",
-            "url":"/media/sounds/.mp3_fngPRAE",
+            "url":"/media/sounds/m_fixed_fngPRAE.mp3",
             "id":1233
          },
          {
             "name":"什麼好康的？",
-            "url":"/media/sounds/.mp3_ougvjp2",
+            "url":"/media/sounds/m_fixed_ougvjp2.mp3",
             "id":1234
          },
          {
             "name":"內鬥內行",
-            "url":"/media/sounds/.mp3_9SALtv2",
+            "url":"/media/sounds/m_fixed_9SALtv2.mp3",
             "id":1235
          },
          {
             "name":"外鬥外行",
-            "url":"/media/sounds/.mp3_Q5P0i3p",
+            "url":"/media/sounds/m_fixed_Q5P0i3p.mp3",
             "id":1236
          },
          {
             "name":"好可憐喔",
-            "url":"/media/sounds/.mp3_AV2WEWM",
+            "url":"/media/sounds/m_fixed_AV2WEWM.mp3",
             "id":1237
          },
          {
             "name":"有",
-            "url":"/media/sounds/.mp3_Jsc9ZlE",
+            "url":"/media/sounds/m_fixed_Jsc9ZlE.mp3",
             "id":1238
          },
          {
             "name":"有話好說啦",
-            "url":"/media/sounds/.mp3_h1LEd5b",
+            "url":"/media/sounds/m_fixed_h1LEd5b.mp3",
             "id":1239
          },
          {
             "name":"我今天就是要大開殺戒",
-            "url":"/media/sounds/.mp3_X64f00v",
+            "url":"/media/sounds/m_fixed_X64f00v.mp3",
             "id":1240
          },
          {
             "name":"我手一捏",
-            "url":"/media/sounds/.mp3_I52Az26",
+            "url":"/media/sounds/m_fixed_I52Az26.mp3",
             "id":1241
          },
          {
             "name":"我是怎麼教你們的？",
-            "url":"/media/sounds/.mp3_dDOIdRF",
+            "url":"/media/sounds/m_fixed_dDOIdRF.mp3",
             "id":1242
          },
          {
             "name":"沒了",
-            "url":"/media/sounds/.mp3_w7G6bwo",
+            "url":"/media/sounds/m_fixed_w7G6bwo.mp3",
             "id":1243
          },
          {
             "name":"沒電",
-            "url":"/media/sounds/.mp3_n2J99FQ",
+            "url":"/media/sounds/m_fixed_n2J99FQ.mp3",
             "id":1244
          },
          {
             "name":"來一根啦",
-            "url":"/media/sounds/.mp3_Mus41XI",
+            "url":"/media/sounds/m_fixed_Mus41XI.mp3",
             "id":1245
          },
          {
             "name":"抽菸",
-            "url":"/media/sounds/.mp3_ZkcIz6r",
+            "url":"/media/sounds/m_fixed_ZkcIz6r.mp3",
             "id":1246
          },
          {
             "name":"炎上",
-            "url":"/media/sounds/.mp3_Qn3dD43",
+            "url":"/media/sounds/m_fixed_Qn3dD43.mp3",
             "id":1247
          },
          {
             "name":"的",
-            "url":"/media/sounds/.mp3_eDim9Z4",
+            "url":"/media/sounds/m_fixed_eDim9Z4.mp3",
             "id":1248
          },
          {
             "name":"知道嗎？",
-            "url":"/media/sounds/.mp3_hl4Ufrf",
+            "url":"/media/sounds/m_fixed_hl4Ufrf.mp3",
             "id":1249
          },
          {
             "name":"保證你們都",
-            "url":"/media/sounds/.mp3_08J7OiO",
+            "url":"/media/sounds/m_fixed_08J7OiO.mp3",
             "id":1250
          },
          {
             "name":"故事",
-            "url":"/media/sounds/.mp3_fiLWZmY",
+            "url":"/media/sounds/m_fixed_fiLWZmY.mp3",
             "id":1251
          },
          {
             "name":"紅水",
-            "url":"/media/sounds/.mp3_CHzkDrs",
+            "url":"/media/sounds/m_fixed_CHzkDrs.mp3",
             "id":1252
          },
          {
             "name":"胡搞瞎搞",
-            "url":"/media/sounds/.mp3_b0AvZuq",
+            "url":"/media/sounds/m_fixed_b0AvZuq.mp3",
             "id":1253
          },
          {
             "name":"要來一根嗎？",
-            "url":"/media/sounds/.mp3_5lVKv0A",
+            "url":"/media/sounds/m_fixed_5lVKv0A.mp3",
             "id":1254
          },
          {
             "name":"拿",
-            "url":"/media/sounds/.mp3_7jONWyd",
+            "url":"/media/sounds/m_fixed_7jONWyd.mp3",
             "id":1255
          },
          {
             "name":"討債",
-            "url":"/media/sounds/.mp3_G7EBGTT",
+            "url":"/media/sounds/m_fixed_G7EBGTT.mp3",
             "id":1256
          },
          {
             "name":"商店",
-            "url":"/media/sounds/.mp3_AoK0gZ3",
+            "url":"/media/sounds/m_fixed_AoK0gZ3.mp3",
             "id":1257
          },
          {
             "name":"帶",
-            "url":"/media/sounds/.mp3_dgL4m5D",
+            "url":"/media/sounds/m_fixed_dgL4m5D.mp3",
             "id":1258
          },
          {
             "name":"清流",
-            "url":"/media/sounds/.mp3_NdEzOfD",
+            "url":"/media/sounds/m_fixed_NdEzOfD.mp3",
             "id":1259
          },
          {
             "name":"現世報",
-            "url":"/media/sounds/.mp3_gZ5dD93",
+            "url":"/media/sounds/m_fixed_gZ5dD93.mp3",
             "id":1260
          },
          {
@@ -12112,12 +12112,12 @@ export default [
          },
          {
             "name":"給",
-            "url":"/media/sounds/.mp3_EQlyjhC",
+            "url":"/media/sounds/m_fixed_EQlyjhC.mp3",
             "id":1263
          },
          {
             "name":"買一些",
-            "url":"/media/sounds/.mp3_x1GeSNq",
+            "url":"/media/sounds/m_fixed_x1GeSNq.mp3",
             "id":1265
          },
          {
@@ -12127,57 +12127,57 @@ export default [
          },
          {
             "name":"藍水",
-            "url":"/media/sounds/.mp3_rGyfPG0",
+            "url":"/media/sounds/m_fixed_rGyfPG0.mp3",
             "id":1267
          },
          {
             "name":"壞掉了",
-            "url":"/media/sounds/.mp3_7J70HYt",
+            "url":"/media/sounds/m_fixed_7J70HYt.mp3",
             "id":1268
          },
          {
             "name":"讓你",
-            "url":"/media/sounds/.mp3_EoGT8jm",
+            "url":"/media/sounds/m_fixed_EoGT8jm.mp3",
             "id":1269
          },
          {
             "name":"準備囉",
-            "url":"/media/sounds/.mp3_HmjjWpl",
+            "url":"/media/sounds/m_fixed_HmjjWpl.mp3",
             "id":1271
          },
          {
             "name":"齊心向內",
-            "url":"/media/sounds/.mp3_s6VIaqo",
+            "url":"/media/sounds/m_fixed_s6VIaqo.mp3",
             "id":1272
          },
          {
             "name":"齊心向外",
-            "url":"/media/sounds/.mp3_hlbrsWZ",
+            "url":"/media/sounds/m_fixed_hlbrsWZ.mp3",
             "id":1273
          },
          {
             "name":"賣啦",
-            "url":"/media/sounds/.mp3_iCPjVYV",
+            "url":"/media/sounds/m_fixed_iCPjVYV.mp3",
             "id":1274
          },
          {
             "name":"太可惡了",
-            "url":"/media/sounds/.mp3_nWzmAyo",
+            "url":"/media/sounds/m_fixed_nWzmAyo.mp3",
             "id":1313
          },
          {
             "name":"插一柱香",
-            "url":"/media/sounds/.mp3_hikWmqP",
+            "url":"/media/sounds/m_fixed_hikWmqP.mp3",
             "id":1315
          },
          {
             "name":"跌倒",
-            "url":"/media/sounds/.mp3_4Xeg4pt",
+            "url":"/media/sounds/m_fixed_4Xeg4pt.mp3",
             "id":1316
          },
          {
             "name":"騙我啊？",
-            "url":"/media/sounds/.mp3_D9EJ8bK",
+            "url":"/media/sounds/m_fixed_D9EJ8bK.mp3",
             "id":1317
          },
          {
@@ -12192,162 +12192,162 @@ export default [
          },
          {
             "name":"一句話",
-            "url":"/media/sounds/.mp3_PopFNCa",
+            "url":"/media/sounds/m_fixed_PopFNCa.mp3",
             "id":1321
          },
          {
             "name":"人工智慧",
-            "url":"/media/sounds/.mp3_plLtXYV",
+            "url":"/media/sounds/m_fixed_plLtXYV.mp3",
             "id":1322
          },
          {
             "name":"不見了",
-            "url":"/media/sounds/.mp3_dfNFoHQ",
+            "url":"/media/sounds/m_fixed_dfNFoHQ.mp3",
             "id":1323
          },
          {
             "name":"不要在那邊",
-            "url":"/media/sounds/.mp3_AqnvibN",
+            "url":"/media/sounds/m_fixed_AqnvibN.mp3",
             "id":1324
          },
          {
             "name":"不會啊",
-            "url":"/media/sounds/.mp3_fBKeAJL",
+            "url":"/media/sounds/m_fixed_fBKeAJL.mp3",
             "id":1325
          },
          {
             "name":"母雞抖啊",
-            "url":"/media/sounds/.mp3_DvtlfNV",
+            "url":"/media/sounds/m_fixed_DvtlfNV.mp3",
             "id":1326
          },
          {
             "name":"吃錢啦～",
-            "url":"/media/sounds/.mp3_lfGYjvt",
+            "url":"/media/sounds/m_fixed_lfGYjvt.mp3",
             "id":1327
          },
          {
             "name":"多屌啊",
-            "url":"/media/sounds/.mp3_n47Que6",
+            "url":"/media/sounds/m_fixed_n47Que6.mp3",
             "id":1328
          },
          {
             "name":"好安靜喔",
-            "url":"/media/sounds/.mp3_Kok5HDE",
+            "url":"/media/sounds/m_fixed_Kok5HDE.mp3",
             "id":1329
          },
          {
             "name":"我回來啦～",
-            "url":"/media/sounds/.mp3_hcB2yPt",
+            "url":"/media/sounds/m_fixed_hcB2yPt.mp3",
             "id":1330
          },
          {
             "name":"肚子餓了",
-            "url":"/media/sounds/.mp3_w7VtDSq",
+            "url":"/media/sounds/m_fixed_w7VtDSq.mp3",
             "id":1331
          },
          {
             "name":"每天",
-            "url":"/media/sounds/.mp3_RgmsSdq",
+            "url":"/media/sounds/m_fixed_RgmsSdq.mp3",
             "id":1332
          },
          {
             "name":"沒有人敢跟你嘴砲",
-            "url":"/media/sounds/.mp3_n5s9Shf",
+            "url":"/media/sounds/m_fixed_n5s9Shf.mp3",
             "id":1333
          },
          {
             "name":"肚子",
-            "url":"/media/sounds/.mp3_wMIwyXh",
+            "url":"/media/sounds/m_fixed_wMIwyXh.mp3",
             "id":1334
          },
          {
             "name":"拋棄",
-            "url":"/media/sounds/.mp3_m33xhpf",
+            "url":"/media/sounds/m_fixed_m33xhpf.mp3",
             "id":1335
          },
          {
             "name":"放著(台)",
-            "url":"/media/sounds/.mp3_2AByD62",
+            "url":"/media/sounds/m_fixed_2AByD62.mp3",
             "id":1336
          },
          {
             "name":"阿嬤",
-            "url":"/media/sounds/.mp3_ziZUWD1",
+            "url":"/media/sounds/m_fixed_ziZUWD1.mp3",
             "id":1337
          },
          {
             "name":"怎麼辦到的？",
-            "url":"/media/sounds/.mp3_UYwHn5Q",
+            "url":"/media/sounds/m_fixed_UYwHn5Q.mp3",
             "id":1338
          },
          {
             "name":"怎模變成這樣？",
-            "url":"/media/sounds/.mp3_VneNykU",
+            "url":"/media/sounds/m_fixed_VneNykU.mp3",
             "id":1339
          },
          {
             "name":"要開了嗎？要開了嗎？",
-            "url":"/media/sounds/.mp3_uJINI7w",
+            "url":"/media/sounds/m_fixed_uJINI7w.mp3",
             "id":1341
          },
          {
             "name":"骨灰",
-            "url":"/media/sounds/.mp3_xq9M5j0",
+            "url":"/media/sounds/m_fixed_xq9M5j0.mp3",
             "id":1342
          },
          {
             "name":"晚點啦",
-            "url":"/media/sounds/.mp3_C6pqVGG",
+            "url":"/media/sounds/m_fixed_C6pqVGG.mp3",
             "id":1343
          },
          {
             "name":"就決定是你了",
-            "url":"/media/sounds/.mp3_SjGQ37g",
+            "url":"/media/sounds/m_fixed_SjGQ37g.mp3",
             "id":1344
          },
          {
             "name":"超有效率的ㄟ",
-            "url":"/media/sounds/.mp3_1FyLF1N",
+            "url":"/media/sounds/m_fixed_1FyLF1N.mp3",
             "id":1345
          },
          {
             "name":"黑歷史",
-            "url":"/media/sounds/.mp3_cuzxnvG",
+            "url":"/media/sounds/m_fixed_cuzxnvG.mp3",
             "id":1346
          },
          {
             "name":"幹哇操",
-            "url":"/media/sounds/.mp3_tUiacAA",
+            "url":"/media/sounds/m_fixed_tUiacAA.mp3",
             "id":1347
          },
          {
             "name":"幹話！",
-            "url":"/media/sounds/.mp3_y97OPI2",
+            "url":"/media/sounds/m_fixed_y97OPI2.mp3",
             "id":1348
          },
          {
             "name":"機器人",
-            "url":"/media/sounds/.mp3_khiOjoD",
+            "url":"/media/sounds/m_fixed_khiOjoD.mp3",
             "id":1349
          },
          {
             "name":"檢查",
-            "url":"/media/sounds/.mp3_iTTJSf6",
+            "url":"/media/sounds/m_fixed_iTTJSf6.mp3",
             "id":1350
          },
          {
             "name":"講",
-            "url":"/media/sounds/.mp3_jjgmcv3",
+            "url":"/media/sounds/m_fixed_jjgmcv3.mp3",
             "id":1351
          },
          {
             "name":"顆",
-            "url":"/media/sounds/.mp3_i4iv67Z",
+            "url":"/media/sounds/m_fixed_i4iv67Z.mp3",
             "id":1352
          },
          {
             "name":"騙",
-            "url":"/media/sounds/.mp3_eeyrNVq",
+            "url":"/media/sounds/m_fixed_eeyrNVq.mp3",
             "id":1353
          },
          {
@@ -12357,27 +12357,27 @@ export default [
          },
          {
             "name":"ㄩㄇ",
-            "url":"/media/sounds/.mp3_f6eZp4H",
+            "url":"/media/sounds/m_fixed_f6eZp4H.mp3",
             "id":1395
          },
          {
             "name":"一決勝負",
-            "url":"/media/sounds/.mp3_Hl6NbKP",
+            "url":"/media/sounds/m_fixed_Hl6NbKP.mp3",
             "id":1396
          },
          {
             "name":"一杯",
-            "url":"/media/sounds/.mp3_kfn7kmg",
+            "url":"/media/sounds/m_fixed_kfn7kmg.mp3",
             "id":1397
          },
          {
             "name":"大",
-            "url":"/media/sounds/.mp3_2RafV36",
+            "url":"/media/sounds/m_fixed_2RafV36.mp3",
             "id":1398
          },
          {
             "name":"大撒幣囉",
-            "url":"/media/sounds/.mp3_i6SETEL",
+            "url":"/media/sounds/m_fixed_i6SETEL.mp3",
             "id":1399
          },
          {
@@ -12387,102 +12387,102 @@ export default [
          },
          {
             "name":"不要再打了",
-            "url":"/media/sounds/.mp3_nFbUlAy",
+            "url":"/media/sounds/m_fixed_nFbUlAy.mp3",
             "id":1401
          },
          {
             "name":"他只是贏了",
-            "url":"/media/sounds/.mp3_HGk86oU",
+            "url":"/media/sounds/m_fixed_HGk86oU.mp3",
             "id":1404
          },
          {
             "name":"出來啊",
-            "url":"/media/sounds/.mp3_WgD6yxq",
+            "url":"/media/sounds/m_fixed_WgD6yxq.mp3",
             "id":1405
          },
          {
             "name":"去去原稿走",
-            "url":"/media/sounds/.mp3_CpJuEtZ",
+            "url":"/media/sounds/m_fixed_CpJuEtZ.mp3",
             "id":1406
          },
          {
             "name":"去你們的家",
-            "url":"/media/sounds/.mp3_KPyA9Go",
+            "url":"/media/sounds/m_fixed_KPyA9Go.mp3",
             "id":1407
          },
          {
             "name":"台灣人",
-            "url":"/media/sounds/.mp3_wGXhlQY",
+            "url":"/media/sounds/m_fixed_wGXhlQY.mp3",
             "id":1408
          },
          {
             "name":"生為一個",
-            "url":"/media/sounds/.mp3_nXpsu5q",
+            "url":"/media/sounds/m_fixed_nXpsu5q.mp3",
             "id":1410
          },
          {
             "name":"回去囉",
-            "url":"/media/sounds/.mp3_ZZ3sG3s",
+            "url":"/media/sounds/m_fixed_ZZ3sG3s.mp3",
             "id":1412
          },
          {
             "name":"好喔",
-            "url":"/media/sounds/.mp3_8h3iyHi",
+            "url":"/media/sounds/m_fixed_8h3iyHi.mp3",
             "id":1413
          },
          {
             "name":"好痛啊",
-            "url":"/media/sounds/.mp3_L9JvXvi",
+            "url":"/media/sounds/m_fixed_L9JvXvi.mp3",
             "id":1414
          },
          {
             "name":"好貴喔",
-            "url":"/media/sounds/.mp3_J5aKmT4",
+            "url":"/media/sounds/m_fixed_J5aKmT4.mp3",
             "id":1415
          },
          {
             "name":"如果您沒上車的話",
-            "url":"/media/sounds/.mp3_I2jEGww",
+            "url":"/media/sounds/m_fixed_I2jEGww.mp3",
             "id":1416
          },
          {
             "name":"旨い",
-            "url":"/media/sounds/.mp3_DwuBngf",
+            "url":"/media/sounds/m_fixed_DwuBngf.mp3",
             "id":1417
          },
          {
             "name":"有在嘛(台)",
-            "url":"/media/sounds/.mp3_WnYzTH7",
+            "url":"/media/sounds/m_fixed_WnYzTH7.mp3",
             "id":1418
          },
          {
             "name":"有空",
-            "url":"/media/sounds/.mp3_nBWxfpe",
+            "url":"/media/sounds/m_fixed_nBWxfpe.mp3",
             "id":1419
          },
          {
             "name":"竹墊",
-            "url":"/media/sounds/.mp3_k2gd34J",
+            "url":"/media/sounds/m_fixed_k2gd34J.mp3",
             "id":1420
          },
          {
             "name":"自己投降",
-            "url":"/media/sounds/.mp3_DhNVJJ6",
+            "url":"/media/sounds/m_fixed_DhNVJJ6.mp3",
             "id":1421
          },
          {
             "name":"住手",
-            "url":"/media/sounds/.mp3_HJlweh9",
+            "url":"/media/sounds/m_fixed_HJlweh9.mp3",
             "id":1422
          },
          {
             "name":"你怎麼在這？",
-            "url":"/media/sounds/.mp3_1TwPSIc",
+            "url":"/media/sounds/m_fixed_1TwPSIc.mp3",
             "id":1423
          },
          {
             "name":"你要不要吃？",
-            "url":"/media/sounds/.mp3_QglRfME",
+            "url":"/media/sounds/m_fixed_QglRfME.mp3",
             "id":1424
          },
          {
@@ -12492,42 +12492,42 @@ export default [
          },
          {
             "name":"你們",
-            "url":"/media/sounds/.mp3_x158etT",
+            "url":"/media/sounds/m_fixed_x158etT.mp3",
             "id":1426
          },
          {
             "name":"我們的誠意",
-            "url":"/media/sounds/.mp3_YKmAAIS",
+            "url":"/media/sounds/m_fixed_YKmAAIS.mp3",
             "id":1427
          },
          {
             "name":"沒上車的旅客",
-            "url":"/media/sounds/.mp3_kA26c9s",
+            "url":"/media/sounds/m_fixed_kA26c9s.mp3",
             "id":1428
          },
          {
             "name":"沒錢了",
-            "url":"/media/sounds/.mp3_mTi7QGS",
+            "url":"/media/sounds/m_fixed_mTi7QGS.mp3",
             "id":1429
          },
          {
             "name":"車要開了",
-            "url":"/media/sounds/.mp3_bJtmYtq",
+            "url":"/media/sounds/m_fixed_bJtmYtq.mp3",
             "id":1430
          },
          {
             "name":"那～",
-            "url":"/media/sounds/.mp3_3RnNMrc",
+            "url":"/media/sounds/m_fixed_3RnNMrc.mp3",
             "id":1431
          },
          {
             "name":"削",
-            "url":"/media/sounds/.mp3_xEf8Jbn",
+            "url":"/media/sounds/m_fixed_xEf8Jbn.mp3",
             "id":1433
          },
          {
             "name":"哈密哈",
-            "url":"/media/sounds/.mp3_PafirJy",
+            "url":"/media/sounds/m_fixed_PafirJy.mp3",
             "id":1434
          },
          {
@@ -12537,132 +12537,132 @@ export default [
          },
          {
             "name":"怎麼啦？～",
-            "url":"/media/sounds/.mp3_8kMtHaY",
+            "url":"/media/sounds/m_fixed_8kMtHaY.mp3",
             "id":1436
          },
          {
             "name":"怎麼會這樣啊？(台)",
-            "url":"/media/sounds/.mp3_n6nyuyB",
+            "url":"/media/sounds/m_fixed_n6nyuyB.mp3",
             "id":1437
          },
          {
             "name":"是不是很好聽啊？",
-            "url":"/media/sounds/.mp3_Dy6BvmE",
+            "url":"/media/sounds/m_fixed_Dy6BvmE.mp3",
             "id":1438
          },
          {
             "name":"看我沒有餒",
-            "url":"/media/sounds/.mp3_hgflMa6",
+            "url":"/media/sounds/m_fixed_hgflMa6.mp3",
             "id":1439
          },
          {
             "name":"要打，去練舞室打",
-            "url":"/media/sounds/.mp3_Irnx8Ht",
+            "url":"/media/sounds/m_fixed_Irnx8Ht.mp3",
             "id":1440
          },
          {
             "name":"拿過來",
-            "url":"/media/sounds/.mp3_cCEAHY9",
+            "url":"/media/sounds/m_fixed_cCEAHY9.mp3",
             "id":1443
          },
          {
             "name":"真面目",
-            "url":"/media/sounds/.mp3_llQ1L9O",
+            "url":"/media/sounds/m_fixed_llQ1L9O.mp3",
             "id":1444
          },
          {
             "name":"草蓆",
-            "url":"/media/sounds/.mp3_5DG80zg",
+            "url":"/media/sounds/m_fixed_5DG80zg.mp3",
             "id":1445
          },
          {
             "name":"啊人呢(台)",
-            "url":"/media/sounds/.mp3_lKVuZsb",
+            "url":"/media/sounds/m_fixed_lKVuZsb.mp3",
             "id":1447
          },
          {
             "name":"被你發現了",
-            "url":"/media/sounds/.mp3_jw4twDJ",
+            "url":"/media/sounds/m_fixed_jw4twDJ.mp3",
             "id":1450
          },
          {
             "name":"結帳",
-            "url":"/media/sounds/.mp3_wTRTuyP",
+            "url":"/media/sounds/m_fixed_wTRTuyP.mp3",
             "id":1451
          },
          {
             "name":"開們！",
-            "url":"/media/sounds/.mp3_yacWKCp",
+            "url":"/media/sounds/m_fixed_yacWKCp.mp3",
             "id":1452
          },
          {
             "name":"傳送～",
-            "url":"/media/sounds/.mp3_9RQUfhq",
+            "url":"/media/sounds/m_fixed_9RQUfhq.mp3",
             "id":1453
          },
          {
             "name":"搶劫！",
-            "url":"/media/sounds/.mp3_x7UH09r",
+            "url":"/media/sounds/m_fixed_x7UH09r.mp3",
             "id":1454
          },
          {
             "name":"過來過來過來",
-            "url":"/media/sounds/.mp3_IyWcSZu",
+            "url":"/media/sounds/m_fixed_IyWcSZu.mp3",
             "id":1457
          },
          {
             "name":"影帝",
-            "url":"/media/sounds/.mp3_FxDt8SM",
+            "url":"/media/sounds/m_fixed_FxDt8SM.mp3",
             "id":1459
          },
          {
             "name":"請趕快上車",
-            "url":"/media/sounds/.mp3_mGh75M2",
+            "url":"/media/sounds/m_fixed_mGh75M2.mp3",
             "id":1461
          },
          {
             "name":"幫你泡杯",
-            "url":"/media/sounds/.mp3_Vgs530E",
+            "url":"/media/sounds/m_fixed_Vgs530E.mp3",
             "id":1462
          },
          {
             "name":"點點點點點",
-            "url":"/media/sounds/.mp3_MQWewJi",
+            "url":"/media/sounds/m_fixed_MQWewJi.mp3",
             "id":1463
          },
          {
             "name":"翻譯翻譯",
-            "url":"/media/sounds/.mp3_HpU9Dde",
+            "url":"/media/sounds/m_fixed_HpU9Dde.mp3",
             "id":1464
          },
          {
             "name":"囂張",
-            "url":"/media/sounds/.mp3_V4MNfiV",
+            "url":"/media/sounds/m_fixed_V4MNfiV.mp3",
             "id":1466
          },
          {
             "name":"讓車爬樹",
-            "url":"/media/sounds/.mp3_hIki3gP",
+            "url":"/media/sounds/m_fixed_hIki3gP.mp3",
             "id":1467
          },
          {
             "name":"お願いマッスル",
-            "url":"/media/sounds/.mp3_wPtrQGn",
+            "url":"/media/sounds/m_fixed_wPtrQGn.mp3",
             "id":1521
          },
          {
             "name":"一切",
-            "url":"/media/sounds/.mp3_7f4AfPA",
+            "url":"/media/sounds/m_fixed_7f4AfPA.mp3",
             "id":1522
          },
          {
             "name":"土下坐",
-            "url":"/media/sounds/.mp3_gvost5l",
+            "url":"/media/sounds/m_fixed_gvost5l.mp3",
             "id":1523
          },
          {
             "name":"不正常",
-            "url":"/media/sounds/.mp3_8DdhlFM",
+            "url":"/media/sounds/m_fixed_8DdhlFM.mp3",
             "id":1524
          },
          {
@@ -12672,57 +12672,57 @@ export default [
          },
          {
             "name":"不要騙我啊",
-            "url":"/media/sounds/.mp3_u6BZBra",
+            "url":"/media/sounds/m_fixed_u6BZBra.mp3",
             "id":1526
          },
          {
             "name":"什麼意思啊？",
-            "url":"/media/sounds/.mp3_AhhmrlN",
+            "url":"/media/sounds/m_fixed_AhhmrlN.mp3",
             "id":1527
          },
          {
             "name":"內鬼",
-            "url":"/media/sounds/.mp3_jAZGEsY",
+            "url":"/media/sounds/m_fixed_jAZGEsY.mp3",
             "id":1528
          },
          {
             "name":"公分",
-            "url":"/media/sounds/.mp3_OdpLwfF",
+            "url":"/media/sounds/m_fixed_OdpLwfF.mp3",
             "id":1529
          },
          {
             "name":"分かりました",
-            "url":"/media/sounds/.mp3_p5I2dqq",
+            "url":"/media/sounds/m_fixed_p5I2dqq.mp3",
             "id":1530
          },
          {
             "name":"反",
-            "url":"/media/sounds/.mp3_DIQnqSK",
+            "url":"/media/sounds/m_fixed_DIQnqSK.mp3",
             "id":1531
          },
          {
             "name":"他是我的",
-            "url":"/media/sounds/.mp3_QSL8LXI",
+            "url":"/media/sounds/m_fixed_QSL8LXI.mp3",
             "id":1532
          },
          {
             "name":"只是",
-            "url":"/media/sounds/.mp3_haP8s6j",
+            "url":"/media/sounds/m_fixed_haP8s6j.mp3",
             "id":1533
          },
          {
             "name":"打不到我",
-            "url":"/media/sounds/.mp3_uxHneLv",
+            "url":"/media/sounds/m_fixed_uxHneLv.mp3",
             "id":1534
          },
          {
             "name":"皮在癢",
-            "url":"/media/sounds/.mp3_mLQYw00",
+            "url":"/media/sounds/m_fixed_mLQYw00.mp3",
             "id":1535
          },
          {
             "name":"好",
-            "url":"/media/sounds/.mp3_AskukW5",
+            "url":"/media/sounds/m_fixed_AskukW5.mp3",
             "id":1536
          },
          {
@@ -12742,147 +12742,147 @@ export default [
          },
          {
             "name":"有2",
-            "url":"/media/sounds/.mp3_Y5jlMnj",
+            "url":"/media/sounds/m_fixed_Y5jlMnj.mp3",
             "id":1540
          },
          {
             "name":"有毒ㄟ",
-            "url":"/media/sounds/.mp3_Yr7iYlW",
+            "url":"/media/sounds/m_fixed_Yr7iYlW.mp3",
             "id":1541
          },
          {
             "name":"有問題喔",
-            "url":"/media/sounds/.mp3_l0l1aRf",
+            "url":"/media/sounds/m_fixed_l0l1aRf.mp3",
             "id":1542
          },
          {
             "name":"老實招來",
-            "url":"/media/sounds/.mp3_aNx5dX0",
+            "url":"/media/sounds/m_fixed_aNx5dX0.mp3",
             "id":1543
          },
          {
             "name":"自己",
-            "url":"/media/sounds/.mp3_HlQcC8Z",
+            "url":"/media/sounds/m_fixed_HlQcC8Z.mp3",
             "id":1544
          },
          {
             "name":"何？",
-            "url":"/media/sounds/.mp3_M0UVIT0",
+            "url":"/media/sounds/m_fixed_M0UVIT0.mp3",
             "id":1545
          },
          {
             "name":"何？～～",
-            "url":"/media/sounds/.mp3_FwK5DxT",
+            "url":"/media/sounds/m_fixed_FwK5DxT.mp3",
             "id":1546
          },
          {
             "name":"你不要靠近我",
-            "url":"/media/sounds/.mp3_PkWrbt5",
+            "url":"/media/sounds/m_fixed_PkWrbt5.mp3",
             "id":1547
          },
          {
             "name":"你最好給我",
-            "url":"/media/sounds/.mp3_Cp5NZX6",
+            "url":"/media/sounds/m_fixed_Cp5NZX6.mp3",
             "id":1548
          },
          {
             "name":"你跟我說",
-            "url":"/media/sounds/.mp3_BuPQEsd",
+            "url":"/media/sounds/m_fixed_BuPQEsd.mp3",
             "id":1549
          },
          {
             "name":"別再打了啦(台)",
-            "url":"/media/sounds/.mp3_ewZuVHI",
+            "url":"/media/sounds/m_fixed_ewZuVHI.mp3",
             "id":1550
          },
          {
             "name":"呆",
-            "url":"/media/sounds/.mp3_guPj0gG",
+            "url":"/media/sounds/m_fixed_guPj0gG.mp3",
             "id":1551
          },
          {
             "name":"屁滾尿流",
-            "url":"/media/sounds/.mp3_jhf5Fcl",
+            "url":"/media/sounds/m_fixed_jhf5Fcl.mp3",
             "id":1552
          },
          {
             "name":"我又活囉",
-            "url":"/media/sounds/.mp3_QveOT27",
+            "url":"/media/sounds/m_fixed_QveOT27.mp3",
             "id":1553
          },
          {
             "name":"我的小孩啊",
-            "url":"/media/sounds/.mp3_GPEVXH3",
+            "url":"/media/sounds/m_fixed_GPEVXH3.mp3",
             "id":1554
          },
          {
             "name":"我是你的話",
-            "url":"/media/sounds/.mp3_609xfMT",
+            "url":"/media/sounds/m_fixed_609xfMT.mp3",
             "id":1555
          },
          {
             "name":"扳手",
-            "url":"/media/sounds/.mp3_k7Icmx3",
+            "url":"/media/sounds/m_fixed_k7Icmx3.mp3",
             "id":1556
          },
          {
             "name":"抓到",
-            "url":"/media/sounds/.mp3_otNTZjF",
+            "url":"/media/sounds/m_fixed_otNTZjF.mp3",
             "id":1557
          },
          {
             "name":"抓到了",
-            "url":"/media/sounds/.mp3_u3qu6lt",
+            "url":"/media/sounds/m_fixed_u3qu6lt.mp3",
             "id":1558
          },
          {
             "name":"男生",
-            "url":"/media/sounds/.mp3_6h9x3Yp",
+            "url":"/media/sounds/m_fixed_6h9x3Yp.mp3",
             "id":1559
          },
          {
             "name":"見てて",
-            "url":"/media/sounds/.mp3_ppR07L9",
+            "url":"/media/sounds/m_fixed_ppR07L9.mp3",
             "id":1560
          },
          {
             "name":"那",
-            "url":"/media/sounds/.mp3_974rjt0",
+            "url":"/media/sounds/m_fixed_974rjt0.mp3",
             "id":1561
          },
          {
             "name":"防",
-            "url":"/media/sounds/.mp3_56G22AI",
+            "url":"/media/sounds/m_fixed_56G22AI.mp3",
             "id":1562
          },
          {
             "name":"妹妹",
-            "url":"/media/sounds/.mp3_OpvShsH",
+            "url":"/media/sounds/m_fixed_OpvShsH.mp3",
             "id":1563
          },
          {
             "name":"或者是～",
-            "url":"/media/sounds/.mp3_sUAZk3k",
+            "url":"/media/sounds/m_fixed_sUAZk3k.mp3",
             "id":1564
          },
          {
             "name":"肥",
-            "url":"/media/sounds/.mp3_cO1MP03",
+            "url":"/media/sounds/m_fixed_cO1MP03.mp3",
             "id":1565
          },
          {
             "name":"保母",
-            "url":"/media/sounds/.mp3_ovl60VP",
+            "url":"/media/sounds/m_fixed_ovl60VP.mp3",
             "id":1566
          },
          {
             "name":"前面",
-            "url":"/media/sounds/.mp3_bVZE4R3",
+            "url":"/media/sounds/m_fixed_bVZE4R3.mp3",
             "id":1567
          },
          {
             "name":"哀號",
-            "url":"/media/sounds/.mp3_JJY4MrR",
+            "url":"/media/sounds/m_fixed_JJY4MrR.mp3",
             "id":1568
          },
          {
@@ -12897,57 +12897,57 @@ export default [
          },
          {
             "name":"屌你的老毛～",
-            "url":"/media/sounds/.mp3_4ChnH0G",
+            "url":"/media/sounds/m_fixed_4ChnH0G.mp3",
             "id":1571
          },
          {
             "name":"很大的",
-            "url":"/media/sounds/.mp3_eamQXqB",
+            "url":"/media/sounds/m_fixed_eamQXqB.mp3",
             "id":1572
          },
          {
             "name":"挖鼻孔",
-            "url":"/media/sounds/.mp3_A70d6WQ",
+            "url":"/media/sounds/m_fixed_A70d6WQ.mp3",
             "id":1573
          },
          {
             "name":"洗個澡",
-            "url":"/media/sounds/.mp3_eA5tAbP",
+            "url":"/media/sounds/m_fixed_eA5tAbP.mp3",
             "id":1574
          },
          {
             "name":"倒下",
-            "url":"/media/sounds/.mp3_kbzt9Fl",
+            "url":"/media/sounds/m_fixed_kbzt9Fl.mp3",
             "id":1575
          },
          {
             "name":"晃動",
-            "url":"/media/sounds/.mp3_QPLhbSZ",
+            "url":"/media/sounds/m_fixed_QPLhbSZ.mp3",
             "id":1576
          },
          {
             "name":"氣息",
-            "url":"/media/sounds/.mp3_vwVRp4Q",
+            "url":"/media/sounds/m_fixed_vwVRp4Q.mp3",
             "id":1577
          },
          {
             "name":"真的假的？",
-            "url":"/media/sounds/.mp3_LeoyaHZ",
+            "url":"/media/sounds/m_fixed_LeoyaHZ.mp3",
             "id":1578
          },
          {
             "name":"砸",
-            "url":"/media/sounds/.mp3_IDUGDk5",
+            "url":"/media/sounds/m_fixed_IDUGDk5.mp3",
             "id":1579
          },
          {
             "name":"草帽",
-            "url":"/media/sounds/.mp3_wfCYUUE",
+            "url":"/media/sounds/m_fixed_wfCYUUE.mp3",
             "id":1580
          },
          {
             "name":"假的",
-            "url":"/media/sounds/.mp3_gElSpbv",
+            "url":"/media/sounds/m_fixed_gElSpbv.mp3",
             "id":1581
          },
          {
@@ -12957,97 +12957,97 @@ export default [
          },
          {
             "name":"問一下",
-            "url":"/media/sounds/.mp3_orYSWkS",
+            "url":"/media/sounds/m_fixed_orYSWkS.mp3",
             "id":1583
          },
          {
             "name":"啦",
-            "url":"/media/sounds/.mp3_CakyzCo",
+            "url":"/media/sounds/m_fixed_CakyzCo.mp3",
             "id":1584
          },
          {
             "name":"掉",
-            "url":"/media/sounds/.mp3_cjVi7xB",
+            "url":"/media/sounds/m_fixed_cjVi7xB.mp3",
             "id":1585
          },
          {
             "name":"這女的是誰？",
-            "url":"/media/sounds/.mp3_J4T3h1j",
+            "url":"/media/sounds/m_fixed_J4T3h1j.mp3",
             "id":1586
          },
          {
             "name":"這個",
-            "url":"/media/sounds/.mp3_5wcb8ao",
+            "url":"/media/sounds/m_fixed_5wcb8ao.mp3",
             "id":1587
          },
          {
             "name":"這裡啊",
-            "url":"/media/sounds/.mp3_nivSLJR",
+            "url":"/media/sounds/m_fixed_nivSLJR.mp3",
             "id":1588
          },
          {
             "name":"都",
-            "url":"/media/sounds/.mp3_xnfsjpt",
+            "url":"/media/sounds/m_fixed_xnfsjpt.mp3",
             "id":1589
          },
          {
             "name":"都是",
-            "url":"/media/sounds/.mp3_gWNiFIN",
+            "url":"/media/sounds/m_fixed_gWNiFIN.mp3",
             "id":1590
          },
          {
             "name":"就這樣啦",
-            "url":"/media/sounds/.mp3_MX1lwHR",
+            "url":"/media/sounds/m_fixed_MX1lwHR.mp3",
             "id":1591
          },
          {
             "name":"悲傷",
-            "url":"/media/sounds/.mp3_j7C56ag",
+            "url":"/media/sounds/m_fixed_j7C56ag.mp3",
             "id":1592
          },
          {
             "name":"最好是個",
-            "url":"/media/sounds/.mp3_XySP5uR",
+            "url":"/media/sounds/m_fixed_XySP5uR.mp3",
             "id":1593
          },
          {
             "name":"裂痕",
-            "url":"/media/sounds/.mp3_07QSUcc",
+            "url":"/media/sounds/m_fixed_07QSUcc.mp3",
             "id":1594
          },
          {
             "name":"詛咒",
-            "url":"/media/sounds/.mp3_vpDgNns",
+            "url":"/media/sounds/m_fixed_vpDgNns.mp3",
             "id":1595
          },
          {
             "name":"跑過來了",
-            "url":"/media/sounds/.mp3_pQbPowz",
+            "url":"/media/sounds/m_fixed_pQbPowz.mp3",
             "id":1596
          },
          {
             "name":"開花",
-            "url":"/media/sounds/.mp3_m7vOmci",
+            "url":"/media/sounds/m_fixed_m7vOmci.mp3",
             "id":1597
          },
          {
             "name":"嗨～",
-            "url":"/media/sounds/.mp3_5g06bFy",
+            "url":"/media/sounds/m_fixed_5g06bFy.mp3",
             "id":1598
          },
          {
             "name":"幹嘛",
-            "url":"/media/sounds/.mp3_tP1gwya",
+            "url":"/media/sounds/m_fixed_tP1gwya.mp3",
             "id":1599
          },
          {
             "name":"會被抓包的",
-            "url":"/media/sounds/.mp3_6pBNPh3",
+            "url":"/media/sounds/m_fixed_6pBNPh3.mp3",
             "id":1600
          },
          {
             "name":"業障重啊",
-            "url":"/media/sounds/.mp3_Y0Ch7QC",
+            "url":"/media/sounds/m_fixed_Y0Ch7QC.mp3",
             "id":1601
          },
          {
@@ -13057,7 +13057,7 @@ export default [
          },
          {
             "name":"腦袋",
-            "url":"/media/sounds/.mp3_Fb00XO1",
+            "url":"/media/sounds/m_fixed_Fb00XO1.mp3",
             "id":1603
          },
          {
@@ -13067,97 +13067,97 @@ export default [
          },
          {
             "name":"滿不滿意啊？",
-            "url":"/media/sounds/.mp3_zLuR7mq",
+            "url":"/media/sounds/m_fixed_zLuR7mq.mp3",
             "id":1605
          },
          {
             "name":"滿意了吧？",
-            "url":"/media/sounds/.mp3_QXnt929",
+            "url":"/media/sounds/m_fixed_QXnt929.mp3",
             "id":1606
          },
          {
             "name":"滿意呀",
-            "url":"/media/sounds/.mp3_Zo5QQXO",
+            "url":"/media/sounds/m_fixed_Zo5QQXO.mp3",
             "id":1607
          },
          {
             "name":"漱",
-            "url":"/media/sounds/.mp3_zJVCHO4",
+            "url":"/media/sounds/m_fixed_zJVCHO4.mp3",
             "id":1608
          },
          {
             "name":"噁心心",
-            "url":"/media/sounds/.mp3_kMqyaau",
+            "url":"/media/sounds/m_fixed_kMqyaau.mp3",
             "id":1609
          },
          {
             "name":"誰叫他的啦？",
-            "url":"/media/sounds/.mp3_QAbtjkG",
+            "url":"/media/sounds/m_fixed_QAbtjkG.mp3",
             "id":1610
          },
          {
             "name":"請不要",
-            "url":"/media/sounds/.mp3_AChfmH8",
+            "url":"/media/sounds/m_fixed_AChfmH8.mp3",
             "id":1611
          },
          {
             "name":"燒",
-            "url":"/media/sounds/.mp3_3FMJBK9",
+            "url":"/media/sounds/m_fixed_3FMJBK9.mp3",
             "id":1612
          },
          {
             "name":"燒東西",
-            "url":"/media/sounds/.mp3_B8bPpX4",
+            "url":"/media/sounds/m_fixed_B8bPpX4.mp3",
             "id":1613
          },
          {
             "name":"燒焦",
-            "url":"/media/sounds/.mp3_LNQHDbT",
+            "url":"/media/sounds/m_fixed_LNQHDbT.mp3",
             "id":1614
          },
          {
             "name":"頭在痛",
-            "url":"/media/sounds/.mp3_8ARnxKk",
+            "url":"/media/sounds/m_fixed_8ARnxKk.mp3",
             "id":1615
          },
          {
             "name":"檢舉",
-            "url":"/media/sounds/.mp3_nhw97Eu",
+            "url":"/media/sounds/m_fixed_nhw97Eu.mp3",
             "id":1616
          },
          {
             "name":"難道這就是",
-            "url":"/media/sounds/.mp3_ldp9CVh",
+            "url":"/media/sounds/m_fixed_ldp9CVh.mp3",
             "id":1617
          },
          {
             "name":"變形了",
-            "url":"/media/sounds/.mp3_bQVLDGQ",
+            "url":"/media/sounds/m_fixed_bQVLDGQ.mp3",
             "id":1618
          },
          {
             "name":"我在跟你講",
-            "url":"/media/sounds/.mp3_1TMWfcw",
+            "url":"/media/sounds/m_fixed_1TMWfcw.mp3",
             "id":1619
          },
          {
             "name":"動",
-            "url":"/media/sounds/.mp3_NRz4RHT",
+            "url":"/media/sounds/m_fixed_NRz4RHT.mp3",
             "id":1693
          },
          {
             "name":"啊",
-            "url":"/media/sounds/.mp3_h54bE6e",
+            "url":"/media/sounds/m_fixed_h54bE6e.mp3",
             "id":1694
          },
          {
             "name":"這麼",
-            "url":"/media/sounds/.mp3_07djYHy",
+            "url":"/media/sounds/m_fixed_07djYHy.mp3",
             "id":1695
          },
          {
             "name":"照",
-            "url":"/media/sounds/.mp3_m9bs30S",
+            "url":"/media/sounds/m_fixed_m9bs30S.mp3",
             "id":1696
          },
          {
@@ -13167,57 +13167,57 @@ export default [
          },
          {
             "name":"吃",
-            "url":"/media/sounds/.mp3_sOUfG1Y",
+            "url":"/media/sounds/m_fixed_sOUfG1Y.mp3",
             "id":1698
          },
          {
             "name":"一定",
-            "url":"/media/sounds/.mp3_DWVIkNL",
+            "url":"/media/sounds/m_fixed_DWVIkNL.mp3",
             "id":1699
          },
          {
             "name":"大牌",
-            "url":"/media/sounds/.mp3_ZN94GJ7",
+            "url":"/media/sounds/m_fixed_ZN94GJ7.mp3",
             "id":1700
          },
          {
             "name":"小丑",
-            "url":"/media/sounds/.mp3_skYmWgJ",
+            "url":"/media/sounds/m_fixed_skYmWgJ.mp3",
             "id":1701
          },
          {
             "name":"小氣",
-            "url":"/media/sounds/.mp3_Fy1hOEz",
+            "url":"/media/sounds/m_fixed_Fy1hOEz.mp3",
             "id":1702
          },
          {
             "name":"不",
-            "url":"/media/sounds/.mp3_PDmnyd1",
+            "url":"/media/sounds/m_fixed_PDmnyd1.mp3",
             "id":1703
          },
          {
             "name":"不會",
-            "url":"/media/sounds/.mp3_wNhMVKe",
+            "url":"/media/sounds/m_fixed_wNhMVKe.mp3",
             "id":1704
          },
          {
             "name":"手～",
-            "url":"/media/sounds/.mp3_5Y1N5O6",
+            "url":"/media/sounds/m_fixed_5Y1N5O6.mp3",
             "id":1705
          },
          {
             "name":"比如說",
-            "url":"/media/sounds/.mp3_rsAtHIO",
+            "url":"/media/sounds/m_fixed_rsAtHIO.mp3",
             "id":1706
          },
          {
             "name":"主動",
-            "url":"/media/sounds/.mp3_6f923Cr",
+            "url":"/media/sounds/m_fixed_6f923Cr.mp3",
             "id":1707
          },
          {
             "name":"出",
-            "url":"/media/sounds/.mp3_AeMJvtx",
+            "url":"/media/sounds/m_fixed_AeMJvtx.mp3",
             "id":1708
          },
          {
@@ -13227,97 +13227,97 @@ export default [
          },
          {
             "name":"去你家",
-            "url":"/media/sounds/.mp3_PPH4qrE",
+            "url":"/media/sounds/m_fixed_PPH4qrE.mp3",
             "id":1710
          },
          {
             "name":"可以嘛",
-            "url":"/media/sounds/.mp3_V5ZKGLn",
+            "url":"/media/sounds/m_fixed_V5ZKGLn.mp3",
             "id":1711
          },
          {
             "name":"本",
-            "url":"/media/sounds/.mp3_QVUGQSr",
+            "url":"/media/sounds/m_fixed_QVUGQSr.mp3",
             "id":1712
          },
          {
             "name":"生日",
-            "url":"/media/sounds/.mp3_KQkBiMp",
+            "url":"/media/sounds/m_fixed_KQkBiMp.mp3",
             "id":1713
          },
          {
             "name":"交換",
-            "url":"/media/sounds/.mp3_L4YiEuU",
+            "url":"/media/sounds/m_fixed_L4YiEuU.mp3",
             "id":1714
          },
          {
             "name":"回收",
-            "url":"/media/sounds/.mp3_88DK9Kr",
+            "url":"/media/sounds/m_fixed_88DK9Kr.mp3",
             "id":1715
          },
          {
             "name":"因該",
-            "url":"/media/sounds/.mp3_aLFI3BW",
+            "url":"/media/sounds/m_fixed_aLFI3BW.mp3",
             "id":1716
          },
          {
             "name":"在哪裡啊？",
-            "url":"/media/sounds/.mp3_OwyQwQH",
+            "url":"/media/sounds/m_fixed_OwyQwQH.mp3",
             "id":1717
          },
          {
             "name":"地毯",
-            "url":"/media/sounds/.mp3_0Qe1JDB",
+            "url":"/media/sounds/m_fixed_0Qe1JDB.mp3",
             "id":1718
          },
          {
             "name":"成本",
-            "url":"/media/sounds/.mp3_aFzPEmi",
+            "url":"/media/sounds/m_fixed_aFzPEmi.mp3",
             "id":1719
          },
          {
             "name":"收起來",
-            "url":"/media/sounds/.mp3_7kZQl96",
+            "url":"/media/sounds/m_fixed_7kZQl96.mp3",
             "id":1720
          },
          {
             "name":"而且",
-            "url":"/media/sounds/.mp3_v4vsTOr",
+            "url":"/media/sounds/m_fixed_v4vsTOr.mp3",
             "id":1721
          },
          {
             "name":"你怎麼",
-            "url":"/media/sounds/.mp3_8m1EYJ0",
+            "url":"/media/sounds/m_fixed_8m1EYJ0.mp3",
             "id":1722
          },
          {
             "name":"你們要幹嘛？",
-            "url":"/media/sounds/.mp3_dRfmKcf",
+            "url":"/media/sounds/m_fixed_dRfmKcf.mp3",
             "id":1723
          },
          {
             "name":"免費",
-            "url":"/media/sounds/.mp3_FcBvajo",
+            "url":"/media/sounds/m_fixed_FcBvajo.mp3",
             "id":1724
          },
          {
             "name":"尿垢",
-            "url":"/media/sounds/.mp3_wfNTaJC",
+            "url":"/media/sounds/m_fixed_wfNTaJC.mp3",
             "id":1725
          },
          {
             "name":"尿騷味",
-            "url":"/media/sounds/.mp3_VCJbCa0",
+            "url":"/media/sounds/m_fixed_VCJbCa0.mp3",
             "id":1726
          },
          {
             "name":"快了快了快了",
-            "url":"/media/sounds/.mp3_fAesK1u",
+            "url":"/media/sounds/m_fixed_fAesK1u.mp3",
             "id":1727
          },
          {
             "name":"我不要～",
-            "url":"/media/sounds/.mp3_NtvDhAL",
+            "url":"/media/sounds/m_fixed_NtvDhAL.mp3",
             "id":1728
          },
          {
@@ -13327,7 +13327,7 @@ export default [
          },
          {
             "name":"我叫你",
-            "url":"/media/sounds/.mp3_RxMTNXm",
+            "url":"/media/sounds/m_fixed_RxMTNXm.mp3",
             "id":1730
          },
          {
@@ -13337,42 +13337,42 @@ export default [
          },
          {
             "name":"沒有掃",
-            "url":"/media/sounds/.mp3_i4mw1k1",
+            "url":"/media/sounds/m_fixed_i4mw1k1.mp3",
             "id":1732
          },
          {
             "name":"並沒有",
-            "url":"/media/sounds/.mp3_9j7Z8Wq",
+            "url":"/media/sounds/m_fixed_9j7Z8Wq.mp3",
             "id":1733
          },
          {
             "name":"來給你們看",
-            "url":"/media/sounds/.mp3_ynercva",
+            "url":"/media/sounds/m_fixed_ynercva.mp3",
             "id":1734
          },
          {
             "name":"拍",
-            "url":"/media/sounds/.mp3_1LT0V49",
+            "url":"/media/sounds/m_fixed_1LT0V49.mp3",
             "id":1735
          },
          {
             "name":"放著",
-            "url":"/media/sounds/.mp3_bwzbjuq",
+            "url":"/media/sounds/m_fixed_bwzbjuq.mp3",
             "id":1736
          },
          {
             "name":"品",
-            "url":"/media/sounds/.mp3_5MRlod4",
+            "url":"/media/sounds/m_fixed_5MRlod4.mp3",
             "id":1737
          },
          {
             "name":"看一下",
-            "url":"/media/sounds/.mp3_MzDMRfa",
+            "url":"/media/sounds/m_fixed_MzDMRfa.mp3",
             "id":1738
          },
          {
             "name":"看完了",
-            "url":"/media/sounds/.mp3_TqUf2Bp",
+            "url":"/media/sounds/m_fixed_TqUf2Bp.mp3",
             "id":1739
          },
          {
@@ -13382,12 +13382,12 @@ export default [
          },
          {
             "name":"重點",
-            "url":"/media/sounds/.mp3_swbXnOl",
+            "url":"/media/sounds/m_fixed_swbXnOl.mp3",
             "id":1741
          },
          {
             "name":"哪次不可以？",
-            "url":"/media/sounds/.mp3_xkGgvPy",
+            "url":"/media/sounds/m_fixed_xkGgvPy.mp3",
             "id":1742
          },
          {
@@ -13397,62 +13397,62 @@ export default [
          },
          {
             "name":"家",
-            "url":"/media/sounds/.mp3_xOpldwT",
+            "url":"/media/sounds/m_fixed_xOpldwT.mp3",
             "id":1744
          },
          {
             "name":"真的",
-            "url":"/media/sounds/.mp3_EmlrOcn",
+            "url":"/media/sounds/m_fixed_EmlrOcn.mp3",
             "id":1745
          },
          {
             "name":"真的餒",
-            "url":"/media/sounds/.mp3_OwcPRlo",
+            "url":"/media/sounds/m_fixed_OwcPRlo.mp3",
             "id":1746
          },
          {
             "name":"高",
-            "url":"/media/sounds/.mp3_MLtCTga",
+            "url":"/media/sounds/m_fixed_MLtCTga.mp3",
             "id":1747
          },
          {
             "name":"帶回去",
-            "url":"/media/sounds/.mp3_uNka93C",
+            "url":"/media/sounds/m_fixed_uNka93C.mp3",
             "id":1748
          },
          {
             "name":"強迫",
-            "url":"/media/sounds/.mp3_agH5EsJ",
+            "url":"/media/sounds/m_fixed_agH5EsJ.mp3",
             "id":1749
          },
          {
             "name":"推廣",
-            "url":"/media/sounds/.mp3_jekuD55",
+            "url":"/media/sounds/m_fixed_jekuD55.mp3",
             "id":1750
          },
          {
             "name":"欸欸嗨嗨嗨",
-            "url":"/media/sounds/.mp3_dayLvcU",
+            "url":"/media/sounds/m_fixed_dayLvcU.mp3",
             "id":1751
          },
          {
             "name":"清潔人員",
-            "url":"/media/sounds/.mp3_yhIKEhj",
+            "url":"/media/sounds/m_fixed_yhIKEhj.mp3",
             "id":1752
          },
          {
             "name":"理解",
-            "url":"/media/sounds/.mp3_aSuEwQD",
+            "url":"/media/sounds/m_fixed_aSuEwQD.mp3",
             "id":1753
          },
          {
             "name":"就",
-            "url":"/media/sounds/.mp3_QMhNusV",
+            "url":"/media/sounds/m_fixed_QMhNusV.mp3",
             "id":1754
          },
          {
             "name":"換",
-            "url":"/media/sounds/.mp3_u7Jh2nr",
+            "url":"/media/sounds/m_fixed_u7Jh2nr.mp3",
             "id":1755
          },
          {
@@ -13462,37 +13462,37 @@ export default [
          },
          {
             "name":"然後",
-            "url":"/media/sounds/.mp3_DM0DfWU",
+            "url":"/media/sounds/m_fixed_DM0DfWU.mp3",
             "id":1757
          },
          {
             "name":"畫",
-            "url":"/media/sounds/.mp3_0TAPpcT",
+            "url":"/media/sounds/m_fixed_0TAPpcT.mp3",
             "id":1758
          },
          {
             "name":"發誓",
-            "url":"/media/sounds/.mp3_aHF1s63",
+            "url":"/media/sounds/m_fixed_aHF1s63.mp3",
             "id":1759
          },
          {
             "name":"絕對",
-            "url":"/media/sounds/.mp3_OvLXIg9",
+            "url":"/media/sounds/m_fixed_OvLXIg9.mp3",
             "id":1760
          },
          {
             "name":"超越",
-            "url":"/media/sounds/.mp3_3pI0JMV",
+            "url":"/media/sounds/m_fixed_3pI0JMV.mp3",
             "id":1761
          },
          {
             "name":"黃",
-            "url":"/media/sounds/.mp3_pPJqhUf",
+            "url":"/media/sounds/m_fixed_pPJqhUf.mp3",
             "id":1762
          },
          {
             "name":"傷腦筋",
-            "url":"/media/sounds/.mp3_GbtvkdR",
+            "url":"/media/sounds/m_fixed_GbtvkdR.mp3",
             "id":1763
          },
          {
@@ -13502,92 +13502,92 @@ export default [
          },
          {
             "name":"塊",
-            "url":"/media/sounds/.mp3_5raJElw",
+            "url":"/media/sounds/m_fixed_5raJElw.mp3",
             "id":1765
          },
          {
             "name":"塞",
-            "url":"/media/sounds/.mp3_L39qcex",
+            "url":"/media/sounds/m_fixed_L39qcex.mp3",
             "id":1766
          },
          {
             "name":"塞不下",
-            "url":"/media/sounds/.mp3_igpVvbY",
+            "url":"/media/sounds/m_fixed_igpVvbY.mp3",
             "id":1767
          },
          {
             "name":"感想",
-            "url":"/media/sounds/.mp3_zenkX11",
+            "url":"/media/sounds/m_fixed_zenkX11.mp3",
             "id":1768
          },
          {
             "name":"概念",
-            "url":"/media/sounds/.mp3_w3Qa9CZ",
+            "url":"/media/sounds/m_fixed_w3Qa9CZ.mp3",
             "id":1769
          },
          {
             "name":"道德",
-            "url":"/media/sounds/.mp3_POMT2bO",
+            "url":"/media/sounds/m_fixed_POMT2bO.mp3",
             "id":1770
          },
          {
             "name":"對不對",
-            "url":"/media/sounds/.mp3_75BHdfa",
+            "url":"/media/sounds/m_fixed_75BHdfa.mp3",
             "id":1771
          },
          {
             "name":"睡得可真香啊",
-            "url":"/media/sounds/.mp3_4x63uNk",
+            "url":"/media/sounds/m_fixed_4x63uNk.mp3",
             "id":1772
          },
          {
             "name":"睡覺了",
-            "url":"/media/sounds/.mp3_jB9D3KH",
+            "url":"/media/sounds/m_fixed_jB9D3KH.mp3",
             "id":1773
          },
          {
             "name":"說實話",
-            "url":"/media/sounds/.mp3_VVuFaS9",
+            "url":"/media/sounds/m_fixed_VVuFaS9.mp3",
             "id":1774
          },
          {
             "name":"請鑑價",
-            "url":"/media/sounds/.mp3_g5CUj62",
+            "url":"/media/sounds/m_fixed_g5CUj62.mp3",
             "id":1776
          },
          {
             "name":"賣",
-            "url":"/media/sounds/.mp3_BURVDFi",
+            "url":"/media/sounds/m_fixed_BURVDFi.mp3",
             "id":1777
          },
          {
             "name":"養老鼠咬布袋(台)",
-            "url":"/media/sounds/.mp3_ztkEHr0",
+            "url":"/media/sounds/m_fixed_ztkEHr0.mp3",
             "id":1778
          },
          {
             "name":"遵守",
-            "url":"/media/sounds/.mp3_MeuIW8o",
+            "url":"/media/sounds/m_fixed_MeuIW8o.mp3",
             "id":1779
          },
          {
             "name":"還有什麼？",
-            "url":"/media/sounds/.mp3_SgU8mWy",
+            "url":"/media/sounds/m_fixed_SgU8mWy.mp3",
             "id":1780
          },
          {
             "name":"櫃子",
-            "url":"/media/sounds/.mp3_ufVKdx2",
+            "url":"/media/sounds/m_fixed_ufVKdx2.mp3",
             "id":1781
          },
          {
             "name":"翻",
-            "url":"/media/sounds/.mp3_ZiOHIof",
+            "url":"/media/sounds/m_fixed_ZiOHIof.mp3",
             "id":1782
          },
          {
             "name":"藝術",
-            "url":"/media/sounds/.mp3_87EEaQu",
+            "url":"/media/sounds/m_fixed_87EEaQu.mp3",
             "id":1783
          },
          {
@@ -13602,57 +13602,57 @@ export default [
          },
          {
             "name":"一梯退三步",
-            "url":"/media/sounds/.mp3_MBFQN4T",
+            "url":"/media/sounds/m_fixed_MBFQN4T.mp3",
             "id":1817
          },
          {
             "name":"人",
-            "url":"/media/sounds/.mp3_JxC8X6A",
+            "url":"/media/sounds/m_fixed_JxC8X6A.mp3",
             "id":1818
          },
          {
             "name":"又在哀號了",
-            "url":"/media/sounds/.mp3_jfxpxrZ",
+            "url":"/media/sounds/m_fixed_jfxpxrZ.mp3",
             "id":1819
          },
          {
             "name":"土地",
-            "url":"/media/sounds/.mp3_vI0hB7r",
+            "url":"/media/sounds/m_fixed_vI0hB7r.mp3",
             "id":1820
          },
          {
             "name":"大腸",
-            "url":"/media/sounds/.mp3_dy7KFRk",
+            "url":"/media/sounds/m_fixed_dy7KFRk.mp3",
             "id":1821
          },
          {
             "name":"女",
-            "url":"/media/sounds/.mp3_XQZXPEh",
+            "url":"/media/sounds/m_fixed_XQZXPEh.mp3",
             "id":1822
          },
          {
             "name":"女生",
-            "url":"/media/sounds/.mp3_Nc9RaIS",
+            "url":"/media/sounds/m_fixed_Nc9RaIS.mp3",
             "id":1823
          },
          {
             "name":"不好說啊",
-            "url":"/media/sounds/.mp3_KpRtMYr",
+            "url":"/media/sounds/m_fixed_KpRtMYr.mp3",
             "id":1824
          },
          {
             "name":"不行吧",
-            "url":"/media/sounds/.mp3_sKTbEiv",
+            "url":"/media/sounds/m_fixed_sKTbEiv.mp3",
             "id":1825
          },
          {
             "name":"不是啊",
-            "url":"/media/sounds/.mp3_iPfkhXb",
+            "url":"/media/sounds/m_fixed_iPfkhXb.mp3",
             "id":1826
          },
          {
             "name":"不要難過啦",
-            "url":"/media/sounds/.mp3_93vt2Cd",
+            "url":"/media/sounds/m_fixed_93vt2Cd.mp3",
             "id":1827
          },
          {
@@ -13662,7 +13662,7 @@ export default [
          },
          {
             "name":"之",
-            "url":"/media/sounds/.mp3_fnovAIM",
+            "url":"/media/sounds/m_fixed_fnovAIM.mp3",
             "id":1829
          },
          {
@@ -13672,72 +13672,72 @@ export default [
          },
          {
             "name":"心結",
-            "url":"/media/sounds/.mp3_8DJZp5F",
+            "url":"/media/sounds/m_fixed_8DJZp5F.mp3",
             "id":1831
          },
          {
             "name":"手",
-            "url":"/media/sounds/.mp3_8ro5FHi",
+            "url":"/media/sounds/m_fixed_8ro5FHi.mp3",
             "id":1832
          },
          {
             "name":"世界",
-            "url":"/media/sounds/.mp3_bOXREuq",
+            "url":"/media/sounds/m_fixed_bOXREuq.mp3",
             "id":1833
          },
          {
             "name":"兄弟",
-            "url":"/media/sounds/.mp3_B9bUHD9",
+            "url":"/media/sounds/m_fixed_B9bUHD9.mp3",
             "id":1834
          },
          {
             "name":"包",
-            "url":"/media/sounds/.mp3_jhfOKyI",
+            "url":"/media/sounds/m_fixed_jhfOKyI.mp3",
             "id":1835
          },
          {
             "name":"叫做",
-            "url":"/media/sounds/.mp3_ZCcqEBH",
+            "url":"/media/sounds/m_fixed_ZCcqEBH.mp3",
             "id":1836
          },
          {
             "name":"可以吧",
-            "url":"/media/sounds/.mp3_xAyJrdH",
+            "url":"/media/sounds/m_fixed_xAyJrdH.mp3",
             "id":1837
          },
          {
             "name":"奶",
-            "url":"/media/sounds/.mp3_B0qHHAr",
+            "url":"/media/sounds/m_fixed_B0qHHAr.mp3",
             "id":1838
          },
          {
             "name":"打",
-            "url":"/media/sounds/.mp3_gvFpYlf",
+            "url":"/media/sounds/m_fixed_gvFpYlf.mp3",
             "id":1839
          },
          {
             "name":"打噴嚏",
-            "url":"/media/sounds/.mp3_pig2ve4",
+            "url":"/media/sounds/m_fixed_pig2ve4.mp3",
             "id":1840
          },
          {
             "name":"生",
-            "url":"/media/sounds/.mp3_VssaJfJ",
+            "url":"/media/sounds/m_fixed_VssaJfJ.mp3",
             "id":1841
          },
          {
             "name":"生氣氣",
-            "url":"/media/sounds/.mp3_QX6FQ7C",
+            "url":"/media/sounds/m_fixed_QX6FQ7C.mp3",
             "id":1842
          },
          {
             "name":"生靈塗炭",
-            "url":"/media/sounds/.mp3_0sKbZat",
+            "url":"/media/sounds/m_fixed_0sKbZat.mp3",
             "id":1843
          },
          {
             "name":"用",
-            "url":"/media/sounds/.mp3_30ofH6W",
+            "url":"/media/sounds/m_fixed_30ofH6W.mp3",
             "id":1844
          },
          {
@@ -13747,12 +13747,12 @@ export default [
          },
          {
             "name":"各式各樣",
-            "url":"/media/sounds/.mp3_6zOtkxE",
+            "url":"/media/sounds/m_fixed_6zOtkxE.mp3",
             "id":1846
          },
          {
             "name":"吉祥",
-            "url":"/media/sounds/.mp3_l9XrjrH",
+            "url":"/media/sounds/m_fixed_l9XrjrH.mp3",
             "id":1847
          },
          {
@@ -13762,87 +13762,87 @@ export default [
          },
          {
             "name":"地下情人",
-            "url":"/media/sounds/.mp3_Lm3ofTn",
+            "url":"/media/sounds/m_fixed_Lm3ofTn.mp3",
             "id":1849
          },
          {
             "name":"地區",
-            "url":"/media/sounds/.mp3_ywqFGxF",
+            "url":"/media/sounds/m_fixed_ywqFGxF.mp3",
             "id":1850
          },
          {
             "name":"多",
-            "url":"/media/sounds/.mp3_6g3Qilq",
+            "url":"/media/sounds/m_fixed_6g3Qilq.mp3",
             "id":1851
          },
          {
             "name":"好久",
-            "url":"/media/sounds/.mp3_b5GNtnB",
+            "url":"/media/sounds/m_fixed_b5GNtnB.mp3",
             "id":1852
          },
          {
             "name":"好像是",
-            "url":"/media/sounds/.mp3_r3AqMMw",
+            "url":"/media/sounds/m_fixed_r3AqMMw.mp3",
             "id":1853
          },
          {
             "name":"有嗎？",
-            "url":"/media/sounds/.mp3_vEXwchz",
+            "url":"/media/sounds/m_fixed_vEXwchz.mp3",
             "id":1854
          },
          {
             "name":"死定了我",
-            "url":"/media/sounds/.mp3_iNpKUJz",
+            "url":"/media/sounds/m_fixed_iNpKUJz.mp3",
             "id":1855
          },
          {
             "name":"老",
-            "url":"/media/sounds/.mp3_qpXTZDF",
+            "url":"/media/sounds/m_fixed_qpXTZDF.mp3",
             "id":1856
          },
          {
             "name":"肉",
-            "url":"/media/sounds/.mp3_k29eqcP",
+            "url":"/media/sounds/m_fixed_k29eqcP.mp3",
             "id":1857
          },
          {
             "name":"肌",
-            "url":"/media/sounds/.mp3_xKksPTC",
+            "url":"/media/sounds/m_fixed_xKksPTC.mp3",
             "id":1858
          },
          {
             "name":"你有沒有學起來？",
-            "url":"/media/sounds/.mp3_nThYg7h",
+            "url":"/media/sounds/m_fixed_nThYg7h.mp3",
             "id":1859
          },
          {
             "name":"你有學起來嗎？",
-            "url":"/media/sounds/.mp3_5WNVbaO",
+            "url":"/media/sounds/m_fixed_5WNVbaO.mp3",
             "id":1860
          },
          {
             "name":"吧",
-            "url":"/media/sounds/.mp3_OTjVoVo",
+            "url":"/media/sounds/m_fixed_OTjVoVo.mp3",
             "id":1861
          },
          {
             "name":"吶",
-            "url":"/media/sounds/.mp3_prMGsAI",
+            "url":"/media/sounds/m_fixed_prMGsAI.mp3",
             "id":1862
          },
          {
             "name":"吸",
-            "url":"/media/sounds/.mp3_HKfkYna",
+            "url":"/media/sounds/m_fixed_HKfkYna.mp3",
             "id":1863
          },
          {
             "name":"告",
-            "url":"/media/sounds/.mp3_cxNx7KI",
+            "url":"/media/sounds/m_fixed_cxNx7KI.mp3",
             "id":1864
          },
          {
             "name":"呐",
-            "url":"/media/sounds/.mp3_3cQ86Qb",
+            "url":"/media/sounds/m_fixed_3cQ86Qb.mp3",
             "id":1865
          },
          {
@@ -13852,7 +13852,7 @@ export default [
          },
          {
             "name":"我什麼事都沒講",
-            "url":"/media/sounds/.mp3_PN7HTkS",
+            "url":"/media/sounds/m_fixed_PN7HTkS.mp3",
             "id":1867
          },
          {
@@ -13862,192 +13862,192 @@ export default [
          },
          {
             "name":"我現在怎麼辦？",
-            "url":"/media/sounds/.mp3_nWnpTqD",
+            "url":"/media/sounds/m_fixed_nWnpTqD.mp3",
             "id":1869
          },
          {
             "name":"我想",
-            "url":"/media/sounds/.mp3_w3kv6uR",
+            "url":"/media/sounds/m_fixed_w3kv6uR.mp3",
             "id":1870
          },
          {
             "name":"束",
-            "url":"/media/sounds/.mp3_HK8inwd",
+            "url":"/media/sounds/m_fixed_HK8inwd.mp3",
             "id":1871
          },
          {
             "name":"沒什麼事",
-            "url":"/media/sounds/.mp3_hK1TDF3",
+            "url":"/media/sounds/m_fixed_hK1TDF3.mp3",
             "id":1872
          },
          {
             "name":"沒錯",
-            "url":"/media/sounds/.mp3_TWCaiyL",
+            "url":"/media/sounds/m_fixed_TWCaiyL.mp3",
             "id":1873
          },
          {
             "name":"男",
-            "url":"/media/sounds/.mp3_5PyIoYQ",
+            "url":"/media/sounds/m_fixed_5PyIoYQ.mp3",
             "id":1874
          },
          {
             "name":"走",
-            "url":"/media/sounds/.mp3_MJTEjNO",
+            "url":"/media/sounds/m_fixed_MJTEjNO.mp3",
             "id":1875
          },
          {
             "name":"來呦～",
-            "url":"/media/sounds/.mp3_V4uhLJB",
+            "url":"/media/sounds/m_fixed_V4uhLJB.mp3",
             "id":1876
          },
          {
             "name":"到",
-            "url":"/media/sounds/.mp3_07cltlT",
+            "url":"/media/sounds/m_fixed_07cltlT.mp3",
             "id":1877
          },
          {
             "name":"味",
-            "url":"/media/sounds/.mp3_v2wH01R",
+            "url":"/media/sounds/m_fixed_v2wH01R.mp3",
             "id":1878
          },
          {
             "name":"拉",
-            "url":"/media/sounds/.mp3_EetwmNl",
+            "url":"/media/sounds/m_fixed_EetwmNl.mp3",
             "id":1879
          },
          {
             "name":"歧視",
-            "url":"/media/sounds/.mp3_Ip71yr4",
+            "url":"/media/sounds/m_fixed_Ip71yr4.mp3",
             "id":1880
          },
          {
             "name":"法律",
-            "url":"/media/sounds/.mp3_Ngp39IE",
+            "url":"/media/sounds/m_fixed_Ngp39IE.mp3",
             "id":1881
          },
          {
             "name":"法師",
-            "url":"/media/sounds/.mp3_aD9heKl",
+            "url":"/media/sounds/m_fixed_aD9heKl.mp3",
             "id":1882
          },
          {
             "name":"炎",
-            "url":"/media/sounds/.mp3_HcmOcjk",
+            "url":"/media/sounds/m_fixed_HcmOcjk.mp3",
             "id":1883
          },
          {
             "name":"狗",
-            "url":"/media/sounds/.mp3_sc4MtOp",
+            "url":"/media/sounds/m_fixed_sc4MtOp.mp3",
             "id":1884
          },
          {
             "name":"玩壞了",
-            "url":"/media/sounds/.mp3_lR6lqx1",
+            "url":"/media/sounds/m_fixed_lR6lqx1.mp3",
             "id":1885
          },
          {
             "name":"直接",
-            "url":"/media/sounds/.mp3_1IfBdHU",
+            "url":"/media/sounds/m_fixed_1IfBdHU.mp3",
             "id":1886
          },
          {
             "name":"邱",
-            "url":"/media/sounds/.mp3_05x6Ms2",
+            "url":"/media/sounds/m_fixed_05x6Ms2.mp3",
             "id":1887
          },
          {
             "name":"金門",
-            "url":"/media/sounds/.mp3_U5kHOOa",
+            "url":"/media/sounds/m_fixed_U5kHOOa.mp3",
             "id":1888
          },
          {
             "name":"保持",
-            "url":"/media/sounds/.mp3_axiPfii",
+            "url":"/media/sounds/m_fixed_axiPfii.mp3",
             "id":1889
          },
          {
             "name":"信我者得永生",
-            "url":"/media/sounds/.mp3_DKcUITF",
+            "url":"/media/sounds/m_fixed_DKcUITF.mp3",
             "id":1890
          },
          {
             "name":"後面",
-            "url":"/media/sounds/.mp3_gkSlTjJ",
+            "url":"/media/sounds/m_fixed_gkSlTjJ.mp3",
             "id":1891
          },
          {
             "name":"思",
-            "url":"/media/sounds/.mp3_HeRGHYY",
+            "url":"/media/sounds/m_fixed_HeRGHYY.mp3",
             "id":1892
          },
          {
             "name":"挖洞",
-            "url":"/media/sounds/.mp3_yg0oyoM",
+            "url":"/media/sounds/m_fixed_yg0oyoM.mp3",
             "id":1893
          },
          {
             "name":"星",
-            "url":"/media/sounds/.mp3_d6w9a2n",
+            "url":"/media/sounds/m_fixed_d6w9a2n.mp3",
             "id":1894
          },
          {
             "name":"是喔",
-            "url":"/media/sounds/.mp3_tJF1X2j",
+            "url":"/media/sounds/m_fixed_tJF1X2j.mp3",
             "id":1895
          },
          {
             "name":"趴",
-            "url":"/media/sounds/.mp3_48mPjTJ",
+            "url":"/media/sounds/m_fixed_48mPjTJ.mp3",
             "id":1897
          },
          {
             "name":"香",
-            "url":"/media/sounds/.mp3_3RDYwm9",
+            "url":"/media/sounds/m_fixed_3RDYwm9.mp3",
             "id":1898
          },
          {
             "name":"們",
-            "url":"/media/sounds/.mp3_cB7B5Ay",
+            "url":"/media/sounds/m_fixed_cB7B5Ay.mp3",
             "id":1899
          },
          {
             "name":"原來",
-            "url":"/media/sounds/.mp3_wd0TgNQ",
+            "url":"/media/sounds/m_fixed_wd0TgNQ.mp3",
             "id":1900
          },
          {
             "name":"哭喔",
-            "url":"/media/sounds/.mp3_sFP5hJR",
+            "url":"/media/sounds/m_fixed_sFP5hJR.mp3",
             "id":1901
          },
          {
             "name":"桃園",
-            "url":"/media/sounds/.mp3_ZrA3Xq5",
+            "url":"/media/sounds/m_fixed_ZrA3Xq5.mp3",
             "id":1902
          },
          {
             "name":"特殊關西",
-            "url":"/media/sounds/.mp3_XlAGzER",
+            "url":"/media/sounds/m_fixed_XlAGzER.mp3",
             "id":1903
          },
          {
             "name":"破",
-            "url":"/media/sounds/.mp3_Jprt3Pj",
+            "url":"/media/sounds/m_fixed_Jprt3Pj.mp3",
             "id":1904
          },
          {
             "name":"站",
-            "url":"/media/sounds/.mp3_WonHjaV",
+            "url":"/media/sounds/m_fixed_WonHjaV.mp3",
             "id":1905
          },
          {
             "name":"飢腸轆轆",
-            "url":"/media/sounds/.mp3_UsSHBZr",
+            "url":"/media/sounds/m_fixed_UsSHBZr.mp3",
             "id":1906
          },
          {
             "name":"馬祖",
-            "url":"/media/sounds/.mp3_SS9JbmZ",
+            "url":"/media/sounds/m_fixed_SS9JbmZ.mp3",
             "id":1907
          },
          {
@@ -14057,367 +14057,367 @@ export default [
          },
          {
             "name":"高中",
-            "url":"/media/sounds/.mp3_AgpZAvo",
+            "url":"/media/sounds/m_fixed_AgpZAvo.mp3",
             "id":1909
          },
          {
             "name":"鬼",
-            "url":"/media/sounds/.mp3_POl8QLc",
+            "url":"/media/sounds/m_fixed_POl8QLc.mp3",
             "id":1910
          },
          {
             "name":"區",
-            "url":"/media/sounds/.mp3_DcmQQ13",
+            "url":"/media/sounds/m_fixed_DcmQQ13.mp3",
             "id":1911
          },
          {
             "name":"唱歌",
-            "url":"/media/sounds/.mp3_hqNKKnV",
+            "url":"/media/sounds/m_fixed_hqNKKnV.mp3",
             "id":1912
          },
          {
             "name":"崇拜對象",
-            "url":"/media/sounds/.mp3_GA8xusU",
+            "url":"/media/sounds/m_fixed_GA8xusU.mp3",
             "id":1913
          },
          {
             "name":"掛了",
-            "url":"/media/sounds/.mp3_qCJTb2A",
+            "url":"/media/sounds/m_fixed_qCJTb2A.mp3",
             "id":1914
          },
          {
             "name":"教",
-            "url":"/media/sounds/.mp3_LRutxJd",
+            "url":"/media/sounds/m_fixed_LRutxJd.mp3",
             "id":1915
          },
          {
             "name":"桿",
-            "url":"/media/sounds/.mp3_1uqqHgA",
+            "url":"/media/sounds/m_fixed_1uqqHgA.mp3",
             "id":1916
          },
          {
             "name":"清晰",
-            "url":"/media/sounds/.mp3_YeqRwXe",
+            "url":"/media/sounds/m_fixed_YeqRwXe.mp3",
             "id":1917
          },
          {
             "name":"爽啊",
-            "url":"/media/sounds/.mp3_zh3xbxa",
+            "url":"/media/sounds/m_fixed_zh3xbxa.mp3",
             "id":1918
          },
          {
             "name":"眼",
-            "url":"/media/sounds/.mp3_iCAZoUL",
+            "url":"/media/sounds/m_fixed_iCAZoUL.mp3",
             "id":1919
          },
          {
             "name":"組",
-            "url":"/media/sounds/.mp3_efYj0XU",
+            "url":"/media/sounds/m_fixed_efYj0XU.mp3",
             "id":1920
          },
          {
             "name":"責之切",
-            "url":"/media/sounds/.mp3_ax0vgGi",
+            "url":"/media/sounds/m_fixed_ax0vgGi.mp3",
             "id":1921
          },
          {
             "name":"這一招",
-            "url":"/media/sounds/.mp3_HrXmFI5",
+            "url":"/media/sounds/m_fixed_HrXmFI5.mp3",
             "id":1922
          },
          {
             "name":"這個就是",
-            "url":"/media/sounds/.mp3_UhGWibl",
+            "url":"/media/sounds/m_fixed_UhGWibl.mp3",
             "id":1923
          },
          {
             "name":"這裡是哪裡啊？",
-            "url":"/media/sounds/.mp3_E5fFUhj",
+            "url":"/media/sounds/m_fixed_E5fFUhj.mp3",
             "id":1924
          },
          {
             "name":"掰掰",
-            "url":"/media/sounds/.mp3_uIE8ySW",
+            "url":"/media/sounds/m_fixed_uIE8ySW.mp3",
             "id":1925
          },
          {
             "name":"發育",
-            "url":"/media/sounds/.mp3_fAz9dWo",
+            "url":"/media/sounds/m_fixed_fAz9dWo.mp3",
             "id":1926
          },
          {
             "name":"發燒",
-            "url":"/media/sounds/.mp3_N3l0N3t",
+            "url":"/media/sounds/m_fixed_N3l0N3t.mp3",
             "id":1927
          },
          {
             "name":"絲襪",
-            "url":"/media/sounds/.mp3_PVyvY4H",
+            "url":"/media/sounds/m_fixed_PVyvY4H.mp3",
             "id":1928
          },
          {
             "name":"買了啊",
-            "url":"/media/sounds/.mp3_xYO6bKE",
+            "url":"/media/sounds/m_fixed_xYO6bKE.mp3",
             "id":1929
          },
          {
             "name":"飯",
-            "url":"/media/sounds/.mp3_I3yvbCP",
+            "url":"/media/sounds/m_fixed_I3yvbCP.mp3",
             "id":1930
          },
          {
             "name":"塔",
-            "url":"/media/sounds/.mp3_4Km6uOo",
+            "url":"/media/sounds/m_fixed_4Km6uOo.mp3",
             "id":1931
          },
          {
             "name":"幹！我把她玩壞了是不是",
-            "url":"/media/sounds/.mp3_Llp51C9",
+            "url":"/media/sounds/m_fixed_Llp51C9.mp3",
             "id":1932
          },
          {
             "name":"想想看",
-            "url":"/media/sounds/.mp3_7maJ0jx",
+            "url":"/media/sounds/m_fixed_7maJ0jx.mp3",
             "id":1933
          },
          {
             "name":"意識",
-            "url":"/media/sounds/.mp3_ioQQ0mF",
+            "url":"/media/sounds/m_fixed_ioQQ0mF.mp3",
             "id":1934
          },
          {
             "name":"愛之深",
-            "url":"/media/sounds/.mp3_Ew2pMp7",
+            "url":"/media/sounds/m_fixed_Ew2pMp7.mp3",
             "id":1935
          },
          {
             "name":"會",
-            "url":"/media/sounds/.mp3_MaIdazw",
+            "url":"/media/sounds/m_fixed_MaIdazw.mp3",
             "id":1936
          },
          {
             "name":"話",
-            "url":"/media/sounds/.mp3_YeyCAiD",
+            "url":"/media/sounds/m_fixed_YeyCAiD.mp3",
             "id":1937
          },
          {
             "name":"跪",
-            "url":"/media/sounds/.mp3_njxMWxv",
+            "url":"/media/sounds/m_fixed_njxMWxv.mp3",
             "id":1938
          },
          {
             "name":"路",
-            "url":"/media/sounds/.mp3_LACEBHM",
+            "url":"/media/sounds/m_fixed_LACEBHM.mp3",
             "id":1939
          },
          {
             "name":"躲",
-            "url":"/media/sounds/.mp3_CokV7KZ",
+            "url":"/media/sounds/m_fixed_CokV7KZ.mp3",
             "id":1940
          },
          {
             "name":"過",
-            "url":"/media/sounds/.mp3_k4v9VHA",
+            "url":"/media/sounds/m_fixed_k4v9VHA.mp3",
             "id":1941
          },
          {
             "name":"對！",
-            "url":"/media/sounds/.mp3_fYMjEGJ",
+            "url":"/media/sounds/m_fixed_fYMjEGJ.mp3",
             "id":1942
          },
          {
             "name":"滯銷",
-            "url":"/media/sounds/.mp3_R2nGcVS",
+            "url":"/media/sounds/m_fixed_R2nGcVS.mp3",
             "id":1943
          },
          {
             "name":"監視",
-            "url":"/media/sounds/.mp3_3xAqHkz",
+            "url":"/media/sounds/m_fixed_3xAqHkz.mp3",
             "id":1944
          },
          {
             "name":"種族",
-            "url":"/media/sounds/.mp3_01O7Ofh",
+            "url":"/media/sounds/m_fixed_01O7Ofh.mp3",
             "id":1945
          },
          {
             "name":"腿",
-            "url":"/media/sounds/.mp3_FzNC9g1",
+            "url":"/media/sounds/m_fixed_FzNC9g1.mp3",
             "id":1946
          },
          {
             "name":"認真",
-            "url":"/media/sounds/.mp3_Tw1Ieje",
+            "url":"/media/sounds/m_fixed_Tw1Ieje.mp3",
             "id":1947
          },
          {
             "name":"嘴",
-            "url":"/media/sounds/.mp3_M31qmaw",
+            "url":"/media/sounds/m_fixed_M31qmaw.mp3",
             "id":1948
          },
          {
             "name":"廢",
-            "url":"/media/sounds/.mp3_KZ5lo70",
+            "url":"/media/sounds/m_fixed_KZ5lo70.mp3",
             "id":1949
          },
          {
             "name":"樓",
-            "url":"/media/sounds/.mp3_GrzMzBr",
+            "url":"/media/sounds/m_fixed_GrzMzBr.mp3",
             "id":1950
          },
          {
             "name":"熟",
-            "url":"/media/sounds/.mp3_PqHVPas",
+            "url":"/media/sounds/m_fixed_PqHVPas.mp3",
             "id":1951
          },
          {
             "name":"確診",
-            "url":"/media/sounds/.mp3_Z27acxR",
+            "url":"/media/sounds/m_fixed_Z27acxR.mp3",
             "id":1952
          },
          {
             "name":"蝦",
-            "url":"/media/sounds/.mp3_mtnj4TP",
+            "url":"/media/sounds/m_fixed_mtnj4TP.mp3",
             "id":1953
          },
          {
             "name":"螢幕",
-            "url":"/media/sounds/.mp3_HIISbky",
+            "url":"/media/sounds/m_fixed_HIISbky.mp3",
             "id":1954
          },
          {
             "name":"餐廳",
-            "url":"/media/sounds/.mp3_viJ7cNQ",
+            "url":"/media/sounds/m_fixed_viJ7cNQ.mp3",
             "id":1955
          },
          {
             "name":"龍潭",
-            "url":"/media/sounds/.mp3_3B4CTiJ",
+            "url":"/media/sounds/m_fixed_3B4CTiJ.mp3",
             "id":1956
          },
          {
             "name":"賺",
-            "url":"/media/sounds/.mp3_ORTCCCM",
+            "url":"/media/sounds/m_fixed_ORTCCCM.mp3",
             "id":1957
          },
          {
             "name":"織",
-            "url":"/media/sounds/.mp3_06Bqi0B",
+            "url":"/media/sounds/m_fixed_06Bqi0B.mp3",
             "id":1958
          },
          {
             "name":"難",
-            "url":"/media/sounds/.mp3_dx1ZX9Z",
+            "url":"/media/sounds/m_fixed_dx1ZX9Z.mp3",
             "id":1959
          },
          {
             "name":"競標",
-            "url":"/media/sounds/.mp3_FUkqoTi",
+            "url":"/media/sounds/m_fixed_FUkqoTi.mp3",
             "id":1960
          },
          {
             "name":"繼續",
-            "url":"/media/sounds/.mp3_cemP6ev",
+            "url":"/media/sounds/m_fixed_cemP6ev.mp3",
             "id":1961
          },
          {
             "name":"覺得",
-            "url":"/media/sounds/.mp3_qg6BiJU",
+            "url":"/media/sounds/m_fixed_qg6BiJU.mp3",
             "id":1962
          },
          {
             "name":"黨",
-            "url":"/media/sounds/.mp3_0onaIRn",
+            "url":"/media/sounds/m_fixed_0onaIRn.mp3",
             "id":1963
          },
          {
             "name":"霸主",
-            "url":"/media/sounds/.mp3_a1zmeTP",
+            "url":"/media/sounds/m_fixed_a1zmeTP.mp3",
             "id":1964
          },
          {
             "name":"聽",
-            "url":"/media/sounds/.mp3_OKVHtOW",
+            "url":"/media/sounds/m_fixed_OKVHtOW.mp3",
             "id":1965
          },
          {
             "name":"驚嘆號",
-            "url":"/media/sounds/.mp3_RRTM010",
+            "url":"/media/sounds/m_fixed_RRTM010.mp3",
             "id":1966
          },
          {
             "name":"蠻好用的",
-            "url":"/media/sounds/.mp3_kTC4o3G",
+            "url":"/media/sounds/m_fixed_kTC4o3G.mp3",
             "id":1967
          },
          {
             "name":"不要回頭",
-            "url":"/media/sounds/.mp3_cYlgUFN",
+            "url":"/media/sounds/m_fixed_cYlgUFN.mp3",
             "id":1968
          },
          {
             "name":"功德圓滿",
-            "url":"/media/sounds/.mp3_DIgXkfw",
+            "url":"/media/sounds/m_fixed_DIgXkfw.mp3",
             "id":1969
          },
          {
             "name":"巨",
-            "url":"/media/sounds/.mp3_CUpjQOM",
+            "url":"/media/sounds/m_fixed_CUpjQOM.mp3",
             "id":1970
          },
          {
             "name":"好色",
-            "url":"/media/sounds/.mp3_rghGjMb",
+            "url":"/media/sounds/m_fixed_rghGjMb.mp3",
             "id":1971
          },
          {
             "name":"看不見未來",
-            "url":"/media/sounds/.mp3_bpAdAvV",
+            "url":"/media/sounds/m_fixed_bpAdAvV.mp3",
             "id":1972
          },
          {
             "name":"進化了",
-            "url":"/media/sounds/.mp3_nllLdQX",
+            "url":"/media/sounds/m_fixed_nllLdQX.mp3",
             "id":1973
          },
          {
             "name":"蟲子",
-            "url":"/media/sounds/.mp3_tyX2rHE",
+            "url":"/media/sounds/m_fixed_tyX2rHE.mp3",
             "id":1974
          },
          {
             "name":"第一次",
-            "url":"/media/sounds/.mp3_olBFE0U",
+            "url":"/media/sounds/m_fixed_olBFE0U.mp3",
             "id":1975
          },
          {
             "name":"我要怎麼回去",
-            "url":"/media/sounds/.mp3_a2p89z7",
+            "url":"/media/sounds/m_fixed_a2p89z7.mp3",
             "id":1976
          },
          {
             "name":"分",
-            "url":"/media/sounds/.mp3_xrAkjRe",
+            "url":"/media/sounds/m_fixed_xrAkjRe.mp3",
             "id":2035
          },
          {
             "name":"後",
-            "url":"/media/sounds/.mp3_VwtoyjD",
+            "url":"/media/sounds/m_fixed_VwtoyjD.mp3",
             "id":2036
          },
          {
             "name":"下",
-            "url":"/media/sounds/.mp3_2umXMS7",
+            "url":"/media/sounds/m_fixed_2umXMS7.mp3",
             "id":2037
          },
          {
             "name":"壓",
-            "url":"/media/sounds/.mp3_cz7DEPW",
+            "url":"/media/sounds/m_fixed_cz7DEPW.mp3",
             "id":2038
          },
          {
             "name":"面",
-            "url":"/media/sounds/.mp3_MCCxs3E",
+            "url":"/media/sounds/m_fixed_MCCxs3E.mp3",
             "id":2039
          },
          {
@@ -14427,482 +14427,482 @@ export default [
          },
          {
             "name":"一定要好",
-            "url":"/media/sounds/.mp3_C1VQYBx",
+            "url":"/media/sounds/m_fixed_C1VQYBx.mp3",
             "id":2042
          },
          {
             "name":"一表人才",
-            "url":"/media/sounds/.mp3_KEDT7b2",
+            "url":"/media/sounds/m_fixed_KEDT7b2.mp3",
             "id":2043
          },
          {
             "name":"一臉矇逼",
-            "url":"/media/sounds/.mp3_7yc6QW9",
+            "url":"/media/sounds/m_fixed_7yc6QW9.mp3",
             "id":2044
          },
          {
             "name":"一點點",
-            "url":"/media/sounds/.mp3_3Rb4bC9",
+            "url":"/media/sounds/m_fixed_3Rb4bC9.mp3",
             "id":2045
          },
          {
             "name":"又",
-            "url":"/media/sounds/.mp3_OvdLqxW",
+            "url":"/media/sounds/m_fixed_OvdLqxW.mp3",
             "id":2046
          },
          {
             "name":"大家族",
-            "url":"/media/sounds/.mp3_rfj9mtn",
+            "url":"/media/sounds/m_fixed_rfj9mtn.mp3",
             "id":2047
          },
          {
             "name":"大概～",
-            "url":"/media/sounds/.mp3_L2YkKAq",
+            "url":"/media/sounds/m_fixed_L2YkKAq.mp3",
             "id":2048
          },
          {
             "name":"不用了",
-            "url":"/media/sounds/.mp3_rxT76Ww",
+            "url":"/media/sounds/m_fixed_rxT76Ww.mp3",
             "id":2049
          },
          {
             "name":"不好",
-            "url":"/media/sounds/.mp3_mcChL1F",
+            "url":"/media/sounds/m_fixed_mcChL1F.mp3",
             "id":2050
          },
          {
             "name":"不能講是誰",
-            "url":"/media/sounds/.mp3_i2MyVBr",
+            "url":"/media/sounds/m_fixed_i2MyVBr.mp3",
             "id":2051
          },
          {
             "name":"不夠了",
-            "url":"/media/sounds/.mp3_4fmZexu",
+            "url":"/media/sounds/m_fixed_4fmZexu.mp3",
             "id":2052
          },
          {
             "name":"中計了",
-            "url":"/media/sounds/.mp3_5TxkIJw",
+            "url":"/media/sounds/m_fixed_5TxkIJw.mp3",
             "id":2053
          },
          {
             "name":"天涯何處無芳草，何必單戀邱建祥",
-            "url":"/media/sounds/.mp3_5QJIveS",
+            "url":"/media/sounds/m_fixed_5QJIveS.mp3",
             "id":2054
          },
          {
             "name":"太多",
-            "url":"/media/sounds/.mp3_21FZ8YH",
+            "url":"/media/sounds/m_fixed_21FZ8YH.mp3",
             "id":2055
          },
          {
             "name":"太好了",
-            "url":"/media/sounds/.mp3_Wx5mwZJ",
+            "url":"/media/sounds/m_fixed_Wx5mwZJ.mp3",
             "id":2056
          },
          {
             "name":"太誇張了喔",
-            "url":"/media/sounds/.mp3_NUG90id",
+            "url":"/media/sounds/m_fixed_NUG90id.mp3",
             "id":2057
          },
          {
             "name":"巴掌",
-            "url":"/media/sounds/.mp3_bDJk20V",
+            "url":"/media/sounds/m_fixed_bDJk20V.mp3",
             "id":2058
          },
          {
             "name":"他對著你笑，笑到你心裡發寒",
-            "url":"/media/sounds/.mp3_zkmX7V6",
+            "url":"/media/sounds/m_fixed_zkmX7V6.mp3",
             "id":2059
          },
          {
             "name":"付",
-            "url":"/media/sounds/.mp3_2BuYFJl",
+            "url":"/media/sounds/m_fixed_2BuYFJl.mp3",
             "id":2060
          },
          {
             "name":"付了",
-            "url":"/media/sounds/.mp3_3ZpMsK3",
+            "url":"/media/sounds/m_fixed_3ZpMsK3.mp3",
             "id":2061
          },
          {
             "name":"包包",
-            "url":"/media/sounds/.mp3_SZVG1GB",
+            "url":"/media/sounds/m_fixed_SZVG1GB.mp3",
             "id":2062
          },
          {
             "name":"另外一個",
-            "url":"/media/sounds/.mp3_QqtIjOk",
+            "url":"/media/sounds/m_fixed_QqtIjOk.mp3",
             "id":2063
          },
          {
             "name":"失智",
-            "url":"/media/sounds/.mp3_cY7ddFK",
+            "url":"/media/sounds/m_fixed_cY7ddFK.mp3",
             "id":2064
          },
          {
             "name":"先把你養肥一點",
-            "url":"/media/sounds/.mp3_j27bh0S",
+            "url":"/media/sounds/m_fixed_j27bh0S.mp3",
             "id":2065
          },
          {
             "name":"吐血",
-            "url":"/media/sounds/.mp3_y3zxsme",
+            "url":"/media/sounds/m_fixed_y3zxsme.mp3",
             "id":2066
          },
          {
             "name":"多棒啊",
-            "url":"/media/sounds/.mp3_8CHIRjc",
+            "url":"/media/sounds/m_fixed_8CHIRjc.mp3",
             "id":2067
          },
          {
             "name":"好屌喔",
-            "url":"/media/sounds/.mp3_uwwfkvY",
+            "url":"/media/sounds/m_fixed_uwwfkvY.mp3",
             "id":2068
          },
          {
             "name":"尖酸刻薄",
-            "url":"/media/sounds/.mp3_bJWi4lr",
+            "url":"/media/sounds/m_fixed_bJWi4lr.mp3",
             "id":2069
          },
          {
             "name":"扛壩子",
-            "url":"/media/sounds/.mp3_drpfpb0",
+            "url":"/media/sounds/m_fixed_drpfpb0.mp3",
             "id":2070
          },
          {
             "name":"有～",
-            "url":"/media/sounds/.mp3_wTlMqTd",
+            "url":"/media/sounds/m_fixed_wTlMqTd.mp3",
             "id":2071
          },
          {
             "name":"有的",
-            "url":"/media/sounds/.mp3_AOQJ3VN",
+            "url":"/media/sounds/m_fixed_AOQJ3VN.mp3",
             "id":2072
          },
          {
             "name":"有點像是",
-            "url":"/media/sounds/.mp3_cslt0cc",
+            "url":"/media/sounds/m_fixed_cslt0cc.mp3",
             "id":2073
          },
          {
             "name":"老了",
-            "url":"/media/sounds/.mp3_GMoaLXC",
+            "url":"/media/sounds/m_fixed_GMoaLXC.mp3",
             "id":2074
          },
          {
             "name":"老灰呀",
-            "url":"/media/sounds/.mp3_5m0iP2k",
+            "url":"/media/sounds/m_fixed_5m0iP2k.mp3",
             "id":2075
          },
          {
             "name":"自私",
-            "url":"/media/sounds/.mp3_F7jQlM3",
+            "url":"/media/sounds/m_fixed_F7jQlM3.mp3",
             "id":2076
          },
          {
             "name":"但是",
-            "url":"/media/sounds/.mp3_kSGxn4q",
+            "url":"/media/sounds/m_fixed_kSGxn4q.mp3",
             "id":2077
          },
          {
             "name":"作為",
-            "url":"/media/sounds/.mp3_QHQcFPa",
+            "url":"/media/sounds/m_fixed_QHQcFPa.mp3",
             "id":2078
          },
          {
             "name":"囤積",
-            "url":"/media/sounds/.mp3_ngvByoz",
+            "url":"/media/sounds/m_fixed_ngvByoz.mp3",
             "id":2079
          },
          {
             "name":"我一定奏你",
-            "url":"/media/sounds/.mp3_yz8y0e1",
+            "url":"/media/sounds/m_fixed_yz8y0e1.mp3",
             "id":2080
          },
          {
             "name":"我不太想講",
-            "url":"/media/sounds/.mp3_o9LyhXN",
+            "url":"/media/sounds/m_fixed_o9LyhXN.mp3",
             "id":2081
          },
          {
             "name":"我完全無法",
-            "url":"/media/sounds/.mp3_dfETAvs",
+            "url":"/media/sounds/m_fixed_dfETAvs.mp3",
             "id":2082
          },
          {
             "name":"我要走了",
-            "url":"/media/sounds/.mp3_VInKbg3",
+            "url":"/media/sounds/m_fixed_VInKbg3.mp3",
             "id":2083
          },
          {
             "name":"我要看到血流成河",
-            "url":"/media/sounds/.mp3_VJpWmfS",
+            "url":"/media/sounds/m_fixed_VJpWmfS.mp3",
             "id":2084
          },
          {
             "name":"我要跟各位講",
-            "url":"/media/sounds/.mp3_8eyo5Yy",
+            "url":"/media/sounds/m_fixed_8eyo5Yy.mp3",
             "id":2085
          },
          {
             "name":"我要睡啦！(台)",
-            "url":"/media/sounds/.mp3_ZqRIUWh",
+            "url":"/media/sounds/m_fixed_ZqRIUWh.mp3",
             "id":2086
          },
          {
             "name":"我就廢啊",
-            "url":"/media/sounds/.mp3_ZBrtArF",
+            "url":"/media/sounds/m_fixed_ZBrtArF.mp3",
             "id":2087
          },
          {
             "name":"我覺得我都講得不錯",
-            "url":"/media/sounds/.mp3_2q2P8bj",
+            "url":"/media/sounds/m_fixed_2q2P8bj.mp3",
             "id":2088
          },
          {
             "name":"扯",
-            "url":"/media/sounds/.mp3_i7ufV0d",
+            "url":"/media/sounds/m_fixed_i7ufV0d.mp3",
             "id":2089
          },
          {
             "name":"沒救啦",
-            "url":"/media/sounds/.mp3_7mMexQH",
+            "url":"/media/sounds/m_fixed_7mMexQH.mp3",
             "id":2090
          },
          {
             "name":"奇怪",
-            "url":"/media/sounds/.mp3_E4L7T9q",
+            "url":"/media/sounds/m_fixed_E4L7T9q.mp3",
             "id":2091
          },
          {
             "name":"怪怪的",
-            "url":"/media/sounds/.mp3_cBRjvcQ",
+            "url":"/media/sounds/m_fixed_cBRjvcQ.mp3",
             "id":2092
          },
          {
             "name":"所以",
-            "url":"/media/sounds/.mp3_6RwfG9k",
+            "url":"/media/sounds/m_fixed_6RwfG9k.mp3",
             "id":2093
          },
          {
             "name":"咬",
-            "url":"/media/sounds/.mp3_6BQU2P8",
+            "url":"/media/sounds/m_fixed_6BQU2P8.mp3",
             "id":2094
          },
          {
             "name":"客家",
-            "url":"/media/sounds/.mp3_pthkesV",
+            "url":"/media/sounds/m_fixed_pthkesV.mp3",
             "id":2095
          },
          {
             "name":"客家人(客)",
-            "url":"/media/sounds/.mp3_3D3odGK",
+            "url":"/media/sounds/m_fixed_3D3odGK.mp3",
             "id":2096
          },
          {
             "name":"建議",
-            "url":"/media/sounds/.mp3_neuzHHO",
+            "url":"/media/sounds/m_fixed_neuzHHO.mp3",
             "id":2097
          },
          {
             "name":"受害者",
-            "url":"/media/sounds/.mp3_bVIVCZ6",
+            "url":"/media/sounds/m_fixed_bVIVCZ6.mp3",
             "id":2098
          },
          {
             "name":"看清楚",
-            "url":"/media/sounds/.mp3_naZLd97",
+            "url":"/media/sounds/m_fixed_naZLd97.mp3",
             "id":2099
          },
          {
             "name":"苟同",
-            "url":"/media/sounds/.mp3_o8vvJ2z",
+            "url":"/media/sounds/m_fixed_o8vvJ2z.mp3",
             "id":2100
          },
          {
             "name":"要暴怒了",
-            "url":"/media/sounds/.mp3_pGZHoHb",
+            "url":"/media/sounds/m_fixed_pGZHoHb.mp3",
             "id":2101
          },
          {
             "name":"飛走了",
-            "url":"/media/sounds/.mp3_0WeqOJR",
+            "url":"/media/sounds/m_fixed_0WeqOJR.mp3",
             "id":2102
          },
          {
             "name":"差不多啦",
-            "url":"/media/sounds/.mp3_yaTMZyd",
+            "url":"/media/sounds/m_fixed_yaTMZyd.mp3",
             "id":2103
          },
          {
             "name":"庫錢",
-            "url":"/media/sounds/.mp3_sgkuLh8",
+            "url":"/media/sounds/m_fixed_sgkuLh8.mp3",
             "id":2104
          },
          {
             "name":"海洋",
-            "url":"/media/sounds/.mp3_QBOcdVH",
+            "url":"/media/sounds/m_fixed_QBOcdVH.mp3",
             "id":2105
          },
          {
             "name":"真是妙啊",
-            "url":"/media/sounds/.mp3_zsDEDmx",
+            "url":"/media/sounds/m_fixed_zsDEDmx.mp3",
             "id":2106
          },
          {
             "name":"神機妙算",
-            "url":"/media/sounds/.mp3_7CpJlG5",
+            "url":"/media/sounds/m_fixed_7CpJlG5.mp3",
             "id":2107
          },
          {
             "name":"起肚爛(台)",
-            "url":"/media/sounds/.mp3_0oWCU3s",
+            "url":"/media/sounds/m_fixed_0oWCU3s.mp3",
             "id":2108
          },
          {
             "name":"骨灰罈",
-            "url":"/media/sounds/.mp3_rJ7idrf",
+            "url":"/media/sounds/m_fixed_rJ7idrf.mp3",
             "id":2109
          },
          {
             "name":"專業",
-            "url":"/media/sounds/.mp3_qn7KJu7",
+            "url":"/media/sounds/m_fixed_qn7KJu7.mp3",
             "id":2110
          },
          {
             "name":"眼前",
-            "url":"/media/sounds/.mp3_v1LStvg",
+            "url":"/media/sounds/m_fixed_v1LStvg.mp3",
             "id":2111
          },
          {
             "name":"脫衣舞",
-            "url":"/media/sounds/.mp3_7r7XZCI",
+            "url":"/media/sounds/m_fixed_7r7XZCI.mp3",
             "id":2112
          },
          {
             "name":"這就是",
-            "url":"/media/sounds/.mp3_mhfvlKx",
+            "url":"/media/sounds/m_fixed_mhfvlKx.mp3",
             "id":2113
          },
          {
             "name":"都有",
-            "url":"/media/sounds/.mp3_6ApP9K4",
+            "url":"/media/sounds/m_fixed_6ApP9K4.mp3",
             "id":2114
          },
          {
             "name":"剩餘我不能多說了",
-            "url":"/media/sounds/.mp3_sgHw0St",
+            "url":"/media/sounds/m_fixed_sgHw0St.mp3",
             "id":2115
          },
          {
             "name":"喔！超帥的",
-            "url":"/media/sounds/.mp3_bNZJTrn",
+            "url":"/media/sounds/m_fixed_bNZJTrn.mp3",
             "id":2116
          },
          {
             "name":"揮",
-            "url":"/media/sounds/.mp3_4LxceCn",
+            "url":"/media/sounds/m_fixed_4LxceCn.mp3",
             "id":2117
          },
          {
             "name":"最原汁原味",
-            "url":"/media/sounds/.mp3_pzytLV6",
+            "url":"/media/sounds/m_fixed_pzytLV6.mp3",
             "id":2118
          },
          {
             "name":"殼",
-            "url":"/media/sounds/.mp3_aFSap7Y",
+            "url":"/media/sounds/m_fixed_aFSap7Y.mp3",
             "id":2119
          },
          {
             "name":"發展",
-            "url":"/media/sounds/.mp3_GyIcINX",
+            "url":"/media/sounds/m_fixed_GyIcINX.mp3",
             "id":2120
          },
          {
             "name":"發霉",
-            "url":"/media/sounds/.mp3_4De2JBG",
+            "url":"/media/sounds/m_fixed_4De2JBG.mp3",
             "id":2121
          },
          {
             "name":"結束",
-            "url":"/media/sounds/.mp3_ecdZAbG",
+            "url":"/media/sounds/m_fixed_ecdZAbG.mp3",
             "id":2122
          },
          {
             "name":"超扯",
-            "url":"/media/sounds/.mp3_O2UcsBd",
+            "url":"/media/sounds/m_fixed_O2UcsBd.mp3",
             "id":2123
          },
          {
             "name":"傻逼習",
-            "url":"/media/sounds/.mp3_Vs8VwWS",
+            "url":"/media/sounds/m_fixed_Vs8VwWS.mp3",
             "id":2124
          },
          {
             "name":"傻逼習～",
-            "url":"/media/sounds/.mp3_bIt7UuX",
+            "url":"/media/sounds/m_fixed_bIt7UuX.mp3",
             "id":2125
          },
          {
             "name":"媽的假菸",
-            "url":"/media/sounds/.mp3_hirFmdp",
+            "url":"/media/sounds/m_fixed_hirFmdp.mp3",
             "id":2126
          },
          {
             "name":"意思就是說",
-            "url":"/media/sounds/.mp3_Gbtn2UQ",
+            "url":"/media/sounds/m_fixed_Gbtn2UQ.mp3",
             "id":2127
          },
          {
             "name":"跟他",
-            "url":"/media/sounds/.mp3_EbfYeSW",
+            "url":"/media/sounds/m_fixed_EbfYeSW.mp3",
             "id":2128
          },
          {
             "name":"跟我打！(台)",
-            "url":"/media/sounds/.mp3_o0Xyv8Q",
+            "url":"/media/sounds/m_fixed_o0Xyv8Q.mp3",
             "id":2129
          },
          {
             "name":"遇過",
-            "url":"/media/sounds/.mp3_25qDa7s",
+            "url":"/media/sounds/m_fixed_25qDa7s.mp3",
             "id":2130
          },
          {
             "name":"過去",
-            "url":"/media/sounds/.mp3_CBOFQCE",
+            "url":"/media/sounds/m_fixed_CBOFQCE.mp3",
             "id":2131
          },
          {
             "name":"電腦",
-            "url":"/media/sounds/.mp3_LinmUVk",
+            "url":"/media/sounds/m_fixed_LinmUVk.mp3",
             "id":2132
          },
          {
             "name":"實話",
-            "url":"/media/sounds/.mp3_0ID4ubW",
+            "url":"/media/sounds/m_fixed_0ID4ubW.mp3",
             "id":2133
          },
          {
             "name":"摳",
-            "url":"/media/sounds/.mp3_XymtVC2",
+            "url":"/media/sounds/m_fixed_XymtVC2.mp3",
             "id":2134
          },
          {
             "name":"盡力就好",
-            "url":"/media/sounds/.mp3_DTmXsRU",
+            "url":"/media/sounds/m_fixed_DTmXsRU.mp3",
             "id":2135
          },
          {
             "name":"舔狗",
-            "url":"/media/sounds/.mp3_L54Mqjz",
+            "url":"/media/sounds/m_fixed_L54Mqjz.mp3",
             "id":2136
          },
          {
             "name":"裸體",
-            "url":"/media/sounds/.mp3_q55LqXQ",
+            "url":"/media/sounds/m_fixed_q55LqXQ.mp3",
             "id":2137
          },
          {
@@ -14912,162 +14912,162 @@ export default [
          },
          {
             "name":"趕快看啊",
-            "url":"/media/sounds/.mp3_XawPftZ",
+            "url":"/media/sounds/m_fixed_XawPftZ.mp3",
             "id":2139
          },
          {
             "name":"暴力",
-            "url":"/media/sounds/.mp3_GD0Vlkm",
+            "url":"/media/sounds/m_fixed_GD0Vlkm.mp3",
             "id":2140
          },
          {
             "name":"養套殺",
-            "url":"/media/sounds/.mp3_ji5OfBn",
+            "url":"/media/sounds/m_fixed_ji5OfBn.mp3",
             "id":2141
          },
          {
             "name":"鋼管舞",
-            "url":"/media/sounds/.mp3_Dtoeyik",
+            "url":"/media/sounds/m_fixed_Dtoeyik.mp3",
             "id":2142
          },
          {
             "name":"錢",
-            "url":"/media/sounds/.mp3_o9kiyBE",
+            "url":"/media/sounds/m_fixed_o9kiyBE.mp3",
             "id":2143
          },
          {
             "name":"嚇死人了",
-            "url":"/media/sounds/.mp3_NlMF0QH",
+            "url":"/media/sounds/m_fixed_NlMF0QH.mp3",
             "id":2144
          },
          {
             "name":"殭屍",
-            "url":"/media/sounds/.mp3_TKzjuTT",
+            "url":"/media/sounds/m_fixed_TKzjuTT.mp3",
             "id":2145
          },
          {
             "name":"講話啊",
-            "url":"/media/sounds/.mp3_h2bD6gE",
+            "url":"/media/sounds/m_fixed_h2bD6gE.mp3",
             "id":2146
          },
          {
             "name":"簡稱",
-            "url":"/media/sounds/.mp3_rgnzMa9",
+            "url":"/media/sounds/m_fixed_rgnzMa9.mp3",
             "id":2147
          },
          {
             "name":"矇逼",
-            "url":"/media/sounds/.mp3_FdjpiOy",
+            "url":"/media/sounds/m_fixed_FdjpiOy.mp3",
             "id":2148
          },
          {
             "name":"難聽啊",
-            "url":"/media/sounds/.mp3_gQxWPda",
+            "url":"/media/sounds/m_fixed_gQxWPda.mp3",
             "id":2149
          },
          {
             "name":"罐頭塔",
-            "url":"/media/sounds/.mp3_Y8wYaAr",
+            "url":"/media/sounds/m_fixed_Y8wYaAr.mp3",
             "id":2150
          },
          {
             "name":"讓你體驗一下",
-            "url":"/media/sounds/.mp3_4bXLxug",
+            "url":"/media/sounds/m_fixed_4bXLxug.mp3",
             "id":2151
          },
          {
             "name":"讚啦～",
-            "url":"/media/sounds/.mp3_Se5Z0hQ",
+            "url":"/media/sounds/m_fixed_Se5Z0hQ.mp3",
             "id":2152
          },
          {
             "name":"好吧",
-            "url":"/media/sounds/.mp3_I77nzpI",
+            "url":"/media/sounds/m_fixed_I77nzpI.mp3",
             "id":2231
          },
          {
             "name":"不然這樣好了",
-            "url":"/media/sounds/.mp3_E8irIiY",
+            "url":"/media/sounds/m_fixed_E8irIiY.mp3",
             "id":2232
          },
          {
             "name":"おじさん",
-            "url":"/media/sounds/.mp3_SovibwO",
+            "url":"/media/sounds/m_fixed_SovibwO.mp3",
             "id":2233
          },
          {
             "name":"不妙",
-            "url":"/media/sounds/.mp3_jxomfbh",
+            "url":"/media/sounds/m_fixed_jxomfbh.mp3",
             "id":2234
          },
          {
             "name":"五花八門",
-            "url":"/media/sounds/.mp3_6sIPtcG",
+            "url":"/media/sounds/m_fixed_6sIPtcG.mp3",
             "id":2235
          },
          {
             "name":"什麼才叫",
-            "url":"/media/sounds/.mp3_mmUbDLJ",
+            "url":"/media/sounds/m_fixed_mmUbDLJ.mp3",
             "id":2236
          },
          {
             "name":"什麼才是",
-            "url":"/media/sounds/.mp3_X60LcpD",
+            "url":"/media/sounds/m_fixed_X60LcpD.mp3",
             "id":2237
          },
          {
             "name":"主持人",
-            "url":"/media/sounds/.mp3_urd6zYK",
+            "url":"/media/sounds/m_fixed_urd6zYK.mp3",
             "id":2238
          },
          {
             "name":"如果這不是",
-            "url":"/media/sounds/.mp3_U1BV2Fc",
+            "url":"/media/sounds/m_fixed_U1BV2Fc.mp3",
             "id":2239
          },
          {
             "name":"你們好",
-            "url":"/media/sounds/.mp3_p1jQ8Wc",
+            "url":"/media/sounds/m_fixed_p1jQ8Wc.mp3",
             "id":2240
          },
          {
             "name":"我是",
-            "url":"/media/sounds/.mp3_vCCguYe",
+            "url":"/media/sounds/m_fixed_vCCguYe.mp3",
             "id":2241
          },
          {
             "name":"我倒楣了",
-            "url":"/media/sounds/.mp3_TroBc5W",
+            "url":"/media/sounds/m_fixed_TroBc5W.mp3",
             "id":2242
          },
          {
             "name":"怪",
-            "url":"/media/sounds/.mp3_Z3yTi2Q",
+            "url":"/media/sounds/m_fixed_Z3yTi2Q.mp3",
             "id":2243
          },
          {
             "name":"拉屎",
-            "url":"/media/sounds/.mp3_UpaWzZL",
+            "url":"/media/sounds/m_fixed_UpaWzZL.mp3",
             "id":2244
          },
          {
             "name":"指日可待",
-            "url":"/media/sounds/.mp3_U7wB54o",
+            "url":"/media/sounds/m_fixed_U7wB54o.mp3",
             "id":2245
          },
          {
             "name":"是什麼東西？",
-            "url":"/media/sounds/.mp3_Fgv9eM6",
+            "url":"/media/sounds/m_fixed_Fgv9eM6.mp3",
             "id":2246
          },
          {
             "name":"香不香？",
-            "url":"/media/sounds/.mp3_cQTI2iD",
+            "url":"/media/sounds/m_fixed_cQTI2iD.mp3",
             "id":2247
          },
          {
             "name":"哭哭啼啼",
-            "url":"/media/sounds/.mp3_tcNGQCL",
+            "url":"/media/sounds/m_fixed_tcNGQCL.mp3",
             "id":2248
          },
          {
@@ -15077,42 +15077,42 @@ export default [
          },
          {
             "name":"情誼",
-            "url":"/media/sounds/.mp3_oUyN9CD",
+            "url":"/media/sounds/m_fixed_oUyN9CD.mp3",
             "id":2250
          },
          {
             "name":"接起",
-            "url":"/media/sounds/.mp3_hNN43Ij",
+            "url":"/media/sounds/m_fixed_hNN43Ij.mp3",
             "id":2251
          },
          {
             "name":"尊嚴",
-            "url":"/media/sounds/.mp3_mOEjXEy",
+            "url":"/media/sounds/m_fixed_mOEjXEy.mp3",
             "id":2252
          },
          {
             "name":"最",
-            "url":"/media/sounds/.mp3_rPQ2o5Y",
+            "url":"/media/sounds/m_fixed_rPQ2o5Y.mp3",
             "id":2253
          },
          {
             "name":"棒",
-            "url":"/media/sounds/.mp3_lOO9gox",
+            "url":"/media/sounds/m_fixed_lOO9gox.mp3",
             "id":2254
          },
          {
             "name":"超級",
-            "url":"/media/sounds/.mp3_5KhK1pm",
+            "url":"/media/sounds/m_fixed_5KhK1pm.mp3",
             "id":2255
          },
          {
             "name":"開外掛啦",
-            "url":"/media/sounds/.mp3_XePrqQF",
+            "url":"/media/sounds/m_fixed_XePrqQF.mp3",
             "id":2256
          },
          {
             "name":"開開心心",
-            "url":"/media/sounds/.mp3_MBYaDSP",
+            "url":"/media/sounds/m_fixed_MBYaDSP.mp3",
             "id":2257
          },
          {
@@ -15122,62 +15122,62 @@ export default [
          },
          {
             "name":"搞他",
-            "url":"/media/sounds/.mp3_QILraoz",
+            "url":"/media/sounds/m_fixed_QILraoz.mp3",
             "id":2259
          },
          {
             "name":"腳腳",
-            "url":"/media/sounds/.mp3_XIdkRri",
+            "url":"/media/sounds/m_fixed_XIdkRri.mp3",
             "id":2260
          },
          {
             "name":"雷包",
-            "url":"/media/sounds/.mp3_Sn4fU07",
+            "url":"/media/sounds/m_fixed_Sn4fU07.mp3",
             "id":2261
          },
          {
             "name":"電台",
-            "url":"/media/sounds/.mp3_1txTDjY",
+            "url":"/media/sounds/m_fixed_1txTDjY.mp3",
             "id":2262
          },
          {
             "name":"電話",
-            "url":"/media/sounds/.mp3_Aj0H1CP",
+            "url":"/media/sounds/m_fixed_Aj0H1CP.mp3",
             "id":2263
          },
          {
             "name":"對面",
-            "url":"/media/sounds/.mp3_3LNjENP",
+            "url":"/media/sounds/m_fixed_3LNjENP.mp3",
             "id":2264
          },
          {
             "name":"舔",
-            "url":"/media/sounds/.mp3_UqxfMzW",
+            "url":"/media/sounds/m_fixed_UqxfMzW.mp3",
             "id":2265
          },
          {
             "name":"廢話",
-            "url":"/media/sounds/.mp3_eIe7mXN",
+            "url":"/media/sounds/m_fixed_eIe7mXN.mp3",
             "id":2266
          },
          {
             "name":"踐踏",
-            "url":"/media/sounds/.mp3_krYLtob",
+            "url":"/media/sounds/m_fixed_krYLtob.mp3",
             "id":2267
          },
          {
             "name":"錯",
-            "url":"/media/sounds/.mp3_u1zGkud",
+            "url":"/media/sounds/m_fixed_u1zGkud.mp3",
             "id":2268
          },
          {
             "name":"壓力好大喔",
-            "url":"/media/sounds/.mp3_usVms4j",
+            "url":"/media/sounds/m_fixed_usVms4j.mp3",
             "id":2269
          },
          {
             "name":"矇蔽了我的雙眼",
-            "url":"/media/sounds/.mp3_1nSEeH6",
+            "url":"/media/sounds/m_fixed_1nSEeH6.mp3",
             "id":2270
          },
          {
@@ -15187,7 +15187,7 @@ export default [
          },
          {
             "name":"這裡是",
-            "url":"/media/sounds/.mp3_Kx90DVL",
+            "url":"/media/sounds/m_fixed_Kx90DVL.mp3",
             "id":2292
          },
          {
@@ -15197,187 +15197,187 @@ export default [
          },
          {
             "name":"ㄋㄟㄋㄟ",
-            "url":"/media/sounds/.mp3_QfgEJGO",
+            "url":"/media/sounds/m_fixed_QfgEJGO.mp3",
             "id":2296
          },
          {
             "name":"一起戴綠帽了啦",
-            "url":"/media/sounds/.mp3_AifFE6V",
+            "url":"/media/sounds/m_fixed_AifFE6V.mp3",
             "id":2297
          },
          {
             "name":"三小？",
-            "url":"/media/sounds/.mp3_UrIJ9c9",
+            "url":"/media/sounds/m_fixed_UrIJ9c9.mp3",
             "id":2298
          },
          {
             "name":"上",
-            "url":"/media/sounds/.mp3_8O5CvQe",
+            "url":"/media/sounds/m_fixed_8O5CvQe.mp3",
             "id":2299
          },
          {
             "name":"大爆射",
-            "url":"/media/sounds/.mp3_YD9mhIE",
+            "url":"/media/sounds/m_fixed_YD9mhIE.mp3",
             "id":2300
          },
          {
             "name":"工業",
-            "url":"/media/sounds/.mp3_0u2Qh4B",
+            "url":"/media/sounds/m_fixed_0u2Qh4B.mp3",
             "id":2301
          },
          {
             "name":"不要去！",
-            "url":"/media/sounds/.mp3_T2XFQ0K",
+            "url":"/media/sounds/m_fixed_T2XFQ0K.mp3",
             "id":2302
          },
          {
             "name":"不要亂跑啊",
-            "url":"/media/sounds/.mp3_GlUbOg7",
+            "url":"/media/sounds/m_fixed_GlUbOg7.mp3",
             "id":2303
          },
          {
             "name":"引擎",
-            "url":"/media/sounds/.mp3_t7oVrbJ",
+            "url":"/media/sounds/m_fixed_t7oVrbJ.mp3",
             "id":2304
          },
          {
             "name":"世界第一",
-            "url":"/media/sounds/.mp3_q5AjljQ",
+            "url":"/media/sounds/m_fixed_q5AjljQ.mp3",
             "id":2305
          },
          {
             "name":"未來",
-            "url":"/media/sounds/.mp3_tzXjrr0",
+            "url":"/media/sounds/m_fixed_tzXjrr0.mp3",
             "id":2306
          },
          {
             "name":"因",
-            "url":"/media/sounds/.mp3_6T16l15",
+            "url":"/media/sounds/m_fixed_6T16l15.mp3",
             "id":2307
          },
          {
             "name":"自由",
-            "url":"/media/sounds/.mp3_Niitn0F",
+            "url":"/media/sounds/m_fixed_Niitn0F.mp3",
             "id":2308
          },
          {
             "name":"我要喝(台)",
-            "url":"/media/sounds/.mp3_Pfo3Xuj",
+            "url":"/media/sounds/m_fixed_Pfo3Xuj.mp3",
             "id":2309
          },
          {
             "name":"車",
-            "url":"/media/sounds/.mp3_dDE2EZi",
+            "url":"/media/sounds/m_fixed_dDE2EZi.mp3",
             "id":2310
          },
          {
             "name":"那個！",
-            "url":"/media/sounds/.mp3_hEFLv1N",
+            "url":"/media/sounds/m_fixed_hEFLv1N.mp3",
             "id":2311
          },
          {
             "name":"乖",
-            "url":"/media/sounds/.mp3_AZUijdG",
+            "url":"/media/sounds/m_fixed_AZUijdG.mp3",
             "id":2312
          },
          {
             "name":"呱",
-            "url":"/media/sounds/.mp3_Ml7yi4n",
+            "url":"/media/sounds/m_fixed_Ml7yi4n.mp3",
             "id":2313
          },
          {
             "name":"後悔了",
-            "url":"/media/sounds/.mp3_uaupW3N",
+            "url":"/media/sounds/m_fixed_uaupW3N.mp3",
             "id":2314
          },
          {
             "name":"挖",
-            "url":"/media/sounds/.mp3_QDyIjkT",
+            "url":"/media/sounds/m_fixed_QDyIjkT.mp3",
             "id":2315
          },
          {
             "name":"炸裂(台)",
-            "url":"/media/sounds/.mp3_1EQZb7Z",
+            "url":"/media/sounds/m_fixed_1EQZb7Z.mp3",
             "id":2317
          },
          {
             "name":"飛",
-            "url":"/media/sounds/.mp3_yprzUJ4",
+            "url":"/media/sounds/m_fixed_yprzUJ4.mp3",
             "id":2318
          },
          {
             "name":"高大上",
-            "url":"/media/sounds/.mp3_LPiwGXb",
+            "url":"/media/sounds/m_fixed_LPiwGXb.mp3",
             "id":2319
          },
          {
             "name":"欸！對了！",
-            "url":"/media/sounds/.mp3_gSUXPel",
+            "url":"/media/sounds/m_fixed_gSUXPel.mp3",
             "id":2320
          },
          {
             "name":"符號",
-            "url":"/media/sounds/.mp3_cezUfWT",
+            "url":"/media/sounds/m_fixed_cezUfWT.mp3",
             "id":2321
          },
          {
             "name":"被炎上啦",
-            "url":"/media/sounds/.mp3_syZBtG5",
+            "url":"/media/sounds/m_fixed_syZBtG5.mp3",
             "id":2322
          },
          {
             "name":"跌",
-            "url":"/media/sounds/.mp3_MDFjeEX",
+            "url":"/media/sounds/m_fixed_MDFjeEX.mp3",
             "id":2324
          },
          {
             "name":"傻眼",
-            "url":"/media/sounds/.mp3_WfE7jnG",
+            "url":"/media/sounds/m_fixed_WfE7jnG.mp3",
             "id":2325
          },
          {
             "name":"想哭(香菇)",
-            "url":"/media/sounds/.mp3_4L3acyS",
+            "url":"/media/sounds/m_fixed_4L3acyS.mp3",
             "id":2326
          },
          {
             "name":"毀掉了",
-            "url":"/media/sounds/.mp3_1sAD0CH",
+            "url":"/media/sounds/m_fixed_1sAD0CH.mp3",
             "id":2327
          },
          {
             "name":"跳蛋",
-            "url":"/media/sounds/.mp3_AeZ6USP",
+            "url":"/media/sounds/m_fixed_AeZ6USP.mp3",
             "id":2328
          },
          {
             "name":"隔離",
-            "url":"/media/sounds/.mp3_l2NdbaD",
+            "url":"/media/sounds/m_fixed_l2NdbaD.mp3",
             "id":2329
          },
          {
             "name":"雷",
-            "url":"/media/sounds/.mp3_FSAiyqo",
+            "url":"/media/sounds/m_fixed_FSAiyqo.mp3",
             "id":2330
          },
          {
             "name":"噴射",
-            "url":"/media/sounds/.mp3_b0MZKEK",
+            "url":"/media/sounds/m_fixed_b0MZKEK.mp3",
             "id":2331
          },
          {
             "name":"藍受",
-            "url":"/media/sounds/.mp3_iE7r1i4",
+            "url":"/media/sounds/m_fixed_iE7r1i4.mp3",
             "id":2332
          },
          {
             "name":"爆炸了",
-            "url":"/media/sounds/.mp3_ZAMQGsW",
+            "url":"/media/sounds/m_fixed_ZAMQGsW.mp3",
             "id":2333
          },
          {
             "name":"太誇張了吧",
-            "url":"/media/sounds/.mp3_K5rpfCC",
+            "url":"/media/sounds/m_fixed_K5rpfCC.mp3",
             "id":2334
          },
          {
@@ -15387,27 +15387,27 @@ export default [
          },
          {
             "name":"不能這樣啦",
-            "url":"/media/sounds/.mp3_fOM7Z9y",
+            "url":"/media/sounds/m_fixed_fOM7Z9y.mp3",
             "id":2398
          },
          {
             "name":"乘載的人們的夢想",
-            "url":"/media/sounds/.mp3_NRNNbVL",
+            "url":"/media/sounds/m_fixed_NRNNbVL.mp3",
             "id":2399
          },
          {
             "name":"偷看一下",
-            "url":"/media/sounds/.mp3_fGyjG9C",
+            "url":"/media/sounds/m_fixed_fGyjG9C.mp3",
             "id":2400
          },
          {
             "name":"別妄想了啦(台)",
-            "url":"/media/sounds/.mp3_tP1ndoF",
+            "url":"/media/sounds/m_fixed_tP1ndoF.mp3",
             "id":2401
          },
          {
             "name":"匹",
-            "url":"/media/sounds/.mp3_PHsN1hk",
+            "url":"/media/sounds/m_fixed_PHsN1hk.mp3",
             "id":2402
          },
          {
@@ -15417,152 +15417,152 @@ export default [
          },
          {
             "name":"喂～",
-            "url":"/media/sounds/.mp3_TDfgwqi",
+            "url":"/media/sounds/m_fixed_TDfgwqi.mp3",
             "id":2404
          },
          {
             "name":"坦克車",
-            "url":"/media/sounds/.mp3_nl9zCbO",
+            "url":"/media/sounds/m_fixed_nl9zCbO.mp3",
             "id":2405
          },
          {
             "name":"大砲",
-            "url":"/media/sounds/.mp3_LTsOpZm",
+            "url":"/media/sounds/m_fixed_LTsOpZm.mp3",
             "id":2406
          },
          {
             "name":"好人",
-            "url":"/media/sounds/.mp3_DtAUpHa",
+            "url":"/media/sounds/m_fixed_DtAUpHa.mp3",
             "id":2407
          },
          {
             "name":"好可怕",
-            "url":"/media/sounds/.mp3_34ilLyj",
+            "url":"/media/sounds/m_fixed_34ilLyj.mp3",
             "id":2408
          },
          {
             "name":"好痛",
-            "url":"/media/sounds/.mp3_FM8nUQQ",
+            "url":"/media/sounds/m_fixed_FM8nUQQ.mp3",
             "id":2409
          },
          {
             "name":"嫩",
-            "url":"/media/sounds/.mp3_0rtBtNH",
+            "url":"/media/sounds/m_fixed_0rtBtNH.mp3",
             "id":2410
          },
          {
             "name":"帕金森氏症",
-            "url":"/media/sounds/.mp3_hxPcqNM",
+            "url":"/media/sounds/m_fixed_hxPcqNM.mp3",
             "id":2411
          },
          {
             "name":"廢墟",
-            "url":"/media/sounds/.mp3_GUZo0hS",
+            "url":"/media/sounds/m_fixed_GUZo0hS.mp3",
             "id":2412
          },
          {
             "name":"心動動",
-            "url":"/media/sounds/.mp3_tzie36h",
+            "url":"/media/sounds/m_fixed_tzie36h.mp3",
             "id":2413
          },
          {
             "name":"感覺還不錯",
-            "url":"/media/sounds/.mp3_2Zvpqd3",
+            "url":"/media/sounds/m_fixed_2Zvpqd3.mp3",
             "id":2414
          },
          {
             "name":"扶",
-            "url":"/media/sounds/.mp3_98jcPUk",
+            "url":"/media/sounds/m_fixed_98jcPUk.mp3",
             "id":2415
          },
          {
             "name":"抖(台)",
-            "url":"/media/sounds/.mp3_ieigVxE",
+            "url":"/media/sounds/m_fixed_ieigVxE.mp3",
             "id":2416
          },
          {
             "name":"抖",
-            "url":"/media/sounds/.mp3_4FnC0wJ",
+            "url":"/media/sounds/m_fixed_4FnC0wJ.mp3",
             "id":2417
          },
          {
             "name":"掩埋",
-            "url":"/media/sounds/.mp3_P4CJCq2",
+            "url":"/media/sounds/m_fixed_P4CJCq2.mp3",
             "id":2418
          },
          {
             "name":"撞到",
-            "url":"/media/sounds/.mp3_8zbCvHe",
+            "url":"/media/sounds/m_fixed_8zbCvHe.mp3",
             "id":2419
          },
          {
             "name":"改",
-            "url":"/media/sounds/.mp3_jyVUQe0",
+            "url":"/media/sounds/m_fixed_jyVUQe0.mp3",
             "id":2420
          },
          {
             "name":"效率",
-            "url":"/media/sounds/.mp3_yJCtvGP",
+            "url":"/media/sounds/m_fixed_yJCtvGP.mp3",
             "id":2421
          },
          {
             "name":"樂透",
-            "url":"/media/sounds/.mp3_z5MTFLM",
+            "url":"/media/sounds/m_fixed_z5MTFLM.mp3",
             "id":2422
          },
          {
             "name":"欺負",
-            "url":"/media/sounds/.mp3_MbFovTU",
+            "url":"/media/sounds/m_fixed_MbFovTU.mp3",
             "id":2423
          },
          {
             "name":"消夜",
-            "url":"/media/sounds/.mp3_4Lzh2fj",
+            "url":"/media/sounds/m_fixed_4Lzh2fj.mp3",
             "id":2424
          },
          {
             "name":"爆",
-            "url":"/media/sounds/.mp3_FxVByak",
+            "url":"/media/sounds/m_fixed_FxVByak.mp3",
             "id":2425
          },
          {
             "name":"牛逼牛逼牛逼",
-            "url":"/media/sounds/.mp3_ggGqI1c",
+            "url":"/media/sounds/m_fixed_ggGqI1c.mp3",
             "id":2426
          },
          {
             "name":"畫龍點睛",
-            "url":"/media/sounds/.mp3_57BtaN6",
+            "url":"/media/sounds/m_fixed_57BtaN6.mp3",
             "id":2427
          },
          {
             "name":"窩",
-            "url":"/media/sounds/.mp3_qyNbrZr",
+            "url":"/media/sounds/m_fixed_qyNbrZr.mp3",
             "id":2428
          },
          {
             "name":"被發現了",
-            "url":"/media/sounds/.mp3_71FhbBt",
+            "url":"/media/sounds/m_fixed_71FhbBt.mp3",
             "id":2429
          },
          {
             "name":"讓我看看啊(英)",
-            "url":"/media/sounds/.mp3_NIBHA9z",
+            "url":"/media/sounds/m_fixed_NIBHA9z.mp3",
             "id":2430
          },
          {
             "name":"超屌的ㄟ",
-            "url":"/media/sounds/.mp3_p4dRM5E",
+            "url":"/media/sounds/m_fixed_p4dRM5E.mp3",
             "id":2431
          },
          {
             "name":"超誇張的ㄟ",
-            "url":"/media/sounds/.mp3_zk77hHk",
+            "url":"/media/sounds/m_fixed_zk77hHk.mp3",
             "id":2432
          },
          {
             "name":"逆襲",
-            "url":"/media/sounds/.mp3_4qAZLfZ",
+            "url":"/media/sounds/m_fixed_4qAZLfZ.mp3",
             "id":2433
          },
          {
@@ -15572,27 +15572,27 @@ export default [
          },
          {
             "name":"這個菸",
-            "url":"/media/sounds/.mp3_praENFQ",
+            "url":"/media/sounds/m_fixed_praENFQ.mp3",
             "id":2435
          },
          {
             "name":"這太地獄囉",
-            "url":"/media/sounds/.mp3_Sp2YXvf",
+            "url":"/media/sounds/m_fixed_Sp2YXvf.mp3",
             "id":2436
          },
          {
             "name":"還趕過來啊？",
-            "url":"/media/sounds/.mp3_hvsUeZy",
+            "url":"/media/sounds/m_fixed_hvsUeZy.mp3",
             "id":2437
          },
          {
             "name":"頂呱呱",
-            "url":"/media/sounds/.mp3_0bShPyx",
+            "url":"/media/sounds/m_fixed_0bShPyx.mp3",
             "id":2438
          },
          {
             "name":"飛機",
-            "url":"/media/sounds/.mp3_zuRDhPD",
+            "url":"/media/sounds/m_fixed_zuRDhPD.mp3",
             "id":2439
          },
          {
@@ -15612,17 +15612,17 @@ export default [
          },
          {
             "name":"一包只要二十五塊喔～(台)",
-            "url":"/media/sounds/.mp3_u9u2tY3",
+            "url":"/media/sounds/m_fixed_u9u2tY3.mp3",
             "id":2554
          },
          {
             "name":"一心一意",
-            "url":"/media/sounds/.mp3_xA5iGnp",
+            "url":"/media/sounds/m_fixed_xA5iGnp.mp3",
             "id":2555
          },
          {
             "name":"你要看嗎？(台)",
-            "url":"/media/sounds/.mp3_ztmByr4",
+            "url":"/media/sounds/m_fixed_ztmByr4.mp3",
             "id":2556
          },
          {
@@ -15632,67 +15632,67 @@ export default [
          },
          {
             "name":"加料",
-            "url":"/media/sounds/.mp3_wa5j4hb",
+            "url":"/media/sounds/m_fixed_wa5j4hb.mp3",
             "id":2558
          },
          {
             "name":"原則",
-            "url":"/media/sounds/.mp3_ZT4Ohp0",
+            "url":"/media/sounds/m_fixed_ZT4Ohp0.mp3",
             "id":2559
          },
          {
             "name":"叫老爸一起啦",
-            "url":"/media/sounds/.mp3_TIo6uuI",
+            "url":"/media/sounds/m_fixed_TIo6uuI.mp3",
             "id":2560
          },
          {
             "name":"喔，是喔",
-            "url":"/media/sounds/.mp3_50OmkcB",
+            "url":"/media/sounds/m_fixed_50OmkcB.mp3",
             "id":2561
          },
          {
             "name":"喜歡",
-            "url":"/media/sounds/.mp3_CiPNvdD",
+            "url":"/media/sounds/m_fixed_CiPNvdD.mp3",
             "id":2562
          },
          {
             "name":"嚇到吃小手手",
-            "url":"/media/sounds/.mp3_8cGFiBW",
+            "url":"/media/sounds/m_fixed_8cGFiBW.mp3",
             "id":2563
          },
          {
             "name":"客人啊～要喝茶嗎～？(台)",
-            "url":"/media/sounds/.mp3_3FDheSm",
+            "url":"/media/sounds/m_fixed_3FDheSm.mp3",
             "id":2564
          },
          {
             "name":"宣示",
-            "url":"/media/sounds/.mp3_kAOQS8h",
+            "url":"/media/sounds/m_fixed_kAOQS8h.mp3",
             "id":2565
          },
          {
             "name":"宣～示",
-            "url":"/media/sounds/.mp3_lANP2j4",
+            "url":"/media/sounds/m_fixed_lANP2j4.mp3",
             "id":2566
          },
          {
             "name":"廉價茶",
-            "url":"/media/sounds/.mp3_hnllgKY",
+            "url":"/media/sounds/m_fixed_hnllgKY.mp3",
             "id":2567
          },
          {
             "name":"強姦",
-            "url":"/media/sounds/.mp3_fK19wIv",
+            "url":"/media/sounds/m_fixed_fK19wIv.mp3",
             "id":2568
          },
          {
             "name":"強暴",
-            "url":"/media/sounds/.mp3_93Vwl56",
+            "url":"/media/sounds/m_fixed_93Vwl56.mp3",
             "id":2569
          },
          {
             "name":"我在喝茶",
-            "url":"/media/sounds/.mp3_aLAoaon",
+            "url":"/media/sounds/m_fixed_aLAoaon.mp3",
             "id":2570
          },
          {
@@ -15702,77 +15702,77 @@ export default [
          },
          {
             "name":"效忠",
-            "url":"/media/sounds/.mp3_YFc3JJ8",
+            "url":"/media/sounds/m_fixed_YFc3JJ8.mp3",
             "id":2572
          },
          {
             "name":"料理",
-            "url":"/media/sounds/.mp3_rquOXej",
+            "url":"/media/sounds/m_fixed_rquOXej.mp3",
             "id":2573
          },
          {
             "name":"旁邊",
-            "url":"/media/sounds/.mp3_jeOF3rP",
+            "url":"/media/sounds/m_fixed_jeOF3rP.mp3",
             "id":2574
          },
          {
             "name":"歪掉",
-            "url":"/media/sounds/.mp3_nQ3ZNBm",
+            "url":"/media/sounds/m_fixed_nQ3ZNBm.mp3",
             "id":2575
          },
          {
             "name":"派對",
-            "url":"/media/sounds/.mp3_nG8slrJ",
+            "url":"/media/sounds/m_fixed_nG8slrJ.mp3",
             "id":2576
          },
          {
             "name":"浪",
-            "url":"/media/sounds/.mp3_rvGDyZf",
+            "url":"/media/sounds/m_fixed_rvGDyZf.mp3",
             "id":2577
          },
          {
             "name":"火車站",
-            "url":"/media/sounds/.mp3_Pj5mo2v",
+            "url":"/media/sounds/m_fixed_Pj5mo2v.mp3",
             "id":2578
          },
          {
             "name":"為",
-            "url":"/media/sounds/.mp3_1Hp6sDe",
+            "url":"/media/sounds/m_fixed_1Hp6sDe.mp3",
             "id":2579
          },
          {
             "name":"等一下！",
-            "url":"/media/sounds/.mp3_2nafivZ",
+            "url":"/media/sounds/m_fixed_2nafivZ.mp3",
             "id":2580
          },
          {
             "name":"誤會",
-            "url":"/media/sounds/.mp3_Fexa6WV",
+            "url":"/media/sounds/m_fixed_Fexa6WV.mp3",
             "id":2581
          },
          {
             "name":"趴趴走(台)",
-            "url":"/media/sounds/.mp3_rwmwKwB",
+            "url":"/media/sounds/m_fixed_rwmwKwB.mp3",
             "id":2582
          },
          {
             "name":"軟",
-            "url":"/media/sounds/.mp3_JlMB57h",
+            "url":"/media/sounds/m_fixed_JlMB57h.mp3",
             "id":2583
          },
          {
             "name":"達爾文已經下凡了",
-            "url":"/media/sounds/.mp3_ZSUE60z",
+            "url":"/media/sounds/m_fixed_ZSUE60z.mp3",
             "id":2584
          },
          {
             "name":"黃金",
-            "url":"/media/sounds/.mp3_EqPlSFf",
+            "url":"/media/sounds/m_fixed_EqPlSFf.mp3",
             "id":2586
          },
          {
             "name":"チッチッチッチ おっぱい ぼいんぼい～ん",
-            "url":"/media/sounds/.mp3_1o1I0f8",
+            "url":"/media/sounds/m_fixed_1o1I0f8.mp3",
             "id":2587
          },
          {
@@ -15787,377 +15787,377 @@ export default [
          },
          {
             "name":"こんにちは～",
-            "url":"/media/sounds/.mp3_jMVR9EU",
+            "url":"/media/sounds/m_fixed_jMVR9EU.mp3",
             "id":2642
          },
          {
             "name":"はいはいはい",
-            "url":"/media/sounds/.mp3_7qAWGqp",
+            "url":"/media/sounds/m_fixed_7qAWGqp.mp3",
             "id":2643
          },
          {
             "name":"みなさん",
-            "url":"/media/sounds/.mp3_ho6q4vo",
+            "url":"/media/sounds/m_fixed_ho6q4vo.mp3",
             "id":2644
          },
          {
             "name":"不好說",
-            "url":"/media/sounds/.mp3_izw7Z86",
+            "url":"/media/sounds/m_fixed_izw7Z86.mp3",
             "id":2645
          },
          {
             "name":"不是吧？",
-            "url":"/media/sounds/.mp3_01yGxid",
+            "url":"/media/sounds/m_fixed_01yGxid.mp3",
             "id":2646
          },
          {
             "name":"不是啊！",
-            "url":"/media/sounds/.mp3_BHf0NSa",
+            "url":"/media/sounds/m_fixed_BHf0NSa.mp3",
             "id":2647
          },
          {
             "name":"不演了",
-            "url":"/media/sounds/.mp3_H649e80",
+            "url":"/media/sounds/m_fixed_H649e80.mp3",
             "id":2648
          },
          {
             "name":"不行擬？",
-            "url":"/media/sounds/.mp3_GSsar6k",
+            "url":"/media/sounds/m_fixed_GSsar6k.mp3",
             "id":2649
          },
          {
             "name":"人生勝利組",
-            "url":"/media/sounds/.mp3_yVlQviu",
+            "url":"/media/sounds/m_fixed_yVlQviu.mp3",
             "id":2650
          },
          {
             "name":"人生的巔峰",
-            "url":"/media/sounds/.mp3_GSicBoz",
+            "url":"/media/sounds/m_fixed_GSicBoz.mp3",
             "id":2651
          },
          {
             "name":"你在怕什麼啦？",
-            "url":"/media/sounds/.mp3_JjPLHSC",
+            "url":"/media/sounds/m_fixed_JjPLHSC.mp3",
             "id":2652
          },
          {
             "name":"你好",
-            "url":"/media/sounds/.mp3_8ZjPyfn",
+            "url":"/media/sounds/m_fixed_8ZjPyfn.mp3",
             "id":2653
          },
          {
             "name":"再來",
-            "url":"/media/sounds/.mp3_GB2xW9W",
+            "url":"/media/sounds/m_fixed_GB2xW9W.mp3",
             "id":2654
          },
          {
             "name":"別怕(台)",
-            "url":"/media/sounds/.mp3_02MxNE8",
+            "url":"/media/sounds/m_fixed_02MxNE8.mp3",
             "id":2655
          },
          {
             "name":"別緊張啦(台)",
-            "url":"/media/sounds/.mp3_n8L63Fu",
+            "url":"/media/sounds/m_fixed_n8L63Fu.mp3",
             "id":2656
          },
          {
             "name":"博大精深",
-            "url":"/media/sounds/.mp3_WJB1NcF",
+            "url":"/media/sounds/m_fixed_WJB1NcF.mp3",
             "id":2657
          },
          {
             "name":"大家早安",
-            "url":"/media/sounds/.mp3_B89RaQH",
+            "url":"/media/sounds/m_fixed_B89RaQH.mp3",
             "id":2658
          },
          {
             "name":"太",
-            "url":"/media/sounds/.mp3_aLwh1Jv",
+            "url":"/media/sounds/m_fixed_aLwh1Jv.mp3",
             "id":2659
          },
          {
             "name":"好好好",
-            "url":"/media/sounds/.mp3_8AA6Ag9",
+            "url":"/media/sounds/m_fixed_8AA6Ag9.mp3",
             "id":2660
          },
          {
             "name":"媽的真的是壓力有夠大",
-            "url":"/media/sounds/.mp3_qTOwDBu",
+            "url":"/media/sounds/m_fixed_qTOwDBu.mp3",
             "id":2661
          },
          {
             "name":"小孩子",
-            "url":"/media/sounds/.mp3_gBaFLJm",
+            "url":"/media/sounds/m_fixed_gBaFLJm.mp3",
             "id":2662
          },
          {
             "name":"小籮莉",
-            "url":"/media/sounds/.mp3_5n1FMh3",
+            "url":"/media/sounds/m_fixed_5n1FMh3.mp3",
             "id":2663
          },
          {
             "name":"就是個",
-            "url":"/media/sounds/.mp3_1kZLV31",
+            "url":"/media/sounds/m_fixed_1kZLV31.mp3",
             "id":2664
          },
          {
             "name":"工作",
-            "url":"/media/sounds/.mp3_ibziQii",
+            "url":"/media/sounds/m_fixed_ibziQii.mp3",
             "id":2665
          },
          {
             "name":"工程師",
-            "url":"/media/sounds/.mp3_fJN1yEK",
+            "url":"/media/sounds/m_fixed_fJN1yEK.mp3",
             "id":2666
          },
          {
             "name":"您說",
-            "url":"/media/sounds/.mp3_8aHgRbS",
+            "url":"/media/sounds/m_fixed_8aHgRbS.mp3",
             "id":2667
          },
          {
             "name":"我不管了",
-            "url":"/media/sounds/.mp3_6V5LYp4",
+            "url":"/media/sounds/m_fixed_6V5LYp4.mp3",
             "id":2668
          },
          {
             "name":"我以為",
-            "url":"/media/sounds/.mp3_ZAyuop4",
+            "url":"/media/sounds/m_fixed_ZAyuop4.mp3",
             "id":2669
          },
          {
             "name":"我要順著雞雞的意思了",
-            "url":"/media/sounds/.mp3_uzwvDG7",
+            "url":"/media/sounds/m_fixed_uzwvDG7.mp3",
             "id":2670
          },
          {
             "name":"手殘",
-            "url":"/media/sounds/.mp3_PkbQjzb",
+            "url":"/media/sounds/m_fixed_PkbQjzb.mp3",
             "id":2671
          },
          {
             "name":"打掃家務",
-            "url":"/media/sounds/.mp3_zOELQNV",
+            "url":"/media/sounds/m_fixed_zOELQNV.mp3",
             "id":2672
          },
          {
             "name":"打火機",
-            "url":"/media/sounds/.mp3_bYndCaB",
+            "url":"/media/sounds/m_fixed_bYndCaB.mp3",
             "id":2673
          },
          {
             "name":"抽根菸啦",
-            "url":"/media/sounds/.mp3_nz2pic3",
+            "url":"/media/sounds/m_fixed_nz2pic3.mp3",
             "id":2674
          },
          {
             "name":"擋人財路",
-            "url":"/media/sounds/.mp3_UbIRPZ2",
+            "url":"/media/sounds/m_fixed_UbIRPZ2.mp3",
             "id":2675
          },
          {
             "name":"日常",
-            "url":"/media/sounds/.mp3_FGvRjPT",
+            "url":"/media/sounds/m_fixed_FGvRjPT.mp3",
             "id":2676
          },
          {
             "name":"早上",
-            "url":"/media/sounds/.mp3_5Q3BgBW",
+            "url":"/media/sounds/m_fixed_5Q3BgBW.mp3",
             "id":2677
          },
          {
             "name":"早安哪",
-            "url":"/media/sounds/.mp3_AeHF7El",
+            "url":"/media/sounds/m_fixed_AeHF7El.mp3",
             "id":2678
          },
          {
             "name":"時間暫停",
-            "url":"/media/sounds/.mp3_qFyMZXZ",
+            "url":"/media/sounds/m_fixed_qFyMZXZ.mp3",
             "id":2679
          },
          {
             "name":"有...有什麼了不起？",
-            "url":"/media/sounds/.mp3_eqs7Wm3",
+            "url":"/media/sounds/m_fixed_eqs7Wm3.mp3",
             "id":2680
          },
          {
             "name":"有齁",
-            "url":"/media/sounds/.mp3_nDrzUiY",
+            "url":"/media/sounds/m_fixed_nDrzUiY.mp3",
             "id":2681
          },
          {
             "name":"模式",
-            "url":"/media/sounds/.mp3_KusKHUY",
+            "url":"/media/sounds/m_fixed_KusKHUY.mp3",
             "id":2682
          },
          {
             "name":"欲罷不能",
-            "url":"/media/sounds/.mp3_P4iBcoN",
+            "url":"/media/sounds/m_fixed_P4iBcoN.mp3",
             "id":2683
          },
          {
             "name":"泡",
-            "url":"/media/sounds/.mp3_S1jhJ07",
+            "url":"/media/sounds/m_fixed_S1jhJ07.mp3",
             "id":2684
          },
          {
             "name":"滑",
-            "url":"/media/sounds/.mp3_HIxkhjh",
+            "url":"/media/sounds/m_fixed_HIxkhjh.mp3",
             "id":2685
          },
          {
             "name":"為什麼？",
-            "url":"/media/sounds/.mp3_5tqrhEw",
+            "url":"/media/sounds/m_fixed_5tqrhEw.mp3",
             "id":2686
          },
          {
             "name":"煮飯",
-            "url":"/media/sounds/.mp3_QWWacOY",
+            "url":"/media/sounds/m_fixed_QWWacOY.mp3",
             "id":2687
          },
          {
             "name":"獵奇",
-            "url":"/media/sounds/.mp3_XOgznR5",
+            "url":"/media/sounds/m_fixed_XOgznR5.mp3",
             "id":2688
          },
          {
             "name":"癡漢",
-            "url":"/media/sounds/.mp3_fRFEReS",
+            "url":"/media/sounds/m_fixed_fRFEReS.mp3",
             "id":2689
          },
          {
             "name":"破論",
-            "url":"/media/sounds/.mp3_wFYCTmh",
+            "url":"/media/sounds/m_fixed_wFYCTmh.mp3",
             "id":2690
          },
          {
             "name":"確認",
-            "url":"/media/sounds/.mp3_bWp13QM",
+            "url":"/media/sounds/m_fixed_bWp13QM.mp3",
             "id":2691
          },
          {
             "name":"系列",
-            "url":"/media/sounds/.mp3_mslwnqt",
+            "url":"/media/sounds/m_fixed_mslwnqt.mp3",
             "id":2692
          },
          {
             "name":"老阿伯",
-            "url":"/media/sounds/.mp3_9nBTf8g",
+            "url":"/media/sounds/m_fixed_9nBTf8g.mp3",
             "id":2693
          },
          {
             "name":"膨脹",
-            "url":"/media/sounds/.mp3_N6HB1f7",
+            "url":"/media/sounds/m_fixed_N6HB1f7.mp3",
             "id":2694
          },
          {
             "name":"茶樓",
-            "url":"/media/sounds/.mp3_ElgKQ2U",
+            "url":"/media/sounds/m_fixed_ElgKQ2U.mp3",
             "id":2695
          },
          {
             "name":"被抓到(台)",
-            "url":"/media/sounds/.mp3_cngHRMG",
+            "url":"/media/sounds/m_fixed_cngHRMG.mp3",
             "id":2696
          },
          {
             "name":"要訂閱追蹤我嗎？",
-            "url":"/media/sounds/.mp3_xamWA4g",
+            "url":"/media/sounds/m_fixed_xamWA4g.mp3",
             "id":2697
          },
          {
             "name":"說不定",
-            "url":"/media/sounds/.mp3_QE4RQDp",
+            "url":"/media/sounds/m_fixed_QE4RQDp.mp3",
             "id":2698
          },
          {
             "name":"誰知道",
-            "url":"/media/sounds/.mp3_lm6ZITM",
+            "url":"/media/sounds/m_fixed_lm6ZITM.mp3",
             "id":2699
          },
          {
             "name":"豆干厝(台)",
-            "url":"/media/sounds/.mp3_wxkd6Hz",
+            "url":"/media/sounds/m_fixed_wxkd6Hz.mp3",
             "id":2700
          },
          {
             "name":"賢慧",
-            "url":"/media/sounds/.mp3_lW4ofQc",
+            "url":"/media/sounds/m_fixed_lW4ofQc.mp3",
             "id":2701
          },
          {
             "name":"跟",
-            "url":"/media/sounds/.mp3_gM0G4Ec",
+            "url":"/media/sounds/m_fixed_gM0G4Ec.mp3",
             "id":2703
          },
          {
             "name":"軟體",
-            "url":"/media/sounds/.mp3_OhimwGz",
+            "url":"/media/sounds/m_fixed_OhimwGz.mp3",
             "id":2704
          },
          {
             "name":"這...這...這個菸",
-            "url":"/media/sounds/.mp3_lTW1l3v",
+            "url":"/media/sounds/m_fixed_lTW1l3v.mp3",
             "id":2705
          },
          {
             "name":"過來",
-            "url":"/media/sounds/.mp3_kUNrJ4x",
+            "url":"/media/sounds/m_fixed_kUNrJ4x.mp3",
             "id":2706
          },
          {
             "name":"那就麻煩您了",
-            "url":"/media/sounds/.mp3_HTGetyX",
+            "url":"/media/sounds/m_fixed_HTGetyX.mp3",
             "id":2707
          },
          {
             "name":"開槍",
-            "url":"/media/sounds/.mp3_8hI8f6q",
+            "url":"/media/sounds/m_fixed_8hI8f6q.mp3",
             "id":2708
          },
          {
             "name":"集中",
-            "url":"/media/sounds/.mp3_uFKZ5o5",
+            "url":"/media/sounds/m_fixed_uFKZ5o5.mp3",
             "id":2709
          },
          {
             "name":"靈活",
-            "url":"/media/sounds/.mp3_76OIyaV",
+            "url":"/media/sounds/m_fixed_76OIyaV.mp3",
             "id":2710
          },
          {
             "name":"顧家",
-            "url":"/media/sounds/.mp3_g8twasD",
+            "url":"/media/sounds/m_fixed_g8twasD.mp3",
             "id":2711
          },
          {
             "name":"風",
-            "url":"/media/sounds/.mp3_raPkEep",
+            "url":"/media/sounds/m_fixed_raPkEep.mp3",
             "id":2712
          },
          {
             "name":"體驗",
-            "url":"/media/sounds/.mp3_FuWFdQg",
+            "url":"/media/sounds/m_fixed_FuWFdQg.mp3",
             "id":2713
          },
          {
             "name":"鴻門宴",
-            "url":"/media/sounds/.mp3_rUiaQSN",
+            "url":"/media/sounds/m_fixed_rUiaQSN.mp3",
             "id":2714
          },
          {
             "name":"點個菸啦",
-            "url":"/media/sounds/.mp3_13kL1xD",
+            "url":"/media/sounds/m_fixed_13kL1xD.mp3",
             "id":2715
          },
          {
             "name":"點不起來",
-            "url":"/media/sounds/.mp3_8aGvd2g",
+            "url":"/media/sounds/m_fixed_8aGvd2g.mp3",
             "id":2716
          },
          {
             "name":"剝削",
-            "url":"/media/sounds/.mp3_DvUNXSA",
+            "url":"/media/sounds/m_fixed_DvUNXSA.mp3",
             "id":2717
          },
          {
@@ -16172,232 +16172,232 @@ export default [
          },
          {
             "name":"器",
-            "url":"/media/sounds/.mp3_2gHcv6c",
+            "url":"/media/sounds/m_fixed_2gHcv6c.mp3",
             "id":2720
          },
          {
             "name":"個",
-            "url":"/media/sounds/.mp3_Ego51CI",
+            "url":"/media/sounds/m_fixed_Ego51CI.mp3",
             "id":2759
          },
          {
             "name":"不對",
-            "url":"/media/sounds/.mp3_9ipmL9F",
+            "url":"/media/sounds/m_fixed_9ipmL9F.mp3",
             "id":2794
          },
          {
             "name":"不是吧～？",
-            "url":"/media/sounds/.mp3_vylHYeg",
+            "url":"/media/sounds/m_fixed_vylHYeg.mp3",
             "id":2795
          },
          {
             "name":"不然啊",
-            "url":"/media/sounds/.mp3_bKbmY36",
+            "url":"/media/sounds/m_fixed_bKbmY36.mp3",
             "id":2796
          },
          {
             "name":"不能這樣子啊",
-            "url":"/media/sounds/.mp3_2Xmbais",
+            "url":"/media/sounds/m_fixed_2Xmbais.mp3",
             "id":2797
          },
          {
             "name":"不要害我",
-            "url":"/media/sounds/.mp3_VnGBg97",
+            "url":"/media/sounds/m_fixed_VnGBg97.mp3",
             "id":2798
          },
          {
             "name":"不要拉我回去(醉)",
-            "url":"/media/sounds/.mp3_F1qqeZr",
+            "url":"/media/sounds/m_fixed_F1qqeZr.mp3",
             "id":2799
          },
          {
             "name":"不要這樣子嘛",
-            "url":"/media/sounds/.mp3_ROl9FGR",
+            "url":"/media/sounds/m_fixed_ROl9FGR.mp3",
             "id":2800
          },
          {
             "name":"不認識",
-            "url":"/media/sounds/.mp3_9Iiq6ch",
+            "url":"/media/sounds/m_fixed_9Iiq6ch.mp3",
             "id":2801
          },
          {
             "name":"丟臉那",
-            "url":"/media/sounds/.mp3_3B1kgoX",
+            "url":"/media/sounds/m_fixed_3B1kgoX.mp3",
             "id":2802
          },
          {
             "name":"乖寶寶",
-            "url":"/media/sounds/.mp3_1bsCp6e",
+            "url":"/media/sounds/m_fixed_1bsCp6e.mp3",
             "id":2803
          },
          {
             "name":"你怎麼這樣啊(台)",
-            "url":"/media/sounds/.mp3_1TNcqER",
+            "url":"/media/sounds/m_fixed_1TNcqER.mp3",
             "id":2804
          },
          {
             "name":"做人",
-            "url":"/media/sounds/.mp3_47STU3A",
+            "url":"/media/sounds/m_fixed_47STU3A.mp3",
             "id":2805
          },
          {
             "name":"別再喝了啦(台)",
-            "url":"/media/sounds/.mp3_25To9gW",
+            "url":"/media/sounds/m_fixed_25To9gW.mp3",
             "id":2806
          },
          {
             "name":"刮痧",
-            "url":"/media/sounds/.mp3_XZ1Ewbj",
+            "url":"/media/sounds/m_fixed_XZ1Ewbj.mp3",
             "id":2807
          },
          {
             "name":"升級",
-            "url":"/media/sounds/.mp3_B2MnIHN",
+            "url":"/media/sounds/m_fixed_B2MnIHN.mp3",
             "id":2808
          },
          {
             "name":"叫",
-            "url":"/media/sounds/.mp3_zXI9w51",
+            "url":"/media/sounds/m_fixed_zXI9w51.mp3",
             "id":2809
          },
          {
             "name":"名留青史",
-            "url":"/media/sounds/.mp3_mULYe7n",
+            "url":"/media/sounds/m_fixed_mULYe7n.mp3",
             "id":2810
          },
          {
             "name":"吸精瓶",
-            "url":"/media/sounds/.mp3_HduZpfd",
+            "url":"/media/sounds/m_fixed_HduZpfd.mp3",
             "id":2811
          },
          {
             "name":"吸血",
-            "url":"/media/sounds/.mp3_EIIspox",
+            "url":"/media/sounds/m_fixed_EIIspox.mp3",
             "id":2812
          },
          {
             "name":"吼叫",
-            "url":"/media/sounds/.mp3_lfUQLfE",
+            "url":"/media/sounds/m_fixed_lfUQLfE.mp3",
             "id":2813
          },
          {
             "name":"哈哈",
-            "url":"/media/sounds/.mp3_EoqfY8A",
+            "url":"/media/sounds/m_fixed_EoqfY8A.mp3",
             "id":2814
          },
          {
             "name":"唬爛",
-            "url":"/media/sounds/.mp3_lCyDpGX",
+            "url":"/media/sounds/m_fixed_lCyDpGX.mp3",
             "id":2815
          },
          {
             "name":"嗆聲(台)",
-            "url":"/media/sounds/.mp3_3ubzHne",
+            "url":"/media/sounds/m_fixed_3ubzHne.mp3",
             "id":2816
          },
          {
             "name":"噴出來",
-            "url":"/media/sounds/.mp3_6XbPUW9",
+            "url":"/media/sounds/m_fixed_6XbPUW9.mp3",
             "id":2817
          },
          {
             "name":"回家",
-            "url":"/media/sounds/.mp3_3uPsHdL",
+            "url":"/media/sounds/m_fixed_3uPsHdL.mp3",
             "id":2818
          },
          {
             "name":"好不好～",
-            "url":"/media/sounds/.mp3_cFEQDCn",
+            "url":"/media/sounds/m_fixed_cFEQDCn.mp3",
             "id":2819
          },
          {
             "name":"小姐",
-            "url":"/media/sounds/.mp3_oStSW5Q",
+            "url":"/media/sounds/m_fixed_oStSW5Q.mp3",
             "id":2820
          },
          {
             "name":"庫子都濕一片了還想喝？",
-            "url":"/media/sounds/.mp3_iIdKz1J",
+            "url":"/media/sounds/m_fixed_iIdKz1J.mp3",
             "id":2821
          },
          {
             "name":"性無能～",
-            "url":"/media/sounds/.mp3_yGpVDwa",
+            "url":"/media/sounds/m_fixed_yGpVDwa.mp3",
             "id":2822
          },
          {
             "name":"惡魔",
-            "url":"/media/sounds/.mp3_De4hTK1",
+            "url":"/media/sounds/m_fixed_De4hTK1.mp3",
             "id":2823
          },
          {
             "name":"想一想",
-            "url":"/media/sounds/.mp3_ALpP1Aq",
+            "url":"/media/sounds/m_fixed_ALpP1Aq.mp3",
             "id":2824
          },
          {
             "name":"我哪知道啊",
-            "url":"/media/sounds/.mp3_ZQCLY8s",
+            "url":"/media/sounds/m_fixed_ZQCLY8s.mp3",
             "id":2825
          },
          {
             "name":"我沒有輸(醉)",
-            "url":"/media/sounds/.mp3_KxopvMw",
+            "url":"/media/sounds/m_fixed_KxopvMw.mp3",
             "id":2826
          },
          {
             "name":"我沒醉啦",
-            "url":"/media/sounds/.mp3_fcrXjHC",
+            "url":"/media/sounds/m_fixed_fcrXjHC.mp3",
             "id":2827
          },
          {
             "name":"我的服務還不錯啊",
-            "url":"/media/sounds/.mp3_1xyd6Ep",
+            "url":"/media/sounds/m_fixed_1xyd6Ep.mp3",
             "id":2828
          },
          {
             "name":"我看你",
-            "url":"/media/sounds/.mp3_LhWuBdv",
+            "url":"/media/sounds/m_fixed_LhWuBdv.mp3",
             "id":2829
          },
          {
             "name":"我知道了啦",
-            "url":"/media/sounds/.mp3_bvBnExz",
+            "url":"/media/sounds/m_fixed_bvBnExz.mp3",
             "id":2830
          },
          {
             "name":"打電動",
-            "url":"/media/sounds/.mp3_onWgLzy",
+            "url":"/media/sounds/m_fixed_onWgLzy.mp3",
             "id":2831
          },
          {
             "name":"找到了",
-            "url":"/media/sounds/.mp3_ulcER1z",
+            "url":"/media/sounds/m_fixed_ulcER1z.mp3",
             "id":2832
          },
          {
             "name":"按摩",
-            "url":"/media/sounds/.mp3_crj5TCj",
+            "url":"/media/sounds/m_fixed_crj5TCj.mp3",
             "id":2833
          },
          {
             "name":"按摩店",
-            "url":"/media/sounds/.mp3_aYE407r",
+            "url":"/media/sounds/m_fixed_aYE407r.mp3",
             "id":2834
          },
          {
             "name":"是嗎？",
-            "url":"/media/sounds/.mp3_9bR1NQW",
+            "url":"/media/sounds/m_fixed_9bR1NQW.mp3",
             "id":2835
          },
          {
             "name":"每日關心張兆元健康狀況",
-            "url":"/media/sounds/.mp3_kbckuaN",
+            "url":"/media/sounds/m_fixed_kbckuaN.mp3",
             "id":2836
          },
          {
             "name":"氣",
-            "url":"/media/sounds/.mp3_dOiVr8x",
+            "url":"/media/sounds/m_fixed_dOiVr8x.mp3",
             "id":2837
          },
          {
@@ -16407,102 +16407,102 @@ export default [
          },
          {
             "name":"狂魔",
-            "url":"/media/sounds/.mp3_lNBHjjL",
+            "url":"/media/sounds/m_fixed_lNBHjjL.mp3",
             "id":2839
          },
          {
             "name":"發財了",
-            "url":"/media/sounds/.mp3_3ynSH84",
+            "url":"/media/sounds/m_fixed_3ynSH84.mp3",
             "id":2840
          },
          {
             "name":"立刻",
-            "url":"/media/sounds/.mp3_Mf9kRAg",
+            "url":"/media/sounds/m_fixed_Mf9kRAg.mp3",
             "id":2841
          },
          {
             "name":"筋骨奇洛",
-            "url":"/media/sounds/.mp3_y4EHbTs",
+            "url":"/media/sounds/m_fixed_y4EHbTs.mp3",
             "id":2842
          },
          {
             "name":"紅燈區",
-            "url":"/media/sounds/.mp3_qyIJXlw",
+            "url":"/media/sounds/m_fixed_qyIJXlw.mp3",
             "id":2843
          },
          {
             "name":"素材",
-            "url":"/media/sounds/.mp3_SB62Cv2",
+            "url":"/media/sounds/m_fixed_SB62Cv2.mp3",
             "id":2844
          },
          {
             "name":"腫瘤",
-            "url":"/media/sounds/.mp3_pHCcOs3",
+            "url":"/media/sounds/m_fixed_pHCcOs3.mp3",
             "id":2845
          },
          {
             "name":"萬華",
-            "url":"/media/sounds/.mp3_uwZw2Jt",
+            "url":"/media/sounds/m_fixed_uwZw2Jt.mp3",
             "id":2846
          },
          {
             "name":"蟲",
-            "url":"/media/sounds/.mp3_KQmuHZO",
+            "url":"/media/sounds/m_fixed_KQmuHZO.mp3",
             "id":2847
          },
          {
             "name":"謝謝誇獎",
-            "url":"/media/sounds/.mp3_X9S8Kia",
+            "url":"/media/sounds/m_fixed_X9S8Kia.mp3",
             "id":2848
          },
          {
             "name":"證明",
-            "url":"/media/sounds/.mp3_PtRse93",
+            "url":"/media/sounds/m_fixed_PtRse93.mp3",
             "id":2849
          },
          {
             "name":"警察局",
-            "url":"/media/sounds/.mp3_IhG0r87",
+            "url":"/media/sounds/m_fixed_IhG0r87.mp3",
             "id":2850
          },
          {
             "name":"資本主義",
-            "url":"/media/sounds/.mp3_brl9rFt",
+            "url":"/media/sounds/m_fixed_brl9rFt.mp3",
             "id":2851
          },
          {
             "name":"超",
-            "url":"/media/sounds/.mp3_0iBwB20",
+            "url":"/media/sounds/m_fixed_0iBwB20.mp3",
             "id":2852
          },
          {
             "name":"超難吃",
-            "url":"/media/sounds/.mp3_C6wQFgY",
+            "url":"/media/sounds/m_fixed_C6wQFgY.mp3",
             "id":2853
          },
          {
             "name":"載",
-            "url":"/media/sounds/.mp3_tv92WeR",
+            "url":"/media/sounds/m_fixed_tv92WeR.mp3",
             "id":2854
          },
          {
             "name":"通順",
-            "url":"/media/sounds/.mp3_9SyqgWu",
+            "url":"/media/sounds/m_fixed_9SyqgWu.mp3",
             "id":2855
          },
          {
             "name":"運動",
-            "url":"/media/sounds/.mp3_uV4MOSJ",
+            "url":"/media/sounds/m_fixed_uV4MOSJ.mp3",
             "id":2856
          },
          {
             "name":"魔法",
-            "url":"/media/sounds/.mp3_e7tigfB",
+            "url":"/media/sounds/m_fixed_e7tigfB.mp3",
             "id":2857
          },
          {
             "name":"黑洞",
-            "url":"/media/sounds/.mp3_LDfFtfj",
+            "url":"/media/sounds/m_fixed_LDfFtfj.mp3",
             "id":2858
          },
          {
@@ -16512,62 +16512,62 @@ export default [
          },
          {
             "name":"中彈",
-            "url":"/media/sounds/.mp3_a2IWKPp",
+            "url":"/media/sounds/m_fixed_a2IWKPp.mp3",
             "id":2882
          },
          {
             "name":"全體範圍技",
-            "url":"/media/sounds/.mp3_kGSB99o",
+            "url":"/media/sounds/m_fixed_kGSB99o.mp3",
             "id":2883
          },
          {
             "name":"友軍",
-            "url":"/media/sounds/.mp3_NzDjZq5",
+            "url":"/media/sounds/m_fixed_NzDjZq5.mp3",
             "id":2884
          },
          {
             "name":"噎死了",
-            "url":"/media/sounds/.mp3_bOh9NQV",
+            "url":"/media/sounds/m_fixed_bOh9NQV.mp3",
             "id":2885
          },
          {
             "name":"噎著了",
-            "url":"/media/sounds/.mp3_OYxFxO1",
+            "url":"/media/sounds/m_fixed_OYxFxO1.mp3",
             "id":2886
          },
          {
             "name":"晦氣",
-            "url":"/media/sounds/.mp3_luBZRAH",
+            "url":"/media/sounds/m_fixed_luBZRAH.mp3",
             "id":2887
          },
          {
             "name":"爽啦",
-            "url":"/media/sounds/.mp3_L84YAgt",
+            "url":"/media/sounds/m_fixed_L84YAgt.mp3",
             "id":2888
          },
          {
             "name":"おっぱい",
-            "url":"/media/sounds/.mp3_XCA2zeA",
+            "url":"/media/sounds/m_fixed_XCA2zeA.mp3",
             "id":2913
          },
          {
             "name":"ㄟㄟ是什麼啊？",
-            "url":"/media/sounds/.mp3_17E5ckk",
+            "url":"/media/sounds/m_fixed_17E5ckk.mp3",
             "id":2914
          },
          {
             "name":"不太妙",
-            "url":"/media/sounds/.mp3_eTEBubo",
+            "url":"/media/sounds/m_fixed_eTEBubo.mp3",
             "id":2915
          },
          {
             "name":"不會的",
-            "url":"/media/sounds/.mp3_Agjp4fY",
+            "url":"/media/sounds/m_fixed_Agjp4fY.mp3",
             "id":2916
          },
          {
             "name":"並駕齊驅",
-            "url":"/media/sounds/.mp3_vKS50pD",
+            "url":"/media/sounds/m_fixed_vKS50pD.mp3",
             "id":2918
          },
          {
@@ -16577,57 +16577,57 @@ export default [
          },
          {
             "name":"乾淨",
-            "url":"/media/sounds/.mp3_onBDjcC",
+            "url":"/media/sounds/m_fixed_onBDjcC.mp3",
             "id":2920
          },
          {
             "name":"公審",
-            "url":"/media/sounds/.mp3_vP6PTyF",
+            "url":"/media/sounds/m_fixed_vP6PTyF.mp3",
             "id":2921
          },
          {
             "name":"刪掉",
-            "url":"/media/sounds/.mp3_CcA04NT",
+            "url":"/media/sounds/m_fixed_CcA04NT.mp3",
             "id":2922
          },
          {
             "name":"加油",
-            "url":"/media/sounds/.mp3_YowvkXP",
+            "url":"/media/sounds/m_fixed_YowvkXP.mp3",
             "id":2923
          },
          {
             "name":"努力",
-            "url":"/media/sounds/.mp3_AIKQGSz",
+            "url":"/media/sounds/m_fixed_AIKQGSz.mp3",
             "id":2924
          },
          {
             "name":"可以嗎？",
-            "url":"/media/sounds/.mp3_2V0xk1J",
+            "url":"/media/sounds/m_fixed_2V0xk1J.mp3",
             "id":2925
          },
          {
             "name":"吃飽",
-            "url":"/media/sounds/.mp3_x4JFEK9",
+            "url":"/media/sounds/m_fixed_x4JFEK9.mp3",
             "id":2926
          },
          {
             "name":"吸引機",
-            "url":"/media/sounds/.mp3_t9NDLVO",
+            "url":"/media/sounds/m_fixed_t9NDLVO.mp3",
             "id":2927
          },
          {
             "name":"大相徑庭",
-            "url":"/media/sounds/.mp3_IruP8Rd",
+            "url":"/media/sounds/m_fixed_IruP8Rd.mp3",
             "id":2928
          },
          {
             "name":"天作之合",
-            "url":"/media/sounds/.mp3_8itDRjP",
+            "url":"/media/sounds/m_fixed_8itDRjP.mp3",
             "id":2929
          },
          {
             "name":"好像",
-            "url":"/media/sounds/.mp3_EervB5z",
+            "url":"/media/sounds/m_fixed_EervB5z.mp3",
             "id":2930
          },
          {
@@ -16637,217 +16637,217 @@ export default [
          },
          {
             "name":"姊姊",
-            "url":"/media/sounds/.mp3_DLCuSlG",
+            "url":"/media/sounds/m_fixed_DLCuSlG.mp3",
             "id":2932
          },
          {
             "name":"安啦",
-            "url":"/media/sounds/.mp3_VIQYl8U",
+            "url":"/media/sounds/m_fixed_VIQYl8U.mp3",
             "id":2933
          },
          {
             "name":"家鄉味",
-            "url":"/media/sounds/.mp3_GADuq7Q",
+            "url":"/media/sounds/m_fixed_GADuq7Q.mp3",
             "id":2934
          },
          {
             "name":"小吃部",
-            "url":"/media/sounds/.mp3_YAXwX4I",
+            "url":"/media/sounds/m_fixed_YAXwX4I.mp3",
             "id":2935
          },
          {
             "name":"心如止水",
-            "url":"/media/sounds/.mp3_tgGBA3j",
+            "url":"/media/sounds/m_fixed_tgGBA3j.mp3",
             "id":2936
          },
          {
             "name":"怕屁啊",
-            "url":"/media/sounds/.mp3_hAsB2XR",
+            "url":"/media/sounds/m_fixed_hAsB2XR.mp3",
             "id":2937
          },
          {
             "name":"恐龍",
-            "url":"/media/sounds/.mp3_yTHJUEQ",
+            "url":"/media/sounds/m_fixed_yTHJUEQ.mp3",
             "id":2938
          },
          {
             "name":"我們兩個",
-            "url":"/media/sounds/.mp3_nK9LSuj",
+            "url":"/media/sounds/m_fixed_nK9LSuj.mp3",
             "id":2939
          },
          {
             "name":"我的主場啦",
-            "url":"/media/sounds/.mp3_usRUlx6",
+            "url":"/media/sounds/m_fixed_usRUlx6.mp3",
             "id":2940
          },
          {
             "name":"投",
-            "url":"/media/sounds/.mp3_FoUsF1l",
+            "url":"/media/sounds/m_fixed_FoUsF1l.mp3",
             "id":2941
          },
          {
             "name":"拍什麼拍？",
-            "url":"/media/sounds/.mp3_0HaBAPS",
+            "url":"/media/sounds/m_fixed_0HaBAPS.mp3",
             "id":2942
          },
          {
             "name":"拜託",
-            "url":"/media/sounds/.mp3_e3vLxBt",
+            "url":"/media/sounds/m_fixed_e3vLxBt.mp3",
             "id":2943
          },
          {
             "name":"摸摸茶",
-            "url":"/media/sounds/.mp3_Y0hIGwv",
+            "url":"/media/sounds/m_fixed_Y0hIGwv.mp3",
             "id":2944
          },
          {
             "name":"數學",
-            "url":"/media/sounds/.mp3_qNF18Rz",
+            "url":"/media/sounds/m_fixed_qNF18Rz.mp3",
             "id":2945
          },
          {
             "name":"更",
-            "url":"/media/sounds/.mp3_zqoh0fq",
+            "url":"/media/sounds/m_fixed_zqoh0fq.mp3",
             "id":2946
          },
          {
             "name":"會痛嗎？",
-            "url":"/media/sounds/.mp3_DFB7OVU",
+            "url":"/media/sounds/m_fixed_DFB7OVU.mp3",
             "id":2947
          },
          {
             "name":"有夠傷眼",
-            "url":"/media/sounds/.mp3_SLYvEs2",
+            "url":"/media/sounds/m_fixed_SLYvEs2.mp3",
             "id":2948
          },
          {
             "name":"正在直播呦",
-            "url":"/media/sounds/.mp3_DSpsu2G",
+            "url":"/media/sounds/m_fixed_DSpsu2G.mp3",
             "id":2949
          },
          {
             "name":"法官",
-            "url":"/media/sounds/.mp3_X7YK7Ji",
+            "url":"/media/sounds/m_fixed_X7YK7Ji.mp3",
             "id":2950
          },
          {
             "name":"洗",
-            "url":"/media/sounds/.mp3_FJdY5TM",
+            "url":"/media/sounds/m_fixed_FJdY5TM.mp3",
             "id":2951
          },
          {
             "name":"流體力學",
-            "url":"/media/sounds/.mp3_MSVy598",
+            "url":"/media/sounds/m_fixed_MSVy598.mp3",
             "id":2952
          },
          {
             "name":"滔滔不絕",
-            "url":"/media/sounds/.mp3_85zEdNB",
+            "url":"/media/sounds/m_fixed_85zEdNB.mp3",
             "id":2953
          },
          {
             "name":"灌",
-            "url":"/media/sounds/.mp3_2xyTadd",
+            "url":"/media/sounds/m_fixed_2xyTadd.mp3",
             "id":2954
          },
          {
             "name":"灑在",
-            "url":"/media/sounds/.mp3_DCjYSg8",
+            "url":"/media/sounds/m_fixed_DCjYSg8.mp3",
             "id":2955
          },
          {
             "name":"熱",
-            "url":"/media/sounds/.mp3_GEc3QhM",
+            "url":"/media/sounds/m_fixed_GEc3QhM.mp3",
             "id":2956
          },
          {
             "name":"狂歡～",
-            "url":"/media/sounds/.mp3_ah7SUPe",
+            "url":"/media/sounds/m_fixed_ah7SUPe.mp3",
             "id":2957
          },
          {
             "name":"瑟瑟發抖",
-            "url":"/media/sounds/.mp3_nkGO9BO",
+            "url":"/media/sounds/m_fixed_nkGO9BO.mp3",
             "id":2958
          },
          {
             "name":"畢業",
-            "url":"/media/sounds/.mp3_IKCjBBs",
+            "url":"/media/sounds/m_fixed_IKCjBBs.mp3",
             "id":2959
          },
          {
             "name":"疫苗",
-            "url":"/media/sounds/.mp3_qtBjqWb",
+            "url":"/media/sounds/m_fixed_qtBjqWb.mp3",
             "id":2960
          },
          {
             "name":"百度",
-            "url":"/media/sounds/.mp3_rigNYvz",
+            "url":"/media/sounds/m_fixed_rigNYvz.mp3",
             "id":2961
          },
          {
             "name":"看",
-            "url":"/media/sounds/.mp3_IpIOle2",
+            "url":"/media/sounds/m_fixed_IpIOle2.mp3",
             "id":2962
          },
          {
             "name":"看不出來ㄟ",
-            "url":"/media/sounds/.mp3_kVeIsSc",
+            "url":"/media/sounds/m_fixed_kVeIsSc.mp3",
             "id":2963
          },
          {
             "name":"破功了",
-            "url":"/media/sounds/.mp3_PwfnbiY",
+            "url":"/media/sounds/m_fixed_PwfnbiY.mp3",
             "id":2964
          },
          {
             "name":"票",
-            "url":"/media/sounds/.mp3_MOkD00J",
+            "url":"/media/sounds/m_fixed_MOkD00J.mp3",
             "id":2965
          },
          {
             "name":"穩",
-            "url":"/media/sounds/.mp3_zPegfLY",
+            "url":"/media/sounds/m_fixed_zPegfLY.mp3",
             "id":2966
          },
          {
             "name":"穩字一批啦",
-            "url":"/media/sounds/.mp3_uBVL5L1",
+            "url":"/media/sounds/m_fixed_uBVL5L1.mp3",
             "id":2967
          },
          {
             "name":"空氣動力學",
-            "url":"/media/sounds/.mp3_YJSVLGU",
+            "url":"/media/sounds/m_fixed_YJSVLGU.mp3",
             "id":2968
          },
          {
             "name":"羅曼蒂克",
-            "url":"/media/sounds/.mp3_alNMMJ9",
+            "url":"/media/sounds/m_fixed_alNMMJ9.mp3",
             "id":2969
          },
          {
             "name":"老天保佑啊",
-            "url":"/media/sounds/.mp3_Y4W6ngb",
+            "url":"/media/sounds/m_fixed_Y4W6ngb.mp3",
             "id":2970
          },
          {
             "name":"老鼠會",
-            "url":"/media/sounds/.mp3_zTPfRuJ",
+            "url":"/media/sounds/m_fixed_zTPfRuJ.mp3",
             "id":2971
          },
          {
             "name":"變的",
-            "url":"/media/sounds/.mp3_hDOYCNH",
+            "url":"/media/sounds/m_fixed_hDOYCNH.mp3",
             "id":2972
          },
          {
             "name":"負面行銷",
-            "url":"/media/sounds/.mp3_Wf1Bvgh",
+            "url":"/media/sounds/m_fixed_Wf1Bvgh.mp3",
             "id":2973
          },
          {
             "name":"賺錢",
-            "url":"/media/sounds/.mp3_aETCMIQ",
+            "url":"/media/sounds/m_fixed_aETCMIQ.mp3",
             "id":2974
          },
          {
@@ -16857,67 +16857,67 @@ export default [
          },
          {
             "name":"跑跑跑跑跑",
-            "url":"/media/sounds/.mp3_kOY976q",
+            "url":"/media/sounds/m_fixed_kOY976q.mp3",
             "id":2976
          },
          {
             "name":"跳",
-            "url":"/media/sounds/.mp3_545Aqs7",
+            "url":"/media/sounds/m_fixed_545Aqs7.mp3",
             "id":2977
          },
          {
             "name":"躁動",
-            "url":"/media/sounds/.mp3_Hl04yCP",
+            "url":"/media/sounds/m_fixed_Hl04yCP.mp3",
             "id":2978
          },
          {
             "name":"這麼喜歡他喔？",
-            "url":"/media/sounds/.mp3_nAY2yaO",
+            "url":"/media/sounds/m_fixed_nAY2yaO.mp3",
             "id":2979
          },
          {
             "name":"還活著嗎？",
-            "url":"/media/sounds/.mp3_rVyt4Xk",
+            "url":"/media/sounds/m_fixed_rVyt4Xk.mp3",
             "id":2980
          },
          {
             "name":"重生",
-            "url":"/media/sounds/.mp3_CAW7Ui2",
+            "url":"/media/sounds/m_fixed_CAW7Ui2.mp3",
             "id":2981
          },
          {
             "name":"鏡頭",
-            "url":"/media/sounds/.mp3_R5mKToX",
+            "url":"/media/sounds/m_fixed_R5mKToX.mp3",
             "id":2982
          },
          {
             "name":"開始",
-            "url":"/media/sounds/.mp3_sSn9EbA",
+            "url":"/media/sounds/m_fixed_sSn9EbA.mp3",
             "id":2983
          },
          {
             "name":"陽光",
-            "url":"/media/sounds/.mp3_b9vaI5f",
+            "url":"/media/sounds/m_fixed_b9vaI5f.mp3",
             "id":2984
          },
          {
             "name":"障礙",
-            "url":"/media/sounds/.mp3_2EVVJzk",
+            "url":"/media/sounds/m_fixed_2EVVJzk.mp3",
             "id":2985
          },
          {
             "name":"電",
-            "url":"/media/sounds/.mp3_bJ8Unls",
+            "url":"/media/sounds/m_fixed_bJ8Unls.mp3",
             "id":2986
          },
          {
             "name":"驚滔駭浪",
-            "url":"/media/sounds/.mp3_dOMpmlh",
+            "url":"/media/sounds/m_fixed_dOMpmlh.mp3",
             "id":2987
          },
          {
             "name":"黑箱",
-            "url":"/media/sounds/.mp3_3pzKY6s",
+            "url":"/media/sounds/m_fixed_3pzKY6s.mp3",
             "id":2988
          },
          {
@@ -16927,7 +16927,7 @@ export default [
          },
          {
             "name":"臉",
-            "url":"/media/sounds/.mp3_JohLzMp",
+            "url":"/media/sounds/m_fixed_JohLzMp.mp3",
             "id":2764
          },
          {
@@ -16942,57 +16942,57 @@ export default [
          },
          {
             "name":"一起",
-            "url":"/media/sounds/.mp3_5F9mYXm",
+            "url":"/media/sounds/m_fixed_5F9mYXm.mp3",
             "id":3055
          },
          {
             "name":"下巴",
-            "url":"/media/sounds/.mp3_UmNtV86",
+            "url":"/media/sounds/m_fixed_UmNtV86.mp3",
             "id":3056
          },
          {
             "name":"不是嘛(台)",
-            "url":"/media/sounds/.mp3_bFlADKV",
+            "url":"/media/sounds/m_fixed_bFlADKV.mp3",
             "id":3057
          },
          {
             "name":"不要管我",
-            "url":"/media/sounds/.mp3_DU8WLcc",
+            "url":"/media/sounds/m_fixed_DU8WLcc.mp3",
             "id":3058
          },
          {
             "name":"中風",
-            "url":"/media/sounds/.mp3_K2PlLFF",
+            "url":"/media/sounds/m_fixed_K2PlLFF.mp3",
             "id":3059
          },
          {
             "name":"乞丐",
-            "url":"/media/sounds/.mp3_2qrihyG",
+            "url":"/media/sounds/m_fixed_2qrihyG.mp3",
             "id":3060
          },
          {
             "name":"他媽超屌",
-            "url":"/media/sounds/.mp3_KHKi3fr",
+            "url":"/media/sounds/m_fixed_KHKi3fr.mp3",
             "id":3061
          },
          {
             "name":"他媽超有錢",
-            "url":"/media/sounds/.mp3_ZPiFRFg",
+            "url":"/media/sounds/m_fixed_ZPiFRFg.mp3",
             "id":3062
          },
          {
             "name":"你好你好你好",
-            "url":"/media/sounds/.mp3_3kSGKRr",
+            "url":"/media/sounds/m_fixed_3kSGKRr.mp3",
             "id":3063
          },
          {
             "name":"催油門",
-            "url":"/media/sounds/.mp3_PXj34IH",
+            "url":"/media/sounds/m_fixed_PXj34IH.mp3",
             "id":3064
          },
          {
             "name":"全部",
-            "url":"/media/sounds/.mp3_3M1MZly",
+            "url":"/media/sounds/m_fixed_3M1MZly.mp3",
             "id":3065
          },
          {
@@ -17002,7 +17002,7 @@ export default [
          },
          {
             "name":"剁",
-            "url":"/media/sounds/.mp3_vjuoDm7",
+            "url":"/media/sounds/m_fixed_vjuoDm7.mp3",
             "id":3067
          },
          {
@@ -17012,12 +17012,12 @@ export default [
          },
          {
             "name":"哇操",
-            "url":"/media/sounds/.mp3_RDpiqDn",
+            "url":"/media/sounds/m_fixed_RDpiqDn.mp3",
             "id":3069
          },
          {
             "name":"喔～那就好那就好",
-            "url":"/media/sounds/.mp3_Kxzimis",
+            "url":"/media/sounds/m_fixed_Kxzimis.mp3",
             "id":3070
          },
          {
@@ -17027,22 +17027,22 @@ export default [
          },
          {
             "name":"大暴死",
-            "url":"/media/sounds/.mp3_lxlj9Go",
+            "url":"/media/sounds/m_fixed_lxlj9Go.mp3",
             "id":3072
          },
          {
             "name":"太強了吧",
-            "url":"/media/sounds/.mp3_FqaQomw",
+            "url":"/media/sounds/m_fixed_FqaQomw.mp3",
             "id":3073
          },
          {
             "name":"太罩了吧",
-            "url":"/media/sounds/.mp3_IsnzrUn",
+            "url":"/media/sounds/m_fixed_IsnzrUn.mp3",
             "id":3074
          },
          {
             "name":"好康",
-            "url":"/media/sounds/.mp3_fkJTtKe",
+            "url":"/media/sounds/m_fixed_fkJTtKe.mp3",
             "id":3075
          },
          {
@@ -17052,97 +17052,97 @@ export default [
          },
          {
             "name":"尿尿",
-            "url":"/media/sounds/.mp3_iPt90I4",
+            "url":"/media/sounds/m_fixed_iPt90I4.mp3",
             "id":3077
          },
          {
             "name":"屁啦",
-            "url":"/media/sounds/.mp3_1412wOh",
+            "url":"/media/sounds/m_fixed_1412wOh.mp3",
             "id":3078
          },
          {
             "name":"幹三小",
-            "url":"/media/sounds/.mp3_qiCscaB",
+            "url":"/media/sounds/m_fixed_qiCscaB.mp3",
             "id":3079
          },
          {
             "name":"幹！超有錢的",
-            "url":"/media/sounds/.mp3_rgvAycy",
+            "url":"/media/sounds/m_fixed_rgvAycy.mp3",
             "id":3080
          },
          {
             "name":"心裡想著",
-            "url":"/media/sounds/.mp3_QMMqyi5",
+            "url":"/media/sounds/m_fixed_QMMqyi5.mp3",
             "id":3081
          },
          {
             "name":"性",
-            "url":"/media/sounds/.mp3_8BJsF4R",
+            "url":"/media/sounds/m_fixed_8BJsF4R.mp3",
             "id":3082
          },
          {
             "name":"我也要",
-            "url":"/media/sounds/.mp3_YRRiJPQ",
+            "url":"/media/sounds/m_fixed_YRRiJPQ.mp3",
             "id":3083
          },
          {
             "name":"戳",
-            "url":"/media/sounds/.mp3_EbW3lMD",
+            "url":"/media/sounds/m_fixed_EbW3lMD.mp3",
             "id":3084
          },
          {
             "name":"搞定",
-            "url":"/media/sounds/.mp3_dsvVJoL",
+            "url":"/media/sounds/m_fixed_dsvVJoL.mp3",
             "id":3085
          },
          {
             "name":"放下",
-            "url":"/media/sounds/.mp3_NdBA7W7",
+            "url":"/media/sounds/m_fixed_NdBA7W7.mp3",
             "id":3086
          },
          {
             "name":"教派",
-            "url":"/media/sounds/.mp3_uiR5m71",
+            "url":"/media/sounds/m_fixed_uiR5m71.mp3",
             "id":3087
          },
          {
             "name":"整臉都是屎(台)",
-            "url":"/media/sounds/.mp3_FJWs375",
+            "url":"/media/sounds/m_fixed_FJWs375.mp3",
             "id":3088
          },
          {
             "name":"是不是啦？",
-            "url":"/media/sounds/.mp3_UZtlvlS",
+            "url":"/media/sounds/m_fixed_UZtlvlS.mp3",
             "id":3089
          },
          {
             "name":"欲",
-            "url":"/media/sounds/.mp3_HaDxFkt",
+            "url":"/media/sounds/m_fixed_HaDxFkt.mp3",
             "id":3090
          },
          {
             "name":"正常",
-            "url":"/media/sounds/.mp3_B0VtHkv",
+            "url":"/media/sounds/m_fixed_B0VtHkv.mp3",
             "id":3091
          },
          {
             "name":"死了啦！",
-            "url":"/media/sounds/.mp3_dZVTgSp",
+            "url":"/media/sounds/m_fixed_dZVTgSp.mp3",
             "id":3092
          },
          {
             "name":"氣魄",
-            "url":"/media/sounds/.mp3_FULjiJn",
+            "url":"/media/sounds/m_fixed_FULjiJn.mp3",
             "id":3093
          },
          {
             "name":"求生意志",
-            "url":"/media/sounds/.mp3_TqoUZF6",
+            "url":"/media/sounds/m_fixed_TqoUZF6.mp3",
             "id":3094
          },
          {
             "name":"沒事吧？",
-            "url":"/media/sounds/.mp3_Wkgnyc8",
+            "url":"/media/sounds/m_fixed_Wkgnyc8.mp3",
             "id":3095
          },
          {
@@ -17152,52 +17152,52 @@ export default [
          },
          {
             "name":"沒有～",
-            "url":"/media/sounds/.mp3_MzDboPN",
+            "url":"/media/sounds/m_fixed_MzDboPN.mp3",
             "id":3097
          },
          {
             "name":"男兒有淚不輕談",
-            "url":"/media/sounds/.mp3_JvhtP9J",
+            "url":"/media/sounds/m_fixed_JvhtP9J.mp3",
             "id":3098
          },
          {
             "name":"痛風",
-            "url":"/media/sounds/.mp3_UQbRxfZ",
+            "url":"/media/sounds/m_fixed_UQbRxfZ.mp3",
             "id":3099
          },
          {
             "name":"發光的到哪都發光",
-            "url":"/media/sounds/.mp3_6fCYCXk",
+            "url":"/media/sounds/m_fixed_6fCYCXk.mp3",
             "id":3100
          },
          {
             "name":"發家致富",
-            "url":"/media/sounds/.mp3_91UfDCI",
+            "url":"/media/sounds/m_fixed_91UfDCI.mp3",
             "id":3101
          },
          {
             "name":"發黑的到哪都發黑",
-            "url":"/media/sounds/.mp3_rsUP54v",
+            "url":"/media/sounds/m_fixed_rsUP54v.mp3",
             "id":3102
          },
          {
             "name":"白給了",
-            "url":"/media/sounds/.mp3_EIJyNbr",
+            "url":"/media/sounds/m_fixed_EIJyNbr.mp3",
             "id":3103
          },
          {
             "name":"穿",
-            "url":"/media/sounds/.mp3_BnZmM0M",
+            "url":"/media/sounds/m_fixed_BnZmM0M.mp3",
             "id":3104
          },
          {
             "name":"穿過我的巴巴",
-            "url":"/media/sounds/.mp3_h3xvvvq",
+            "url":"/media/sounds/m_fixed_h3xvvvq.mp3",
             "id":3105
          },
          {
             "name":"結實",
-            "url":"/media/sounds/.mp3_1ATo28e",
+            "url":"/media/sounds/m_fixed_1ATo28e.mp3",
             "id":3106
          },
          {
@@ -17207,22 +17207,22 @@ export default [
          },
          {
             "name":"肥豬",
-            "url":"/media/sounds/.mp3_WQyQ5oC",
+            "url":"/media/sounds/m_fixed_WQyQ5oC.mp3",
             "id":3108
          },
          {
             "name":"蛔蟲",
-            "url":"/media/sounds/.mp3_XRtx0Dy",
+            "url":"/media/sounds/m_fixed_XRtx0Dy.mp3",
             "id":3109
          },
          {
             "name":"被抓到了幹！",
-            "url":"/media/sounds/.mp3_A5H3L8x",
+            "url":"/media/sounds/m_fixed_A5H3L8x.mp3",
             "id":3110
          },
          {
             "name":"超強的ㄟ",
-            "url":"/media/sounds/.mp3_NULkvfi",
+            "url":"/media/sounds/m_fixed_NULkvfi.mp3",
             "id":3111
          },
          {
@@ -17242,77 +17242,77 @@ export default [
          },
          {
             "name":"不可以拿掉喔～",
-            "url":"/media/sounds/.mp3_j2dToCk",
+            "url":"/media/sounds/m_fixed_j2dToCk.mp3",
             "id":3178
          },
          {
             "name":"不要用這一招",
-            "url":"/media/sounds/.mp3_Vp6rb4M",
+            "url":"/media/sounds/m_fixed_Vp6rb4M.mp3",
             "id":3179
          },
          {
             "name":"免費仔的恥辱",
-            "url":"/media/sounds/.mp3_6FoebGN",
+            "url":"/media/sounds/m_fixed_6FoebGN.mp3",
             "id":3180
          },
          {
             "name":"公",
-            "url":"/media/sounds/.mp3_CXAKd4A",
+            "url":"/media/sounds/m_fixed_CXAKd4A.mp3",
             "id":3181
          },
          {
             "name":"剪綵",
-            "url":"/media/sounds/.mp3_soXYvSH",
+            "url":"/media/sounds/m_fixed_soXYvSH.mp3",
             "id":3182
          },
          {
             "name":"可以！",
-            "url":"/media/sounds/.mp3_ziOV6rl",
+            "url":"/media/sounds/m_fixed_ziOV6rl.mp3",
             "id":3183
          },
          {
             "name":"喔～",
-            "url":"/media/sounds/.mp3_4wfDDQN",
+            "url":"/media/sounds/m_fixed_4wfDDQN.mp3",
             "id":3184
          },
          {
             "name":"大便(台)",
-            "url":"/media/sounds/.mp3_Sy78xdr",
+            "url":"/media/sounds/m_fixed_Sy78xdr.mp3",
             "id":3185
          },
          {
             "name":"平心而論",
-            "url":"/media/sounds/.mp3_IO7wEPh",
+            "url":"/media/sounds/m_fixed_IO7wEPh.mp3",
             "id":3186
          },
          {
             "name":"怎麼那麼貴？",
-            "url":"/media/sounds/.mp3_ZKDNLVC",
+            "url":"/media/sounds/m_fixed_ZKDNLVC.mp3",
             "id":3187
          },
          {
             "name":"懂不懂？",
-            "url":"/media/sounds/.mp3_5wIRqPr",
+            "url":"/media/sounds/m_fixed_5wIRqPr.mp3",
             "id":3188
          },
          {
             "name":"我訂閱了大濕呦",
-            "url":"/media/sounds/.mp3_hoQsyYv",
+            "url":"/media/sounds/m_fixed_hoQsyYv.mp3",
             "id":3189
          },
          {
             "name":"搭訕",
-            "url":"/media/sounds/.mp3_bwBE9jL",
+            "url":"/media/sounds/m_fixed_bwBE9jL.mp3",
             "id":3190
          },
          {
             "name":"是啊！",
-            "url":"/media/sounds/.mp3_9its6ZD",
+            "url":"/media/sounds/m_fixed_9its6ZD.mp3",
             "id":3191
          },
          {
             "name":"會怕就好啦",
-            "url":"/media/sounds/.mp3_dGJC2Ea",
+            "url":"/media/sounds/m_fixed_dGJC2Ea.mp3",
             "id":3192
          },
          {
@@ -17322,22 +17322,22 @@ export default [
          },
          {
             "name":"沒反應",
-            "url":"/media/sounds/.mp3_6HIg4mo",
+            "url":"/media/sounds/m_fixed_6HIg4mo.mp3",
             "id":3194
          },
          {
             "name":"浪費！",
-            "url":"/media/sounds/.mp3_09X6Z8s",
+            "url":"/media/sounds/m_fixed_09X6Z8s.mp3",
             "id":3195
          },
          {
             "name":"滅掉",
-            "url":"/media/sounds/.mp3_CHiV7dm",
+            "url":"/media/sounds/m_fixed_CHiV7dm.mp3",
             "id":3196
          },
          {
             "name":"為什麼突然掛了？",
-            "url":"/media/sounds/.mp3_PK5yvdD",
+            "url":"/media/sounds/m_fixed_PK5yvdD.mp3",
             "id":3197
          },
          {
@@ -17347,102 +17347,102 @@ export default [
          },
          {
             "name":"碳纖維",
-            "url":"/media/sounds/.mp3_9zyLrOK",
+            "url":"/media/sounds/m_fixed_9zyLrOK.mp3",
             "id":3199
          },
          {
             "name":"虐",
-            "url":"/media/sounds/.mp3_bLBqufl",
+            "url":"/media/sounds/m_fixed_bLBqufl.mp3",
             "id":3200
          },
          {
             "name":"語無倫次",
-            "url":"/media/sounds/.mp3_tlkViIs",
+            "url":"/media/sounds/m_fixed_tlkViIs.mp3",
             "id":3201
          },
          {
             "name":"請",
-            "url":"/media/sounds/.mp3_vY7hKi7",
+            "url":"/media/sounds/m_fixed_vY7hKi7.mp3",
             "id":3202
          },
          {
             "name":"請選擇",
-            "url":"/media/sounds/.mp3_Q0E8Mpx",
+            "url":"/media/sounds/m_fixed_Q0E8Mpx.mp3",
             "id":3203
          },
          {
             "name":"蹲",
-            "url":"/media/sounds/.mp3_sLXQ9gi",
+            "url":"/media/sounds/m_fixed_sLXQ9gi.mp3",
             "id":3204
          },
          {
             "name":"這什麼狀況？",
-            "url":"/media/sounds/.mp3_rxpNEkm",
+            "url":"/media/sounds/m_fixed_rxpNEkm.mp3",
             "id":3205
          },
          {
             "name":"鼓掌",
-            "url":"/media/sounds/.mp3_bbTYiv6",
+            "url":"/media/sounds/m_fixed_bbTYiv6.mp3",
             "id":3206
          },
          {
             "name":"細思極恐",
-            "url":"/media/sounds/.mp3_xzXJqYM",
+            "url":"/media/sounds/m_fixed_xzXJqYM.mp3",
             "id":3233
          },
          {
             "name":"一下就好",
-            "url":"/media/sounds/.mp3_Mkny4Av",
+            "url":"/media/sounds/m_fixed_Mkny4Av.mp3",
             "id":3291
          },
          {
             "name":"不太可能",
-            "url":"/media/sounds/.mp3_J9EBABI",
+            "url":"/media/sounds/m_fixed_J9EBABI.mp3",
             "id":3292
          },
          {
             "name":"不要再逼我了",
-            "url":"/media/sounds/.mp3_y2VyuqE",
+            "url":"/media/sounds/m_fixed_y2VyuqE.mp3",
             "id":3293
          },
          {
             "name":"丟",
-            "url":"/media/sounds/.mp3_I2zwaRV",
+            "url":"/media/sounds/m_fixed_I2zwaRV.mp3",
             "id":3294
          },
          {
             "name":"人生",
-            "url":"/media/sounds/.mp3_fon5JzJ",
+            "url":"/media/sounds/m_fixed_fon5JzJ.mp3",
             "id":3295
          },
          {
             "name":"付費解鎖",
-            "url":"/media/sounds/.mp3_c2kFWRo",
+            "url":"/media/sounds/m_fixed_c2kFWRo.mp3",
             "id":3296
          },
          {
             "name":"便宜啦",
-            "url":"/media/sounds/.mp3_aVznCBp",
+            "url":"/media/sounds/m_fixed_aVznCBp.mp3",
             "id":3297
          },
          {
             "name":"光",
-            "url":"/media/sounds/.mp3_32htXmw",
+            "url":"/media/sounds/m_fixed_32htXmw.mp3",
             "id":3298
          },
          {
             "name":"出血",
-            "url":"/media/sounds/.mp3_27okhGs",
+            "url":"/media/sounds/m_fixed_27okhGs.mp3",
             "id":3299
          },
          {
             "name":"分手",
-            "url":"/media/sounds/.mp3_HeSPkqZ",
+            "url":"/media/sounds/m_fixed_HeSPkqZ.mp3",
             "id":3300
          },
          {
             "name":"剎那",
-            "url":"/media/sounds/.mp3_D2VzO8s",
+            "url":"/media/sounds/m_fixed_D2VzO8s.mp3",
             "id":3301
          },
          {
@@ -17452,262 +17452,262 @@ export default [
          },
          {
             "name":"原地往生",
-            "url":"/media/sounds/.mp3_rotQSu2",
+            "url":"/media/sounds/m_fixed_rotQSu2.mp3",
             "id":3303
          },
          {
             "name":"去哪裡",
-            "url":"/media/sounds/.mp3_WpmJBJ7",
+            "url":"/media/sounds/m_fixed_WpmJBJ7.mp3",
             "id":3304
          },
          {
             "name":"叼著",
-            "url":"/media/sounds/.mp3_tnyqzz3",
+            "url":"/media/sounds/m_fixed_tnyqzz3.mp3",
             "id":3305
          },
          {
             "name":"吃不飽",
-            "url":"/media/sounds/.mp3_bUdlaHN",
+            "url":"/media/sounds/m_fixed_bUdlaHN.mp3",
             "id":3306
          },
          {
             "name":"哇操！",
-            "url":"/media/sounds/.mp3_atxClQi",
+            "url":"/media/sounds/m_fixed_atxClQi.mp3",
             "id":3307
          },
          {
             "name":"喊名",
-            "url":"/media/sounds/.mp3_P9pETTz",
+            "url":"/media/sounds/m_fixed_P9pETTz.mp3",
             "id":3308
          },
          {
             "name":"喊名而已啦",
-            "url":"/media/sounds/.mp3_hZ27yo6",
+            "url":"/media/sounds/m_fixed_hZ27yo6.mp3",
             "id":3309
          },
          {
             "name":"噓",
-            "url":"/media/sounds/.mp3_yidftVY",
+            "url":"/media/sounds/m_fixed_yidftVY.mp3",
             "id":3310
          },
          {
             "name":"器官",
-            "url":"/media/sounds/.mp3_oyhprkj",
+            "url":"/media/sounds/m_fixed_oyhprkj.mp3",
             "id":3311
          },
          {
             "name":"多麼",
-            "url":"/media/sounds/.mp3_A1cNlCU",
+            "url":"/media/sounds/m_fixed_A1cNlCU.mp3",
             "id":3312
          },
          {
             "name":"大腸桿菌",
-            "url":"/media/sounds/.mp3_tPo1s9k",
+            "url":"/media/sounds/m_fixed_tPo1s9k.mp3",
             "id":3313
          },
          {
             "name":"天經地義",
-            "url":"/media/sounds/.mp3_K9X17DP",
+            "url":"/media/sounds/m_fixed_K9X17DP.mp3",
             "id":3314
          },
          {
             "name":"女體化",
-            "url":"/media/sounds/.mp3_KQUngoF",
+            "url":"/media/sounds/m_fixed_KQUngoF.mp3",
             "id":3315
          },
          {
             "name":"好像是ㄟ",
-            "url":"/media/sounds/.mp3_iq0s8Ph",
+            "url":"/media/sounds/m_fixed_iq0s8Ph.mp3",
             "id":3316
          },
          {
             "name":"好哇～",
-            "url":"/media/sounds/.mp3_p6eycT0",
+            "url":"/media/sounds/m_fixed_p6eycT0.mp3",
             "id":3317
          },
          {
             "name":"好爽喔",
-            "url":"/media/sounds/.mp3_REzCgpD",
+            "url":"/media/sounds/m_fixed_REzCgpD.mp3",
             "id":3318
          },
          {
             "name":"工讀生",
-            "url":"/media/sounds/.mp3_PAGAbNh",
+            "url":"/media/sounds/m_fixed_PAGAbNh.mp3",
             "id":3319
          },
          {
             "name":"左拳",
-            "url":"/media/sounds/.mp3_siZcjGR",
+            "url":"/media/sounds/m_fixed_siZcjGR.mp3",
             "id":3320
          },
          {
             "name":"彷彿",
-            "url":"/media/sounds/.mp3_eMjLrNt",
+            "url":"/media/sounds/m_fixed_eMjLrNt.mp3",
             "id":3322
          },
          {
             "name":"忍不住",
-            "url":"/media/sounds/.mp3_91gfPZD",
+            "url":"/media/sounds/m_fixed_91gfPZD.mp3",
             "id":3323
          },
          {
             "name":"性轉",
-            "url":"/media/sounds/.mp3_k4L8lNh",
+            "url":"/media/sounds/m_fixed_k4L8lNh.mp3",
             "id":3324
          },
          {
             "name":"想法",
-            "url":"/media/sounds/.mp3_dXYOgPM",
+            "url":"/media/sounds/m_fixed_dXYOgPM.mp3",
             "id":3325
          },
          {
             "name":"想起來了",
-            "url":"/media/sounds/.mp3_sbNCb5W",
+            "url":"/media/sounds/m_fixed_sbNCb5W.mp3",
             "id":3326
          },
          {
             "name":"我一定",
-            "url":"/media/sounds/.mp3_CtNrAwp",
+            "url":"/media/sounds/m_fixed_CtNrAwp.mp3",
             "id":3327
          },
          {
             "name":"我很樂意呀",
-            "url":"/media/sounds/.mp3_nComL0A",
+            "url":"/media/sounds/m_fixed_nComL0A.mp3",
             "id":3329
          },
          {
             "name":"我沒空，抱歉我沒空(台)",
-            "url":"/media/sounds/.mp3_0EmM2d0",
+            "url":"/media/sounds/m_fixed_0EmM2d0.mp3",
             "id":3330
          },
          {
             "name":"拿我怎麼樣",
-            "url":"/media/sounds/.mp3_hL7helX",
+            "url":"/media/sounds/m_fixed_hL7helX.mp3",
             "id":3331
          },
          {
             "name":"明亮",
-            "url":"/media/sounds/.mp3_Xt6D942",
+            "url":"/media/sounds/m_fixed_Xt6D942.mp3",
             "id":3332
          },
          {
             "name":"普通",
-            "url":"/media/sounds/.mp3_KlA85Xw",
+            "url":"/media/sounds/m_fixed_KlA85Xw.mp3",
             "id":3333
          },
          {
             "name":"植物",
-            "url":"/media/sounds/.mp3_vYpibw8",
+            "url":"/media/sounds/m_fixed_vYpibw8.mp3",
             "id":3334
          },
          {
             "name":"每一個～",
-            "url":"/media/sounds/.mp3_ZpDAZMC",
+            "url":"/media/sounds/m_fixed_ZpDAZMC.mp3",
             "id":3335
          },
          {
             "name":"水",
-            "url":"/media/sounds/.mp3_EKwMHUb",
+            "url":"/media/sounds/m_fixed_EKwMHUb.mp3",
             "id":3336
          },
          {
             "name":"水井",
-            "url":"/media/sounds/.mp3_zgAgJPj",
+            "url":"/media/sounds/m_fixed_zgAgJPj.mp3",
             "id":3337
          },
          {
             "name":"油",
-            "url":"/media/sounds/.mp3_8rxIndk",
+            "url":"/media/sounds/m_fixed_8rxIndk.mp3",
             "id":3338
          },
          {
             "name":"滿出來",
-            "url":"/media/sounds/.mp3_E0VaHQS",
+            "url":"/media/sounds/m_fixed_E0VaHQS.mp3",
             "id":3339
          },
          {
             "name":"滿滿的",
-            "url":"/media/sounds/.mp3_pgJZLa3",
+            "url":"/media/sounds/m_fixed_pgJZLa3.mp3",
             "id":3340
          },
          {
             "name":"漂漂河",
-            "url":"/media/sounds/.mp3_6h47ccm",
+            "url":"/media/sounds/m_fixed_6h47ccm.mp3",
             "id":3341
          },
          {
             "name":"牙籤",
-            "url":"/media/sounds/.mp3_VnjQuDF",
+            "url":"/media/sounds/m_fixed_VnjQuDF.mp3",
             "id":3342
          },
          {
             "name":"牛逼",
-            "url":"/media/sounds/.mp3_EU6dkKY",
+            "url":"/media/sounds/m_fixed_EU6dkKY.mp3",
             "id":3343
          },
          {
             "name":"牛逼呀！",
-            "url":"/media/sounds/.mp3_OhawRHu",
+            "url":"/media/sounds/m_fixed_OhawRHu.mp3",
             "id":3344
          },
          {
             "name":"犯了大計",
-            "url":"/media/sounds/.mp3_urkM19x",
+            "url":"/media/sounds/m_fixed_urkM19x.mp3",
             "id":3345
          },
          {
             "name":"的啦",
-            "url":"/media/sounds/.mp3_h33nEUy",
+            "url":"/media/sounds/m_fixed_h33nEUy.mp3",
             "id":3346
          },
          {
             "name":"皮膚",
-            "url":"/media/sounds/.mp3_kPsEZ5c",
+            "url":"/media/sounds/m_fixed_kPsEZ5c.mp3",
             "id":3347
          },
          {
             "name":"祝賀",
-            "url":"/media/sounds/.mp3_uFUXutG",
+            "url":"/media/sounds/m_fixed_uFUXutG.mp3",
             "id":3349
          },
          {
             "name":"給你們看",
-            "url":"/media/sounds/.mp3_WkBeOT2",
+            "url":"/media/sounds/m_fixed_WkBeOT2.mp3",
             "id":3350
          },
          {
             "name":"給的電話好嗎？",
-            "url":"/media/sounds/.mp3_NWqj9lI",
+            "url":"/media/sounds/m_fixed_NWqj9lI.mp3",
             "id":3351
          },
          {
             "name":"羨慕",
-            "url":"/media/sounds/.mp3_rWObRMS",
+            "url":"/media/sounds/m_fixed_rWObRMS.mp3",
             "id":3352
          },
          {
             "name":"肚子好餓喔",
-            "url":"/media/sounds/.mp3_pawAPxY",
+            "url":"/media/sounds/m_fixed_pawAPxY.mp3",
             "id":3353
          },
          {
             "name":"藍色小車車",
-            "url":"/media/sounds/.mp3_8i48dZv",
+            "url":"/media/sounds/m_fixed_8i48dZv.mp3",
             "id":3354
          },
          {
             "name":"虧本",
-            "url":"/media/sounds/.mp3_KsPH9Vb",
+            "url":"/media/sounds/m_fixed_KsPH9Vb.mp3",
             "id":3355
          },
          {
             "name":"蠻常見的",
-            "url":"/media/sounds/.mp3_xitXw4u",
+            "url":"/media/sounds/m_fixed_xitXw4u.mp3",
             "id":3356
          },
          {
             "name":"見",
-            "url":"/media/sounds/.mp3_2i05JjU",
+            "url":"/media/sounds/m_fixed_2i05JjU.mp3",
             "id":3357
          },
          {
@@ -17717,47 +17717,47 @@ export default [
          },
          {
             "name":"買",
-            "url":"/media/sounds/.mp3_cxM7GyD",
+            "url":"/media/sounds/m_fixed_cxM7GyD.mp3",
             "id":3359
          },
          {
             "name":"買一送一",
-            "url":"/media/sounds/.mp3_jKAbJ3U",
+            "url":"/media/sounds/m_fixed_jKAbJ3U.mp3",
             "id":3360
          },
          {
             "name":"跑馬燈",
-            "url":"/media/sounds/.mp3_9quO2F2",
+            "url":"/media/sounds/m_fixed_9quO2F2.mp3",
             "id":3361
          },
          {
             "name":"辣",
-            "url":"/media/sounds/.mp3_rp0xCRe",
+            "url":"/media/sounds/m_fixed_rp0xCRe.mp3",
             "id":3362
          },
          {
             "name":"閃",
-            "url":"/media/sounds/.mp3_kgUAbSc",
+            "url":"/media/sounds/m_fixed_kgUAbSc.mp3",
             "id":3363
          },
          {
             "name":"陽春",
-            "url":"/media/sounds/.mp3_3CHOqmT",
+            "url":"/media/sounds/m_fixed_3CHOqmT.mp3",
             "id":3364
          },
          {
             "name":"骨",
-            "url":"/media/sounds/.mp3_WuoxuRz",
+            "url":"/media/sounds/m_fixed_WuoxuRz.mp3",
             "id":3365
          },
          {
             "name":"髒",
-            "url":"/media/sounds/.mp3_XjnsieE",
+            "url":"/media/sounds/m_fixed_XjnsieE.mp3",
             "id":3366
          },
          {
             "name":"魔鏡號",
-            "url":"/media/sounds/.mp3_ztz7IfE",
+            "url":"/media/sounds/m_fixed_ztz7IfE.mp3",
             "id":3367
          },
          {
@@ -17777,22 +17777,22 @@ export default [
          },
          {
             "name":"送！",
-            "url":"/media/sounds/.mp3_dNVopyN",
+            "url":"/media/sounds/m_fixed_dNVopyN.mp3",
             "id":3371
          },
          {
             "name":"成為",
-            "url":"/media/sounds/.mp3_bPg40H1",
+            "url":"/media/sounds/m_fixed_bPg40H1.mp3",
             "id":3389
          },
          {
             "name":"好朋友ㄟ",
-            "url":"/media/sounds/.mp3_8pxbWaU",
+            "url":"/media/sounds/m_fixed_8pxbWaU.mp3",
             "id":3382
          },
          {
             "name":"瘋了嗎？",
-            "url":"/media/sounds/.mp3_tCi1CR6",
+            "url":"/media/sounds/m_fixed_tCi1CR6.mp3",
             "id":3384
          },
          {
@@ -17802,147 +17802,147 @@ export default [
          },
          {
             "name":"不妙！",
-            "url":"/media/sounds/.mp3_inZ5WIf",
+            "url":"/media/sounds/m_fixed_inZ5WIf.mp3",
             "id":3494
          },
          {
             "name":"人不要臉",
-            "url":"/media/sounds/.mp3_hQJ7zNU",
+            "url":"/media/sounds/m_fixed_hQJ7zNU.mp3",
             "id":3495
          },
          {
             "name":"什麼！？",
-            "url":"/media/sounds/.mp3_7YdmEFJ",
+            "url":"/media/sounds/m_fixed_7YdmEFJ.mp3",
             "id":3496
          },
          {
             "name":"公廁",
-            "url":"/media/sounds/.mp3_WsX2x7W",
+            "url":"/media/sounds/m_fixed_WsX2x7W.mp3",
             "id":3497
          },
          {
             "name":"司法不公～",
-            "url":"/media/sounds/.mp3_lroKcpl",
+            "url":"/media/sounds/m_fixed_lroKcpl.mp3",
             "id":3498
          },
          {
             "name":"司法迫害！",
-            "url":"/media/sounds/.mp3_HLG6nwO",
+            "url":"/media/sounds/m_fixed_HLG6nwO.mp3",
             "id":3499
          },
          {
             "name":"天下無敵",
-            "url":"/media/sounds/.mp3_dmhEQ5Z",
+            "url":"/media/sounds/m_fixed_dmhEQ5Z.mp3",
             "id":3500
          },
          {
             "name":"好哇！",
-            "url":"/media/sounds/.mp3_yW8NOwj",
+            "url":"/media/sounds/m_fixed_yW8NOwj.mp3",
             "id":3501
          },
          {
             "name":"安可安可安可安可",
-            "url":"/media/sounds/.mp3_WURtAts",
+            "url":"/media/sounds/m_fixed_WURtAts.mp3",
             "id":3502
          },
          {
             "name":"完了完了完了",
-            "url":"/media/sounds/.mp3_AvhXjtf",
+            "url":"/media/sounds/m_fixed_AvhXjtf.mp3",
             "id":3503
          },
          {
             "name":"幫",
-            "url":"/media/sounds/.mp3_ErJYv2o",
+            "url":"/media/sounds/m_fixed_ErJYv2o.mp3",
             "id":3504
          },
          {
             "name":"幹架",
-            "url":"/media/sounds/.mp3_aNP11r6",
+            "url":"/media/sounds/m_fixed_aNP11r6.mp3",
             "id":3505
          },
          {
             "name":"後繼無力",
-            "url":"/media/sounds/.mp3_ZV8PTiQ",
+            "url":"/media/sounds/m_fixed_ZV8PTiQ.mp3",
             "id":3506
          },
          {
             "name":"心態要炸了",
-            "url":"/media/sounds/.mp3_Rh69e6k",
+            "url":"/media/sounds/m_fixed_Rh69e6k.mp3",
             "id":3507
          },
          {
             "name":"必死無疑",
-            "url":"/media/sounds/.mp3_paajiVU",
+            "url":"/media/sounds/m_fixed_paajiVU.mp3",
             "id":3508
          },
          {
             "name":"我好興奮啊",
-            "url":"/media/sounds/.mp3_n2OuVS6",
+            "url":"/media/sounds/m_fixed_n2OuVS6.mp3",
             "id":3509
          },
          {
             "name":"我沒貪汙！",
-            "url":"/media/sounds/.mp3_fZOUcUD",
+            "url":"/media/sounds/m_fixed_fZOUcUD.mp3",
             "id":3510
          },
          {
             "name":"我真的好興奮啊",
-            "url":"/media/sounds/.mp3_FrXXUei",
+            "url":"/media/sounds/m_fixed_FrXXUei.mp3",
             "id":3511
          },
          {
             "name":"撈",
-            "url":"/media/sounds/.mp3_cRC86gE",
+            "url":"/media/sounds/m_fixed_cRC86gE.mp3",
             "id":3512
          },
          {
             "name":"會這樣",
-            "url":"/media/sounds/.mp3_BNatvm5",
+            "url":"/media/sounds/m_fixed_BNatvm5.mp3",
             "id":3513
          },
          {
             "name":"有些時候",
-            "url":"/media/sounds/.mp3_XbB0DcO",
+            "url":"/media/sounds/m_fixed_XbB0DcO.mp3",
             "id":3514
          },
          {
             "name":"樹不要皮",
-            "url":"/media/sounds/.mp3_CAxvDYg",
+            "url":"/media/sounds/m_fixed_CAxvDYg.mp3",
             "id":3515
          },
          {
             "name":"當",
-            "url":"/media/sounds/.mp3_kSLufgK",
+            "url":"/media/sounds/m_fixed_kSLufgK.mp3",
             "id":3516
          },
          {
             "name":"真的呀～",
-            "url":"/media/sounds/.mp3_L3sLcFb",
+            "url":"/media/sounds/m_fixed_L3sLcFb.mp3",
             "id":3517
          },
          {
             "name":"窗掉",
-            "url":"/media/sounds/.mp3_VG0reto",
+            "url":"/media/sounds/m_fixed_VG0reto.mp3",
             "id":3518
          },
          {
             "name":"箭頭",
-            "url":"/media/sounds/.mp3_VpNLHm2",
+            "url":"/media/sounds/m_fixed_VpNLHm2.mp3",
             "id":3519
          },
          {
             "name":"被抓了",
-            "url":"/media/sounds/.mp3_7m0lC83",
+            "url":"/media/sounds/m_fixed_7m0lC83.mp3",
             "id":3520
          },
          {
             "name":"讀",
-            "url":"/media/sounds/.mp3_Q6RzZEr",
+            "url":"/media/sounds/m_fixed_Q6RzZEr.mp3",
             "id":3521
          },
          {
             "name":"貪汙",
-            "url":"/media/sounds/.mp3_lAOBvjB",
+            "url":"/media/sounds/m_fixed_lAOBvjB.mp3",
             "id":3522
          },
          {
@@ -17952,7 +17952,7 @@ export default [
          },
          {
             "name":"長這個樣子",
-            "url":"/media/sounds/.mp3_q9O3byb",
+            "url":"/media/sounds/m_fixed_q9O3byb.mp3",
             "id":3524
          },
          {
@@ -18887,7 +18887,7 @@ export default [
          },
          {
             "name":"特調",
-            "url":"/media/sounds/.mp3_BkExJzJ",
+            "url":"/media/sounds/m_fixed_BkExJzJ.mp3",
             "id":3394
          },
          {
@@ -19622,7 +19622,7 @@ export default [
          },
          {
             "name":"來",
-            "url":"/media/sounds/da-shi-lai.mp3",
+            "url":"/media/sounds/m_fixed_YdrXb3Y.mp3",
             "id":4329
          },
          {
@@ -20392,7 +20392,7 @@ export default [
          },
          {
             "name":"多2",
-            "url":"/media/sounds/da-shi-duo-2.mp3",
+            "url":"/media/sounds/duo-2.mp3",
             "id":4533
          },
          {
@@ -20997,17 +20997,17 @@ export default [
          },
          {
             "name":"嘎抓：哭啊！",
-            "url":"/media/sounds/.mp3_uTV0SgR",
+            "url":"/media/sounds/m_fixed_uTV0SgR.mp3",
             "id":250
          },
          {
             "name":"嘎抓：大濕不讓我睡",
-            "url":"/media/sounds/.mp3_kF8jAih",
+            "url":"/media/sounds/m_fixed_kF8jAih.mp3",
             "id":251
          },
          {
             "name":"嘎抓：晚上只好跟大濕睡",
-            "url":"/media/sounds/.mp3_TkV8jZD",
+            "url":"/media/sounds/m_fixed_TkV8jZD.mp3",
             "id":252
          },
          {
@@ -21017,57 +21017,57 @@ export default [
          },
          {
             "name":"嘎抓：阿偉阿偉",
-            "url":"/media/sounds/.mp3_wErZH4e",
+            "url":"/media/sounds/m_fixed_wErZH4e.mp3",
             "id":254
          },
          {
             "name":"嘎抓：大濕屁眼會咬人",
-            "url":"/media/sounds/.mp3_8DmmgHn",
+            "url":"/media/sounds/m_fixed_8DmmgHn.mp3",
             "id":255
          },
          {
             "name":"嘎抓：哇操",
-            "url":"/media/sounds/.mp3_HYy5DzO",
+            "url":"/media/sounds/m_fixed_HYy5DzO.mp3",
             "id":256
          },
          {
             "name":"嘎抓：皮卡屁",
-            "url":"/media/sounds/.mp3_J897yVm",
+            "url":"/media/sounds/m_fixed_J897yVm.mp3",
             "id":257
          },
          {
             "name":"嘎抓：不要在肛了",
-            "url":"/media/sounds/.mp3_olO5X0N",
+            "url":"/media/sounds/m_fixed_olO5X0N.mp3",
             "id":258
          },
          {
             "name":"嘎抓：輕一點",
-            "url":"/media/sounds/.mp3_QnNGMFq",
+            "url":"/media/sounds/m_fixed_QnNGMFq.mp3",
             "id":259
          },
          {
             "name":"嘎抓：啊➚～",
-            "url":"/media/sounds/.mp3_fkpe546",
+            "url":"/media/sounds/m_fixed_fkpe546.mp3",
             "id":260
          },
          {
             "name":"嘎抓：啊➚～～",
-            "url":"/media/sounds/.mp3_bu8GFyv",
+            "url":"/media/sounds/m_fixed_bu8GFyv.mp3",
             "id":261
          },
          {
             "name":"嘎抓：『嘎抓不是會脫窗的人』",
-            "url":"/media/sounds/.mp3_uA48kwL",
+            "url":"/media/sounds/m_fixed_uA48kwL.mp3",
             "id":262
          },
          {
             "name":"嘎抓：『啊啊啊～』",
-            "url":"/media/sounds/.mp3_GZFizCd",
+            "url":"/media/sounds/m_fixed_GZFizCd.mp3",
             "id":263
          },
          {
             "name":"嘎抓：『睡到脫肛』",
-            "url":"/media/sounds/.mp3_Nm0zWnN",
+            "url":"/media/sounds/m_fixed_Nm0zWnN.mp3",
             "id":264
          },
          {
@@ -21077,42 +21077,42 @@ export default [
          },
          {
             "name":"嘎抓：『好耶～』",
-            "url":"/media/sounds/.mp3_13lV1ef",
+            "url":"/media/sounds/m_fixed_13lV1ef.mp3",
             "id":266
          },
          {
             "name":"嘎抓：『我最喜歡睡覺了～』",
-            "url":"/media/sounds/.mp3_cZF35G5",
+            "url":"/media/sounds/m_fixed_cZF35G5.mp3",
             "id":267
          },
          {
             "name":"嘎抓：『大家好我是嘎抓』",
-            "url":"/media/sounds/.mp3_DY0avBP",
+            "url":"/media/sounds/m_fixed_DY0avBP.mp3",
             "id":268
          },
          {
             "name":"嘎抓：『好爛喔』",
-            "url":"/media/sounds/.mp3_P5fcwfI",
+            "url":"/media/sounds/m_fixed_P5fcwfI.mp3",
             "id":269
          },
          {
             "name":"嘎抓：『什麼垃圾東西啊？』",
-            "url":"/media/sounds/.mp3_3JCSP0p",
+            "url":"/media/sounds/m_fixed_3JCSP0p.mp3",
             "id":270
          },
          {
             "name":"嘎抓：『好想過去給你肛喔』",
-            "url":"/media/sounds/.mp3_51pWKeR",
+            "url":"/media/sounds/m_fixed_51pWKeR.mp3",
             "id":271
          },
          {
             "name":"嘎抓打哈欠",
-            "url":"/media/sounds/.mp3_bad7QgK",
+            "url":"/media/sounds/m_fixed_bad7QgK.mp3",
             "id":272
          },
          {
             "name":"嘎抓：『謝謝喔～』",
-            "url":"/media/sounds/.mp3_SXTZPPk",
+            "url":"/media/sounds/m_fixed_SXTZPPk.mp3",
             "id":273
          },
          {
@@ -21132,27 +21132,27 @@ export default [
          },
          {
             "name":"嘎抓：『感都是用肺換來的』",
-            "url":"/media/sounds/.mp3_oObkOG5",
+            "url":"/media/sounds/m_fixed_oObkOG5.mp3",
             "id":277
          },
          {
             "name":"嘎抓：『嗨大好我是小嘎』",
-            "url":"/media/sounds/.mp3_AJZNYxW",
+            "url":"/media/sounds/m_fixed_AJZNYxW.mp3",
             "id":278
          },
          {
             "name":"嘎抓：『呱』",
-            "url":"/media/sounds/.mp3_7CYURUm",
+            "url":"/media/sounds/m_fixed_7CYURUm.mp3",
             "id":279
          },
          {
             "name":"嘎抓：『來跟妹子說早安嘍』",
-            "url":"/media/sounds/.mp3_90yldZh",
+            "url":"/media/sounds/m_fixed_90yldZh.mp3",
             "id":280
          },
          {
             "name":"嘎抓：『給你吃點好吃的呦』",
-            "url":"/media/sounds/.mp3_xrBlhwx",
+            "url":"/media/sounds/m_fixed_xrBlhwx.mp3",
             "id":281
          },
          {
@@ -21162,132 +21162,132 @@ export default [
          },
          {
             "name":"嘎抓：『皮皮』",
-            "url":"/media/sounds/.mp3_Hrl5G1l",
+            "url":"/media/sounds/m_fixed_Hrl5G1l.mp3",
             "id":283
          },
          {
             "name":"嘎抓：『我愛的人是皮卡屁』",
-            "url":"/media/sounds/.mp3_Q8vbOIq",
+            "url":"/media/sounds/m_fixed_Q8vbOIq.mp3",
             "id":284
          },
          {
             "name":"嘎抓出來了",
-            "url":"/media/sounds/.mp3_lqERbh3",
+            "url":"/media/sounds/m_fixed_lqERbh3.mp3",
             "id":285
          },
          {
             "name":"嘎抓：『垃圾』",
-            "url":"/media/sounds/.mp3_EMoDSJy",
+            "url":"/media/sounds/m_fixed_EMoDSJy.mp3",
             "id":503
          },
          {
             "name":"嘎抓：『啊！幹！』",
-            "url":"/media/sounds/.mp3_O0s09Ru",
+            "url":"/media/sounds/m_fixed_O0s09Ru.mp3",
             "id":549
          },
          {
             "name":"嘎抓：『啊！啊！啊！』",
-            "url":"/media/sounds/.mp3_bU2gkF3",
+            "url":"/media/sounds/m_fixed_bU2gkF3.mp3",
             "id":550
          },
          {
             "name":"嘎抓：『诶？』",
-            "url":"/media/sounds/.mp3_Qj2YkPF",
+            "url":"/media/sounds/m_fixed_Qj2YkPF.mp3",
             "id":551
          },
          {
             "name":"嘎抓：『你下去的真是漂亮』",
-            "url":"/media/sounds/.mp3_25ly9vF",
+            "url":"/media/sounds/m_fixed_25ly9vF.mp3",
             "id":552
          },
          {
             "name":"嘎抓：『打蟑螂』",
-            "url":"/media/sounds/.mp3_ziikFw2",
+            "url":"/media/sounds/m_fixed_ziikFw2.mp3",
             "id":553
          },
          {
             "name":"嘎抓：『只許州官放屁，不許百姓拉屎』",
-            "url":"/media/sounds/.mp3_KyG5jKq",
+            "url":"/media/sounds/m_fixed_KyG5jKq.mp3",
             "id":554
          },
          {
             "name":"嘎抓：『只許州官放火，不許百姓殺人』",
-            "url":"/media/sounds/.mp3_D3mWm96",
+            "url":"/media/sounds/m_fixed_D3mWm96.mp3",
             "id":555
          },
          {
             "name":"嘎抓：『あ～いたい いたい』",
-            "url":"/media/sounds/.mp3_oL2hvhg",
+            "url":"/media/sounds/m_fixed_oL2hvhg.mp3",
             "id":556
          },
          {
             "name":"嘎抓：『今天很嗆是吧』",
-            "url":"/media/sounds/.mp3_Xb58ltQ",
+            "url":"/media/sounds/m_fixed_Xb58ltQ.mp3",
             "id":557
          },
          {
             "name":"嘎抓：『如果喜歡我的直播的話』",
-            "url":"/media/sounds/.mp3_Uh5FsGP",
+            "url":"/media/sounds/m_fixed_Uh5FsGP.mp3",
             "id":558
          },
          {
             "name":"嘎抓：『我喜歡喝酒抽菸和打老婆喔』",
-            "url":"/media/sounds/.mp3_f6Q8Xta",
+            "url":"/media/sounds/m_fixed_f6Q8Xta.mp3",
             "id":559
          },
          {
             "name":"嘎抓：『唉呦』",
-            "url":"/media/sounds/.mp3_rbBZn4L",
+            "url":"/media/sounds/m_fixed_rbBZn4L.mp3",
             "id":560
          },
          {
             "name":"嘎抓：『啊！！！』",
-            "url":"/media/sounds/.mp3_n0eu4XH",
+            "url":"/media/sounds/m_fixed_n0eu4XH.mp3",
             "id":561
          },
          {
             "name":"嘎抓：『嗯嗯哈哈嘿嘿嘿』",
-            "url":"/media/sounds/.mp3_BxC9U4v",
+            "url":"/media/sounds/m_fixed_BxC9U4v.mp3",
             "id":562
          },
          {
             "name":"嘎抓：『嘎抓』",
-            "url":"/media/sounds/.mp3_jxNF9B1",
+            "url":"/media/sounds/m_fixed_jxNF9B1.mp3",
             "id":563
          },
          {
             "name":"嘎抓：『喵喵喵』",
-            "url":"/media/sounds/.mp3_kpQnvxL",
+            "url":"/media/sounds/m_fixed_kpQnvxL.mp3",
             "id":564
          },
          {
             "name":"嘎抓：『嘎抓賣屁眼』",
-            "url":"/media/sounds/.mp3_KIvkqBi",
+            "url":"/media/sounds/m_fixed_KIvkqBi.mp3",
             "id":565
          },
          {
             "name":"嘎抓：『我愛的只有兆元』",
-            "url":"/media/sounds/.mp3_mAbeB2o",
+            "url":"/media/sounds/m_fixed_mAbeB2o.mp3",
             "id":606
          },
          {
             "name":"嘎抓：『皮卡屁只能算是我的砲友』",
-            "url":"/media/sounds/.mp3_RY20OHb",
+            "url":"/media/sounds/m_fixed_RY20OHb.mp3",
             "id":607
          },
          {
             "name":"嘎抓：『讓我們』",
-            "url":"/media/sounds/.mp3_oOMes03",
+            "url":"/media/sounds/m_fixed_oOMes03.mp3",
             "id":677
          },
          {
             "name":"嘎抓：『願他在天之靈』",
-            "url":"/media/sounds/.mp3_wJoAlDF",
+            "url":"/media/sounds/m_fixed_wJoAlDF.mp3",
             "id":678
          },
          {
             "name":"嘎抓：『禮成』",
-            "url":"/media/sounds/.mp3_7G0dPKx",
+            "url":"/media/sounds/m_fixed_7G0dPKx.mp3",
             "id":679
          },
          {
@@ -21297,112 +21297,112 @@ export default [
          },
          {
             "name":"嘎抓：『嘎抓還想舔』",
-            "url":"/media/sounds/.mp3_UM017JE",
+            "url":"/media/sounds/m_fixed_UM017JE.mp3",
             "id":681
          },
          {
             "name":"嘎抓：『感謝各位今日的到場』",
-            "url":"/media/sounds/.mp3_xxxSLJE",
+            "url":"/media/sounds/m_fixed_xxxSLJE.mp3",
             "id":682
          },
          {
             "name":"嘎抓：『最後一程』",
-            "url":"/media/sounds/.mp3_NebAuLg",
+            "url":"/media/sounds/m_fixed_NebAuLg.mp3",
             "id":683
          },
          {
             "name":"嘎抓：『陪他走完』",
-            "url":"/media/sounds/.mp3_QVjwyFP",
+            "url":"/media/sounds/m_fixed_QVjwyFP.mp3",
             "id":684
          },
          {
             "name":"嘎抓：『參加我們』",
-            "url":"/media/sounds/.mp3_vXXspCm",
+            "url":"/media/sounds/m_fixed_vXXspCm.mp3",
             "id":685
          },
          {
             "name":"嘎抓：『奏樂』",
-            "url":"/media/sounds/.mp3_9jGdakv",
+            "url":"/media/sounds/m_fixed_9jGdakv.mp3",
             "id":686
          },
          {
             "name":"嘎抓：『的』",
-            "url":"/media/sounds/.mp3_rnv868F",
+            "url":"/media/sounds/m_fixed_rnv868F.mp3",
             "id":687
          },
          {
             "name":"嘎抓：『所有人』",
-            "url":"/media/sounds/.mp3_jVgcFSj",
+            "url":"/media/sounds/m_fixed_jVgcFSj.mp3",
             "id":688
          },
          {
             "name":"嘎抓：『我們懷念他』",
-            "url":"/media/sounds/.mp3_FCju4u7",
+            "url":"/media/sounds/m_fixed_FCju4u7.mp3",
             "id":689
          },
          {
             "name":"嘎抓：『我們曉得他』",
-            "url":"/media/sounds/.mp3_SY398Cl",
+            "url":"/media/sounds/m_fixed_SY398Cl.mp3",
             "id":690
          },
          {
             "name":"嘎抓：『告別儀式』",
-            "url":"/media/sounds/.mp3_BZJAgxF",
+            "url":"/media/sounds/m_fixed_BZJAgxF.mp3",
             "id":691
          },
          {
             "name":"嘎抓：『好香』",
-            "url":"/media/sounds/.mp3_uueSK1S",
+            "url":"/media/sounds/m_fixed_uueSK1S.mp3",
             "id":692
          },
          {
             "name":"嘎抓：『好好的』",
-            "url":"/media/sounds/.mp3_JAbAERA",
+            "url":"/media/sounds/m_fixed_JAbAERA.mp3",
             "id":693
          },
          {
             "name":"嘎抓：『在上香』",
-            "url":"/media/sounds/.mp3_Ila6uHf",
+            "url":"/media/sounds/m_fixed_Ila6uHf.mp3",
             "id":694
          },
          {
             "name":"嘎抓：『王公銘森哈鮭企鵝』",
-            "url":"/media/sounds/.mp3_G698Ar0",
+            "url":"/media/sounds/m_fixed_G698Ar0.mp3",
             "id":695
          },
          {
             "name":"嘎抓：『也能夠保佑』",
-            "url":"/media/sounds/.mp3_Wu0pq2q",
+            "url":"/media/sounds/m_fixed_Wu0pq2q.mp3",
             "id":696
          },
          {
             "name":"嘎抓：『三上香』",
-            "url":"/media/sounds/.mp3_Ik43Ya7",
+            "url":"/media/sounds/m_fixed_Ik43Ya7.mp3",
             "id":697
          },
          {
             "name":"嘎抓：『人生的』",
-            "url":"/media/sounds/.mp3_DC9PC5J",
+            "url":"/media/sounds/m_fixed_DC9PC5J.mp3",
             "id":698
          },
          {
             "name":"嘎抓：『一炷清香』",
-            "url":"/media/sounds/.mp3_3We9b0r",
+            "url":"/media/sounds/m_fixed_3We9b0r.mp3",
             "id":699
          },
          {
             "name":"嘎抓：『嘿嘿』",
-            "url":"/media/sounds/.mp3_VxknlZb",
+            "url":"/media/sounds/m_fixed_VxknlZb.mp3",
             "id":905
          },
          {
             "name":"嘎抓：『哭～啊～』",
-            "url":"/media/sounds/.mp3_9vmJeA3",
+            "url":"/media/sounds/m_fixed_9vmJeA3.mp3",
             "id":953
          },
          {
             "name":"嘎抓：『打噴嚏』",
-            "url":"/media/sounds/.mp3_w0gG2CH",
+            "url":"/media/sounds/m_fixed_w0gG2CH.mp3",
             "id":954
          },
          {
@@ -21412,122 +21412,122 @@ export default [
          },
          {
             "name":"嘎抓：『靠杯』",
-            "url":"/media/sounds/.mp3_3hPt8BQ",
+            "url":"/media/sounds/m_fixed_3hPt8BQ.mp3",
             "id":956
          },
          {
             "name":"嘎抓：『幹拎剌阿勒』",
-            "url":"/media/sounds/.mp3_7K86vtR",
+            "url":"/media/sounds/m_fixed_7K86vtR.mp3",
             "id":957
          },
          {
             "name":"嘎抓：『當我是沒有的人就對了』",
-            "url":"/media/sounds/.mp3_5CD9kfQ",
+            "url":"/media/sounds/m_fixed_5CD9kfQ.mp3",
             "id":958
          },
          {
             "name":"嘎抓：『聽奶哭的聲音』",
-            "url":"/media/sounds/.mp3_CBYbfoa",
+            "url":"/media/sounds/m_fixed_CBYbfoa.mp3",
             "id":1018
          },
          {
             "name":"嘎抓：『操你嗎』",
-            "url":"/media/sounds/.mp3_FLBnv1r",
+            "url":"/media/sounds/m_fixed_FLBnv1r.mp3",
             "id":1019
          },
          {
             "name":"嘎抓：『賢者模式』",
-            "url":"/media/sounds/.mp3_IWOIZHA",
+            "url":"/media/sounds/m_fixed_IWOIZHA.mp3",
             "id":1020
          },
          {
             "name":"嘎抓：『過來一下你過來一下』",
-            "url":"/media/sounds/.mp3_k0ZdchU",
+            "url":"/media/sounds/m_fixed_k0ZdchU.mp3",
             "id":1021
          },
          {
             "name":"嘎抓：『嗚啊～～』",
-            "url":"/media/sounds/.mp3_WqZ3u3e",
+            "url":"/media/sounds/m_fixed_WqZ3u3e.mp3",
             "id":1022
          },
          {
             "name":"嘎抓：『啊嗚叫聲』",
-            "url":"/media/sounds/.mp3_cqdngk0",
+            "url":"/media/sounds/m_fixed_cqdngk0.mp3",
             "id":1023
          },
          {
             "name":"嘎抓：『啊➚～啊～啊～啊～』",
-            "url":"/media/sounds/.mp3_UbIRM3B",
+            "url":"/media/sounds/m_fixed_UbIRM3B.mp3",
             "id":1024
          },
          {
             "name":"嘎抓：『啊➚！』",
-            "url":"/media/sounds/.mp3_hD2JRoH",
+            "url":"/media/sounds/m_fixed_hD2JRoH.mp3",
             "id":1025
          },
          {
             "name":"嘎抓：『啊～～～』",
-            "url":"/media/sounds/.mp3_Oue0KXt",
+            "url":"/media/sounds/m_fixed_Oue0KXt.mp3",
             "id":1026
          },
          {
             "name":"嘎抓：『臭味都飄過來了』",
-            "url":"/media/sounds/.mp3_KUMd8qO",
+            "url":"/media/sounds/m_fixed_KUMd8qO.mp3",
             "id":1027
          },
          {
             "name":"嘎抓：『臭甲元元子』",
-            "url":"/media/sounds/.mp3_etVDTZK",
+            "url":"/media/sounds/m_fixed_etVDTZK.mp3",
             "id":1028
          },
          {
             "name":"嘎抓：『真的超級臭啊』",
-            "url":"/media/sounds/.mp3_mtbFoRK",
+            "url":"/media/sounds/m_fixed_mtbFoRK.mp3",
             "id":1029
          },
          {
             "name":"嘎抓：『真的是很過分啊』",
-            "url":"/media/sounds/.mp3_0m3EK1S",
+            "url":"/media/sounds/m_fixed_0m3EK1S.mp3",
             "id":1030
          },
          {
             "name":"嘎抓：『哈喵～』",
-            "url":"/media/sounds/.mp3_fAV4C1A",
+            "url":"/media/sounds/m_fixed_fAV4C1A.mp3",
             "id":1031
          },
          {
             "name":"嘎抓：『哈哈哈哈～笑死』",
-            "url":"/media/sounds/.mp3_0d9qnAM",
+            "url":"/media/sounds/m_fixed_0d9qnAM.mp3",
             "id":1032
          },
          {
             "name":"嘎抓：『哇～靠～』",
-            "url":"/media/sounds/.mp3_VAXt5sF",
+            "url":"/media/sounds/m_fixed_VAXt5sF.mp3",
             "id":1033
          },
          {
             "name":"嘎抓：『哇～』",
-            "url":"/media/sounds/.mp3_8LJJI0n",
+            "url":"/media/sounds/m_fixed_8LJJI0n.mp3",
             "id":1034
          },
          {
             "name":"嘎抓：『把你骨灰都給你揚囉』",
-            "url":"/media/sounds/.mp3_UVZkYb8",
+            "url":"/media/sounds/m_fixed_UVZkYb8.mp3",
             "id":1035
          },
          {
             "name":"嘎抓：『我要跟習近平做愛』",
-            "url":"/media/sounds/.mp3_ZzdOr6X",
+            "url":"/media/sounds/m_fixed_ZzdOr6X.mp3",
             "id":1036
          },
          {
             "name":"嘎抓：『我它嗎的怎麼會知道』",
-            "url":"/media/sounds/.mp3_cJIb2eg",
+            "url":"/media/sounds/m_fixed_cJIb2eg.mp3",
             "id":1037
          },
          {
             "name":"嘎抓：『你過來一下』",
-            "url":"/media/sounds/.mp3_yWE9HRG",
+            "url":"/media/sounds/m_fixed_yWE9HRG.mp3",
             "id":1038
          },
          {
@@ -21537,42 +21537,42 @@ export default [
          },
          {
             "name":"嘎抓：『行行行！夠大了！』",
-            "url":"/media/sounds/.mp3_Bpv8hNT",
+            "url":"/media/sounds/m_fixed_Bpv8hNT.mp3",
             "id":1040
          },
          {
             "name":"嘎抓：『兆元』",
-            "url":"/media/sounds/.mp3_TW7AR8X",
+            "url":"/media/sounds/m_fixed_TW7AR8X.mp3",
             "id":1041
          },
          {
             "name":"嘎抓：『打完之後』",
-            "url":"/media/sounds/.mp3_SnOZl4B",
+            "url":"/media/sounds/m_fixed_SnOZl4B.mp3",
             "id":1042
          },
          {
             "name":"嘎抓：『仙界大濕』",
-            "url":"/media/sounds/.mp3_IexvzCX",
+            "url":"/media/sounds/m_fixed_IexvzCX.mp3",
             "id":1043
          },
          {
             "name":"嘎抓：『太屌了吧～』",
-            "url":"/media/sounds/.mp3_qSoNyqP",
+            "url":"/media/sounds/m_fixed_qSoNyqP.mp3",
             "id":1044
          },
          {
             "name":"嘎抓：『チッチッチッチ おっぱい ぼいんぼい～ん』",
-            "url":"/media/sounds/.mp3_GntcKQ3",
+            "url":"/media/sounds/m_fixed_GntcKQ3.mp3",
             "id":1045
          },
          {
             "name":"嘎抓：『すげえ』",
-            "url":"/media/sounds/.mp3_LAZXChY",
+            "url":"/media/sounds/m_fixed_LAZXChY.mp3",
             "id":1046
          },
          {
             "name":"嘎抓：『いく』",
-            "url":"/media/sounds/.mp3_B4nY3dM",
+            "url":"/media/sounds/m_fixed_B4nY3dM.mp3",
             "id":1047
          },
          {
@@ -21587,72 +21587,72 @@ export default [
          },
          {
             "name":"嘎抓：『你存在～嘎抓的屁眼裡～』",
-            "url":"/media/sounds/.mp3_9eNZ1mg",
+            "url":"/media/sounds/m_fixed_9eNZ1mg.mp3",
             "id":1304
          },
          {
             "name":"嘎抓：『何必動屌動槍』",
-            "url":"/media/sounds/.mp3_YBV7VKQ",
+            "url":"/media/sounds/m_fixed_YBV7VKQ.mp3",
             "id":1305
          },
          {
             "name":"嘎抓：『大家有話好說』",
-            "url":"/media/sounds/.mp3_WklR2Xb",
+            "url":"/media/sounds/m_fixed_WklR2Xb.mp3",
             "id":1306
          },
          {
             "name":"嘎抓：『歡迎光臨』",
-            "url":"/media/sounds/.mp3_tEqBklv",
+            "url":"/media/sounds/m_fixed_tEqBklv.mp3",
             "id":1389
          },
          {
             "name":"嘎抓：『圖奇下水道』",
-            "url":"/media/sounds/.mp3_mAXgyg8",
+            "url":"/media/sounds/m_fixed_mAXgyg8.mp3",
             "id":1390
          },
          {
             "name":"嘎抓：『爛梗』",
-            "url":"/media/sounds/.mp3_OhN5UMp",
+            "url":"/media/sounds/m_fixed_OhN5UMp.mp3",
             "id":1677
          },
          {
             "name":"嘎抓：『歸零』",
-            "url":"/media/sounds/.mp3_UtQIpz1",
+            "url":"/media/sounds/m_fixed_UtQIpz1.mp3",
             "id":1678
          },
          {
             "name":"嘎抓：『對不起啦～』",
-            "url":"/media/sounds/.mp3_d54Z7dJ",
+            "url":"/media/sounds/m_fixed_d54Z7dJ.mp3",
             "id":1679
          },
          {
             "name":"嘎抓：『棒』",
-            "url":"/media/sounds/.mp3_DnIzwIq",
+            "url":"/media/sounds/m_fixed_DnIzwIq.mp3",
             "id":1680
          },
          {
             "name":"嘎抓：『智商』",
-            "url":"/media/sounds/.mp3_U21lEtK",
+            "url":"/media/sounds/m_fixed_U21lEtK.mp3",
             "id":1681
          },
          {
             "name":"嘎抓：『馬上』",
-            "url":"/media/sounds/.mp3_ki4AAv8",
+            "url":"/media/sounds/m_fixed_ki4AAv8.mp3",
             "id":1682
          },
          {
             "name":"嘎抓：『哈鮭企鵝～』",
-            "url":"/media/sounds/.mp3_zEsH0Jl",
+            "url":"/media/sounds/m_fixed_zEsH0Jl.mp3",
             "id":1683
          },
          {
             "name":"嘎抓：『哈密哈』",
-            "url":"/media/sounds/.mp3_tCOj1MO",
+            "url":"/media/sounds/m_fixed_tCOj1MO.mp3",
             "id":1684
          },
          {
             "name":"嘎抓：『哈哈哈哈哈哈哈哈』",
-            "url":"/media/sounds/.mp3_OX8rfYw",
+            "url":"/media/sounds/m_fixed_OX8rfYw.mp3",
             "id":1685
          },
          {
@@ -21667,7 +21667,7 @@ export default [
          },
          {
             "name":"嘎抓：『我的鍋』",
-            "url":"/media/sounds/.mp3_2wwFPhj",
+            "url":"/media/sounds/m_fixed_2wwFPhj.mp3",
             "id":1688
          },
          {
@@ -21677,127 +21677,127 @@ export default [
          },
          {
             "name":"嘎抓：『你要不要吃』",
-            "url":"/media/sounds/.mp3_IcKau4l",
+            "url":"/media/sounds/m_fixed_IcKau4l.mp3",
             "id":1690
          },
          {
             "name":"嘎抓：『人工智障』",
-            "url":"/media/sounds/.mp3_vL7bv4S",
+            "url":"/media/sounds/m_fixed_vL7bv4S.mp3",
             "id":1691
          },
          {
             "name":"嘎抓：『還是打不贏啊』",
-            "url":"/media/sounds/.mp3_Pds1Pe5",
+            "url":"/media/sounds/m_fixed_Pds1Pe5.mp3",
             "id":1803
          },
          {
             "name":"嘎抓：『嘎抓是一種乞丐嗎？』",
-            "url":"/media/sounds/.mp3_3qhjcEk",
+            "url":"/media/sounds/m_fixed_3qhjcEk.mp3",
             "id":1804
          },
          {
             "name":"嘎抓：『幹你娘哩～』",
-            "url":"/media/sounds/.mp3_DNV41cM",
+            "url":"/media/sounds/m_fixed_DNV41cM.mp3",
             "id":1805
          },
          {
             "name":"嘎抓：『嗚～』",
-            "url":"/media/sounds/.mp3_Ag5VxFA",
+            "url":"/media/sounds/m_fixed_Ag5VxFA.mp3",
             "id":1806
          },
          {
             "name":"嘎抓：『嗚！痾！痾啊～』",
-            "url":"/media/sounds/.mp3_E9ieusI",
+            "url":"/media/sounds/m_fixed_E9ieusI.mp3",
             "id":1807
          },
          {
             "name":"嘎抓：『給我錢』",
-            "url":"/media/sounds/.mp3_P1X6Fm1",
+            "url":"/media/sounds/m_fixed_P1X6Fm1.mp3",
             "id":1808
          },
          {
             "name":"嘎抓：『欸！』",
-            "url":"/media/sounds/.mp3_r5ppLfk",
+            "url":"/media/sounds/m_fixed_r5ppLfk.mp3",
             "id":1809
          },
          {
             "name":"嘎抓：『啊～～～～』",
-            "url":"/media/sounds/.mp3_YMrD8pH",
+            "url":"/media/sounds/m_fixed_YMrD8pH.mp3",
             "id":1810
          },
          {
             "name":"嘎抓：『哀～～～』",
-            "url":"/media/sounds/.mp3_KLE2aUp",
+            "url":"/media/sounds/m_fixed_KLE2aUp.mp3",
             "id":1811
          },
          {
             "name":"嘎抓：『我好窮』",
-            "url":"/media/sounds/.mp3_umDYK1x",
+            "url":"/media/sounds/m_fixed_umDYK1x.mp3",
             "id":1812
          },
          {
             "name":"嘎抓：『屁啦！』",
-            "url":"/media/sounds/.mp3_dtGlyS9",
+            "url":"/media/sounds/m_fixed_dtGlyS9.mp3",
             "id":1813
          },
          {
             "name":"嘎抓：『對不起』",
-            "url":"/media/sounds/.mp3_qoL6CcP",
+            "url":"/media/sounds/m_fixed_qoL6CcP.mp3",
             "id":2027
          },
          {
             "name":"嘎抓：『這什麼鬼啦』",
-            "url":"/media/sounds/.mp3_dhMOXiR",
+            "url":"/media/sounds/m_fixed_dhMOXiR.mp3",
             "id":2028
          },
          {
             "name":"嘎抓：『吼喔～』",
-            "url":"/media/sounds/.mp3_raTh3ZB",
+            "url":"/media/sounds/m_fixed_raTh3ZB.mp3",
             "id":2029
          },
          {
             "name":"嘎抓：『吼～』",
-            "url":"/media/sounds/.mp3_hwxGiKK",
+            "url":"/media/sounds/m_fixed_hwxGiKK.mp3",
             "id":2030
          },
          {
             "name":"嘎抓：『嗚～～』",
-            "url":"/media/sounds/.mp3_cG4uZGZ",
+            "url":"/media/sounds/m_fixed_cG4uZGZ.mp3",
             "id":2199
          },
          {
             "name":"嘎抓：『給你一個讚』",
-            "url":"/media/sounds/.mp3_xJ0Vwuh",
+            "url":"/media/sounds/m_fixed_xJ0Vwuh.mp3",
             "id":2200
          },
          {
             "name":"嘎抓：『然後勒？』",
-            "url":"/media/sounds/.mp3_1qneEzW",
+            "url":"/media/sounds/m_fixed_1qneEzW.mp3",
             "id":2201
          },
          {
             "name":"嘎抓：『就算馬車變南瓜』",
-            "url":"/media/sounds/.mp3_ssXv5ku",
+            "url":"/media/sounds/m_fixed_ssXv5ku.mp3",
             "id":2202
          },
          {
             "name":"嘎抓：『飢渴難耐』",
-            "url":"/media/sounds/.mp3_88QjF61",
+            "url":"/media/sounds/m_fixed_88QjF61.mp3",
             "id":2203
          },
          {
             "name":"嘎抓：『臭』",
-            "url":"/media/sounds/.mp3_oqXu2DB",
+            "url":"/media/sounds/m_fixed_oqXu2DB.mp3",
             "id":2204
          },
          {
             "name":"嘎抓：『香菇』",
-            "url":"/media/sounds/.mp3_wkAPmIH",
+            "url":"/media/sounds/m_fixed_wkAPmIH.mp3",
             "id":2205
          },
          {
             "name":"嘎抓：『哇』",
-            "url":"/media/sounds/.mp3_rFYgz0S",
+            "url":"/media/sounds/m_fixed_rFYgz0S.mp3",
             "id":2206
          },
          {
@@ -21807,47 +21807,47 @@ export default [
          },
          {
             "name":"嘎抓：『邱少爺變下巴』",
-            "url":"/media/sounds/.mp3_VlOWZrW",
+            "url":"/media/sounds/m_fixed_VlOWZrW.mp3",
             "id":2208
          },
          {
             "name":"嘎抓：『林北等你(台)』",
-            "url":"/media/sounds/.mp3_F0bQQsz",
+            "url":"/media/sounds/m_fixed_F0bQQsz.mp3",
             "id":2209
          },
          {
             "name":"嘎抓：『典禮即將開始』",
-            "url":"/media/sounds/.mp3_HBCuGvd",
+            "url":"/media/sounds/m_fixed_HBCuGvd.mp3",
             "id":2210
          },
          {
             "name":"嘎抓：『佩服』",
-            "url":"/media/sounds/.mp3_fxVG5xn",
+            "url":"/media/sounds/m_fixed_fxVG5xn.mp3",
             "id":2211
          },
          {
             "name":"嘎抓：『沒錢啦』",
-            "url":"/media/sounds/.mp3_YfK1H1h",
+            "url":"/media/sounds/m_fixed_YfK1H1h.mp3",
             "id":2212
          },
          {
             "name":"嘎抓：『沒問題啊』",
-            "url":"/media/sounds/.mp3_sSDqXsk",
+            "url":"/media/sounds/m_fixed_sSDqXsk.mp3",
             "id":2213
          },
          {
             "name":"嘎抓：『汪汪汪』",
-            "url":"/media/sounds/.mp3_CfEb2BX",
+            "url":"/media/sounds/m_fixed_CfEb2BX.mp3",
             "id":2214
          },
          {
             "name":"嘎抓：『汪』",
-            "url":"/media/sounds/.mp3_aqv6SMV",
+            "url":"/media/sounds/m_fixed_aqv6SMV.mp3",
             "id":2215
          },
          {
             "name":"嘎抓：『汪！汪汪汪汪汪汪汪汪！汪！』",
-            "url":"/media/sounds/.mp3_grGAmDk",
+            "url":"/media/sounds/m_fixed_grGAmDk.mp3",
             "id":2216
          },
          {
@@ -21857,97 +21857,97 @@ export default [
          },
          {
             "name":"嘎抓：『我是不會買的～』",
-            "url":"/media/sounds/.mp3_dpL6tYH",
+            "url":"/media/sounds/m_fixed_dpL6tYH.mp3",
             "id":2218
          },
          {
             "name":"嘎抓：『我也是不會買的』",
-            "url":"/media/sounds/.mp3_Z2XasuR",
+            "url":"/media/sounds/m_fixed_Z2XasuR.mp3",
             "id":2219
          },
          {
             "name":"嘎抓：『我』",
-            "url":"/media/sounds/.mp3_dj3w7yT",
+            "url":"/media/sounds/m_fixed_dj3w7yT.mp3",
             "id":2220
          },
          {
             "name":"嘎抓：『快點啦』",
-            "url":"/media/sounds/.mp3_uha4OeB",
+            "url":"/media/sounds/m_fixed_uha4OeB.mp3",
             "id":2221
          },
          {
             "name":"嘎抓：『快來幹我』",
-            "url":"/media/sounds/.mp3_3RZ1qWY",
+            "url":"/media/sounds/m_fixed_3RZ1qWY.mp3",
             "id":2222
          },
          {
             "name":"嘎抓：『屁眼很癢』",
-            "url":"/media/sounds/.mp3_mIUG0b1",
+            "url":"/media/sounds/m_fixed_mIUG0b1.mp3",
             "id":2223
          },
          {
             "name":"嘎抓：『你試試看啊』",
-            "url":"/media/sounds/.mp3_opIBMN3",
+            "url":"/media/sounds/m_fixed_opIBMN3.mp3",
             "id":2224
          },
          {
             "name":"嘎抓：『你不要在那邊出餿主意』",
-            "url":"/media/sounds/.mp3_1PZDh2y",
+            "url":"/media/sounds/m_fixed_1PZDh2y.mp3",
             "id":2225
          },
          {
             "name":"嘎抓：『好棒喔』",
-            "url":"/media/sounds/.mp3_NEeaepp",
+            "url":"/media/sounds/m_fixed_NEeaepp.mp3",
             "id":2226
          },
          {
             "name":"嘎抓：『可以啊』",
-            "url":"/media/sounds/.mp3_ZjZDWJJ",
+            "url":"/media/sounds/m_fixed_ZjZDWJJ.mp3",
             "id":2227
          },
          {
             "name":"嘎抓：『心結了』",
-            "url":"/media/sounds/.mp3_e8kIy6F",
+            "url":"/media/sounds/m_fixed_e8kIy6F.mp3",
             "id":2228
          },
          {
             "name":"嘎抓：『不要在那邊雞雞歪歪喔』",
-            "url":"/media/sounds/.mp3_95gneP9",
+            "url":"/media/sounds/m_fixed_95gneP9.mp3",
             "id":2229
          },
          {
             "name":"嘎抓：『已經』",
-            "url":"/media/sounds/.mp3_hWtSHOj",
+            "url":"/media/sounds/m_fixed_hWtSHOj.mp3",
             "id":2230
          },
          {
             "name":"嘎抓：『靠么』",
-            "url":"/media/sounds/.mp3_zwN9ITE",
+            "url":"/media/sounds/m_fixed_zwN9ITE.mp3",
             "id":2279
          },
          {
             "name":"嘎抓：『幹你娘機掰』",
-            "url":"/media/sounds/.mp3_NXkd9Fp",
+            "url":"/media/sounds/m_fixed_NXkd9Fp.mp3",
             "id":2280
          },
          {
             "name":"嘎抓：『媽的』",
-            "url":"/media/sounds/.mp3_V4xjHHE",
+            "url":"/media/sounds/m_fixed_V4xjHHE.mp3",
             "id":2281
          },
          {
             "name":"嘎抓：『欸』",
-            "url":"/media/sounds/.mp3_JxbzXBk",
+            "url":"/media/sounds/m_fixed_JxbzXBk.mp3",
             "id":2282
          },
          {
             "name":"嘎抓：『啊↘』",
-            "url":"/media/sounds/.mp3_kvEzPxS",
+            "url":"/media/sounds/m_fixed_kvEzPxS.mp3",
             "id":2283
          },
          {
             "name":"嘎抓：『啊～～～～～～』",
-            "url":"/media/sounds/.mp3_ttcOjcQ",
+            "url":"/media/sounds/m_fixed_ttcOjcQ.mp3",
             "id":2284
          },
          {
@@ -21957,187 +21957,187 @@ export default [
          },
          {
             "name":"嘎抓：『诶』",
-            "url":"/media/sounds/.mp3_SXEyiQv",
+            "url":"/media/sounds/m_fixed_SXEyiQv.mp3",
             "id":2286
          },
          {
             "name":"嘎抓：『我都快睡著了』",
-            "url":"/media/sounds/.mp3_QKbsD9W",
+            "url":"/media/sounds/m_fixed_QKbsD9W.mp3",
             "id":2287
          },
          {
             "name":"嘎抓：『我忘記了啦』",
-            "url":"/media/sounds/.mp3_ukDbGd7",
+            "url":"/media/sounds/m_fixed_ukDbGd7.mp3",
             "id":2288
          },
          {
             "name":"嘎抓：『有夠慢的啦』",
-            "url":"/media/sounds/.mp3_ZMNXOF7",
+            "url":"/media/sounds/m_fixed_ZMNXOF7.mp3",
             "id":2289
          },
          {
             "name":"嘎抓：『在快一點好不好』",
-            "url":"/media/sounds/.mp3_v9ItLS1",
+            "url":"/media/sounds/m_fixed_v9ItLS1.mp3",
             "id":2290
          },
          {
             "name":"嘎抓：『等一下』",
-            "url":"/media/sounds/.mp3_FbyofsK",
+            "url":"/media/sounds/m_fixed_FbyofsK.mp3",
             "id":2393
          },
          {
             "name":"嘎抓：『我是智障』",
-            "url":"/media/sounds/.mp3_v4IIRDU",
+            "url":"/media/sounds/m_fixed_v4IIRDU.mp3",
             "id":2394
          },
          {
             "name":"嘎抓：『ㄟㄟㄟㄟㄟ』",
-            "url":"/media/sounds/.mp3_5mYqeF7",
+            "url":"/media/sounds/m_fixed_5mYqeF7.mp3",
             "id":2395
          },
          {
             "name":"嘎抓：『一路好走』",
-            "url":"/media/sounds/.mp3_nX1RA6Y",
+            "url":"/media/sounds/m_fixed_nX1RA6Y.mp3",
             "id":2522
          },
          {
             "name":"嘎抓：『不哭不哭』",
-            "url":"/media/sounds/.mp3_EJBJWMW",
+            "url":"/media/sounds/m_fixed_EJBJWMW.mp3",
             "id":2523
          },
          {
             "name":"嘎抓：『乖』",
-            "url":"/media/sounds/.mp3_v4dJq0o",
+            "url":"/media/sounds/m_fixed_v4dJq0o.mp3",
             "id":2524
          },
          {
             "name":"嘎抓：『他還是堅持努力的走了過來』",
-            "url":"/media/sounds/.mp3_KveCttk",
+            "url":"/media/sounds/m_fixed_KveCttk.mp3",
             "id":2525
          },
          {
             "name":"嘎抓：『你』",
-            "url":"/media/sounds/.mp3_2ibGrsa",
+            "url":"/media/sounds/m_fixed_2ibGrsa.mp3",
             "id":2526
          },
          {
             "name":"嘎抓：『你看』",
-            "url":"/media/sounds/.mp3_K7JyLgA",
+            "url":"/media/sounds/m_fixed_K7JyLgA.mp3",
             "id":2527
          },
          {
             "name":"嘎抓：『哀』",
-            "url":"/media/sounds/.mp3_LUdGrC3",
+            "url":"/media/sounds/m_fixed_LUdGrC3.mp3",
             "id":2528
          },
          {
             "name":"嘎抓：『嗚➚』",
-            "url":"/media/sounds/.mp3_jd66NHO",
+            "url":"/media/sounds/m_fixed_jd66NHO.mp3",
             "id":2529
          },
          {
             "name":"嘎抓：『嗚』",
-            "url":"/media/sounds/.mp3_5S6cVzq",
+            "url":"/media/sounds/m_fixed_5S6cVzq.mp3",
             "id":2530
          },
          {
             "name":"嘎抓：『嗯啊啊啊啊』",
-            "url":"/media/sounds/.mp3_bDX1sFa",
+            "url":"/media/sounds/m_fixed_bDX1sFa.mp3",
             "id":2531
          },
          {
             "name":"嘎抓：『嗯～嗯～』",
-            "url":"/media/sounds/.mp3_osQwM3I",
+            "url":"/media/sounds/m_fixed_osQwM3I.mp3",
             "id":2532
          },
          {
             "name":"嘎抓：『噓』",
-            "url":"/media/sounds/.mp3_2huImkW",
+            "url":"/media/sounds/m_fixed_2huImkW.mp3",
             "id":2533
          },
          {
             "name":"嘎抓：『大』",
-            "url":"/media/sounds/.mp3_oh7hHvl",
+            "url":"/media/sounds/m_fixed_oh7hHvl.mp3",
             "id":2534
          },
          {
             "name":"嘎抓：『好可憐喔』",
-            "url":"/media/sounds/.mp3_DhXeofs",
+            "url":"/media/sounds/m_fixed_DhXeofs.mp3",
             "id":2535
          },
          {
             "name":"嘎抓：『好綠喔』",
-            "url":"/media/sounds/.mp3_UQwdUvm",
+            "url":"/media/sounds/m_fixed_UQwdUvm.mp3",
             "id":2536
          },
          {
             "name":"嘎抓：『安靜』",
-            "url":"/media/sounds/.mp3_faKwu91",
+            "url":"/media/sounds/m_fixed_faKwu91.mp3",
             "id":2537
          },
          {
             "name":"嘎抓：『帽子都歪了』",
-            "url":"/media/sounds/.mp3_zL3hJU4",
+            "url":"/media/sounds/m_fixed_zL3hJU4.mp3",
             "id":2538
          },
          {
             "name":"嘎抓：『打砲』",
-            "url":"/media/sounds/.mp3_kDIKaB9",
+            "url":"/media/sounds/m_fixed_kDIKaB9.mp3",
             "id":2539
          },
          {
             "name":"嘎抓：『把帽子給戴好』",
-            "url":"/media/sounds/.mp3_083biav",
+            "url":"/media/sounds/m_fixed_083biav.mp3",
             "id":2540
          },
          {
             "name":"嘎抓：『放聲大哭』",
-            "url":"/media/sounds/.mp3_09Y0cyU",
+            "url":"/media/sounds/m_fixed_09Y0cyU.mp3",
             "id":2541
          },
          {
             "name":"嘎抓：『最勇敢的男人』",
-            "url":"/media/sounds/.mp3_iRbNfYU",
+            "url":"/media/sounds/m_fixed_iRbNfYU.mp3",
             "id":2542
          },
          {
             "name":"嘎抓：『等登等登登等』",
-            "url":"/media/sounds/.mp3_NYI2Q5o",
+            "url":"/media/sounds/m_fixed_NYI2Q5o.mp3",
             "id":2543
          },
          {
             "name":"嘎抓：『經歷了這麼多風風雨雨』",
-            "url":"/media/sounds/.mp3_oWc27aT",
+            "url":"/media/sounds/m_fixed_oWc27aT.mp3",
             "id":2544
          },
          {
             "name":"嘎抓：『老二』",
-            "url":"/media/sounds/.mp3_CRejAak",
+            "url":"/media/sounds/m_fixed_CRejAak.mp3",
             "id":2545
          },
          {
             "name":"嘎抓：『要』",
-            "url":"/media/sounds/.mp3_xRYpNpO",
+            "url":"/media/sounds/m_fixed_xRYpNpO.mp3",
             "id":2546
          },
          {
             "name":"嘎抓：『要睡覺囉』",
-            "url":"/media/sounds/.mp3_JYesQRv",
+            "url":"/media/sounds/m_fixed_JYesQRv.mp3",
             "id":2547
          },
          {
             "name":"嘎抓：『解放自己』",
-            "url":"/media/sounds/.mp3_P7wKXst",
+            "url":"/media/sounds/m_fixed_P7wKXst.mp3",
             "id":2548
          },
          {
             "name":"嘎抓：『這不是』",
-            "url":"/media/sounds/.mp3_LzAkxib",
+            "url":"/media/sounds/m_fixed_LzAkxib.mp3",
             "id":2549
          },
          {
             "name":"嘎抓：『邱少爺』",
-            "url":"/media/sounds/.mp3_QQfNWr6",
+            "url":"/media/sounds/m_fixed_QQfNWr6.mp3",
             "id":2550
          },
          {
@@ -22152,32 +22152,32 @@ export default [
          },
          {
             "name":"嘎抓：『哈～～～』",
-            "url":"/media/sounds/.mp3_iTeARSw",
+            "url":"/media/sounds/m_fixed_iTeARSw.mp3",
             "id":2631
          },
          {
             "name":"嘎抓：『啊嘿嘿』",
-            "url":"/media/sounds/.mp3_Nu56gOi",
+            "url":"/media/sounds/m_fixed_Nu56gOi.mp3",
             "id":2632
          },
          {
             "name":"嘎抓：『嘿嘿嘿嘿小蘿莉好可愛喔～』",
-            "url":"/media/sounds/.mp3_LLW2K9i",
+            "url":"/media/sounds/m_fixed_LLW2K9i.mp3",
             "id":2633
          },
          {
             "name":"嘎抓：『有點爽』",
-            "url":"/media/sounds/.mp3_2l7WgCW",
+            "url":"/media/sounds/m_fixed_2l7WgCW.mp3",
             "id":2634
          },
          {
             "name":"嘎抓的笑聲",
-            "url":"/media/sounds/.mp3_hR8QGzA",
+            "url":"/media/sounds/m_fixed_hR8QGzA.mp3",
             "id":2635
          },
          {
             "name":"嘎抓：『蘇聯國歌開頭』",
-            "url":"/media/sounds/.mp3_wnpMeBL",
+            "url":"/media/sounds/m_fixed_wnpMeBL.mp3",
             "id":2636
          },
          {
@@ -22202,82 +22202,82 @@ export default [
          },
          {
             "name":"嘎抓：『バカ』",
-            "url":"/media/sounds/.mp3_AvmjjFV",
+            "url":"/media/sounds/m_fixed_AvmjjFV.mp3",
             "id":2773
          },
          {
             "name":"嘎抓：『バ～カ』",
-            "url":"/media/sounds/.mp3_ZZ0jxUP",
+            "url":"/media/sounds/m_fixed_ZZ0jxUP.mp3",
             "id":2774
          },
          {
             "name":"嘎抓：『你倒大楣了』",
-            "url":"/media/sounds/.mp3_sP6lzBm",
+            "url":"/media/sounds/m_fixed_sP6lzBm.mp3",
             "id":2775
          },
          {
             "name":"嘎抓：『去你的』",
-            "url":"/media/sounds/.mp3_1SUjrDZ",
+            "url":"/media/sounds/m_fixed_1SUjrDZ.mp3",
             "id":2776
          },
          {
             "name":"嘎抓：『哈鮭』",
-            "url":"/media/sounds/.mp3_xCfAqlc",
+            "url":"/media/sounds/m_fixed_xCfAqlc.mp3",
             "id":2777
          },
          {
             "name":"嘎抓：『啊➚』",
-            "url":"/media/sounds/.mp3_YHe0mEE",
+            "url":"/media/sounds/m_fixed_YHe0mEE.mp3",
             "id":2778
          },
          {
             "name":"嘎抓：『大家好』",
-            "url":"/media/sounds/.mp3_U6qdTqn",
+            "url":"/media/sounds/m_fixed_U6qdTqn.mp3",
             "id":2779
          },
          {
             "name":"嘎抓：『好油喔』",
-            "url":"/media/sounds/.mp3_AZzIRNI",
+            "url":"/media/sounds/m_fixed_AZzIRNI.mp3",
             "id":2780
          },
          {
             "name":"嘎抓：『我喜歡』",
-            "url":"/media/sounds/.mp3_PMmoZaJ",
+            "url":"/media/sounds/m_fixed_PMmoZaJ.mp3",
             "id":2781
          },
          {
             "name":"嘎抓：『我是』",
-            "url":"/media/sounds/.mp3_NuRXnHT",
+            "url":"/media/sounds/m_fixed_NuRXnHT.mp3",
             "id":2782
          },
          {
             "name":"嘎抓：『欠我幹』",
-            "url":"/media/sounds/.mp3_mxZ2u5d",
+            "url":"/media/sounds/m_fixed_mxZ2u5d.mp3",
             "id":2783
          },
          {
             "name":"嘎抓：『油鼠不要』",
-            "url":"/media/sounds/.mp3_GboD3Ic",
+            "url":"/media/sounds/m_fixed_GboD3Ic.mp3",
             "id":2784
          },
          {
             "name":"嘎抓：『滑倒』",
-            "url":"/media/sounds/.mp3_H6czK3l",
+            "url":"/media/sounds/m_fixed_H6czK3l.mp3",
             "id":2785
          },
          {
             "name":"嘎抓：『畫圖』",
-            "url":"/media/sounds/.mp3_kDL8TZ6",
+            "url":"/media/sounds/m_fixed_kDL8TZ6.mp3",
             "id":2786
          },
          {
             "name":"嘎抓：『進め』",
-            "url":"/media/sounds/.mp3_duNp9vz",
+            "url":"/media/sounds/m_fixed_duNp9vz.mp3",
             "id":2787
          },
          {
             "name":"嘎抓：『還有』",
-            "url":"/media/sounds/.mp3_YxdceTj",
+            "url":"/media/sounds/m_fixed_YxdceTj.mp3",
             "id":2788
          },
          {
@@ -22292,7 +22292,7 @@ export default [
          },
          {
             "name":"嘎抓：『嗶～～～～』",
-            "url":"/media/sounds/.mp3_drtMwEX",
+            "url":"/media/sounds/m_fixed_drtMwEX.mp3",
             "id":2465
          },
          {
@@ -22302,12 +22302,12 @@ export default [
          },
          {
             "name":"嘎抓：『啊啊』",
-            "url":"/media/sounds/.mp3_HNd7rt3",
+            "url":"/media/sounds/m_fixed_HNd7rt3.mp3",
             "id":3050
          },
          {
             "name":"嘎抓：『啊！』",
-            "url":"/media/sounds/.mp3_yT64DYC",
+            "url":"/media/sounds/m_fixed_yT64DYC.mp3",
             "id":3051
          },
          {
@@ -22317,52 +22317,52 @@ export default [
          },
          {
             "name":"嘎抓：『來來來來』",
-            "url":"/media/sounds/.mp3_PBo4S5U",
+            "url":"/media/sounds/m_fixed_PBo4S5U.mp3",
             "id":3269
          },
          {
             "name":"嘎抓：『來我房間』",
-            "url":"/media/sounds/.mp3_8jYtIE1",
+            "url":"/media/sounds/m_fixed_8jYtIE1.mp3",
             "id":3270
          },
          {
             "name":"嘎抓：『來！把庫子脫了』",
-            "url":"/media/sounds/.mp3_VcBrOik",
+            "url":"/media/sounds/m_fixed_VcBrOik.mp3",
             "id":3271
          },
          {
             "name":"嘎抓：『傑哥』",
-            "url":"/media/sounds/.mp3_hK05UGI",
+            "url":"/media/sounds/m_fixed_hK05UGI.mp3",
             "id":3272
          },
          {
             "name":"嘎抓：『元哥』",
-            "url":"/media/sounds/.mp3_nhXM8Ci",
+            "url":"/media/sounds/m_fixed_nhXM8Ci.mp3",
             "id":3273
          },
          {
             "name":"嘎抓：『元哥不要啊』",
-            "url":"/media/sounds/.mp3_c0Dq33P",
+            "url":"/media/sounds/m_fixed_c0Dq33P.mp3",
             "id":3274
          },
          {
             "name":"嘎抓：『哀！拿啊！拿啊！』",
-            "url":"/media/sounds/.mp3_l0RVpCa",
+            "url":"/media/sounds/m_fixed_l0RVpCa.mp3",
             "id":3275
          },
          {
             "name":"嘎抓：『嗚喔～』",
-            "url":"/media/sounds/.mp3_03DeAyg",
+            "url":"/media/sounds/m_fixed_03DeAyg.mp3",
             "id":3276
          },
          {
             "name":"嘎抓：『奶子』",
-            "url":"/media/sounds/.mp3_jwGhUHA",
+            "url":"/media/sounds/m_fixed_jwGhUHA.mp3",
             "id":3277
          },
          {
             "name":"嘎抓：『奶子！』",
-            "url":"/media/sounds/.mp3_L1oGr5V",
+            "url":"/media/sounds/m_fixed_L1oGr5V.mp3",
             "id":3278
          },
          {
@@ -22372,52 +22372,52 @@ export default [
          },
          {
             "name":"嘎抓：『奶子～』",
-            "url":"/media/sounds/.mp3_OMjBnuF",
+            "url":"/media/sounds/m_fixed_OMjBnuF.mp3",
             "id":3280
          },
          {
             "name":"嘎抓：『愛你呦』",
-            "url":"/media/sounds/.mp3_pv5fP83",
+            "url":"/media/sounds/m_fixed_pv5fP83.mp3",
             "id":3281
          },
          {
             "name":"嘎抓：『拿著！拿著！』",
-            "url":"/media/sounds/.mp3_RDHuHqa",
+            "url":"/media/sounds/m_fixed_RDHuHqa.mp3",
             "id":3282
          },
          {
             "name":"嘎抓：『欸！傑哥不要啦！傑哥！』",
-            "url":"/media/sounds/.mp3_vzYsuGM",
+            "url":"/media/sounds/m_fixed_vzYsuGM.mp3",
             "id":3283
          },
          {
             "name":"嘎抓：『藍色小車車』",
-            "url":"/media/sounds/.mp3_kWwRjXj",
+            "url":"/media/sounds/m_fixed_kWwRjXj.mp3",
             "id":3284
          },
          {
             "name":"嘎抓：『讓我看你發育正不正常啊』",
-            "url":"/media/sounds/.mp3_fkgBwGK",
+            "url":"/media/sounds/m_fixed_fkgBwGK.mp3",
             "id":3285
          },
          {
             "name":"嘎抓：『诶！诶！傑哥酒』",
-            "url":"/media/sounds/.mp3_t4MK6cl",
+            "url":"/media/sounds/m_fixed_t4MK6cl.mp3",
             "id":3286
          },
          {
             "name":"嘎抓：『轉大人(台)』",
-            "url":"/media/sounds/.mp3_0raOMNm",
+            "url":"/media/sounds/m_fixed_0raOMNm.mp3",
             "id":3287
          },
          {
             "name":"嘎抓：『轉大人喔(台)』",
-            "url":"/media/sounds/.mp3_RhhzihH",
+            "url":"/media/sounds/m_fixed_RhhzihH.mp3",
             "id":3288
          },
          {
             "name":"嘎抓：『還可以教你』",
-            "url":"/media/sounds/.mp3_CNNuKFW",
+            "url":"/media/sounds/m_fixed_CNNuKFW.mp3",
             "id":3289
          },
          {
@@ -22427,167 +22427,167 @@ export default [
          },
          {
             "name":"嘎抓：『他』",
-            "url":"/media/sounds/.mp3_S3QkeI9",
+            "url":"/media/sounds/m_fixed_S3QkeI9.mp3",
             "id":3454
          },
          {
             "name":"嘎抓：『他永遠』",
-            "url":"/media/sounds/.mp3_uCUZorw",
+            "url":"/media/sounds/m_fixed_uCUZorw.mp3",
             "id":3455
          },
          {
             "name":"嘎抓：『但是』",
-            "url":"/media/sounds/.mp3_Itq4xOb",
+            "url":"/media/sounds/m_fixed_Itq4xOb.mp3",
             "id":3456
          },
          {
             "name":"嘎抓：『你怎麼這麼早就走了？』",
-            "url":"/media/sounds/.mp3_BfiMEo9",
+            "url":"/media/sounds/m_fixed_BfiMEo9.mp3",
             "id":3457
          },
          {
             "name":"嘎抓：『依然』",
-            "url":"/media/sounds/.mp3_keSRPaV",
+            "url":"/media/sounds/m_fixed_keSRPaV.mp3",
             "id":3458
          },
          {
             "name":"嘎抓：『元元～』",
-            "url":"/media/sounds/.mp3_hBrhCVn",
+            "url":"/media/sounds/m_fixed_hBrhCVn.mp3",
             "id":3459
          },
          {
             "name":"嘎抓：『先生』",
-            "url":"/media/sounds/.mp3_42FlE30",
+            "url":"/media/sounds/m_fixed_42FlE30.mp3",
             "id":3460
          },
          {
             "name":"嘎抓：『匹蝦』",
-            "url":"/media/sounds/.mp3_oy5Jraa",
+            "url":"/media/sounds/m_fixed_oy5Jraa.mp3",
             "id":3461
          },
          {
             "name":"嘎抓：『可以讓各位擦拭身體』",
-            "url":"/media/sounds/.mp3_yl9xfFv",
+            "url":"/media/sounds/m_fixed_yl9xfFv.mp3",
             "id":3462
          },
          {
             "name":"嘎抓：『向前看看』",
-            "url":"/media/sounds/.mp3_zqXkPbN",
+            "url":"/media/sounds/m_fixed_zqXkPbN.mp3",
             "id":3463
          },
          {
             "name":"嘎抓：『嗚嗚嗚』",
-            "url":"/media/sounds/.mp3_XDhXeNk",
+            "url":"/media/sounds/m_fixed_XDhXeNk.mp3",
             "id":3464
          },
          {
             "name":"嘎抓：『年紀輕輕就遭遇不測』",
-            "url":"/media/sounds/.mp3_Cto55qv",
+            "url":"/media/sounds/m_fixed_Cto55qv.mp3",
             "id":3465
          },
          {
             "name":"嘎抓：『張兆元』",
-            "url":"/media/sounds/.mp3_0YETKK0",
+            "url":"/media/sounds/m_fixed_0YETKK0.mp3",
             "id":3466
          },
          {
             "name":"嘎抓：『後面有水』",
-            "url":"/media/sounds/.mp3_bz4Cqjo",
+            "url":"/media/sounds/m_fixed_bz4Cqjo.mp3",
             "id":3467
          },
          {
             "name":"嘎抓：『悪くないよねぇ』",
-            "url":"/media/sounds/.mp3_aLKzbcG",
+            "url":"/media/sounds/m_fixed_aLKzbcG.mp3",
             "id":3468
          },
          {
             "name":"嘎抓：『感謝』",
-            "url":"/media/sounds/.mp3_XLnutDo",
+            "url":"/media/sounds/m_fixed_XLnutDo.mp3",
             "id":3469
          },
          {
             "name":"嘎抓：『慢慢來』",
-            "url":"/media/sounds/.mp3_LwigP41",
+            "url":"/media/sounds/m_fixed_LwigP41.mp3",
             "id":3470
          },
          {
             "name":"嘎抓：『懷念』",
-            "url":"/media/sounds/.mp3_Ogpehn8",
+            "url":"/media/sounds/m_fixed_Ogpehn8.mp3",
             "id":3471
          },
          {
             "name":"嘎抓：『我們』",
-            "url":"/media/sounds/.mp3_uo5mbbT",
+            "url":"/media/sounds/m_fixed_uo5mbbT.mp3",
             "id":3472
          },
          {
             "name":"嘎抓：『我們緬懷』",
-            "url":"/media/sounds/.mp3_frqIFVC",
+            "url":"/media/sounds/m_fixed_frqIFVC.mp3",
             "id":3473
          },
          {
             "name":"嘎抓：『我是鋼鐵韓粉～』",
-            "url":"/media/sounds/.mp3_3QlzK8T",
+            "url":"/media/sounds/m_fixed_3QlzK8T.mp3",
             "id":3474
          },
          {
             "name":"嘎抓：『排隊排好』",
-            "url":"/media/sounds/.mp3_FNfXvF3",
+            "url":"/media/sounds/m_fixed_FNfXvF3.mp3",
             "id":3475
          },
          {
             "name":"嘎抓：『最後一眼』",
-            "url":"/media/sounds/.mp3_Gt2v2ry",
+            "url":"/media/sounds/m_fixed_Gt2v2ry.mp3",
             "id":3476
          },
          {
             "name":"嘎抓：『永遠離我們而去了』",
-            "url":"/media/sounds/.mp3_kkjVfhk",
+            "url":"/media/sounds/m_fixed_kkjVfhk.mp3",
             "id":3477
          },
          {
             "name":"嘎抓：『自我們的心中』",
-            "url":"/media/sounds/.mp3_Mb0Ug4n",
+            "url":"/media/sounds/m_fixed_Mb0Ug4n.mp3",
             "id":3478
          },
          {
             "name":"嘎抓：『英年早逝』",
-            "url":"/media/sounds/.mp3_iT0waH1",
+            "url":"/media/sounds/m_fixed_iT0waH1.mp3",
             "id":3479
          },
          {
             "name":"嘎抓：『蟑螂子』",
-            "url":"/media/sounds/.mp3_K883JCi",
+            "url":"/media/sounds/m_fixed_K883JCi.mp3",
             "id":3480
          },
          {
             "name":"嘎抓：『見最後一面』",
-            "url":"/media/sounds/.mp3_2S6H9Op",
+            "url":"/media/sounds/m_fixed_2S6H9Op.mp3",
             "id":3481
          },
          {
             "name":"嘎抓：『請各位』",
-            "url":"/media/sounds/.mp3_3SC4zYY",
+            "url":"/media/sounds/m_fixed_3SC4zYY.mp3",
             "id":3482
          },
          {
             "name":"嘎抓：『那些年來為我們帶來的歡笑』",
-            "url":"/media/sounds/.mp3_BUGKmRH",
+            "url":"/media/sounds/m_fixed_BUGKmRH.mp3",
             "id":3483
          },
          {
             "name":"嘎抓：『野獸叫』",
-            "url":"/media/sounds/.mp3_YYTRkuM",
+            "url":"/media/sounds/m_fixed_YYTRkuM.mp3",
             "id":3484
          },
          {
             "name":"嘎抓：『雖然他已經』",
-            "url":"/media/sounds/.mp3_bZhj7XD",
+            "url":"/media/sounds/m_fixed_bZhj7XD.mp3",
             "id":3485
          },
          {
             "name":"嘎抓：『離開了我們各位的世界』",
-            "url":"/media/sounds/.mp3_y0FLOR6",
+            "url":"/media/sounds/m_fixed_y0FLOR6.mp3",
             "id":3486
          },
          {
@@ -22627,42 +22627,42 @@ export default [
          },
          {
             "name":"嘎抓：『你很勇嘛！』",
-            "url":"/media/sounds/.mp3_fenmYKn",
+            "url":"/media/sounds/m_fixed_fenmYKn.mp3",
             "id":3542
          },
          {
             "name":"嘎抓：『你臉紅啦！』",
-            "url":"/media/sounds/.mp3_5tIyhBz",
+            "url":"/media/sounds/m_fixed_5tIyhBz.mp3",
             "id":3543
          },
          {
             "name":"嘎抓：『來看這個』",
-            "url":"/media/sounds/.mp3_B3ws5Rp",
+            "url":"/media/sounds/m_fixed_B3ws5Rp.mp3",
             "id":3544
          },
          {
             "name":"嘎抓：『傑哥～』",
-            "url":"/media/sounds/.mp3_1yW10MF",
+            "url":"/media/sounds/m_fixed_1yW10MF.mp3",
             "id":3545
          },
          {
             "name":"嘎抓：『右拳寶寶』",
-            "url":"/media/sounds/.mp3_ta2QekQ",
+            "url":"/media/sounds/m_fixed_ta2QekQ.mp3",
             "id":3546
          },
          {
             "name":"嘎抓：『右拳寶寶～』",
-            "url":"/media/sounds/.mp3_TBHsIAo",
+            "url":"/media/sounds/m_fixed_TBHsIAo.mp3",
             "id":3547
          },
          {
             "name":"嘎抓：『哇！』",
-            "url":"/media/sounds/.mp3_ndaYbx5",
+            "url":"/media/sounds/m_fixed_ndaYbx5.mp3",
             "id":3548
          },
          {
             "name":"嘎抓：『唉呦！』",
-            "url":"/media/sounds/.mp3_pL0PV5v",
+            "url":"/media/sounds/m_fixed_pL0PV5v.mp3",
             "id":3549
          },
          {
@@ -22677,37 +22677,37 @@ export default [
          },
          {
             "name":"嘎抓：『智障三明治』",
-            "url":"/media/sounds/.mp3_HL2mvxf",
+            "url":"/media/sounds/m_fixed_HL2mvxf.mp3",
             "id":3552
          },
          {
             "name":"嘎抓：『比遊戲還刺激』",
-            "url":"/media/sounds/.mp3_ULiQj5G",
+            "url":"/media/sounds/m_fixed_ULiQj5G.mp3",
             "id":3553
          },
          {
             "name":"嘎抓：『老鼠』",
-            "url":"/media/sounds/.mp3_4xBoMQj",
+            "url":"/media/sounds/m_fixed_4xBoMQj.mp3",
             "id":3554
          },
          {
             "name":"嘎抓：『诶嘿』",
-            "url":"/media/sounds/.mp3_9kXr9p3",
+            "url":"/media/sounds/m_fixed_9kXr9p3.mp3",
             "id":3555
          },
          {
             "name":"嘎抓：『象著小學全速的前進』",
-            "url":"/media/sounds/.mp3_aMBANkT",
+            "url":"/media/sounds/m_fixed_aMBANkT.mp3",
             "id":3556
          },
          {
             "name":"嘎抓：『這麼說～』",
-            "url":"/media/sounds/.mp3_adGQQjl",
+            "url":"/media/sounds/m_fixed_adGQQjl.mp3",
             "id":3557
          },
          {
             "name":"嘎抓：『那沒什麼』",
-            "url":"/media/sounds/.mp3_vBnm2hm",
+            "url":"/media/sounds/m_fixed_vBnm2hm.mp3",
             "id":3558
          },
          {
@@ -23442,16 +23442,17 @@ export default [
       "datas":[
          {
             "name":"桑尤姆：『顯考張公兆元仙界大濕』",
-            "url":"/media/sounds/.mp3_iTqCx0m",
+            "url":"/media/sounds/m_fixed_iTqCx0m.mp3",
             "id":700
-         },{
+         },
+         {
             "name":"桑尤姆：『あああいたいいたいいたい』",
-            "url":"/media/sounds/.mp3_dUWEo0c",
+            "url":"/media/sounds/m_fixed_dUWEo0c.mp3",
             "id":950
          },
          {
             "name":"桑尤姆：『叮～』",
-            "url":"/media/sounds/.mp3_ZP7ektG",
+            "url":"/media/sounds/m_fixed_ZP7ektG.mp3",
             "id":951
          },
          {
@@ -23461,12 +23462,12 @@ export default [
          },
          {
             "name":"桑尤姆：『我愛的人是皮卡屁』",
-            "url":"/media/sounds/.mp3_xDxdvLZ",
+            "url":"/media/sounds/m_fixed_xDxdvLZ.mp3",
             "id":2396
          },
          {
             "name":"桑尤姆：『我這裡還有更刺激的東西歐』",
-            "url":"/media/sounds/.mp3_OCcbnxG",
+            "url":"/media/sounds/m_fixed_OCcbnxG.mp3",
             "id":2551
          },
          {
@@ -23481,52 +23482,52 @@ export default [
          },
          {
             "name":"桑尤姆：『完蛋』",
-            "url":"/media/sounds/.mp3_DrAep7U",
+            "url":"/media/sounds/m_fixed_DrAep7U.mp3",
             "id":3489
          },
          {
             "name":"桑尤姆：『小丑竟是我自己』",
-            "url":"/media/sounds/.mp3_tiPZhSe",
+            "url":"/media/sounds/m_fixed_tiPZhSe.mp3",
             "id":3490
          },
          {
             "name":"桑尤姆：『我要被炎上了』",
-            "url":"/media/sounds/.mp3_TmAFEi0",
+            "url":"/media/sounds/m_fixed_TmAFEi0.mp3",
             "id":3491
          },
          {
             "name":"桑尤姆：『番仔(台)』",
-            "url":"/media/sounds/.mp3_TTv6xAw",
+            "url":"/media/sounds/m_fixed_TTv6xAw.mp3",
             "id":3492
          },
          {
             "name":"桑尤姆：『不行！』",
-            "url":"/media/sounds/.mp3_nkxDFtt",
+            "url":"/media/sounds/m_fixed_nkxDFtt.mp3",
             "id":3562
          },
          {
             "name":"桑尤姆：『你們怎麼都那麼長？』",
-            "url":"/media/sounds/.mp3_JTmA8p2",
+            "url":"/media/sounds/m_fixed_JTmA8p2.mp3",
             "id":3563
          },
          {
             "name":"桑尤姆：『呃↘』",
-            "url":"/media/sounds/.mp3_6DejqN1",
+            "url":"/media/sounds/m_fixed_6DejqN1.mp3",
             "id":3564
          },
          {
             "name":"桑尤姆：『我不能接受太長的』",
-            "url":"/media/sounds/.mp3_bvrn2zX",
+            "url":"/media/sounds/m_fixed_bvrn2zX.mp3",
             "id":3565
          },
          {
             "name":"桑尤姆：『等一下！』",
-            "url":"/media/sounds/.mp3_fSXAMml",
+            "url":"/media/sounds/m_fixed_fSXAMml.mp3",
             "id":3566
          },
          {
             "name":"桑尤姆：『蘇聯國歌開頭』",
-            "url":"/media/sounds/.mp3_IIB7Eii",
+            "url":"/media/sounds/m_fixed_IIB7Eii.mp3",
             "id":3567
          },
          {
@@ -23836,32 +23837,32 @@ export default [
       "datas":[
          {
             "name":"皮卡屁：『一代一代一代』",
-            "url":"/media/sounds/.mp3_yVb7ffZ",
+            "url":"/media/sounds/m_fixed_yVb7ffZ.mp3",
             "id":1050
          },
          {
             "name":"皮卡屁：『大家好，我是小祥』",
-            "url":"/media/sounds/.mp3_B86Zb2z",
+            "url":"/media/sounds/m_fixed_B86Zb2z.mp3",
             "id":1051
          },
          {
             "name":"皮卡屁：『哀哀哀哀哀』",
-            "url":"/media/sounds/.mp3_UIKol5n",
+            "url":"/media/sounds/m_fixed_UIKol5n.mp3",
             "id":1052
          },
          {
             "name":"龍潭廁所子",
-            "url":"/media/sounds/.mp3_XBxAuQE",
+            "url":"/media/sounds/m_fixed_XBxAuQE.mp3",
             "id":177
          },
          {
             "name":"皮卡屁：『張兆元』",
-            "url":"/media/sounds/.mp3_HovuAab",
+            "url":"/media/sounds/m_fixed_HovuAab.mp3",
             "id":1515
          },
          {
             "name":"皮卡屁：『他只是我的肉便器』",
-            "url":"/media/sounds/.mp3_AzTb6ri",
+            "url":"/media/sounds/m_fixed_AzTb6ri.mp3",
             "id":1516
          },
          {
@@ -23871,17 +23872,17 @@ export default [
          },
          {
             "name":"皮卡屁：『我是同性戀』",
-            "url":"/media/sounds/.mp3_7vB4H8n",
+            "url":"/media/sounds/m_fixed_7vB4H8n.mp3",
             "id":2791
          },
          {
             "name":"皮卡屁：『我的肉便器』",
-            "url":"/media/sounds/.mp3_RWK5OeD",
+            "url":"/media/sounds/m_fixed_RWK5OeD.mp3",
             "id":2792
          },
          {
             "name":"皮卡屁：『復活潄』",
-            "url":"/media/sounds/.mp3_S03c8Yv",
+            "url":"/media/sounds/m_fixed_S03c8Yv.mp3",
             "id":2793
          },
          {
