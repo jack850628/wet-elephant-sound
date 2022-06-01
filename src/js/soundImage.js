@@ -7,6 +7,13 @@ import WIcom from '@/js/components/WIcon.vue';
 import PlayController from '@/js/components/PlayController.vue';
 import About from '@/js/components/About.vue';
 
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+import {default as firebaseConfig } from'@/js/firebaseConfig';
+
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
+
 Vue.component('w-icon', WIcom);
 Vue.component('play-controller',PlayController);
 Vue.component('about', About);

@@ -7,6 +7,10 @@ import WIcom from '@/js/components/WIcon.vue';
 import PlayController from '@/js/components/PlayController.vue';
 import About from '@/js/components/About.vue';
 
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+import {default as firebaseConfig } from'@/js/firebaseConfig';
+
 export {audios};
 
 const SOUND_SOURCE = 'https://www.myinstants.com';
@@ -15,6 +19,9 @@ const IMAGE_SOURCE_HOST_FOR_SOUND_IMAGE = [
     'i.imgur.com',
     'imgur.com',
 ]
+
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
 
 audios.flatMap(i => i.datas).forEach(i => {
     i.nameForSearch = i.name.match(/^(?:.*?：)?『?(.+?)\d*』?$/)[1].toUpperCase();
