@@ -17,7 +17,7 @@ var sessionId = null;
 
 
 async function getNewUrl(page, data){
-  let name = data.name;
+  let name = data.onMyinstantsName ?? data.name;
   let b = await page.$(`[alt="Play ${name} sound"]`)
 
   if(!b){

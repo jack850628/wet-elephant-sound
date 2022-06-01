@@ -2,5 +2,6 @@ node_modules/
 package-lock.json
 /staticserver.js
 Upload.bat
+UpdateAudio.bat
 
 .DS_Store
