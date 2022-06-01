@@ -18,16 +18,21 @@ var soundDirectory = null;
 var sounds = [], uploadFails = [];
 
 async function upLoadSound(page, file){
-  await page.goto('https://www.myinstants.com/new/', {
+  await page.goto('https://www.myinstants.com/en/new/', {
     waitUntil: 'load'
   });
   const input = await page.$('#id_sound')
   await input.uploadFile(file.path)
   await page.type('#id_name', file.newName); 
   await page.evaluate(() => {
-    document.querySelector("#id_accept_terms").parentElement.click();
+    document.querySelector("#id_accept_terms").click();
   });
-  setTimeout(()=>page.click('input[type="submit"][value="Create"]'), 1000);//防止上傳到重覆檔案時繼續不了
+  setTimeout(()=>{
+    // page.click('button[type="submit"]');
+    page.evaluate(() => {
+      document.querySelector('button[type="submit"]').click();
+    });
+  }, 1000);//防止上傳到重覆檔案時繼續不了
   await page.waitForNavigation({
     waitUntil: 'domcontentloaded'
   });
@@ -91,6 +96,7 @@ function getNewName(name){
   }
 
   const page = await browser.newPage();
+  await page.setDefaultNavigationTimeout(0); 
   await page.setCookie({
     name: 'csrftoken',
     value: csrftoken,
@@ -103,7 +109,7 @@ function getNewName(name){
   });
   for(let i = 0; i < sounds.length; i++){
     let resultPathname = await upLoadSound(page, sounds[i]);
-    if(resultPathname != '/favorites/'){
+    if(resultPathname != '/en/favorites/'){
       uploadFails.push(sounds[i]);
       await fs.renameSync(sounds[i].path, soundDirectory + UPLOAD_FAIL_SOUNDS_DIR + '\\' + sounds[i].name);
       await page.reload({
