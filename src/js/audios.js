@@ -4795,6 +4795,24 @@ module.exports =  [
             "url":"/media/sounds/da-shi-ha-ha-ha.mp3",
             "id":4799,
             "onMyinstantsName":"大濕：『哈哈哈～』"
+         },
+         {
+            "name":"巴拉巴巴巴巴巴巴",
+            "url":"/media/sounds/ba-la-ba-ba-ba-ba-ba-ba.mp3",
+            "id":4760,
+            "onMyinstantsName":"巴拉巴巴巴巴巴巴"
+         },
+         {
+            "name":"巴拉巴巴巴巴巴巴2",
+            "url":"/media/sounds/ba-la-ba-ba-ba-ba-ba-ba-2.mp3",
+            "id":4761,
+            "onMyinstantsName":"巴拉巴巴巴巴巴巴2"
+         },
+         {
+            "name":"喂！3",
+            "url":"/media/sounds/wei-3.mp3",
+            "id":4753,
+            "onMyinstantsName":"喂！3"
          }
       ]
    },
@@ -6977,6 +6995,12 @@ module.exports =  [
             "name":"臭",
             "url":"/media/sounds/m_fixed_F5K9PZa.mp3",
             "id":2197
+         },
+         {
+            "name":"臭死了",
+            "url":"/media/sounds/chou-si-liao.mp3",
+            "id":4777,
+            "onMyinstantsName":"臭死了"
          }
       ]
    },
@@ -21216,7 +21240,7 @@ module.exports =  [
             "onMyinstantsName":"爬2"
          },
          {
-            "name":"大濕：『no_no_no_no_no』",
+            "name":"no no no no no",
             "url":"/media/sounds/da-shi-no-no-no-no-no.mp3",
             "id":4748,
             "onMyinstantsName":"大濕：『no_no_no_no_no』"
@@ -21244,12 +21268,6 @@ module.exports =  [
             "url":"/media/sounds/mie.mp3",
             "id":4752,
             "onMyinstantsName":"咩"
-         },
-         {
-            "name":"喂！3",
-            "url":"/media/sounds/wei-3.mp3",
-            "id":4753,
-            "onMyinstantsName":"喂！3"
          },
          {
             "name":"垃圾車",
@@ -21286,18 +21304,6 @@ module.exports =  [
             "url":"/media/sounds/chai-2.mp3",
             "id":4759,
             "onMyinstantsName":"差2"
-         },
-         {
-            "name":"巴拉巴巴巴巴巴巴",
-            "url":"/media/sounds/ba-la-ba-ba-ba-ba-ba-ba.mp3",
-            "id":4760,
-            "onMyinstantsName":"巴拉巴巴巴巴巴巴"
-         },
-         {
-            "name":"巴拉巴巴巴巴巴巴2",
-            "url":"/media/sounds/ba-la-ba-ba-ba-ba-ba-ba-2.mp3",
-            "id":4761,
-            "onMyinstantsName":"巴拉巴巴巴巴巴巴2"
          },
          {
             "name":"快走(台)",
@@ -21388,12 +21394,6 @@ module.exports =  [
             "url":"/media/sounds/jing-shen-cui-can.mp3",
             "id":4776,
             "onMyinstantsName":"精神摧殘"
-         },
-         {
-            "name":"臭死了",
-            "url":"/media/sounds/chou-si-liao.mp3",
-            "id":4777,
-            "onMyinstantsName":"臭死了"
          },
          {
             "name":"跪著",
