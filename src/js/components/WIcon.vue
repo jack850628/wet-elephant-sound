@@ -16,7 +16,7 @@ export default {
         };
     },
     mounted(){
-        this.tee = new Audio('https://www.myinstants.com/media/sounds/.mp3_WfYbRzx');
+        this.tee = new Audio('https://www.myinstants.com/media/sounds/m_fixed_WfYbRzx.mp3');
         this.tee.addEventListener('ended', () =>{
             this.shake = false;
         });

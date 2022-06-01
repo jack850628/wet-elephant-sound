@@ -4,4 +4,6 @@ package-lock.json
 Upload.bat
 UpdateAudio.bat
 
+firebaseConfig.js
+
 .DS_Store
