@@ -21330,12 +21330,6 @@ module.exports =  [
             "onMyinstantsName":"我兩個都要"
          },
          {
-            "name":"我帥到分手～",
-            "url":"/media/sounds/wo-shuai-dao-fen-shou.mp3",
-            "id":4766,
-            "onMyinstantsName":"我帥到分手～"
-         },
-         {
             "name":"抖音一響",
             "url":"/media/sounds/dou-yin-yi-xiang.mp3",
             "id":4767,
@@ -24078,7 +24072,7 @@ module.exports =  [
          {
             "name":"嘎抓：『哈喵～2』",
             "url":"/media/sounds/ga-zhua-ha-miao-2.mp3",
-            "id":4842,
+            "id":4766,
             "onMyinstantsName":"嘎抓：『哈喵～2』"
          }
       ]
