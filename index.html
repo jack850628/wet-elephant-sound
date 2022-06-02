@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>大濕之音</title>
     
-    <script src="./dist/index.bundle.js?v1.12.0602"></script>
+    <script src="./dist/index.bundle.js?v1.13.0603"></script>
 
     <link rel="manifest" href="./manifest.json">
     <link rel="icon" href="./images/favicon.ico" type="image/x-icon">
@@ -99,6 +99,14 @@
     <div id="app">
         <v-app>
             <v-app-bar color="#666666" dark app>
+                <v-tooltip bottom>
+                    <template v-slot:activator="{ on, attrs }">
+                        <v-btn icon @click="location.href = 'https://jack850628.github.io/'" v-bind="attrs" v-on="on">
+                            <v-icon>mdi-arrow-left</v-icon>
+                        </v-btn>
+                    </template>
+                    <span>其他APP</span>
+                </v-tooltip>
                 <w-icon id="title-icon"></w-icon>
                 <v-toolbar-title>大濕之音</v-toolbar-title>
                 <v-spacer></v-spacer>
