@@ -18,6 +18,9 @@
                 <br/>
                 原始碼:
                 <a href="https://github.com/jack850628/wet-elephant-sound" target="_bloak">github</a>
+                <br/>
+                更多APP:
+                <a href="https://jack850628.github.io/" target="_bloak">點這裡</a>
             </v-card-text>
             <v-card-actions>
                 <v-spacer></v-spacer>
