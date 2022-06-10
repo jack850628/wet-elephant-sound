@@ -21406,6 +21406,30 @@ module.exports =  [
             "url":"/media/sounds/da-shi-wa.mp3",
             "id":4780,
             "onMyinstantsName":"大濕：『瓦』"
+         },
+         {
+            "name":"潭",
+            "url":"/media/sounds/tan.mp3",
+            "id":4842,
+            "onMyinstantsName":"潭"
+         },
+         {
+            "name":"狗2",
+            "url":"/media/sounds/gou-2.mp3",
+            "id":4843,
+            "onMyinstantsName":"狗2"
+         },
+         {
+            "name":"港",
+            "url":"/media/sounds/gang_ToDcaqh.mp3",
+            "id":4844,
+            "onMyinstantsName":"港"
+         },
+         {
+            "name":"可",
+            "url":"/media/sounds/ke_3ZOUfkF.mp3",
+            "id":4845,
+            "onMyinstantsName":"可"
          }
       ]
    },
