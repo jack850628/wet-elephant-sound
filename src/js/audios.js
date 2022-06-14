@@ -21430,6 +21430,48 @@ module.exports =  [
             "url":"/media/sounds/ke_3ZOUfkF.mp3",
             "id":4845,
             "onMyinstantsName":"可"
+         },
+         {
+            "name":"什",
+            "url":"/media/sounds/shi_uhvVh09.mp3",
+            "id":4846,
+            "onMyinstantsName":"什"
+         },
+         {
+            "name":"啥",
+            "url":"/media/sounds/sha_4e58lZu.mp3",
+            "id":4847,
+            "onMyinstantsName":"啥"
+         },
+         {
+            "name":"想",
+            "url":"/media/sounds/xiang_fsorAQA.mp3",
+            "id":4848,
+            "onMyinstantsName":"想"
+         },
+         {
+            "name":"麼",
+            "url":"/media/sounds/mo_WzfrMEz.mp3",
+            "id":4849,
+            "onMyinstantsName":"麼"
+         },
+         {
+            "name":"畜",
+            "url":"/media/sounds/chu_tXNc0dq.mp3",
+            "id":4850,
+            "onMyinstantsName":"畜"
+         },
+         {
+            "name":"誰",
+            "url":"/media/sounds/shui_LJl6tlH.mp3",
+            "id":4851,
+            "onMyinstantsName":"誰"
+         },
+         {
+            "name":"大濕『班』",
+            "url":"/media/sounds/da-shi-ban_zezYiOg.mp3",
+            "id":4852,
+            "onMyinstantsName":"大濕『班』"
          }
       ]
    },
