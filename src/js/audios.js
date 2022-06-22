@@ -1706,9 +1706,10 @@ module.exports =  [
             "id":43
          },
          {
-            "name":"幹你娘機掰啦",
-            "url":"/media/sounds/m_fixed_emeBuoC.mp3",
-            "id":44
+            "name":"幹你娘機掰",
+            "url":"/media/sounds/g8.mp3",
+            "id":44,
+            "onMyinstantsName": "ㄍㄋㄇG8"
          },
          {
             "name":"你有膽別跑幹你娘",
@@ -2514,6 +2515,12 @@ module.exports =  [
             "url":"/media/sounds/gan-ni-niang-ji-bai-ke-2.mp3",
             "id":4783,
             "onMyinstantsName":"幹你娘機掰(客)2"
+         },
+         {
+            "name":"幹你娘機掰啦",
+            "url":"/media/sounds/m_fixed_emeBuoC.mp3",
+            "id":4853,
+            "onMyinstantsName": "幹你娘機掰啦"
          }
       ]
    },
