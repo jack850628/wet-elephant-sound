@@ -72,10 +72,13 @@ window.onload = function(){
             itemByShowMenu: null,
             menuX: 0,
             menuY: 0,
+
+            audioVolume: null,
         },
         methods: {
             play(url){
                 this.audioPlayer.src = SOUND_SOURCE + url;
+                this.audioPlayer.volume = this.audioVolume / 100;
                 this.audioPlayer.play();
             },
             preview(audioData){
@@ -148,6 +151,9 @@ window.onload = function(){
             },
             shareToCollection(){
                 window.open(`/wet-elephant-sound-collection/?a=${btoa(this.shareLink)}`);
+            },
+            setVolume(volume){
+                this.audioVolume = volume;
             },
 
             async install(){

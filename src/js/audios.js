@@ -21475,7 +21475,7 @@ module.exports =  [
             "onMyinstantsName":"誰"
          },
          {
-            "name":"大濕『班』",
+            "name":"班",
             "url":"/media/sounds/da-shi-ban_zezYiOg.mp3",
             "id":4852,
             "onMyinstantsName":"大濕『班』"

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>大濕之音</title>
     
-    <script src="./dist/index.bundle.js?v1.13.0622"></script>
+    <script src="./dist/index.bundle.js?v1.14.0627"></script>
 
     <link rel="manifest" href="./manifest.json">
     <link rel="icon" href="./images/favicon.ico" type="image/x-icon">
@@ -132,7 +132,7 @@
             </v-app-bar>
             <v-main>
                 <div id="audio-play-queue-bar" :class="{'audio-play-queue-bar-to-fixed': audioPlayQueueBarToFixed, 'audio-play-queue-bar-go-to-fixed-animation': audioPlayQueueBarToFixed, 'audio-play-queue-bar-go-out-fixed-animation': !audioPlayQueueBarToFixed}" :style="{'margin-bottom': -audioPlayQueueBarHeight}">
-                    <play-controller v-model="audioPlayQueue">
+                    <play-controller v-model="audioPlayQueue" @change-volume="setVolume">
                         <v-btn dark elevation="3" @click="createSoundImage = true">
                             <v-icon>mdi-image-plus</v-icon>
                             <span>建立有聲圖</span>

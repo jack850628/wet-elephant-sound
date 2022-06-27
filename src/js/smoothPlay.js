@@ -7,11 +7,15 @@ if (!window.AudioContext) {
 
 var audioContext = new window.AudioContext();
 var audioBufferSourceNode;
+var gainNode;
 var audioLengths;
 var playing = false;
 var playStartTime;
 var currentPlayIndex;
 var nextUpdateTimePoint;
+
+gainNode = audioContext.createGain();
+gainNode.connect(audioContext.destination);
 
 export function playByteArray(arrayBuffers, onPlayItemUpdate = (index) => {}, onEnded = ()=>{}) {
     prepareAudios(arrayBuffers)
@@ -38,6 +42,10 @@ export function downloadAudio(arrayBuffers, schedule = (value)=>{}){
         .catch(e => console.error(e));
 }
 
+export function setValue(value){
+    gainNode.gain.value = value;
+}
+
 function prepareAudios(arrayBuffers){
     return new Promise((resolve, reject) => {
         Promise.all(arrayBuffers.map(a => audioContext.decodeAudioData(a.slice(0)))).then(audioBuffers => {
@@ -60,7 +68,7 @@ function play(audioContext, buffer, onPlayItemUpdate, onEnded) {
         onEnded();
     };
     audioBufferSourceNode.buffer = buffer;
-    audioBufferSourceNode.connect(audioContext.destination);
+    audioBufferSourceNode.connect(gainNode);
     nextUpdateTimePoint = 0;
     currentPlayIndex = -1;
     audioBufferSourceNode.start();

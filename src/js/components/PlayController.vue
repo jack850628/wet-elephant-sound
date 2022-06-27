@@ -17,6 +17,10 @@
                 <v-icon>mdi-stop</v-icon>
                 <span>停止</span>
             </v-btn>
+            <v-btn dark elevation="3" @click="showValuePanel = true">
+                <v-icon>mdi-volume-high</v-icon>
+                <span>音量</span>
+            </v-btn>
             <v-btn v-if="showClean" dark elevation="3" @click="clearButton" :disabled="playing">
                 <v-icon>mdi-delete</v-icon>
                 <span>清空</span>
@@ -53,12 +57,35 @@
                 </v-card-actions>
             </v-card>
         </v-dialog>
+
+        <v-dialog v-model="showValuePanel" width="600">
+            <v-card>
+                <v-card-title>
+                    <v-icon>mdi-volume-high</v-icon>
+                    音量
+                </v-card-title>
+                <br>
+                <v-card-text>
+                    <v-slider v-model="audioVolume" :min="0" :max="100" prepend-icon="mdi-volume-high">
+                        <template v-slot:append>
+                            <span style="width: 30px">{{audioVolume}}</span>
+                        </template>
+                    </v-slider>
+                </v-card-text>
+                <v-card-actions>
+                    <v-spacer></v-spacer>
+                    <v-btn text color="primary" @click="showValuePanel = false">
+                        關閉
+                    </v-btn>
+                </v-card-actions>
+            </v-card>
+        </v-dialog>
     </div>
 </template>
 
 <script>
 import draggable from 'vuedraggable';
-import {playByteArray, stopByteArray, downloadAudio} from '@/js/smoothPlay';
+import {playByteArray, stopByteArray, downloadAudio, setValue} from '@/js/smoothPlay';
 
 const SOUND_SOURCE = 'https://www.myinstants.com';
 const SOUND_SOURCE_2 = 'https://wet-elephant-sound-audio-get.myonedriveindex.workers.dev';
@@ -103,6 +130,7 @@ export default {
         },
         play(url){
             this.audioPlayer.src = SOUND_SOURCE + url;
+            this.audioPlayer.volume = this.audioVolume / 100;
             this.audioPlayer.play();
         },
         playButton(){
@@ -209,6 +237,11 @@ export default {
     watch:{
         audioPlayQueue(v){
             this.$emit('input', v);
+        },
+        audioVolume(v){
+            setValue(v / 100);
+            this.$emit('change-volume', v);
+            localStorage.setItem('audioVolume', v);
         }
     },
     data(){
@@ -229,11 +262,15 @@ export default {
             itemByShowMenu: null,
             menuX: 0,
             menuY: 0,
+
+            showValuePanel: false,
+            audioVolume: null,
         };
     },
     mounted(){
         this.audioPlayer = new Audio();
         this.audioPlayer.onended = this.checkAudioPlayQueue;
+        this.audioVolume = localStorage.audioVolume? parseFloat(localStorage.audioVolume): 50;
     }
 }
 </script>
