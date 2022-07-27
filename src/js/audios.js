@@ -21479,6 +21479,12 @@ module.exports =  [
             "url":"/media/sounds/da-shi-ban_zezYiOg.mp3",
             "id":4852,
             "onMyinstantsName":"大濕『班』"
+         },
+         {
+            "name":"次",
+            "url":"/media/sounds/ci_BPJZmPG.mp3",
+            "id":4854,
+            "onMyinstantsName":"次"
          }
       ]
    },
