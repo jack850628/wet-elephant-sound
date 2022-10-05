@@ -11392,8 +11392,8 @@ module.exports =  [
             "id":772
          },
          {
-            "name":"中了黃金正魂曲",
-            "url":"/media/sounds/m_fixed_7AQwFIP.mp3'",
+            "name":"中了黃金鎮魂曲",
+            "url":"/media/sounds/m_fixed_7AQwFIP.mp3",
             "id":773,
             "onMyinstantsName": "中了正魂曲"
          },

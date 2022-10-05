@@ -1,9 +1,12 @@
 <template>
     <div id="play-controller">
-        <p v-if="showQueue" style="margin-bottom: 0px;">提示：對按鈕，拖曳可以排序，點一下可以移除，按右鍵可以下載語音。</p>
-        <draggable id="draggable" v-if="showQueue" v-model="audioPlayQueue">
-            <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="{button: true, 'play-item': k == playIndex}" @click="removeQueueItem(k)" @touchstart="queueButtonTouchDown(item)" @touchmove="queueButtonTouchMove(item)" @touchend="queueButtonTouchUp(item, k)" @contextmenu="!item.second? contextMenu($event, item): ()=>{}" :disabled="playing">{{item.name}}</v-btn>
-        </draggable>
+        <p v-if="showQueue" style="margin-bottom: 0px;">提示：對播放序列中的按鈕，拖曳可以排序，點一下可以移除，按右鍵可以下載語音。</p>
+        <div id="hint">
+            <span v-if="audioPlayQueue.length == 0">播放序列</span>
+            <draggable id="draggable" v-if="showQueue" v-model="audioPlayQueue">
+                <v-btn dark elevation="3" v-for="(item, k) in audioPlayQueue" :key="k" :class="{button: true, 'play-item': k == playIndex}" @click="removeQueueItem(k)" @touchstart="queueButtonTouchDown(item)" @touchmove="queueButtonTouchMove(item)" @touchend="queueButtonTouchUp(item, k)" @contextmenu="!item.second? contextMenu($event, item): ()=>{}" :disabled="playing">{{item.name}}</v-btn>
+            </draggable>
+        </div>
         <div style="margin-bottom: 15px;">
             <v-btn dark elevation="3" @click="playButton" :disabled="playing">
                 <v-icon>mdi-play</v-icon>
@@ -284,9 +287,21 @@ export default {
     #draggable{
         margin-top: 15px; 
         margin-bottom: 15px;
+        min-height: 40px;
         flex: 0; 
         overflow: auto;
         overscroll-behavior: contain;
+        background-color: #ffffff26;
+    }
+    #hint{
+        position: relative;
+    }
+    #hint > span{
+        color: #cdcdcd;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translateX(-50%) translateY(-50%);
     }
     .play-item.v-btn.v-btn--disabled.v-btn--has-bg{
         background-color: orange !important;
