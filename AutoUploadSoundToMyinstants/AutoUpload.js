@@ -12,10 +12,12 @@ const UPLOAD_SUCCESS_SOUNDS_DIR = '\\success';
 var csrftoken = null;
 var sessionId = null;
 var soundDirectory = null;
+var idStartFrom = 0;
 
 
 
-var sounds = [], uploadFails = [];
+var sounds = [], uploadFails = [], uploadSuccess = [];
+var searched = [], searchNotFind = [];
 
 async function upLoadSound(page, file){
   await page.goto('https://www.myinstants.com/en/new/', {
@@ -44,13 +46,47 @@ async function upLoadSound(page, file){
 function getNewName(name){
   var stem = '』';
   var suffix = '大濕：『';
-  var haveSuffix = name.match(/^.{2}：『/);
+  var haveSuffix = name.match(/^.+?：『/);
   if(haveSuffix){
     suffix = haveSuffix[0];
     name = name.match(new RegExp(`^${suffix}(.*?)${stem}`))[1];
   }
   name = name.replace(/\s/g, '_').replace(/\.mp3$/, '');
   return (haveSuffix || name.match(/^[\w\s_~]+$/))? `${suffix}${name}${stem}`: name;
+}
+
+async function searchSound(page, file, id){
+  const searchBox = await page.$('#searchbar input[type="search"]');
+  const form = await page.$('#searchbar');
+  await searchBox.type(file.newName.padEnd(2));
+  await Promise.all([
+    await form.evaluate(form => form.submit()),
+    page.waitForNavigation({waitUntil: 'load'})
+  ]);
+
+  const loading = await page.$('#loading');
+  do{
+    await page.evaluate(() => {
+      window.scrollTo(0, window.document.body.scrollHeight);
+    });
+    await page.waitForTimeout(1000);
+  }while(await loading.evaluate(el => el.style.display != 'none'));
+
+  const soundButton = await page.$(`button[title="Play ${file.newName} sound"]`) 
+  if(soundButton){
+    console.log('搜尋到', file);
+    searched.push({
+      name: file.displayName,
+      onMyinstantsName: file.newName,
+      url: await page.evaluate(el => el.getAttribute('onclick').match(/.+?\('(.*?)',.*?\)/)[1], soundButton),
+      id: id
+    });
+    return true;
+  }else{
+    console.log('沒搜尋到', file);
+    searchNotFind.push(file);
+    return false;
+  }
 }
 
 (async () => {
@@ -72,12 +108,17 @@ function getNewName(name){
   }
   soundDirectory = argv.path;
 
+  if(argv.idStartFrom){
+    idStartFrom = argv.idStartFrom
+  }
+
   var files = await fs.readdirSync(soundDirectory)
   await Promise.all(files.map(async (item)=>{
     let type = await fs.statSync(soundDirectory + '\\' + item);
     if(type.isFile()){
       sounds.push({
         name: item,
+        displayName: item.replace(/\.mp3$/, ''),
         newName: getNewName(item),
         path: soundDirectory + '\\' + item
       })
@@ -107,17 +148,30 @@ function getNewName(name){
     value: sessionId,
     domain: 'www.myinstants.com'
   });
+  let resultPathname = '';
   for(let i = 0; i < sounds.length; i++){
-    let resultPathname = await upLoadSound(page, sounds[i]);
+    resultPathname = await upLoadSound(page, sounds[i]);
     if(resultPathname != '/en/favorites/'){
       uploadFails.push(sounds[i]);
       await fs.renameSync(sounds[i].path, soundDirectory + UPLOAD_FAIL_SOUNDS_DIR + '\\' + sounds[i].name);
       await page.reload({
         waitUntil: 'load'
       });
-    }else
+    }else{
+      uploadSuccess.push(sounds[i]);
       await fs.renameSync(sounds[i].path, soundDirectory + UPLOAD_SUCCESS_SOUNDS_DIR + '\\' + sounds[i].name);
+    }
   }
+  if(resultPathname != '/en/favorites/'){
+    await page.goto('https://www.myinstants.com/en/favorites/', {
+      waitUntil: 'load'
+    });
+  }
+  for(let sound of uploadSuccess){
+    if(await searchSound(page, sound, idStartFrom)) idStartFrom++;
+  }
+  console.log('這些聲音上傳完成', searched);
+  console.log('這些聲音上傳完成但搜尋不到', searchNotFind);
   console.log('這些聲音上傳失敗', uploadFails);
   await browser.close();
 })();

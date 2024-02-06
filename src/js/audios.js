@@ -1634,6 +1634,61 @@ module.exports =  [
             "name":"在這混亂的世道上2",
             "url":"/media/sounds/zai-zhe-hun-luan-de-shi-dao-shang-2.mp3",
             "id":4679
+         },
+         {
+            "name":"典禮結束",
+            "url":"/media/sounds/dian-li-jie-shu.mp3",
+            "id":5030
+         },
+         {
+            "name":"即將開始",
+            "url":"/media/sounds/ji-jiang-kai-shi.mp3",
+            "id":5031
+         },
+         {
+            "name":"在這～",
+            "url":"/media/sounds/zai-zhe.mp3",
+            "id":5032
+         },
+         {
+            "name":"永遠會記得大家",
+            "url":"/media/sounds/yong-yuan-hui-ji-de-da-jia.mp3",
+            "id":5033
+         },
+         {
+            "name":"請不要蓋屁眼",
+            "url":"/media/sounds/qing-bu-yao-gai-pi-yan.mp3",
+            "id":5034
+         },
+         {
+            "name":"請不要難過",
+            "url":"/media/sounds/qing-bu-yao-nan-guo.mp3",
+            "id":5035
+         },
+         {
+            "name":"請關門",
+            "url":"/media/sounds/qing-guan-men.mp3",
+            "id":5036
+         },
+         {
+            "name":"讓人難過的時刻",
+            "url":"/media/sounds/rang-ren-nan-guo-de-shi-ke.mp3",
+            "id":5037
+         },
+         {
+            "name":"進塔",
+            "url":"/media/sounds/jin-ta.mp3",
+            "id":5038
+         },
+         {
+            "name":"進塔儀式",
+            "url":"/media/sounds/jin-ta-yi-shi.mp3",
+            "id":5039
+         },
+         {
+            "name":"離開了我們",
+            "url":"/media/sounds/li-kai-liao-wo-men.mp3",
+            "id":5040
          }
       ]
    },
@@ -2651,6 +2706,12 @@ module.exports =  [
             "url": "/media/sounds/cao-ni-ma-de-chu-lai.mp3",
             "id": 4887,
             "onMyinstantsName": "操你媽的出來！"
+         },
+         {
+            "name":"喔是喔！",
+            "onMyinstantsName":"喔是喔！",
+            "url":"/media/sounds/wo-shi-wo.mp3",
+            "id":5046
          }
       ]
    },
@@ -4858,46 +4919,64 @@ module.exports =  [
             "onMyinstantsName": "哎呀呀"
          },
          {
-         "name": "崩崩崩崩崩崩崩",
-         "url": "/media/sounds/beng-beng-beng-beng-beng-beng-beng.mp3",
-         "id": 4876,
-         "onMyinstantsName": "崩崩崩崩崩崩崩"
+            "name": "崩崩崩崩崩崩崩",
+            "url": "/media/sounds/beng-beng-beng-beng-beng-beng-beng.mp3",
+            "id": 4876,
+            "onMyinstantsName": "崩崩崩崩崩崩崩"
+            },
+         {
+            "name": "機哩瓜啦",
+            "url": "/media/sounds/ji-li-gua-la.mp3",
+            "id": 4877,
+            "onMyinstantsName": "機哩瓜啦"
          },
          {
-         "name": "機哩瓜啦",
-         "url": "/media/sounds/ji-li-gua-la.mp3",
-         "id": 4877,
-         "onMyinstantsName": "機哩瓜啦"
+            "name": "瓜➚",
+            "url": "/media/sounds/gua.mp3",
+            "id": 4878,
+            "onMyinstantsName": "瓜➚"
          },
          {
-         "name": "瓜➚",
-         "url": "/media/sounds/gua.mp3",
-         "id": 4878,
-         "onMyinstantsName": "瓜➚"
+            "name": "餔啦～",
+            "url": "/media/sounds/bu-la_CrJijHY.mp3",
+            "id": 4879,
+            "onMyinstantsName": "餔啦～"
          },
          {
-         "name": "餔啦～",
-         "url": "/media/sounds/bu-la_CrJijHY.mp3",
-         "id": 4879,
-         "onMyinstantsName": "餔啦～"
+            "name": "餔餔",
+            "url": "/media/sounds/bu-bu.mp3",
+            "id": 4880,
+            "onMyinstantsName": "餔餔"
          },
          {
-         "name": "餔餔",
-         "url": "/media/sounds/bu-bu.mp3",
-         "id": 4880,
-         "onMyinstantsName": "餔餔"
+            "name": "哎呀4",
+            "url": "/media/sounds/ai-ya-4.mp3",
+            "id": 4881,
+            "onMyinstantsName": "哎呀4"
          },
          {
-         "name": "哎呀4",
-         "url": "/media/sounds/ai-ya-4.mp3",
-         "id": 4881,
-         "onMyinstantsName": "哎呀4"
+            "name": "唉～",
+            "url": "/media/sounds/da-shi-ai_4OM16Ti.mp3",
+            "id": 4882,
+            "onMyinstantsName": "大濕：『唉～』"
          },
          {
-         "name": "大濕：『唉～』",
-         "url": "/media/sounds/da-shi-ai_4OM16Ti.mp3",
-         "id": 4882,
-         "onMyinstantsName": "大濕：『唉～』"
+            "name":"『吸氣聲5』",
+            "onMyinstantsName":"『吸氣聲5』",
+            "url":"/media/sounds/xi-qi-sheng-5.mp3",
+            "id":5043
+         },
+         {
+            "name":"哇～诶～",
+            "onMyinstantsName":"哇～诶～",
+            "url":"/media/sounds/wa-ai.mp3",
+            "id":5044
+         },
+         {
+            "name":"啊↘2",
+            "onMyinstantsName":"啊↘2",
+            "url":"/media/sounds/a-2_VAzN9UC.mp3",
+            "id":5045
          }
       ]
    },
@@ -6488,6 +6567,16 @@ module.exports =  [
             "url":"/media/sounds/wo-du-lian-hong-liao-la.mp3",
             "id":4786,
             "onMyinstantsName":"我都臉紅了啦"
+         },
+         {
+            "name":"気持ち",
+            "url":"/media/sounds/qi-chi-chi.mp3",
+            "id":5041
+         },
+         {
+            "name":"GAY2",
+            "url":"/media/sounds/da-shi-gay2.mp3",
+            "id":5042
          }
       ]
    },
@@ -21589,7 +21678,7 @@ module.exports =  [
             "onMyinstantsName": "大濕：『nice』"
          },
          {
-            "name": "你次錢太多嗎？",
+            "name": "你是錢太多嗎？",
             "url": "/media/sounds/ni-ci-qian-tai-duo-ma.mp3",
             "id": 4856,
             "onMyinstantsName": "你次錢太多嗎？"
@@ -21701,6 +21790,82 @@ module.exports =  [
             "url": "/media/sounds/da-shi-han.mp3",
             "id": 4874,
             "onMyinstantsName": "大濕：『含』"
+         },
+         {
+            "name":"不要這樣",
+            "url":"/media/sounds/bu-yao-zhe-yang.mp3",
+            "id":5015
+         },
+         {
+            "name":"你們不要這樣！",
+            "url":"/media/sounds/ni-men-bu-yao-zhe-yang.mp3",
+            "id":5016
+         },
+         {
+            "name":"來呦來呦來呦",
+            "url":"/media/sounds/lai-you-lai-you-lai-you.mp3",
+            "id":5017
+         },
+         {
+            "name":"來裡面還有位置啊",
+            "url":"/media/sounds/lai-li-mian-huan-you-wei-zhi-a.mp3",
+            "id":5018
+         },
+         {
+            "name":"個2",
+            "url":"/media/sounds/ge-2.mp3",
+            "id":5019
+         },
+         {
+            "name":"可以啦！",
+            "url":"/media/sounds/ke-yi-la.mp3",
+            "id":5020
+         },
+         {
+            "name":"啊來來來",
+            "url":"/media/sounds/a-lai-lai-lai.mp3",
+            "id":5021
+         },
+         {
+            "name":"心",
+            "url":"/media/sounds/xin_rID4ZfT.mp3",
+            "id":5022
+         },
+         {
+            "name":"我良心會過意不去",
+            "url":"/media/sounds/wo-liang-xin-hui-guo-yi-bu-qu.mp3",
+            "id":5023
+         },
+         {
+            "name":"沒..沒有啦～",
+            "url":"/media/sounds/mei-mei-you-la.mp3",
+            "id":5024
+         },
+         {
+            "name":"純",
+            "url":"/media/sounds/chun.mp3",
+            "id":5025
+         },
+         {
+            "name":"蠢",
+            "url":"/media/sounds/chun_Fh9AcRp.mp3",
+            "id":5026
+         },
+         {
+            "name":"裡面做啊",
+            "url":"/media/sounds/li-mian-zuo-a.mp3",
+            "id":5027
+         },
+         {
+            "name":"討",
+            "url":"/media/sounds/tao_zuHCBJx.mp3",
+            "id":5028
+         },
+         {
+            "name":"厭",
+            "onMyinstantsName":"大濕：『厭』",
+            "url":"/media/sounds/da-shi-yan_55U1g6r.mp3",
+            "id":5029
          }
       ]
    },
@@ -22127,7 +22292,8 @@ module.exports =  [
             "id":953
          },
          {
-            "name":"嘎抓：『打噴嚏』",
+            "name":"『嘎抓打噴嚏』",
+            "onMyinstantsName":"嘎抓：『打噴嚏』",
             "url":"/media/sounds/m_fixed_w0gG2CH.mp3",
             "id":954
          },
@@ -25113,6 +25279,282 @@ module.exports =  [
             "url": "/media/sounds/ga-zhua-zai-chuang-shang-zuo-yun-dong.mp3",
             "id": 5014,
             "onMyinstantsName": "嘎抓：『在床上做運動～』"
+         },
+         {
+            "name":"『嘎抓打哈欠2』",
+            "onMyinstantsName":"『嘎抓打哈欠2』",
+            "url":"/media/sounds/ga-zhua-da-ha-qian-2.mp3",
+            "id":5047
+         },
+         {
+            "name":"『嘎抓打哈欠3』",
+            "onMyinstantsName":"『嘎抓打哈欠3』",
+            "url":"/media/sounds/ga-zhua-da-ha-qian-3.mp3",
+            "id":5048
+         },
+         {
+            "name":"『嘎抓打哈欠4』",
+            "onMyinstantsName":"『嘎抓打哈欠4』",
+            "url":"/media/sounds/ga-zhua-da-ha-qian-4.mp3",
+            "id":5049
+         },
+         {
+            "name":"『嘎抓笑聲2』",
+            "onMyinstantsName":"『嘎抓笑聲2』",
+            "url":"/media/sounds/ga-zhua-xiao-sheng-2.mp3",
+            "id":5050
+         },
+         {
+            "name":"『嘎抓笑聲3』",
+            "onMyinstantsName":"『嘎抓笑聲3』",
+            "url":"/media/sounds/ga-zhua-xiao-sheng-3.mp3",
+            "id":5051
+         },
+         {
+            "name":"嘎抓：『Explosion～』",
+            "onMyinstantsName":"嘎抓：『Explosion～』",
+            "url":"/media/sounds/ga-zhua-explosion.mp3",
+            "id":5052
+         },
+         {
+            "name":"嘎抓：『お兄ちゃん』",
+            "onMyinstantsName":"嘎抓：『お兄ちゃん』",
+            "url":"/media/sounds/ga-zhua-oxiong-chiyan.mp3",
+            "id":5053
+         },
+         {
+            "name":"嘎抓：『やめてください』",
+            "onMyinstantsName":"嘎抓：『やめてください』",
+            "url":"/media/sounds/ga-zhua-yametekudasai.mp3",
+            "id":5054
+         },
+         {
+            "name":"嘎抓：『ㄩㄇㄩㄇㄩㄇ』",
+            "onMyinstantsName":"嘎抓：『ㄩㄇㄩㄇㄩㄇ』",
+            "url":"/media/sounds/ga-zhua-iumiumium.mp3",
+            "id":5055
+         },
+         {
+            "name":"嘎抓：『ㄩㄇㄩ～』",
+            "onMyinstantsName":"嘎抓：『ㄩㄇㄩ～』",
+            "url":"/media/sounds/ga-zhua-iumiu.mp3",
+            "id":5056
+         },
+         {
+            "name":"嘎抓：『一天比一天空虛了呢？』",
+            "onMyinstantsName":"嘎抓：『一天比一天空虛了呢？』",
+            "url":"/media/sounds/ga-zhua-yi-tian-bi-yi-tian-kong-xu-liao-ni.mp3",
+            "id":5057
+         },
+         {
+            "name":"嘎抓：『你就～』",
+            "onMyinstantsName":"嘎抓：『你就～』",
+            "url":"/media/sounds/ga-zhua-ni-jiu.mp3",
+            "id":5058
+         },
+         {
+            "name":"嘎抓：『侯～』",
+            "onMyinstantsName":"嘎抓：『侯～』",
+            "url":"/media/sounds/ga-zhua-hou_03mV8ju.mp3",
+            "id":5059
+         },
+         {
+            "name":"嘎抓：『原神』",
+            "onMyinstantsName":"嘎抓：『原神』",
+            "url":"/media/sounds/ga-zhua-yuan-shen.mp3",
+            "id":5060
+         },
+         {
+            "name":"嘎抓：『去賣火材』",
+            "onMyinstantsName":"嘎抓：『去賣火材』",
+            "url":"/media/sounds/ga-zhua-qu-mai-huo-cai.mp3",
+            "id":5061
+         },
+         {
+            "name":"嘎抓：『啊～』",
+            "onMyinstantsName":"嘎抓：『啊～』",
+            "url":"/media/sounds/ga-zhua-a_HQzFxSb.mp3",
+            "id":5062
+         },
+         {
+            "name":"嘎抓：『啊～～～～2』",
+            "onMyinstantsName":"嘎抓：『啊～～～～2』",
+            "url":"/media/sounds/ga-zhua-a-2_9G1QJOC.mp3",
+            "id":5063
+         },
+         {
+            "name":"嘎抓：『問題～』",
+            "onMyinstantsName":"嘎抓：『問題～』",
+            "url":"/media/sounds/ga-zhua-wen-ti.mp3",
+            "id":5064
+         },
+         {
+            "name":"嘎抓：『啟動～2』",
+            "onMyinstantsName":"嘎抓：『啟動～2』",
+            "url":"/media/sounds/ga-zhua-qi-dong-2.mp3",
+            "id":5065
+         },
+         {
+            "name":"嘎抓：『啟動～』",
+            "onMyinstantsName":"嘎抓：『啟動～』",
+            "url":"/media/sounds/ga-zhua-qi-dong.mp3",
+            "id":5066
+         },
+         {
+            "name":"嘎抓：『嘶～我想～』",
+            "onMyinstantsName":"嘎抓：『嘶～我想～』",
+            "url":"/media/sounds/ga-zhua-si-wo-xiang.mp3",
+            "id":5067
+         },
+         {
+            "name":"嘎抓：『因該不在這裡啦！』",
+            "onMyinstantsName":"嘎抓：『因該不在這裡啦！』",
+            "url":"/media/sounds/ga-zhua-yin-gai-bu-zai-zhe-li-la.mp3",
+            "id":5068
+         },
+         {
+            "name":"嘎抓：『壞壞！』",
+            "onMyinstantsName":"嘎抓：『壞壞！』",
+            "url":"/media/sounds/ga-zhua-huai-huai.mp3",
+            "id":5069
+         },
+         {
+            "name":"嘎抓：『太過分！』",
+            "onMyinstantsName":"嘎抓：『太過分！』",
+            "url":"/media/sounds/ga-zhua-tai-guo-fen.mp3",
+            "id":5070
+         },
+         {
+            "name":"嘎抓：『好慘喔』",
+            "onMyinstantsName":"嘎抓：『好慘喔』",
+            "url":"/media/sounds/ga-zhua-hao-can-wo.mp3",
+            "id":5071
+         },
+         {
+            "name":"嘎抓：『強力譴責！2』",
+            "onMyinstantsName":"嘎抓：『強力譴責！2』",
+            "url":"/media/sounds/ga-zhua-qiang-li-qian-ze-2.mp3",
+            "id":5072
+         },
+         {
+            "name":"嘎抓：『強力譴責！』",
+            "onMyinstantsName":"嘎抓：『強力譴責！』",
+            "url":"/media/sounds/ga-zhua-qiang-li-qian-ze.mp3",
+            "id":5073
+         },
+         {
+            "name":"嘎抓：『我們國家的國庫』",
+            "onMyinstantsName":"嘎抓：『我們國家的國庫』",
+            "url":"/media/sounds/ga-zhua-wo-men-guo-jia-de-guo-ku.mp3",
+            "id":5074
+         },
+         {
+            "name":"嘎抓：『我是你爸』",
+            "onMyinstantsName":"嘎抓：『我是你爸』",
+            "url":"/media/sounds/ga-zhua-wo-shi-ni-ba.mp3",
+            "id":5075
+         },
+         {
+            "name":"嘎抓：『我是賣火材的小女孩這樣』",
+            "onMyinstantsName":"嘎抓：『我是賣火材的小女孩這樣』",
+            "url":"/media/sounds/ga-zhua-wo-shi-mai-huo-cai-de-xiao-nu-hai-zhe-yang.mp3",
+            "id":5076
+         },
+         {
+            "name":"嘎抓：『我罵你都嫌噁心』",
+            "onMyinstantsName":"嘎抓：『我罵你都嫌噁心』",
+            "url":"/media/sounds/ga-zhua-wo-ma-ni-du-xian-e-xin.mp3",
+            "id":5077
+         },
+         {
+            "name":"『嘎抓打噴嚏2』",
+            "onMyinstantsName":"嘎抓：『打噴嚏2』",
+            "url":"/media/sounds/ga-zhua-da-pen-ti-2.mp3",
+            "id":5078
+         },
+         {
+            "name":"嘎抓：『有沒有人要買火材啊？』",
+            "onMyinstantsName":"嘎抓：『有沒有人要買火材啊？』",
+            "url":"/media/sounds/ga-zhua-you-mei-you-ren-yao-mai-huo-cai-a.mp3",
+            "id":5079
+         },
+         {
+            "name":"嘎抓：『有沒有要買火材？』",
+            "onMyinstantsName":"嘎抓：『有沒有要買火材？』",
+            "url":"/media/sounds/ga-zhua-you-mei-you-yao-mai-huo-cai.mp3",
+            "id":5080
+         },
+         {
+            "name":"嘎抓：『気持ち～』",
+            "onMyinstantsName":"嘎抓：『気持ち～』",
+            "url":"/media/sounds/ga-zhua-qi-chi-chi.mp3",
+            "id":5081
+         },
+         {
+            "name":"嘎抓：『汪汪汪汪汪』",
+            "onMyinstantsName":"嘎抓：『汪汪汪汪汪』",
+            "url":"/media/sounds/ga-zhua-wang-wang-wang-wang-wang.mp3",
+            "id":5082
+         },
+         {
+            "name":"嘎抓：『流放2』",
+            "onMyinstantsName":"嘎抓：『流放2』",
+            "url":"/media/sounds/ga-zhua-liu-fang-2.mp3",
+            "id":5083
+         },
+         {
+            "name":"嘎抓：『流放』",
+            "onMyinstantsName":"嘎抓：『流放』",
+            "url":"/media/sounds/ga-zhua-liu-fang.mp3",
+            "id":5084
+         },
+         {
+            "name":"嘎抓：『滾蛋吧！』",
+            "onMyinstantsName":"嘎抓：『滾蛋吧！』",
+            "url":"/media/sounds/ga-zhua-gun-dan-ba.mp3",
+            "id":5085
+         },
+         {
+            "name":"嘎抓：『為什麼？』",
+            "onMyinstantsName":"嘎抓：『為什麼？』",
+            "url":"/media/sounds/ga-zhua-wei-shi-mo.mp3",
+            "id":5086
+         },
+         {
+            "name":"嘎抓：『玩家～』",
+            "onMyinstantsName":"嘎抓：『玩家～』",
+            "url":"/media/sounds/ga-zhua-wan-jia.mp3",
+            "id":5087
+         },
+         {
+            "name":"嘎抓：『眾卿們』",
+            "onMyinstantsName":"嘎抓：『眾卿們』",
+            "url":"/media/sounds/ga-zhua-zhong-qing-men.mp3",
+            "id":5088
+         },
+         {
+            "name":"嘎抓：『課稅～』",
+            "onMyinstantsName":"嘎抓：『課稅～』",
+            "url":"/media/sounds/ga-zhua-ke-shui.mp3",
+            "id":5089
+         },
+         {
+            "name":"嘎抓：『還是』",
+            "onMyinstantsName":"嘎抓：『還是』",
+            "url":"/media/sounds/ga-zhua-huan-shi.mp3",
+            "id":5090
+         },
+         {
+            "name":"嘎抓：『我是2』",
+            "onMyinstantsName":"嘎抓：『我是2』",
+            "url":"/media/sounds/ga-zhua-wo-shi-2.mp3",
+            "id":5091
+         },
+         {
+            "name":"嘎抓：『我都常常幫助像你們這樣子的翹家人』",
+            "onMyinstantsName":"嘎抓：『我都常常幫助翹家人』",
+            "url":"/media/sounds/ga-zhua-wo-du-chang-chang-bang-zhu-qiao-jia-ren.mp3",
+            "id":5092
          }
       ]
    },
