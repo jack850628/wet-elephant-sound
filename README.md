@@ -44,7 +44,7 @@ https://www.myinstants.com/en/search/?name=
 ```
 npn run build
 ```
-重新建構腳本檔，建構完後可以直接用瀏覽器點開index.html查看結果，或使用簡易的http server程式，例如在console輸入
+重新建構腳本檔，建構完後可以直接用瀏覽器打開index.html查看結果，或使用簡易的http server程式，例如在console輸入
 ```
 python -m http.server 8080
 ```
