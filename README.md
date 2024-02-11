@@ -42,7 +42,7 @@ https://www.myinstants.com/en/search/?name=
 
 聲音新增好後，在console中輸入
 ```
-npn run build
+npm run build
 ```
 重新建構腳本檔，建構完後可以直接用瀏覽器打開index.html查看結果，或使用簡易的http server程式，例如在console輸入
 ```
