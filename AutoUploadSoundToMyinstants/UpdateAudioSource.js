@@ -80,7 +80,7 @@ async function getNewUrl(page, data){
     console.error(`聲音 ${data.name} 找不到`);
     return;
   }
-  data.url = await page.evaluate(el => el.getAttribute('onclick').match(/play\('(.+?)'\)/)[1], b);
+  data.url = await page.evaluate(el => [...(el.getAttribute('onclick').match(/play\(.*?\)/)[0].matchAll(/'(.*?)'/g))][0][1], b);
 }
 
 (async () => {
